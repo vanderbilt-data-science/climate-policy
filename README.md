@@ -1,4 +1,4 @@
-# Repository Template - Project Name Here
+# AI-Driven Assessment of Trends in Climate Policy
 
 ## Quick navigation
 [Background](#background)  
