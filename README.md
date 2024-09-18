@@ -20,40 +20,35 @@ Provide detailed background information about the project. Readers should be abl
 
 ## Data
 
-Mention what data is being used for the project and where it is stored. Mention any data privacy concerns. 
-
-## Models
-
-Mention what models are being used or developed as part of the project. Provide information on how to use these models (link to HuggingFace etc.)
+All the original data will be stored the following OneDrive folder: [Climate Policy Data](https://vanderbilt365-my.sharepoint.com/:f:/g/personal/ethan_i_thorpe_vanderbilt_edu/Eu8eb1jCuJpKoSTcq--22E4BSKa8mQxXrjD8p-2wrlX_hQ?e=P0j56t). Due to the large size of the data, we will not be storing it in this repo. 
 
 ## Timeline
 
-Outline an estimated timeline for the project. 
+Fall 2024 (September through December 2025 intially)
 
 ## Repo Structure 
 
-Provide details on how readers can use the repository to replicate your results, run any final deliverables like apps or inference models that you may have trained/fine-tuned. Ensure that the repository is well structued and folders are named appropriately. Follow best practices (Notebook naming convention {00s for templates, 10s for data loading and prep, 20s for exploratory analysis, 30s for feature engineering, 40s for model development/training, 50s for evaluation and inference})
+The 00 series of notebooks are template notebooks. Details regarding additional notebooks and scrips will be added here later.
 
 ## Project logistics
 
-**Sprint planning**:  
+**Sprint planning**: Every Monday at 3-4pm on [Zoom](https://vanderbilt.zoom.us/j/99721970914?pwd=UK6icdNV4bKaXiVZAArk8aVatmzKEC.1&from=addon). 
 
-**Backlog Grooming**:
+**Backlog Grooming**: Every Wednesday at 10-11am on [Zoom](https://vanderbilt.zoom.us/j/98299561939?pwd=vl4Aa7HvmBoTCVR4QaaRlpRKevxYpo.1&from=addon). 
 
-**Coding Meeting**: 
+**Sprint Restrospective**: Every Friday 12:15-12:45pm on [Zoom](https://vanderbilt.zoom.us/j/97196543286?pwd=Km2IIUtF0fltijN5oQ92v9wtrNqKt4.1&from=addon). 
 
-**Sprint Restrospective**: 
+**Demos**: Every Friday at 3pm on Zoom as well as in person at the DSI.  
 
-**Demo**:  
+**Data location**: [Climate Policy Data](https://vanderbilt365-my.sharepoint.com/:f:/g/personal/ethan_i_thorpe_vanderbilt_edu/Eu8eb1jCuJpKoSTcq--22E4BSKa8mQxXrjD8p-2wrlX_hQ?e=P0j56t)
 
-**Data location**: 
-
-**Slack channel**: 
+**Slack channel**: climate-policy on Data Science TIP slack organization. Please check your email for an invite. 
 
 ## Resources 
 
 Provide any useful resources to get readers up to speed with the project here. 
 
+* **LangChain**: Please see [LangChain Tutorials](https://python.langchain.com/docs/tutorials/)
 * **Python usage**: Whirlwind Tour of Python, Jake VanderPlas ([Book](https://learning.oreilly.com/library/view/a-whirlwind-tour/9781492037859/), [Notebooks](https://github.com/jakevdp/WhirlwindTourOfPython))
 * **Data science packages in Python**: [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) 
 * **HuggingFace**: [Website](https://huggingface.co/transformers/index.html), [Course/Training](https://huggingface.co/course/chapter1), [Inference using pipelines](https://huggingface.co/transformers/task_summary.html), [Fine tuning models](https://huggingface.co/transformers/training.html)
@@ -65,4 +60,7 @@ Provide any useful resources to get readers up to speed with the project here.
 
 ## Contact Info
 
-Provide contact information of Project Lead, Principal Investigators, and Team Members.
+Project Lead: [Umang Chaudhry](mailto:umang.chaudhry@vanderbilt.edu), Senior Data Scientist, Vanderbilt Data Science Institute
+PI: [Dr. JB Ruhl](mailto:jb.ruhl@vanderbilt.edu), David Daniels Allen Distinguished Chair in Law, Vanderbilt University Law School
+Project Manager: [Isabella Urquia](mailto:isabella.m.urquia@vanderbilt.edu)
+Team Members: [Ethan Thorpe](mailto:ethan.i.thorpe@vanderbilt.edu), [Mariah Caballero](mailto:mariah.d.caballero@vanderbilt.edu), Xuanxuan Chen, Aparna Lakshmi, Harmony Wang
