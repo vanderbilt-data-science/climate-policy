@@ -60,7 +60,7 @@ Provide any useful resources to get readers up to speed with the project here.
 
 ## Contact Info
 
-Project Lead: [Umang Chaudhry](mailto:umang.chaudhry@vanderbilt.edu), Senior Data Scientist, Vanderbilt Data Science Institute
-PI: [Dr. JB Ruhl](mailto:jb.ruhl@vanderbilt.edu), David Daniels Allen Distinguished Chair in Law, Vanderbilt University Law School
-Project Manager: [Isabella Urquia](mailto:isabella.m.urquia@vanderbilt.edu)
-Team Members: [Ethan Thorpe](mailto:ethan.i.thorpe@vanderbilt.edu), [Mariah Caballero](mailto:mariah.d.caballero@vanderbilt.edu), Xuanxuan Chen, Aparna Lakshmi, Harmony Wang
+Project Lead: [Umang Chaudhry](mailto:umang.chaudhry@vanderbilt.edu), Senior Data Scientist, Vanderbilt Data Science Institute  
+PI: [Dr. JB Ruhl](mailto:jb.ruhl@vanderbilt.edu), David Daniels Allen Distinguished Chair in Law, Vanderbilt University Law School  
+Project Manager: [Isabella Urquia](mailto:isabella.m.urquia@vanderbilt.edu)  
+Team Members: [Ethan Thorpe](mailto:ethan.i.thorpe@vanderbilt.edu), [Mariah Caballero](mailto:mariah.d.caballero@vanderbilt.edu), Xuanxuan Chen, Aparna Lakshmi, Harmony Wang  
