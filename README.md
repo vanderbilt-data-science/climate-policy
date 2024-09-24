@@ -12,11 +12,13 @@
 
 ## Goal
 
-Provide a clearly defined goal for the project and what this repository contains. Outline what the final deliverable is and how it can be accessed.
+The goal of this project is to develop an AI-powered question-answering system that automatically analyzes Climate Action Plans (CAPs) and other climate adaptation and mitigation documentation. The system will be capable of extracting key data about climate vulnerabilities, planned mitigation measures, and socio-economic and geographic context, providing well-sourced, accurate responses to user queries. 
 
 ## Background  
 
-Provide detailed background information about the project. Readers should be able to have a clear understanding of the goals and methods used. This section should also give the reader instructions on how to navigate the repository. 
+Climate change poses an urgent challenge for cities worldwide, prompting the creation of comprehensive Climate Action Plans (CAPs) to mitigate impacts and adapt to evolving conditions. These plans detail strategies for reducing emissions, addressing vulnerabilities, and protecting populations from climate risks, but their length and complexity make it difficult for city planners, researchers, and policymakers to efficiently extract and compare key information across regions.
+
+This project addresses this by developing an AI-powered question-answering system that automates the extraction of critical information from CAPs. Using Natural Language Processing (NLP) and Machine Learning (ML) techniques, the system analyzes thousands of pages of climate documentation and provides accurate, well-sourced responses to climate-related inquiries, with LangChain facilitating the organization and structuring of extracted data for more efficient analysis.
 
 ## Data
 
