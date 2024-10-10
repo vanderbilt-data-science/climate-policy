@@ -1,4 +1,4 @@
-Provide a summary of information available from the plan including the city name, population, geography, major industries, per capita income, or similar summary information.
+Provide a summary of information available from the plan regarding the planning jurisdiction, including its name, location, population, geography, major industries, per capita income, and similar information.
 
 To what extent does the plan address resilience, mitigation, and adaptation?
 

@@ -7,9 +7,20 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import PyPDFLoader
-from langchain_core.vectorstores import InMemoryVectorStore
+from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+import re
+
+# Function to remove code block markers from the answer
+def remove_code_blocks(text):
+    # Remove starting and ending code block markers
+    code_block_pattern = r"^```(?:\w+)?\n(.*?)\n```$"
+    match = re.match(code_block_pattern, text, re.DOTALL)
+    if match:
+        return match.group(1).strip()
+    else:
+        return text
 
 # Function to process PDF, run Q&A, and return results
 def process_pdf(api_key, uploaded_file, questions_path, prompt_path, display_placeholder):
@@ -26,12 +37,12 @@ def process_pdf(api_key, uploaded_file, questions_path, prompt_path, display_pla
     docs = loader.load()
 
     # Split the document into smaller chunks for embedding
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
     splits = text_splitter.split_documents(docs)
 
     # Create vector store and retriever
-    vectorstore = InMemoryVectorStore.from_documents(
-        documents=splits, embedding=OpenAIEmbeddings()
+    vectorstore = FAISS.from_documents(
+        documents=splits, embedding=OpenAIEmbeddings(model="text-embedding-3-large")
     )
     retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
 
@@ -67,7 +78,11 @@ def process_pdf(api_key, uploaded_file, questions_path, prompt_path, display_pla
     for question in questions:
         result = rag_chain.invoke({"input": question})
         answer = result["answer"]
-        qa_text = f"### Question: {question}\n**Answer:** {answer}\n"
+
+        # Remove code block markers from the answer
+        answer = remove_code_blocks(answer)
+
+        qa_text = f"### Question: {question}\n**Answer:**\n{answer}\n"
         qa_results.append(qa_text)
         # Update the placeholder with each new Q&A pair
         display_placeholder.markdown("\n".join(qa_results), unsafe_allow_html=True)

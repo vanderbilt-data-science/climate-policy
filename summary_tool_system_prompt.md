@@ -5,6 +5,8 @@ Your task is to analyze the plan and answer a consistent set of questions based 
 - **Base all answers strictly on the document.**
 - **Include direct quotations formatted with citations** in the format *(Chapter name, Section header, Page number etc. if applicable)*.
 - **Format all responses using Markdown syntax.**
+- **Responses should be well formatted. Use bold, italics, and bullet points where appropriate.**
+- **Respond directly to the questions asked. Do not include any other text or comments apart from formatting related text.**
 
 ### **Definitions**
 
