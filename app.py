@@ -117,6 +117,62 @@ def process_multi_plan_qa(api_key, input_text, display_placeholder):
     # Display the answer
     display_placeholder.markdown(f"**Answer:**\n{answer}")
 
+
+def multi_plan_qa_multi_vectorstore(api_key, input_text, display_placeholder):
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    # Directory containing individual vector stores
+    vectorstore_directory = "Individual_Vectorstores"
+
+    # List all vector store directories
+    vectorstore_names = [d for d in os.listdir(vectorstore_directory) if os.path.isdir(os.path.join(vectorstore_directory, d))]
+
+    # Initialize a list to collect all retrieved chunks
+    all_retrieved_chunks = []
+
+    # Process each vector store
+    for vectorstore_name in vectorstore_names:
+        vectorstore_path = os.path.join(vectorstore_directory, vectorstore_name)
+
+        # Load the vector store
+        embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+        vector_store = FAISS.load_local(vectorstore_path, embeddings, allow_dangerous_deserialization=True)
+
+        # Convert the vector store to a retriever
+        retriever = vector_store.as_retriever(search_kwargs={"k": 10})
+
+        # Retrieve relevant chunks for the input text
+        retrieved_chunks = retriever.invoke("input_text")
+        print(retrieved_chunks)
+        all_retrieved_chunks.extend(retrieved_chunks)
+
+    # Read the system prompt for multi-document QA
+    prompt_path = "multi_document_qa_system_prompt.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+
+    # Create the prompt template
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    # Create the question-answering chain
+    llm = ChatOpenAI(model="gpt-4o")
+    question_answer_chain = create_stuff_documents_chain(llm, prompt, document_variable_name="context")
+
+    # Process the combined context
+    result = question_answer_chain.invoke({"input": input_text, "context": all_retrieved_chunks})
+
+    # Display the answer
+    display_placeholder.markdown(f"**Answer:**\n{result}")
+
+
 # Streamlit app layout with tabs
 st.title("Climate Policy Analysis Tool")
 
@@ -124,7 +180,7 @@ st.title("Climate Policy Analysis Tool")
 api_key = st.text_input("Enter your OpenAI API key:", type="password")
 
 # Create tabs
-tab1, tab2 = st.tabs(["Summary Generation", "Multi-Plan QA"])
+tab1, tab2, tab3 = st.tabs(["Summary Generation", "Multi-Plan QA (Shared Vectorstore)", "Multi-Plan QA (Multi-Vectorstore)"])
 
 # First tab: Summary Generation
 with tab1:
@@ -161,3 +217,9 @@ with tab2:
     if input_text and api_key:
         display_placeholder = st.empty()
         process_multi_plan_qa(api_key, input_text, display_placeholder)
+
+with tab3:
+    user_input = st.text_input("Ask a Question")
+    if user_input and api_key:
+        display_placeholder2 = st.empty()
+        multi_plan_qa_multi_vectorstore(api_key, user_input, display_placeholder2)
