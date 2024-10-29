@@ -1,312 +1,428 @@
-### Question: Provide a summary of information available from the plan regarding the planning jurisdiction, including its name, location, population, geography, major industries, per capita income, and similar information.
+### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
 **Planning Jurisdiction: Jacksonville**
 
-- **Location:** Jacksonville is located in the state of Florida, United States.
-  
-- **Population:** As of the time of the plan, Jacksonville's population is nearly one million people, and it is projected to grow to 1.6 million residents by 2070 *(Executive Summary, Resilient Jacksonville, Page 4)*.
-  
-- **Geography:** Jacksonville is described as the largest city by land area in the continental United States. It encompasses over 500 neighborhoods and diverse landscapes *(Executive Summary, Resilient Jacksonville, Page 5)*.
-  
-- **Major Industries:** The plan mentions the "Jacksonville Port Authority" which generates more than 26,000 area jobs, indicating a significant industry in the port and logistics sector *(JAXPORT: Jacksonville Port Authority, Page 23)*. Additionally, the city aims to support innovative businesses and a diverse economy *(Jacksonville Tomorrow, Resilient Jacksonville, Page 24)*.
-  
-- **Economic and Development Goals:** Jacksonville aims to expand economic growth and prosperity, eliminate barriers to economic mobility, and ensure access to safe housing and essential services *(Jacksonville Tomorrow, Resilient Jacksonville, Page 24)*.
+- **Location:** Jacksonville, Florida
+- **Population:** The city’s population is nearly one million today, with projections to grow to 1.6 million residents by 2070. "If trends continue, Jacksonville will grow to 1.6 million residents by 2070."
+- **Demographics and Average Income:** The plan does not specify detailed demographics or average income. However, it emphasizes the city's growth and diverse neighborhoods.
 
-- **Infrastructure:** The city is focused on building long-lasting and multi-purpose infrastructure to adapt to future needs and risks *(Jacksonville Tomorrow, Resilient Jacksonville, Page 25)*.
+**Major Geographic Features:**
+- **Rivers/Coastline:** Jacksonville's economic and physical landscape is significantly shaped by the St. Johns River and the Atlantic Ocean. "Leveraging the St. Johns River and the Atlantic Ocean has been core to Jacksonville’s economy since the earliest known settlements."
+- **Coastline:** The city's proximity to these water bodies influences its industrial and economic activities.
 
-### Question: To what extent does the plan address resilience, mitigation, and adaptation?
+**Infrastructure:**
+- **Seaports:** Jacksonville hosts JAXPORT, Florida's largest container port and one of the country’s largest vehicle-handling ports. "JAXPORT is Florida’s largest container port and one of the country’s largest vehicle-handling ports."
+- **Airports and Other Key Infrastructure:** Specific mentions of airports or other key infrastructure are not detailed in the provided excerpts.
+
+**Local Climate:**
+- **Climate Characteristics:** The plan discusses climate change impacts such as flooding and sea-level rise but does not explicitly describe the local climate in terms of aridity or water challenges. "While the location of the riverfront is a key advantage for these industries, their location also puts them at risk of rising sea levels and increasing storms."
+
+**Energy Production and Natural Resources:**
+- **Energy:** The plan includes mentions of oil, gas, and power generation as part of the industrial uses along the riverfront. "In addition to the industry at JAXPORT, other industrial uses along the riverfront include oil and gas, power generation, and cruise terminals."
+- **Natural Resources:** Specific natural resources are not extensively detailed in the provided excerpts.
+
+**Industries and Economic Drivers:**
+- **Key Industries:** The industrial riverfront is an economic opportunity for Jacksonville, with significant investments in terminals, cranes, equipment, and infrastructure improvements. "The industrial waterfront is an economic opportunity for the city as businesses invest in upgraded terminals, cranes and equipment, harbor improvements, modernization, and utility and infrastructure upgrades."
+- **Economic Drivers:** The diverse industrial business sector, deep-water ports, and the presence of logistics and transportation businesses are crucial economic drivers. "One of Jacksonville’s economic advantages is its diverse industrial business sector and the presence of deep-water ports."
+
+### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-The plan addresses resilience, mitigation, and adaptation in various comprehensive ways:
+**Resilience**
 
-### **Resilience**
-- **Resilience Strategy**: The plan emphasizes a comprehensive approach to preparing for and adapting to shocks and stressors, aiming for a safe and thriving future for Jacksonville's people, economy, and physical environment. The concept of the "resilience dividend" is introduced, highlighting the additional benefits of investing in resilience, such as saving lives, boosting the economy, and improving community health and well-being *(EVOLVING CHALLENGES REQUIRE NEW APPROACHES RESILIENT JACKSONVILLE, Page 28)*.
-- **Integration into Land Use Planning**: The plan incorporates resilience goals into Jacksonville’s 2030 Comprehensive Plan to guide growth and avoid development in high-risk areas, thus avoiding potential damages from flood events *(1.3 Incorporate resilience considerations into future land use planning)*.
+The plan addresses resilience extensively, emphasizing the development of a Climate Action Plan that aligns with Jacksonville’s resilience goals. It highlights the importance of addressing large-scale contributors to climate change, such as greenhouse gas emissions, to reduce climate risks and strengthen resilience. The plan includes actions like retrofitting buildings for energy efficiency, which would also reduce greenhouse gas emissions. The resilience strategy is built around multiple adaptation approaches, focusing on systems, sites, and people to increase Jacksonville’s resilience to climate impacts. Resilience actions are organized to work across neighborhoods, landscapes, and regions, with a vision to proactively adapt, foster healthy communities, and expand opportunities for residents. Key resilience approaches include guiding development to low-risk areas, redesigning infrastructure, and fortifying critical city systems against future threats. 
 
-### **Mitigation**
-- **Climate Action Plan**: The development of a Climate Action Plan is highlighted to align Jacksonville’s resilience goals with sustainability, addressing large-scale contributors to climate change, such as greenhouse gas emissions. The plan includes actions to reduce emissions from transportation, buildings, electric power generation, and landfill waste *(ADAPTATION ACTIONS | PEOPLE RESILIENT JACKSONVILLE, Page 188-189)*.
+**Mitigation**
 
-### **Adaptation**
-- **Adaptation Actions and Approaches**: The plan includes 45 Actions and 90 Sub-Actions organized across Systems, Sites, and People, focusing on guiding safe development, redesigning infrastructure, conserving open spaces, and fortifying critical systems *(ADAPTATION ACTIONS | SYSTEMS RESILIENT JACKSONVILLE, Page 68-69)*.
-- **Place-Based Strategies**: Adaptation approaches are tailored to different development conditions in Jacksonville, focusing on managing risks specific to each area type, such as Downtown or Coastal Communities *(Place-Based Strategies, Page 69)*.
-- **Urban Forest Management**: A strategic approach to managing the urban forest is included to increase resilience to climate changes and enhance ecosystem value *(ADAPTATION ACTIONS | SYSTEMS RESILIENT JACKSONVILLE, Page 94-95)*.
+The plan incorporates elements of climate mitigation, primarily through actions that would reduce greenhouse gas emissions. For example, the Climate Action Plan aims to inventory emissions and develop priority actions to reduce them. Actions like retrofitting buildings for energy efficiency and implementing resilient standards for construction are highlighted as ways to minimize emissions. The plan also mentions the potential for securing federal funding to implement climate actions, which would include mitigation efforts.
 
-Overall, the plan extensively addresses resilience, mitigation, and adaptation through strategic planning, integration into existing frameworks, and the development of specific actions and policies.
+**Adaptation**
+
+Adaptation is a core focus of the plan, with specific adaptation actions and approaches detailed. The plan outlines strategies to alter or retrofit buildings to adapt to heat and manage water, redesign infrastructure to reduce urban heat, and enhance open spaces to manage water and discourage development in high-risk flood areas. It emphasizes preparing for future climate threats by improving city systems' response during emergencies and includes the development of an Urban Forest Management Plan to manage climate-adaptive tree species.
+
+**Classification**
+
+The plan can be classified as an **adaptation/resilience dedicated** plan. While it includes elements of mitigation, the primary focus is on building resilience and adapting to climate impacts through comprehensive strategies tailored to Jacksonville’s unique conditions and vulnerabilities.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes several scenarios related to climate change that the planning jurisdiction, Jacksonville, is considering for resilience, mitigation, and adaptation planning. Here is a summary of one of the scenarios:
+Yes, the plan describes scenarios of climate change that the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation.
 
-- **Future Without Action Scenario:** This scenario explores the potential consequences if recent development patterns continue without deliberate action. It notes that more than 85% of Jacksonville’s population growth in the last 20 years has been in Contemporary Suburbs, expanding into previously rural areas. If this pattern continues over the next 50 years, the remainder of the Rural Mosaic would need to transition to Contemporary Suburbs to accommodate more than 685,000 new residents. This would lead to suburbs dominating Jacksonville’s landscape, expanding from approximately 39% to more than 78% of the land area. The scenario warns that many new residents would be vulnerable to flooding and other climate threats unless expansion is focused away from high-risk areas *(Scenarios for Citywide Adaptation, Page 72-73)*.
+### **Scenario Overview**
 
-- **Urban Core Growth Scenario:** This scenario considers the possibility of focusing growth in Jacksonville's urban core, which includes Downtown and Historic Walkable Neighborhoods. Currently, only about 1% of new residential development occurs in these areas. If growth shifts toward the urban core, it could offset low-density suburban growth, preserving open spaces in the Rural Mosaic. This scenario hypothesizes that if half of the projected 685,000 new residents over the next 50 years move to the urban core, the population density would increase significantly, similar to greater downtown Miami *(Scenarios for Citywide Adaptation, Page 266-267)*. 
+- **Population Growth and Development Patterns:** 
+  - "If population trends continue, Jacksonville will see more than 685,000 additional residents by 2070, increasing the total population to upwards of 1.6 million." The plan considers the impact of different development patterns on climate risks, highlighting that continued expansion into rural areas would result in "Contemporary Suburbs" dominating the landscape, requiring "significant investment in new roads and other infrastructure," and increasing vulnerability to climate threats (see the Evolving Challenges chapter).
 
-These scenarios aim to guide the planning jurisdiction in shaping future development in a manner that accommodates population growth while addressing climate challenges.
+- **Urban Core Focus:**
+  - Another scenario explores focusing growth in the urban core, which currently has a lower density. This scenario suggests that moving 50% of new residents to the urban core could increase the population density significantly, potentially preserving "more than 200 square miles of undeveloped land in the Rural Mosaic."
 
-### Question: What climate impacts does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate impact, summarize the plan’s description of: 1. The climate impact. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate impact.
+- **Climate Change Impacts:** 
+  - The plan states that "the Earth’s climate is now changing faster than at any point in the history of modern civilization, resulting in widespread and growing impacts." Without significant GHG mitigation, temperature increases could be as high as 9°F (5°C) by the end of the century, leading to "rising sea levels and increased extreme weather events."
+
+- **Risks and Vulnerabilities:** 
+  - The plan includes a geographic assessment of risks and vulnerabilities associated with four climate threats—flooding, heat, high winds, and wildfires. It also evaluates how these threats overlap with social stressors like poverty and food insecurity.
+
+These scenarios guide the planning jurisdiction in developing climate policies for resilience, mitigation, and adaptation, focusing on strategic infill development, updating land development regulations, and ensuring climate action plans align with resilience goals.
+
+### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-### Climate Impacts and Climate Risks Identified in the Plan
+1. **Hurricane**
+   - **Description:** Hurricanes are sudden, extreme events that pose significant risks to communities.
+   - **Climate Risks:** Hurricanes may exacerbate existing vulnerabilities by causing infrastructure failure, power outages, and hazardous materials incidents. They can lead to widespread damage and disruption in the community.
+   - **Vulnerable Areas/Populations:** Areas with aging infrastructure, economically disadvantaged communities, and those reliant on unreliable transportation are particularly vulnerable.
 
-#### 1. **Flooding**
-- **Description:** The plan identifies flooding as a significant climate impact, exacerbated by factors such as sea level rise and increased rainfall intensity *(Resilient Jacksonville, Page 198)*.
-- **Climate Risks:**
-  - Increased risk of property damage, infrastructure damage, and environmental degradation *(Resilient Jacksonville, Page 22)*.
-  - Potential for more frequent and severe flood events due to climate change *(Resilient Jacksonville, Page 23)*.
-- **Vulnerable Areas/Populations:**
-  - Coastal communities and residential properties in flood-prone areas are particularly vulnerable *(Resilient Jacksonville, Exposure, Vulnerability, and Risk Section)*.
+2. **Flooding**
+   - **Description:** Flooding encompasses both chronic flooding and acute events, such as those caused by hurricanes or heavy rainfall.
+   - **Climate Risks:** Flooding can lead to property damage, displacement, and loss of life. It also poses risks to critical infrastructure and disrupts services.
+   - **Vulnerable Areas/Populations:** Communities in floodplains and those with inadequate drainage systems face higher vulnerability. Residential properties and critical facilities are at significant risk.
 
-#### 2. **Extreme Heat**
-- **Description:** Extreme heat is identified as a growing concern, with increasing temperatures posing a threat to public health *(Resilient Jacksonville, Page 23)*.
-- **Climate Risks:**
-  - Physical health impacts, such as increased risk of heat-related illnesses *(Resilient Jacksonville, Page 23)*.
-  - Strain on energy systems and potential power outages *(Resilient Jacksonville, Page 188)*.
-- **Vulnerable Areas/Populations:**
-  - Populations without access to cooling systems and those living in urban heat islands are most vulnerable *(Resilient Jacksonville, Page 23)*.
+3. **Extreme Heat**
+   - **Description:** Extreme heat refers to prolonged periods of excessively high temperatures.
+   - **Climate Risks:** Extreme heat can result in health issues, such as heatstroke, especially in vulnerable populations. It also stresses the energy grid and water supply.
+   - **Vulnerable Areas/Populations:** Populations with limited access to cooling, such as those in poverty or without reliable transportation, are particularly vulnerable.
 
-#### 3. **High Winds and Hurricanes**
-- **Description:** High winds, often associated with hurricanes, pose a threat to the area *(Resilient Jacksonville, Page 198)*.
-- **Climate Risks:**
-  - Damage to infrastructure, homes, and critical facilities *(Resilient Jacksonville, Page 22)*.
-  - Economic disruptions due to infrastructure failure and power outages *(Resilient Jacksonville, Page 23)*.
-- **Vulnerable Areas/Populations:**
-  - Coastal and low-lying areas are at higher risk for wind damage *(Resilient Jacksonville, Exposure, Vulnerability, and Risk Section)*.
+4. **High Winds**
+   - **Description:** High winds, often associated with storms, can cause significant damage.
+   - **Climate Risks:** They threaten infrastructure, cause property damage, and pose risks to personal safety.
+   - **Vulnerable Areas/Populations:** Areas with poorly maintained infrastructure and those in exposed locations are more vulnerable to high winds.
 
-#### 4. **Wildfire**
-- **Description:** Wildfire risks are increasing, particularly in areas where development occurs near wildland areas *(Resilient Jacksonville, Page 198)*.
-- **Climate Risks:**
-  - Threats to residential properties and potential for loss of life and property *(Resilient Jacksonville, Page 198)*.
-  - Increased risk if current development patterns continue *(Resilient Jacksonville, Page 198)*.
-- **Vulnerable Areas/Populations:**
-  - Contemporary suburbs with development adjacent to wildland areas *(Resilient Jacksonville, Exposure, Vulnerability, and Risk Section)*.
+5. **Wildfire**
+   - **Description:** Wildfires are uncontrolled fires that can spread rapidly and cause extensive damage.
+   - **Climate Risks:** They pose risks to life, property, and the environment. Wildfires can lead to air quality issues and health hazards.
+   - **Vulnerable Areas/Populations:** Communities near forested or undeveloped land are more vulnerable to wildfires.
 
-#### 5. **Sea Level Rise**
-- **Description:** Sea level rise is identified as a major concern, affecting coastal areas and contributing to chronic flooding *(Resilient Jacksonville, Page 22)*.
-- **Climate Risks:**
-  - Permanent inundation of low-lying areas and increased frequency of coastal flooding *(Resilient Jacksonville, Page 23)*.
-  - Threats to infrastructure and ecosystems along the coast *(Resilient Jacksonville, Page 22)*.
-- **Vulnerable Areas/Populations:**
-  - Coastal communities are most at risk from rising sea levels *(Resilient Jacksonville, Exposure, Vulnerability, and Risk Section)*.
+6. **Tornado**
+   - **Description:** Tornadoes are violent windstorms characterized by a twisting, funnel-shaped cloud.
+   - **Climate Risks:** Tornadoes can cause catastrophic damage to buildings and infrastructure, and pose significant safety risks.
+   - **Vulnerable Areas/Populations:** Populations in mobile homes or poorly constructed buildings are especially vulnerable.
 
-#### 6. **Drought**
-- **Description:** Drought is a potential climate impact with implications for water availability *(Resilient Jacksonville, Page 22)*.
-- **Climate Risks:**
-  - Strain on water resources and potential for water scarcity *(Resilient Jacksonville, Page 22)*.
-  - Impact on agricultural productivity and economic stability *(Resilient Jacksonville, Page 23)*.
-- **Vulnerable Areas/Populations:**
-  - Areas dependent on consistent water supply for agriculture and residents without reliable water access *(Resilient Jacksonville, Page 22)*.
+7. **Extreme Cold**
+   - **Description:** Extreme cold events involve unusually low temperatures that can last for extended periods.
+   - **Climate Risks:** They can lead to health issues such as hypothermia and frostbite, and disrupt services like transportation and energy supply.
+   - **Vulnerable Areas/Populations:** Populations without adequate heating or shelter are particularly at risk.
 
-These climate impacts and associated risks highlight the need for comprehensive resilience strategies to protect the planning jurisdiction's people, economy, and environment.
+8. **Pandemic**
+   - **Description:** Pandemics are widespread outbreaks of infectious diseases.
+   - **Climate Risks:** They can disrupt healthcare services, cause economic downturns, and exacerbate existing vulnerabilities.
+   - **Vulnerable Areas/Populations:** Communities with limited healthcare access and those already facing social inequalities are more vulnerable.
 
-### Question: What resilience options does the plan identify? For each identified resilience option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
+9. **Infrastructure Failure**
+   - **Description:** Infrastructure failure refers to the breakdown of critical systems such as transportation, water supply, and energy.
+   - **Climate Risks:** It can lead to widespread disruption of services and pose safety risks.
+   - **Vulnerable Areas/Populations:** Communities reliant on aging or poorly maintained infrastructure are more at risk.
+
+10. **Power Outage**
+    - **Description:** Power outages involve the loss of electrical power over an area.
+    - **Climate Risks:** They can disrupt daily life and services, and pose safety risks, especially during extreme weather.
+    - **Vulnerable Areas/Populations:** Areas with unreliable power supply and those dependent on electronic medical devices are vulnerable.
+
+11. **Supply Chain Disruption**
+    - **Description:** Disruptions in the supply chain can affect the availability of goods and services.
+    - **Climate Risks:** They can lead to shortages of essential items and economic losses.
+    - **Vulnerable Areas/Populations:** Populations dependent on external supplies, such as food and medication, are particularly vulnerable.
+
+12. **Cyber Threat**
+    - **Description:** Cyber threats involve attacks on digital infrastructure and data systems.
+    - **Climate Risks:** They can compromise critical infrastructure, leading to disruptions in services.
+    - **Vulnerable Areas/Populations:** Organizations and entities reliant on digital infrastructure are at risk.
+
+13. **Hazardous Materials Incident**
+    - **Description:** Incidents involving the release of hazardous substances can pose significant health and environmental risks.
+    - **Climate Risks:** They can lead to contamination and pose immediate safety hazards.
+    - **Vulnerable Areas/Populations:** Communities near industrial areas or transportation routes for hazardous materials are particularly vulnerable.
+
+14. **Sea Level Rise**
+    - **Description:** Rising sea levels due to climate change threaten coastal areas.
+    - **Climate Risks:** It leads to increased flooding, saltwater intrusion, and coastal erosion.
+    - **Vulnerable Areas/Populations:** Coastal communities and properties are at significant risk.
+
+15. **Coastal Erosion**
+    - **Description:** Coastal erosion involves the loss of land along coastlines due to natural processes and human activities.
+    - **Climate Risks:** It threatens coastal infrastructure and ecosystems.
+    - **Vulnerable Areas/Populations:** Properties and communities along the coast are highly vulnerable.
+
+16. **Saltwater Intrusion**
+    - **Description:** Saltwater intrusion occurs when saltwater encroaches into freshwater aquifers and surface water bodies.
+    - **Climate Risks:** It can contaminate drinking water supplies and agricultural resources.
+    - **Vulnerable Areas/Populations:** Coastal regions dependent on groundwater are particularly at risk.
+
+17. **Groundwater Threats**
+    - **Description:** Threats to groundwater include contamination and depletion.
+    - **Climate Risks:** They can lead to water shortages and quality issues.
+    - **Vulnerable Areas/Populations:** Communities reliant on groundwater for drinking and agriculture are vulnerable.
+
+18. **Urban Heat Island Effect**
+    - **Description:** The urban heat island effect refers to higher temperatures in urban areas compared to surrounding rural areas.
+    - **Climate Risks:** It exacerbates heat-related health issues and increases energy demand.
+    - **Vulnerable Areas/Populations:** Urban populations, especially those without access to cooling, are more vulnerable.
+
+19. **Drought**
+    - **Description:** Droughts involve prolonged periods of low precipitation leading to water shortages.
+    - **Climate Risks:** They impact water supply, agriculture, and ecosystems.
+    - **Vulnerable Areas/Populations:** Regions reliant on consistent water supply and agriculture are particularly at risk.
+
+### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+**Resilience Options Identified in the Plan**
 
-1. **Incorporate Resilience Considerations into Future Land Use Planning**
-   - **Cost:** Immediate cost estimated at $$ (100,000s)
-   - **Timing:** Immediate (2025)
-   - **Location:** City of Jacksonville
-   - **Attributes:** Part of Jacksonville's 2030 Comprehensive Plan. Aims to guide growth in low-risk areas, promoting resilience and growth as complementary goals *(Resilience Priorities & Actions, Page 273)*.
+1. **Resilience Option: Incorporate resilience considerations into future land use planning.**
 
-2. **Manage Publicly Owned Bulkhead Heights**
-   - **Cost:** Medium-Term cost estimated at $$$$ (10,000,000s)
-   - **Timing:** Medium-Term (2035)
-   - **Location:** Shorelines of Jacksonville
-   - **Attributes:** Align bulkhead heights with the best available flood data *(Implementation Matrix)*.
+   - **Climate Threat Addressed:** Flooding, Sea Level Rise, Chronic Flooding, Housing Instability
+   - **Cost, Timeframe, and Location:**
+     - **Timeframe:** Immediate (2025), Short-Term (2030), Medium-Term (2035), Long-Term (2050)
+     - **Relative Cost:** $ (10,000s), $$ (100,000s), $$$ (1,000,000s), $$$$ (10,000,000s)
+     - **Location:** Citywide, with a focus on areas at lower risk of flooding and well-connected to infrastructure.
+   - **Other Attributes:** 
+     - Promotes infill development to reduce urban sprawl and protect open spaces.
+     - Supports increased density in areas with existing infrastructure.
+     - Aims to reduce travel distances, enable diverse modes of transportation, and make multi-unit housing accessible.
 
-3. **Strengthen Emergency Response and Evacuation Plans**
-   - **Cost:** Immediate cost estimated at $
-   - **Timing:** Immediate
-   - **Location:** City of Jacksonville
-   - **Attributes:** Includes refining hurricane evacuation zones and creating plans for extreme events *(Implementation Matrix)*.
+2. **Resilience Option: Manage publicly owned bulkhead heights and set height standards for privately owned bulkheads.**
 
-4. **Expand Retrofit Programs for Buildings**
-   - **Cost:** Medium-Term cost estimated at $$$
-   - **Timing:** Medium-Term
-   - **Location:** City of Jacksonville
-   - **Attributes:** Focus on energy performance, storm fortification, and retrofitting for stormwater management *(Implementation Matrix)*.
+   - **Climate Threat Addressed:** Flooding, Sea Level Rise
+   - **Cost, Timeframe, and Location:**
+     - **Relative Cost:** Medium-Term implementation with significant financial investment ($$$$)
+   - **Other Attributes:**
+     - Ensures technical and financial feasibility of shoreline protection.
+     - Supports long-term ecosystem service benefits through nature-based solutions.
 
-5. **Implement Resilient Standards and Codes for Construction**
-   - **Cost:** Medium-Term cost estimated at $$
-   - **Timing:** Medium-Term
-   - **Location:** City of Jacksonville
-   - **Attributes:** Improve building resilience and compliance with Florida Building Code standards *(Implementation Matrix)*.
+3. **Resilience Option: Improve digital security of critical assets and infrastructure from cyberattacks.**
 
-6. **Coordinate Resilience Actions Across Agencies**
-   - **Cost:** Immediate cost estimated at $
-   - **Timing:** Immediate
-   - **Location:** City of Jacksonville
-   - **Attributes:** Facilitate interdepartmental and interagency collaboration *(Collaborate, Page 37)*.
+   - **Climate Threat Addressed:** Cyber Threat
+   - **Cost, Timeframe, and Location:**
+     - **Timeframe:** Short-Term
+     - **Relative Cost:** $$ (100,000s)
+   - **Other Attributes:**
+     - Strengthens infrastructure resilience by enhancing digital security measures.
 
-7. **Develop a Climate Action Plan**
-   - **Cost:** Immediate cost estimated at $$
-   - **Timing:** Immediate
-   - **Location:** North Florida region
-   - **Attributes:** Align resilience goals with sustainability actions through EPA grants *(Collaborate, Page 43)*.
+4. **Resilience Option: Strengthen emergency response and evacuation plans.**
 
-8. **Update Public Works Design Standards**
-   - **Cost:** Immediate cost estimated at $$
-   - **Timing:** Immediate
-   - **Location:** City of Jacksonville
-   - **Attributes:** Account for climate change impacts and support resilient infrastructure *(Transform, Page 5)*.
+   - **Climate Threat Addressed:** Hurricanes, Extreme Heat, Freeze Events
+   - **Cost, Timeframe, and Location:**
+     - **Timeframe:** Immediate
+     - **Relative Cost:** $ (10,000s)
+   - **Other Attributes:**
+     - Refines hurricane evacuation zones and automates flood alert signage.
+     - Creates plans for extreme weather events to enhance community safety.
 
-9. **Create Connected and Multimodal Transportation Options**
-   - **Cost:** Medium-Term cost estimated at $$$
-   - **Timing:** Medium-Term
-   - **Location:** City of Jacksonville
-   - **Attributes:** Increase public transit service, ridership, and bicycle use *(Transform, Page 6)*.
+5. **Resilience Option: Strengthen Jacksonville’s lifelines and supply chains.**
 
-10. **Build Ecological and Recreational Connections**
-    - **Cost:** Medium-Term cost estimated at $$$
-    - **Timing:** Medium-Term
-    - **Location:** Across Jacksonville
-    - **Attributes:** Connect open spaces and ecosystems for habitat corridors and water management *(Transform, Page 7)*.
+   - **Climate Threat Addressed:** Supply Chain Disruption
+   - **Cost, Timeframe, and Location:**
+     - **Timeframe:** Short-Term
+     - **Relative Cost:** $ (10,000s)
+   - **Other Attributes:**
+     - Ensures adequate resource stockpiles through partnerships with critical service providers.
+     - Maintains commerce through partnerships with port and agencies.
 
-11. **Develop a Green Infrastructure Program**
-    - **Cost:** Medium-Term cost estimated at $$
-    - **Timing:** Medium-Term
-    - **Location:** City of Jacksonville
-    - **Attributes:** Based on the best available stormwater science and data *(Transform, Page 9)*.
+6. **Resilience Option: Expand retrofit programs for residential and commercial buildings.**
 
-12. **Increase Mental and Physical Health and Well-being**
-    - **Cost:** Medium-Term cost estimated at $$$
-    - **Timing:** Medium-Term
-    - **Location:** City of Jacksonville
-    - **Attributes:** Includes supporting health projects and ensuring connection to resources *(Support, Page 31)*.
+   - **Climate Threat Addressed:** Extreme Heat, Storm Fortification, Flooding
+   - **Cost, Timeframe, and Location:**
+     - **Medium-Term implementation with significant investment ($$$$)**
+   - **Other Attributes:**
+     - Leverages federal funding for community awareness on floodproofing, heat, and energy upgrades.
+     - Partners with building owners for large-scale retrofits like green roofs.
 
-Each of these resilience options is designed to address specific shocks and stressors, implementation partners, and potential funding mechanisms, as detailed in the respective sections of the plan.
+7. **Resilience Option: Implement resilient standards and codes for construction.**
+
+   - **Climate Threat Addressed:** High Winds, Flooding
+   - **Cost, Timeframe, and Location:**
+     - **Medium-Term implementation with moderate cost ($$$)**
+   - **Other Attributes:**
+     - Promotes building resilience standards and compliance with Florida Building Code.
+     - Develops design standards for riverfront properties to accommodate flooding.
+
+8. **Resilience Option: Conduct research and analyses to identify suitable waterfront edges for natural and nature-based solutions.**
+
+   - **Climate Threat Addressed:** Shoreline Erosion
+   - **Cost, Timeframe, and Location:**
+     - **Long-Term implementation with substantial investment ($$$$)**
+   - **Other Attributes:**
+     - Utilizes a data-driven approach to prioritize stabilization solutions like oyster reefs and salt marsh restoration.
+     - Supports hybrid gray-green infrastructure where hardening is necessary.
+
+These resilience options collectively aim to enhance Jacksonville's ability to manage climate threats while considering economic, environmental, and infrastructural factors.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The document does not provide specific mitigation options directly labeled as such. However, it includes various actions and sub-actions that could contribute to mitigation indirectly by addressing infrastructure, transportation, and energy efficiency. Here are some relevant actions that align with mitigation efforts:
+The plan identifies several **mitigation options**. Here is a summary of the information provided regarding cost, timing, location, and other important attributes:
 
-1. **Update public works design standards to account for climate change impacts and support resilient infrastructure development.**
-   - **Cost:** Immediate costs are estimated at $$ (100,000s).
-   - **Timing:** Immediate implementation timeframe (by 2025).
-   - **Location:** City of Jacksonville.
-   - **Attributes:** Aligns above-ground and below-ground infrastructure specifications and updates street design standards to incorporate green infrastructure features *(Transform, Implementation Matrix)*.
+1. **Expand Retrofit Programs for Residential and Commercial Buildings**  
+   - **Cost:** $$$ (1,000,000s)  
+   - **Timing:** Medium-Term (2035)  
+   - **Location:** Not specifically mentioned  
+   - **Attributes:** The plan aims to improve building energy performance, storm fortification, cooling, and stormwater detention. Specific sub-actions include leveraging federal funding to improve community awareness of upgrades and partnering with downtown building owners for larger-scale retrofits like green roofs and shading.  
+   - **Implementation Partners:** JEA, CDCs, LISC, SJRWM, Parks, DIA, HOAs, Academia  
+   - **Potential Funding Mechanisms:** CIP  
 
-2. **Create connected and multimodal transportation options.**
-   - **Cost:** Medium-term costs are estimated at $$$ (1,000,000s).
-   - **Timing:** Medium-term implementation timeframe (by 2035).
-   - **Location:** Jacksonville.
-   - **Attributes:** Increases public transit service and ridership, strengthens first and last mile connections to transit, and increases bicycle ridership through bike share and e-bike incentives *(Transform, Implementation Matrix)*.
+2. **Implement Resilient Standards and Codes for Existing and New Construction**  
+   - **Cost:** $$ (100,000s)  
+   - **Timing:** Medium-Term (2035)  
+   - **Location:** Not specifically mentioned  
+   - **Attributes:** This includes identifying and promoting standards that improve building and roof resilience to high winds, increasing compliance with Florida Building Code standards, and developing design standards for riverfront properties to accommodate flooding.  
+   - **Implementation Partners:** Parks, Public Works, Tree Commission, Greenscape  
+   - **Potential Funding Mechanisms:** CIP  
 
-3. **Develop a green infrastructure program across Jacksonville.**
-   - **Cost:** Medium-term costs are estimated at $$ (100,000s).
-   - **Timing:** Medium-term implementation timeframe (by 2035).
-   - **Location:** Jacksonville.
-   - **Attributes:** Based on the best available stormwater science and data *(Transform, Implementation Matrix)*.
+3. **Update Public Works Design Standards to Account for Climate Change Impacts**  
+   - **Cost:** $$ (100,000s)  
+   - **Timing:** Immediate (2025)  
+   - **Location:** Not specifically mentioned  
+   - **Attributes:** This involves aligning infrastructure specifications and updating details and specifications for street designs, incorporating green infrastructure into drainage specifications.  
+   - **Implementation Partners:** Public Works, JEA, Subdivision Standards and Policy Advisory Committee, Context Sensitive Streets Committee  
+   - **Potential Funding Mechanisms:** Resilience Office  
 
-The actions mentioned above are part of broader efforts to improve resilience and infrastructure, which inherently support mitigation by enhancing energy efficiency and reducing carbon footprints through improved transportation and infrastructure standards.
+4. **Increase and Safeguard the Supply of Affordable Housing in Low-Risk and Well-Connected Neighborhoods**  
+   - **Cost:** $$$ (1,000,000s)  
+   - **Timing:** Short-Term (2030)  
+   - **Location:** Low-risk areas  
+   - **Attributes:** The plan includes expanding property acquisitions and affordable housing development, and safeguarding affordable housing by securing heirs’ property rights.  
+   - **Implementation Partners:** JCLT, LISC, CDCs  
+   - **Potential Funding Mechanisms:** CIP  
 
-### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timing, location, and other important attributes.
+These options focus on increasing building resilience, updating infrastructure standards, and ensuring housing availability in low-risk areas, all aimed at reducing greenhouse gas emissions and enhancing the city's ability to withstand climate impacts.
+
+### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options. Below is a summary of each option, including the climate threat it addresses and information provided regarding cost, timing, location, and other important attributes:
+The plan outlines several mitigation options with associated costs, timeframes, and other attributes:
 
-1. **Retrofit Vulnerable Buildings and Built Environment**
-   - **Climate Threat:** Heat and water management.
-   - **Cost and Timing:** Implementation timeframe includes immediate (2025) and long-term (2050) actions with costs ranging from $ (10,000s) to $$$$ (10,000,000s).
-   - **Location and Attributes:** Adaptation actions are focused at the parcel level for retrofitting buildings to improve energy performance, cooling, and stormwater detention *(Adaptation Actions, Systems, Page 124)*.
+1. **Expand Retrofit Programs for Residential and Commercial Buildings:**
+   - **Cost:** $$$ (1,000,000s)
+   - **Timeframe:** Medium-Term (2035)
+   - **Attributes:** The plan aims to improve building energy performance, storm fortification, cooling, and stormwater detention. It includes leveraging federal funding to improve community awareness of floodproofing and energy upgrades. (*Accommodate 21*)
 
-2. **Implement Resilient Standards and Codes**
-   - **Climate Threat:** General resilience for existing and new construction.
-   - **Cost and Timing:** Not specifically detailed in terms of cost and timing.
-   - **Location and Attributes:** Focused on setting standards and codes for construction to maximize resilience *(Adaptation Actions, Systems, Page 124)*.
+2. **Implement Resilient Standards and Codes for Construction:**
+   - **Cost:** $$ (100,000s)
+   - **Timeframe:** Medium-Term (2035)
+   - **Attributes:** Focuses on promoting standards for building resilience to high winds and increasing compliance with Florida Building Code standards, particularly on retrofits. (*Accommodate 22*)
 
-3. **Resilience of City-owned Buildings**
-   - **Climate Threat:** General building resilience.
-   - **Cost and Timing:** Not specifically detailed in terms of cost and timing.
-   - **Location and Attributes:** Maximizing resilience of city-owned assets *(Adaptation Actions, Systems, Page 124)*.
+3. **Develop a Green Infrastructure Program:**
+   - **Cost:** $$ (100,000s)
+   - **Timeframe:** Medium-Term (2035)
+   - **Attributes:** Based on stormwater science and data to enhance resilience. (*Transform 9*)
 
-4. **Strategic Investment in Parks**
-   - **Climate Threat:** Urban heat and stormwater management.
-   - **Cost and Timing:** Not specifically detailed in terms of cost and timing.
-   - **Location and Attributes:** Investments in parks to increase stormwater management capacity and reduce urban heat *(Adaptation Actions, Systems, Page 124)*.
+4. **Update Public Works Design Standards:**
+   - **Cost:** $$ (100,000s)
+   - **Timeframe:** Immediate (2025)
+   - **Attributes:** Aligns infrastructure specifications to support resilient infrastructure development and incorporates green infrastructure features. (*Transform 5*)
 
-5. **Repurpose Vacant Land**
-   - **Climate Threat:** General resilience goals.
-   - **Cost and Timing:** Not specifically detailed in terms of cost and timing.
-   - **Location and Attributes:** Repurposing land for uses that support resilience goals *(Adaptation Actions, Systems, Page 124)*.
+5. **Expand Jacksonville’s Tree Canopy:**
+   - **Cost:** $$ (100,000s)
+   - **Timeframe:** Medium-Term (2035)
+   - **Attributes:** Involves planting climate-adaptive trees and developing an Urban Forest Management Plan. (*Transform 10*)
+
+6. **Support Water and Energy Utilities:**
+   - **Cost:** $ (10,000s)
+   - **Timeframe:** Immediate (2025)
+   - **Attributes:** Ensures utilities can meet future demands and improve energy resilience in neighborhoods. (*Transform 11*)
+
+These options are part of broader strategies to enhance resilience and address climate change impacts through infrastructure improvements, policy changes, and community engagement.
+
+### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
+**Answer:**
+Based on the content provided from the plan, the following adaptation options are identified:
+
+1. **Expand Retrofit Programs for Buildings**
+   - **Climate Threat Addressed:** Heat, Storms, and Water Management
+   - **Attributes:** 
+     - **Location:** Parcel level
+     - **Actions Include:** Improve building energy performance, storm fortification, cooling, and stormwater detention (Adaptation Actions | Systems Resilient Jacksonville).
+  
+2. **Implement Resilient Standards and Codes for Construction**
+   - **Climate Threat Addressed:** General Resilience to Climate Threats
+   - **Attributes:**
+     - **Actions Include:** Establish standards for existing and new construction to enhance resilience (Adaptation Actions | Systems Resilient Jacksonville).
+
+3. **Maximize Resilience of City-Owned Buildings**
+   - **Climate Threat Addressed:** General Resilience to Climate Threats
+   - **Attributes:**
+     - **Location:** City-owned buildings and assets (Adaptation Actions | Systems Resilient Jacksonville).
+
+4. **Invest in Stormwater Management Capacity in Parks**
+   - **Climate Threat Addressed:** Stormwater Management and Urban Heat
+   - **Attributes:**
+     - **Location:** Existing parks
+     - **Actions Include:** Increase stormwater management capacity and reduce urban heat (Adaptation Actions | Systems Resilient Jacksonville).
+
+5. **Repurpose Vacant Land for Resilience Goals**
+   - **Climate Threat Addressed:** General Resilience
+   - **Attributes:**
+     - **Actions Include:** Use vacant land to support resilience goals (Adaptation Actions | Systems Resilient Jacksonville).
 
 6. **Retrofit Parking Lots and Impervious Surfaces**
-   - **Climate Threat:** Urban heat and stormwater management.
-   - **Cost and Timing:** Specific cost and timing details not provided.
-   - **Location and Attributes:** Focused on reducing urban heat and increasing stormwater infiltration and storage *(Adaptation Actions, Systems, Page 124)*.
+   - **Climate Threat Addressed:** Urban Heat and Stormwater Management
+   - **Attributes:**
+     - **Actions Include:** Reduce urban heat and increase stormwater infiltration and storage (Adaptation Actions | Systems Resilient Jacksonville).
 
 7. **Harden Vulnerable Critical Assets**
-   - **Climate Threat:** Damage from hazards.
-   - **Cost and Timing:** Specific cost and timing details not provided.
-   - **Location and Attributes:** Ensuring continuity of operations by hardening critical assets *(Adaptation Actions, Systems, Page 124)*.
+   - **Climate Threat Addressed:** Hazard Mitigation
+   - **Attributes:**
+     - **Actions Include:** Mitigate damage from hazards and ensure continuity of operations (Adaptation Actions | Systems Resilient Jacksonville).
 
-8. **Urban Forest Management Plan**
-   - **Climate Threat:** Urban heat, air quality, and ecosystem resilience.
-   - **Cost and Timing:** Not explicitly detailed in terms of cost and timing.
-   - **Location and Attributes:** Development of an Urban Forest Management Plan, focusing on planting climate-adaptive trees to improve air quality and provide shade *(Adaptation Actions, Systems, Page 94)*.
+8. **Develop Urban Forest Management Plan**
+   - **Climate Threat Addressed:** Air Quality, Stormwater, and Urban Heat
+   - **Attributes:**
+     - **Actions Include:** Guide management and care of urban forests to increase benefits from trees (Adaptation Actions | Systems Resilient Jacksonville).
 
-These adaptation options collectively aim to help Jacksonville proactively adapt, foster healthy communities and environments, and build for the future *(Adaptation Actions, Systems, Page 67)*.
+9. **Plant Climate-Adaptive Trees**
+   - **Climate Threat Addressed:** Urban Heat and Ecosystem Value
+   - **Attributes:**
+     - **Actions Include:** Increase shade and ecosystem value, select species tolerant to changing climate conditions (Adaptation Actions | Systems Resilient Jacksonville).
 
-### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate impact.
+For each option, the specific costs and timeframes are generally categorized as immediate (2025), short-term (2030), medium-term (2035), or long-term (2050) with relative cost estimates ranging from $ (10,000s) to $$$$ (10,000,000s).
+
+### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice. Below is a summary of each policy, the climate threat it addresses, and the areas or populations most vulnerable to the identified climate impact:
+The plan identifies several climate policies to advance climate justice. Here are the details:
 
 1. **Urban Heat Islands & Equity**
-   - **Climate Threat:** Extreme Heat
-   - **Vulnerable Areas/Populations:** Lower-income communities and communities of color are disproportionately exposed to urban heat islands, meaning they are more likely to live in areas with fewer trees and more pavement than Whiter and wealthier communities. This inequitable distribution is a result of historic discriminatory housing and land use practices, such as redlining. Jacksonville's historically redlined communities were found to be nearly 10°F hotter than more desirable neighborhoods *(Extreme Heat, Urban Heat Islands & Equity, Page 42-43)*.
+   - **Climate Threat Addressed:** Extreme heat and urban heat islands.
+   - **Areas or Populations with Most Climate Vulnerability:** The plan highlights that lower-income communities and communities of color are disproportionately exposed to urban heat islands. This is due to historic discriminatory housing and land use practices, such as redlining, which resulted in these communities having fewer trees and more pavement compared to wealthier and predominantly White neighborhoods. *"Research across hundreds of U.S. cities shows that lower-income communities and communities of color are disproportionately exposed to urban heat islands."* (Extreme Heat)
 
-2. **Cooling Strategies and Equitable Investments**
-   - **Climate Threat:** Extreme Heat
-   - **Vulnerable Areas/Populations:** The plan emphasizes an equitable approach by prioritizing investments in historically marginalized communities to reduce disparities in urban heat islands. These strategies involve planting more trees and investing in cooling measures in areas affected by past discriminatory practices *(Extreme Heat, Urban Heat Islands & Equity, Page 42-43)*.
+2. **Cooling Strategies in Historically Marginalized Communities**
+   - **Climate Threat Addressed:** Extreme heat.
+   - **Areas or Populations with Most Climate Vulnerability:** The plan emphasizes an equitable approach that prioritizes investments in historically marginalized communities to reduce disparities in urban heat islands. It notes that historically redlined communities were found to be significantly hotter than other areas. *"As Jacksonville works to advance cooling strategies like planting more trees, an equitable approach that prioritizes investments in historically marginalized communities can begin to reduce these disparities in urban heat islands."* (Extreme Heat)
 
-3. **Improving Health and Well-being**
-   - **Climate Threat:** Various climate impacts including extreme heat, flooding, and air pollution
-   - **Vulnerable Areas/Populations:** The policy focuses on improving the health and well-being of all people, communities, and ecosystems, especially as the city experiences increasing impacts from environmental and social stressors. It aims to address the physical toll on the body, increased asthma risk from air pollution, and mental stress from repeated flooding, with a focus on advancing equitable health outcomes and narrowing gaps between residents of different races or neighborhoods *(A City That Proactively Adapts, A City That Fosters Healthy Communities & Environments, Page 22-23)*.
-
-### Question: Is there any climate policy identified in the plan that could be a potential maladaptation? For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes.
+### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-The plan does not explicitly identify any climate policy as a potential maladaptation. However, the plan emphasizes the importance of strategic planning and adaptation to mitigate potential maladaptive outcomes. Therefore, it's crucial to consider whether any of the policies could unintentionally increase vulnerability or diminish resilience when implemented. Here are a few policies addressed in the plan and their components:
+**1. Climate Policy: Fortify City-owned assets, such as evacuation roads and bridges.**
 
-1. **Land Development Regulations Update**
+- **Climate Threat Addressed:**
+  - The policy is addressing multiple climate threats including high wind events, storm surge, and extreme heat events. These threats could potentially compromise critical infrastructure such as evacuation roads and bridges.
 
-   - **Climate Threat Addressed:**
-     - Flood risks and other climate change-related threats.
-   
-   - **Adaptation Option Proposed:**
-     - The plan proposes updating the City's land development regulations to account for future flood risk projections in where and how land and buildings are developed, ensuring resilience against climate hazards *(ADAPTATION ACTIONS, SYSTEMS RESILIENT JACKSONVILLE, Pages 72-73)*. 
+- **Resilience, Mitigation, or Adaptation Option:**
+  - The policy proposes fortifying city-owned assets as a resilience option to mitigate damage from hazards and ensure continuity of operations. This includes measures such as flood-proofing, elevating, or other hardening methods.
 
-2. **Utility Expansion Coordination**
+- **Why it May Cause Inadvertent Maladaptation:**
+  - Fortification of infrastructure can be expensive and time-consuming, and if not prioritized correctly, it may divert resources from other essential resilience measures. This focus on hardening infrastructure could lead to neglecting softer, more adaptive approaches that might be more effective in the long term. Additionally, if fortification measures are not based on the best available data and fail to consider the full range of future climate conditions, they may not provide the intended protection, leading to maladaptation.
 
-   - **Climate Threat Addressed:**
-     - Flooding and other climate hazards.
-   
-   - **Resilience Option Proposed:**
-     - Prioritize utility expansion in high, dry, and connected areas to avoid incentivizing development in flood-prone areas, aligning infrastructure growth with resilience goals *(ADAPTATION ACTIONS, SYSTEMS RESILIENT JACKSONVILLE, Pages 74-75)*.
+**2. Climate Policy: Develop design guidelines for climate-adaptive and low-impact new subdivisions, neighborhoods, and planned developments.**
 
-3. **Urban Forest Management Plan**
+- **Climate Threat Addressed:**
+  - The policy addresses threats such as flooding, sea level rise, chronic flooding, and the urban heat island effect.
 
-   - **Climate Threat Addressed:**
-     - Urban heat and stormwater management.
-   
-   - **Adaptation Option Proposed:**
-     - Develop and implement an Urban Forest Management Plan to guide the planting of climate-adaptive trees that provide shade, absorb stormwater, and increase urban resilience *(ADAPTATION ACTIONS, SYSTEMS RESILIENT JACKSONVILLE, Pages 94-95)*.
+- **Resilience, Mitigation, or Adaptation Option:**
+  - This is an adaptation option aimed at reducing vulnerability to flooding and heat hazards. It involves developing new guidelines for tree cover, impervious surface coverage, resilient materials, and maximum floor area ratios.
 
-These policies are designed to address specific climate threats through careful planning and strategic adaptation measures. However, it's essential to continuously assess these policies to ensure they do not lead to unintended consequences that could increase vulnerability.
+- **Why it May Cause Inadvertent Maladaptation:**
+  - While the intention is to create climate-adaptive new developments, these guidelines might inadvertently lead to maladaptation if they are not flexible enough to accommodate future changes in climate conditions. For example, rigid guidelines could result in developments that are not easily adaptable to unforeseen climate impacts, potentially leading to increased vulnerability over time. Additionally, if these guidelines are not implemented evenly or equitably, they could exacerbate social inequalities, leaving some communities more vulnerable than others.
 
-### Question: Summarize the plan's description of how the planning jurisdiction will monitor and evaluate progress on the implementation of resilience options, mitigation options, and adaptation options proposed in the plan.
+### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The plan outlines a structured approach to monitor and evaluate progress on the implementation of resilience, mitigation, and adaptation options through the following strategies:
+The provided document does not specify exact metrics, units, or concrete goals for measuring the success or failure of each adaptation, resilience, and mitigation option. However, it does outline various plans and strategies that imply the establishment of goals and evaluation criteria. Here are some related details mentioned in the document:
 
-- **Establishment of the Office of Resilience:** This office will play a central role in facilitating the ongoing implementation of Resilient Jacksonville. It will serve as a hub for information sharing and progress tracking, providing a transparent governance structure and accountability for the strategy's implementation. The Office of Resilience will publish annual progress updates and update the strategy on a 5-year cycle, incorporating new information and adapting to changing conditions *(Governance and Adaptive Management, Page unknown)*.
+- **Urban Forest Management Plan:** The plan highlights the potential benefits of trees, such as improving air quality and reducing energy needed to cool buildings, but does not specify metrics or units for these impacts.
 
-- **Use of Best Available Science and Data:** The Office of Resilience will continuously collect and synthesize the best available science and data on risks and vulnerabilities. This includes developing new probabilistic models, such as for compound flooding, to inform implementation and ensure that new information furthers the strategy *(Governance and Adaptive Management, Page unknown)*.
+- **Vision Zero Action Plan:** This plan aims to eliminate all traffic fatalities and serious injuries by 2035. It requires identifying recommended countermeasures, policies, actionable items, a prioritized “high-injury” corridor network, and measurable short- and long-term performance targets. However, specific metrics or units are not detailed.
 
-- **Regular Updates and Revisions:** The strategy's actions and sub-actions will be revisited on a 5-year cycle to ensure they remain feasible and relevant, with updates based on progress and new information. This periodic updating process ensures clarity on when and how actions can be updated, maintaining alignment with the vision, goals, and objectives of the strategy *(Governance and Adaptive Management, Page unknown)*.
+- **Climate Action Plans:** These plans will inventory greenhouse gas emissions in the Jacksonville region and develop priority actions to reduce them, but specific metrics or units for tracking emission reductions are not mentioned.
 
-- **Coordination with Implementation Partners:** The plan involves collaboration with various partners, including local organizations, state and federal government agencies, and other stakeholders, to ensure a comprehensive approach to implementation. This collaborative effort is essential for adapting to and addressing the future challenges posed by climate change *(Governance and Adaptive Management, Page unknown)*.
+The document emphasizes the importance of collaboration, planning, and monitoring but lacks specific quantifiable metrics or deadlines for tracking the outcomes of the plans and actions.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
-| **Feature**          | **Details**                                                                                                                                                                                                                                                                                                                                                  |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Jacksonville                                                                                                                                                                                                                                                                                                                                               |
-| **Population**       | - Nearly one million people today *(Executive Summary, Page 4-5)*  <br> - Projected to grow to 1.6 million residents by 2070 *(Executive Summary, Page 4-5)*                                                                                                                                                                                                 |
-| **Threats Identified** | - Flooding *(Executive Summary, Page 4-5)* <br> - Heat *(Evolving Challenges, Page 2-6)* <br> - High Winds *(Evolving Challenges, Page 2-6)* <br> - Wildfires *(Evolving Challenges, Page 2-6)* <br> - Sea Level Rise *(Evolving Challenges, Page 2-6)* <br> - Urban Heat Island Effect *(Evolving Challenges, Page 2-6)* <br> - Aging Infrastructure *(Evolving Challenges, Page 2-6)* |
-| **Measures Identified** | - Adaptation Actions *(Executive Summary, Page 4-5)* <br> - Systems approach: guiding development, transforming infrastructure, preserving open space *(Systems, Page 68-70)* <br> - Sites approach: accommodating, relocating assets *(Sites, Page 122-124)* <br> - People approach: supporting well-being, ensuring long-term prosperity *(People, Page 150-152)*                |
+| **Feature**       | **Details**                                                                                                                                                                                                                                                         |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | Jacksonville                                                                                                                                                                                                                                                   |
+| **Population**    | "Jacksonville is a city that is constantly evolving and is poised to adapt again to meet future challenges. The city’s population has grown to over ten times what it was a century ago to nearly one million people today. If trends continue, Jacksonville will grow to 1.6 million residents by 2070." (Executive Summary) |
+| **Threats Identified** | - Flooding  - Heat  - High Winds  - Wildfires  - Sea Level Rise  - Chronic Flooding  - Coastal Erosion  - Saltwater Intrusion  - Groundwater Threats  - Urban Heat Island Effect  - Drought  - Aging Infrastructure  - Economic Downturn  - Poverty  - Social Inequality  - Lack of Reliable Transportation  - Housing Instability  - Food Insecurity  - Lack of Healthcare  - Chronic and Infectious Disease  - Social Isolation (Evolving Challenges) |
+| **Measures Identified** | - Develop a geographic assessment of exposure, vulnerability, and risks associated with climate threats. - Identify resilience opportunities for each Development Type. - Implement actions across Systems, Sites, and People. - Enhance resilience by guiding safe and connected new development to areas of low risk. - Transform infrastructure design and maintenance. - Conserve open space and discourage development in high flood risk areas. - Fortify critical city systems and improve emergency response. - Retrofit vulnerable buildings and environments. - Relocate assets in areas with repetitive flooding and streamline residential buyout programs. - Strengthen citywide response to extreme heat, improve housing, and community cohesion. - Invest in youth, job creation, and business development. (Adaptation Actions, Place-Based Strategies) |

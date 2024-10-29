@@ -38,6 +38,42 @@ def create_and_save_vector_store():
     vector_store.save_local("multi_plan_vectorstore")
     print("Vector store creation complete and saved as 'multi_plan_vectorstore'.")
 
-# Run the function to create and save the vector store
+
+def create_and_save_individual_vector_stores():
+    # Directory containing the Markdown summaries
+    directory_path = "CAPS_Summaries"
+    # Directory to save individual vector stores
+    save_directory = "Individual_Vectorstores"
+
+    # Ensure the save directory exists
+    os.makedirs(save_directory, exist_ok=True)
+
+    # List all Markdown files in the directory
+    md_files = [f for f in os.listdir(directory_path) if f.endswith('.md')]
+
+    # Process each file individually
+    for file_name in md_files:
+        file_path = os.path.join(directory_path, file_name)
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+            # Wrap the content in a Document object
+            document = Document(page_content=content)
+            print(f"Successfully loaded {file_name}.")
+
+        # Split the document into chunks
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
+        splits = text_splitter.split_documents([document])
+
+        # Create embeddings and vector store for each document
+        embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+        vector_store = FAISS.from_documents(documents=splits, embedding=embeddings)
+
+        # Save the vector store locally with a unique name in the specified directory
+        vector_store_name = os.path.join(save_directory, f"{os.path.splitext(file_name)[0]}_vectorstore")
+        vector_store.save_local(vector_store_name)
+        print(f"Vector store for {file_name} created and saved as '{vector_store_name}'.")
+
+# Run the function to create and save the vector stores
 if __name__ == "__main__":
     create_and_save_vector_store()
+    create_and_save_individual_vector_stores()
