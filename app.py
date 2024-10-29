@@ -139,7 +139,7 @@ def multi_plan_qa_multi_vectorstore(api_key, input_text, display_placeholder):
         vector_store = FAISS.load_local(vectorstore_path, embeddings, allow_dangerous_deserialization=True)
 
         # Convert the vector store to a retriever
-        retriever = vector_store.as_retriever(search_kwargs={"k": 10})
+        retriever = vector_store.as_retriever(search_kwargs={"k": 4})
 
         # Retrieve relevant chunks for the input text
         retrieved_chunks = retriever.invoke("input_text")
