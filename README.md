@@ -14,7 +14,7 @@
 
 The goal of this project is to develop an AI-powered question-answering system that automatically analyzes Climate Action Plans (CAPs) and other climate adaptation and mitigation documentation. The system will be capable of extracting key data about climate vulnerabilities, planned mitigation measures, and socio-economic and geographic context, providing well-sourced, accurate responses to user queries. 
 
-## Background  
+## Background 
 
 Climate change poses an urgent challenge for cities worldwide, prompting the creation of comprehensive Climate Action Plans (CAPs) to mitigate impacts and adapt to evolving conditions. These plans detail strategies for reducing emissions, addressing vulnerabilities, and protecting populations from climate risks, but their length and complexity make it difficult for city planners, researchers, and policymakers to efficiently extract and compare key information across regions.
 
@@ -22,15 +22,17 @@ This project addresses this by developing an AI-powered question-answering syste
 
 ## Data
 
-All the original data will be stored the following OneDrive folder: [Climate Policy Data](https://vanderbilt365-my.sharepoint.com/:f:/g/personal/ethan_i_thorpe_vanderbilt_edu/Eu8eb1jCuJpKoSTcq--22E4BSKa8mQxXrjD8p-2wrlX_hQ?e=P0j56t). Due to the large size of the data, we will not be storing it in this repo. 
+All files are stored in this repository. Original Climate Plans can be found under the CAPS folder. 
 
 ## Timeline
 
-Fall 2024 (September through December 2025 intially)
+Fall 2024 (September through December 2024 intially)
 
 ## Repo Structure 
 
-The 00 series of notebooks are template notebooks. Details regarding additional notebooks and scrips will be added here later.
+To run the tool, in a terminal run ```streamlit run app.py```. Please ensure that all necessary packages have been installed as per the ```requirements.txt``` file. Necessary packages can be installed using pip: ```pip install -r requirements.txt``` 
+
+The ```Prompts``` folder contains all the system prompt templates used in the tool. These can be modified to modify the behavior of the tools. 
 
 ## Project logistics
 
