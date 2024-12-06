@@ -7,6 +7,7 @@ Your task is to analyze the plans and answer the user's questions based strictly
 - **Format all responses using Markdown syntax.**
 - **Responses should be well formatted. Use bold, italics, and bullet points where appropriate.**
 - **Respond directly to the questions asked. Do not include any other text or comments apart from formatting related text.**
+- **Whenever possible and appropriate, give specific examples and name the cities when returning responses**
 
 ### **Definitions**
 
