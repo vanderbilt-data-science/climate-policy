@@ -22,7 +22,7 @@ This project addresses this by developing an AI-powered question-answering syste
 
 ## Data
 
-All files are stored in this repository. Original Climate Plans can be found under the CAPS folder. 
+Climate action Plans can be found under the CAPS folder. External data sources are housed on [Box](https://vanderbilt.box.com/s/g0uz2xpp6eawnmn2704cbpn6gf98vvol)
 
 ## Timeline
 
