@@ -1,4 +1,5 @@
 import os
+import csv
 from tempfile import NamedTemporaryFile
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -9,7 +10,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-def process_pdf(api_key, pdf_path, questions_path, prompt_path):
+
+def process_pdf_to_csv(api_key, pdf_path, questions, prompt_path, csv_writer):
     os.environ["OPENAI_API_KEY"] = api_key
 
     with open(pdf_path, "rb") as file:
@@ -45,56 +47,49 @@ def process_pdf(api_key, pdf_path, questions_path, prompt_path):
     question_answer_chain = create_stuff_documents_chain(llm, prompt, document_variable_name="context")
     rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
-    if os.path.exists(questions_path):
-        with open(questions_path, "r") as file:
-            questions = [line.strip() for line in file.readlines() if line.strip()]
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {questions_path}")
-
-    qa_results = []
+    answers = []
     for question in questions:
         result = rag_chain.invoke({"input": question})
         answer = result["answer"]
+        answers.append(answer)
 
-        qa_text = f"### Question: {question}\n**Answer:**\n{answer}\n"
-        qa_results.append(qa_text)
-
+    csv_writer.writerow(answers)
     os.remove(temp_pdf_path)
 
-    return qa_results
 
 def main():
     # Get user input for directory path and API key
     directory_path = input("Enter the path to the folder containing the PDF plans: ").strip()
     api_key = input("Enter your OpenAI API key: ").strip()
 
-    # Paths for prompt and questions files
-    prompt_file_path = "Prompts/summary_tool_system_prompt.md"
-    questions_file_path = "Prompts/summary_tool_questions.md"
+    # Paths for prompt file
+    prompt_file_path = "Prompts/dataset_tool_system_prompt.md"
 
-    # Create output directory if it doesn't exist
-    output_directory = "CAPS_Summaries"
-    os.makedirs(output_directory, exist_ok=True)
+    # Generic set of questions
+    questions = [
+        "What is the name of the city?",
+        "List the threats identified in the plan.",
+        "What is the population of the area in question?"
+    ]
 
-    # Process each PDF in the directory
-    for filename in os.listdir(directory_path):
-        if filename.endswith(".pdf"):
-            pdf_path = os.path.join(directory_path, filename)
-            print(f"Processing {filename}...")
+    # Create output CSV file
+    output_file_path = "climate_action_plans_dataset.csv"
+    with open(output_file_path, "w", newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        csv_writer.writerow(["City Name", "Threats", "Population"])
 
-            try:
-                results = process_pdf(api_key, pdf_path, questions_file_path, prompt_file_path)
-                markdown_text = "\n".join(results)
+        # Process each PDF in the directory
+        for filename in os.listdir(directory_path):
+            if filename.endswith(".pdf"):
+                pdf_path = os.path.join(directory_path, filename)
+                print(f"Processing {filename}...")
 
-                # Save the results to a Markdown file
-                base_name = os.path.splitext(filename)[0]
-                output_file_path = os.path.join(output_directory, f"{base_name}_Summary.md")
-                with open(output_file_path, "w") as output_file:
-                    output_file.write(markdown_text)
+                try:
+                    process_pdf_to_csv(api_key, pdf_path, questions, prompt_file_path, csv_writer)
+                    print(f"Data for {filename} added to dataset.")
+                except Exception as e:
+                    print(f"An error occurred while processing {filename}: {e}")
 
-                print(f"Summary for {filename} saved to {output_file_path}")
-            except Exception as e:
-                print(f"An error occurred while processing {filename}: {e}")
 
 if __name__ == "__main__":
-    main()
+    main() 
