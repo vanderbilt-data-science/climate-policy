@@ -6,3 +6,10 @@ langchain_community
 pypdf
 faiss-cpu
 anthropic
+geopandas
+pandas
+folium
+streamlit_folium
+shapely
+branca
+
