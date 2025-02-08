@@ -320,7 +320,7 @@ with tab1:
             st.write("**Population:**", population)
             st.write("**FIPS:**", fips)
             st.write("**Number of Climate Action Plans:**", n_caps)
-            st.write("**Cities with Climate Action Plans:**")
+            st.markdown("#### Cities with Climate Action Plans:")
             if plan_list:
                 for plan in plan_list:
                     st.write(plan)
@@ -420,7 +420,7 @@ with tab2:
             n_caps = props.get("n_caps", 0)
             plan_list = props.get("plan_list", [])
             st.write("**Number of Climate Action Plans:**", n_caps)
-            st.write("**Cities with Climate Action Plans:**")
+            st.markdown("#### Cities with Climate Action Plans:")
             if plan_list:
                 for plan in plan_list:
                     st.write(plan)
