@@ -1,67 +1,70 @@
-CityName, StateName, CountyName
-Alameda, CA, Alameda 
-Albuquerque, NM, Bernalillo 
-Alexandria, VA, Alexandria
-Anaheim, CA, Orange
-Anchorage, AK, Anchorage
-Asheville, NC, Buncombe
-Aspen, CO, Pitkin
-Atlanta, GA, Fulton
-Atlanta, GA, De Kalb
-Augusta, GA, Richmond
-Baton Rouge, LA, East Baton Rouge
-Bellevue, WA, King
-Bellingham, WA, Whatcom
-Birmingham, AL, Jefferson
-Boulder, CO, Boulder
-Cape Coral, FL, Lee
-Charleston, SC, Charleston
-Charleston, SC, Berkeley
-Charlotte, NC, Mecklenburg
-Chattanooga, TN, Hamilton
-Chicago, IL, Cook
-Chicago, IL, Du Page
-Cincinnati, OH, Hamilton
-Clarksville, TN, Montgomery
-Durham, NC, Durham
-Erie, PA, Erie
-Fayetteville, NC, Cumberland
-Fort Lauderdale, FL, Broward
-Gary, IN, Lake
-Glendale, AZ, Maricopa
-Greensboro, NC, Guilford
-Hampton, VA, Hampton
-Hartford, CT, Hartford
-Houston, TX, Harris
-Indianapolis, IN, Marion
-Jacksonville, FL, Duval
-Knoxville, TN, Knox
-Lakewood, CO, Jefferson
-Lexington, KY, Fayette
-Lincoln, NE, Lancaster
-Los Angeles, CA, Los Angeles
-Louisville, KY, Jefferson
-Memphis, TN, Shelby
-Miami, FL, Miami-Dade
-Milwaukee, WI, Milwaukee
-Napa, CA, Napa
-Nashville, TN, Davidson
-New Orleans, LA, Orleans
-Norfolk, VA, Norfolk
-Pembroke Pines, FL, Broward
-Philadelphia, PA, Philadelphia
-Phoenix, AZ, Maricopa
-Portland, OR, Multnomah
-Providence, RI, Providence
-Raleigh, NC, Wake
-Richmond, VA, Richmond
-San Diego, CA, San Diego
-Savannah, GA, Chatham
-Shreveport, LA, Caddo
-Spokane, WA, Spokane
-Saint Louis, MO, St. Louis (City)
-St. Petersburg, FL, Pinellas
-Tallahassee, FL, Leon
-Tampa, FL, Hillsborough
-Washington, DC, District of Columbia
-Winston-Salem, NC, Forsyth
+CityName,StateName,CountyName,Latitude,Longitude
+Alameda,CA,"Alameda County, California",37.7652,-122.2416
+Albuquerque,NM,"Bernalillo County, New Mexico",35.0844,-106.6504
+Alexandria,VA,"Alexandria City, Virginia",38.8048,-77.0469
+Anaheim,CA,"Orange County, California",33.8366,-117.9143
+Anchorage,AK,"Anchorage Municipality, Alaska",61.2181,-149.9003
+Asheville,NC,"Buncombe County, North Carolina",35.5951,-82.5515
+Aspen,CO,"Pitkin County, Colorado",39.1911,-106.8175
+Atlanta,GA,"Fulton County, Georgia",33.749,-84.388
+Atlanta,GA,"DeKalb County, Georgia",33.749,-84.388
+Augusta,GA,"Richmond County, Georgia",33.4735,-82.0105
+Baton Rouge,LA,"East Baton Rouge Parish, Louisiana",30.4515,-91.1871
+Bellevue,WA,"King County, Washington",47.6104,-122.2007
+Bellingham,WA,"Whatcom County, Washington",48.7491,-122.4781
+Birmingham,AL,"Jefferson County, Alabama",33.5186,-86.8104
+Boulder,CO,"Boulder County, Colorado",40.015,-105.2705
+Cape Coral,FL,"Lee County, Florida",26.5629,-81.9495
+Charleston,SC,"Charleston County, South Carolina",32.7765,-79.9311
+Charleston,SC,"Berkeley County, South Carolina",32.7765,-79.9311
+Charlotte,NC,"Mecklenburg County, North Carolina",35.2271,-80.8431
+Chattanooga,TN,"Hamilton County, Tennessee",35.0456,-85.3097
+Chicago,IL,"Cook County, Illinois",41.8781,-87.6298
+Chicago,IL,"DuPage County, Illinois",41.8781,-87.6298
+Cincinnati,OH,"Hamilton County, Ohio",39.1031,-84.512
+Clarksville,TN,"Montgomery County, Tennessee",36.5298,-87.3595
+Durham,NC,"Durham County, North Carolina",35.994,-78.8986
+Erie,PA,"Erie County, Pennsylvania",42.1292,-80.0851
+Fayetteville,NC,"Cumberland County, North Carolina",35.0527,-78.8784
+Fort Lauderdale,FL,"Broward County, Florida",26.1224,-80.1373
+Gary,IN,"Lake County, Indiana",41.5934,-87.3464
+Glendale,AZ,"Maricopa County, Arizona",33.5387,-112.186
+Greensboro,NC,"Guilford County, North Carolina",36.0726,-79.792
+Hampton,VA,"Hampton City, Virginia",37.0299,-76.3452
+Hartford,CT,"Hartford County, Connecticut",41.7658,-72.6734
+Houston,TX,"Harris County, Texas",29.7604,-95.3698
+Indianapolis,IN,"Marion County, Indiana",39.7684,-86.1581
+Jacksonville,FL,"Duval County, Florida",30.3322,-81.6557
+Knoxville,TN,"Knox County, Tennessee",35.9606,-83.9207
+Lakewood,CO,"Jefferson County, Colorado",39.7047,-105.0814
+Lexington,KY,"Fayette County, Kentucky",38.0406,-84.5037
+Lincoln,NE,"Lancaster County, Nebraska",40.8136,-96.7026
+Los Angeles,CA,"Los Angeles County, California",34.0522,-118.2437
+Louisville,KY,"Jefferson County, Kentucky",38.2527,-85.7585
+Memphis,TN,"Shelby County, Tennessee",35.1495,-90.049
+Miami,FL,"Miami-Dade County, Florida",25.7617,-80.1917
+Milwaukee,WI,"Milwaukee County, Wisconsin",43.0389,-87.9065
+Napa,CA,"Napa County, California",38.2975,-122.2869
+Nashville,TN,"Davidson County, Tennessee",36.1627,-86.7816
+New Orleans,LA,"Orleans Parish, Louisiana",29.9511,-90.0715
+Norfolk,VA,"Norfolk City, Virginia",36.8508,-76.2859
+Oakland,CA,"Alameda County, California",37.7652,-122.2416
+Oklahoma City,OK,"Oklahoma County, Oklahoma",35.2219,-97.4398
+Orlando,FL,"Orange County, Florida",28.5384,-81.379
+Pembroke Pines,FL,"Broward County, Florida",26.0078,-80.2963
+Philadelphia,PA,"Philadelphia County, Pennsylvania",39.9526,-75.1652
+Phoenix,AZ,"Maricopa County, Arizona",33.4484,-112.074
+Portland,OR,"Multnomah County, Oregon",45.5051,-122.675
+Providence,RI,"Providence County, Rhode Island",41.824,-71.4128
+Raleigh,NC,"Wake County, North Carolina",35.7796,-78.6382
+Richmond,VA,"Richmond City, Virginia",37.5407,-77.436
+San Diego,CA,"San Diego County, California",32.7157,-117.1611
+Savannah,GA,"Chatham County, Georgia",32.0809,-81.0912
+Shreveport,LA,"Caddo Parish, Louisiana",32.5252,-93.7502
+Spokane,WA,"Spokane County, Washington",47.6588,-117.426
+St. Louis,MO,"St. Louis County, Missouri",38.6273,-90.1979
+St. Petersburg,FL,"Pinellas County, Florida",27.7676,-82.6403
+Tallahassee,FL,"Leon County, Florida",30.4383,-84.2807
+Tampa,FL,"Hillsborough County, Florida",27.9506,-82.4572
+Washington,DC,"District of Columbia, District of Columbia",38.9072,-77.0369
+Winston-Salem,NC,"Forsyth County, North Carolina",36.0999,-80.2442
