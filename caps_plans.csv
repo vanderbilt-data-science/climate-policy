@@ -2,18 +2,22 @@ City,State,Year,Plan Type
 Oakland,CA,2020,Mitigation Primary CAP
 Memphis,TN,2020,Mitigation Only CAP
 Raleigh,NC,2021,Equal Adaptation-Mitigation CAP
+Winston-Salem,NC,2020,Green Plan
 Charleston,SC,2021,Mitigation Only CAP
 Boulder,CO,2016,Resiliency Plan
+St. Louis,MO,2017,Equal Adaptation-Mitigation CAP
 Greensboro,NC,2020,Mitigation Primary CAP
 Charlotte,NC,2018,Mitigation Primary CAP
 Louisville,KY,2020,Resiliency Plan
 Philadelphia,PA,2021,Mitigation Primary CAP
+Washington,DC,2019,Green Plan
+Birmingham,AL,2013,Green Plan
 Cincinnati,OH,2023,Green Plan
+St. Petersburg,FL,2019,Equal Adapatation-Mitigation CAP
 Charleston,SC,2021,Green Plan
 Indianapolis,IN,2019,Equal Adaptation-Mitigation CAP
 Lexington,KY,2012,Mitigation Primary CAP
 Spokane,WA,2021,Mitiagtion Primary CAP
-Winston Salem,NC,2020,Green Plan
 Erie,PA,2023,Resiliency Primary CAP
 Richmond,VA,2023,Equal Adapatation-Mitigation CAP
 Augusta,GA,2010,Green Plan
@@ -24,18 +28,17 @@ Norfolk,VA,2019,Equal Adaptation-Mitigation CAP
 Pembroke Pines,FL,2014,Green Plan
 Atlanta,GA,2018,Mitigation Plan
 Atlanta,GA,2015,Mitigation Only CAP
-Miami-Dade,FL,2021,Mitigation Primary CAP
+Fort Lauderdale,FL,2011,Mitigation Primary CAP
+Miami,FL,2021,Mitigation Primary CAP
 Oklahoma City,OK,2020,Adaptation Plan
 Aspen,CO,2014,Resiliency Plan
-St Petersburg,FL,2019,Equal Adapatation-Mitigation CAP
 Gary,IN,2024,Mitigation Primary CAP
 Baton Rouge,LA,2018,Green Plan
-Birminghma,AL,2013,Green Plan
 Asheville,NC,2022,Equal Adaptation-Mitigation CAP
 Los Angeles,CA,2018,Resiliency Plan
-Ft Lauderdale,FL,2011,Mitigation Primary CAP
 Glendale,AZ,2011,Green Plan
 Bellevue,WA,2021,Mitigation Only CAP
+Bellingham,WA,2018,Mitigation Only CAP
 Lincoln,NE,2021,Equal Adaptation-Mitigation CAP
 Chattanooga,TN,2018,Mitigation Primary CAP
 Albuquerque,NM,2021,Green Plan
@@ -60,12 +63,10 @@ Tampa,FL,2023,Equal Adaptation-Mitigation CAP
 Porland,OR,2015,Mitigation Primary CAP
 Savannah,GA,2009,Green Plan
 Hartford,CT,2017,Mitigation Primary CAP
-Bellinghma,WA,2018,Mitigation Only CAP
 Anaheim,CA,2020,Mitigation Plan
 Atlanta,GA,2017,Resiliency Plan
 Lakewood,CO,2015,Green Plan
 Fayetteville,NC,2009,Green Plan
-St Louis,MO,2017,Equal Adaptation-Mitigation CAP
 Anchorage,AK,2019,Mitigation Primary CAP
 Durham,NC,2021,Mitigation Plan
 Cape Coral,FL,2017,Resiliency Plan
