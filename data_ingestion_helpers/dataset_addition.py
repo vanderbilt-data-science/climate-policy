@@ -70,8 +70,12 @@ if __name__ == "__main__":
     # Define the questions
     questions = [
         "What is the name of the city?",
-        "List the threats identified in the plan.",
-        "What is the population of the area in question?"
+        "What is the name of the state?",
+        "What year was the plan developed and distributed?",
+        "List the top 5 threats identified in the plan.",
+        "List every single adaptation measure in the plan.",
+        "List every single mitigation measure in the plan.",
+        "List every singel resilience measure in the plan.",
     ]
 
     try:
