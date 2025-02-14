@@ -1,5 +1,6 @@
 import os
 import csv
+import argparse
 from tempfile import NamedTemporaryFile
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -10,10 +11,10 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-
-def process_pdf_to_csv(api_key, pdf_path, questions, prompt_path, csv_writer):
+def process_pdf_to_csv(api_key, pdf_path, questions):
     os.environ["OPENAI_API_KEY"] = api_key
-
+    prompt_path = "./Prompts/dataset_tool_system_prompt.md"
+    csv_file_path = "./climate_action_plans_dataset.csv"
     with open(pdf_path, "rb") as file:
         with NamedTemporaryFile(delete=False, suffix=".pdf") as temp_pdf:
             temp_pdf.write(file.read())
@@ -53,19 +54,20 @@ def process_pdf_to_csv(api_key, pdf_path, questions, prompt_path, csv_writer):
         answer = result["answer"]
         answers.append(answer)
 
-    csv_writer.writerow(answers)
+    with open(csv_file_path, "a", newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        csv_writer.writerow(answers)
+
     os.remove(temp_pdf_path)
 
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Add data to an existing CSV from a PDF.")
+    parser.add_argument("api_key", type=str, help="OpenAI API Key")
+    parser.add_argument("pdf_path", type=str, help="Path to the PDF file")
 
-def main():
-    # Get user input for directory path and API key
-    directory_path = input("Enter the path to the folder containing the PDF plans: ").strip()
-    api_key = input("Enter your OpenAI API key: ").strip()
+    args = parser.parse_args()
 
-    # Paths for prompt file
-    prompt_file_path = "Prompts/dataset_tool_system_prompt.md"
-
-    # Generic set of questions
+    # Define the questions
     questions = [
         "What is the name of the city?",
         "What is the name of the state?",
@@ -76,24 +78,7 @@ def main():
         "List every singel resilience measure in the plan.",
     ]
 
-    # Create output CSV file
-    output_file_path = "climate_action_plans_dataset.csv"
-    with open(output_file_path, "w", newline='') as csvfile:
-        csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(["City Name", "State Name", "Year", "Threats", "Adaptation Measures", "Mitigation Measures", "Resilience Measures"])
-
-        # Process each PDF in the directory
-        for filename in os.listdir(directory_path):
-            if filename.endswith(".pdf"):
-                pdf_path = os.path.join(directory_path, filename)
-                print(f"Processing {filename}...")
-
-                try:
-                    process_pdf_to_csv(api_key, pdf_path, questions, prompt_file_path, csv_writer)
-                    print(f"Data for {filename} added to dataset.")
-                except Exception as e:
-                    print(f"An error occurred while processing {filename}: {e}")
-
-
-if __name__ == "__main__":
-    main() 
+    try:
+        process_pdf_to_csv(args.api_key, args.pdf_path, questions)
+    except Exception as e:
+        print(f"An error occurred: {e}") 

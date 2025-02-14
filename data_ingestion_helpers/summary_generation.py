@@ -1,5 +1,5 @@
 import os
-import csv
+import argparse
 from tempfile import NamedTemporaryFile
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -10,10 +10,10 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-
-def process_pdf_to_csv(api_key, pdf_path, questions, prompt_path, csv_writer):
+def process_pdf(api_key, pdf_path):
     os.environ["OPENAI_API_KEY"] = api_key
-
+    questions_path = "./Prompts/summary_tool_questions.md"
+    prompt_path = "./Prompts/summary_tool_system_prompt.md"
     with open(pdf_path, "rb") as file:
         with NamedTemporaryFile(delete=False, suffix=".pdf") as temp_pdf:
             temp_pdf.write(file.read())
@@ -47,53 +47,41 @@ def process_pdf_to_csv(api_key, pdf_path, questions, prompt_path, csv_writer):
     question_answer_chain = create_stuff_documents_chain(llm, prompt, document_variable_name="context")
     rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
-    answers = []
+    if os.path.exists(questions_path):
+        with open(questions_path, "r") as file:
+            questions = [line.strip() for line in file.readlines() if line.strip()]
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {questions_path}")
+
+    qa_results = []
     for question in questions:
         result = rag_chain.invoke({"input": question})
         answer = result["answer"]
-        answers.append(answer)
 
-    csv_writer.writerow(answers)
+        qa_text = f"### Question: {question}\n**Answer:**\n{answer}\n"
+        qa_results.append(qa_text)
+
     os.remove(temp_pdf_path)
 
-
-def main():
-    # Get user input for directory path and API key
-    directory_path = input("Enter the path to the folder containing the PDF plans: ").strip()
-    api_key = input("Enter your OpenAI API key: ").strip()
-
-    # Paths for prompt file
-    prompt_file_path = "Prompts/dataset_tool_system_prompt.md"
-
-    # Generic set of questions
-    questions = [
-        "What is the name of the city?",
-        "What is the name of the state?",
-        "What year was the plan developed and distributed?",
-        "List the top 5 threats identified in the plan.",
-        "List every single adaptation measure in the plan.",
-        "List every single mitigation measure in the plan.",
-        "List every singel resilience measure in the plan.",
-    ]
-
-    # Create output CSV file
-    output_file_path = "climate_action_plans_dataset.csv"
-    with open(output_file_path, "w", newline='') as csvfile:
-        csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(["City Name", "State Name", "Year", "Threats", "Adaptation Measures", "Mitigation Measures", "Resilience Measures"])
-
-        # Process each PDF in the directory
-        for filename in os.listdir(directory_path):
-            if filename.endswith(".pdf"):
-                pdf_path = os.path.join(directory_path, filename)
-                print(f"Processing {filename}...")
-
-                try:
-                    process_pdf_to_csv(api_key, pdf_path, questions, prompt_file_path, csv_writer)
-                    print(f"Data for {filename} added to dataset.")
-                except Exception as e:
-                    print(f"An error occurred while processing {filename}: {e}")
-
+    return qa_results
 
 if __name__ == "__main__":
-    main() 
+    parser = argparse.ArgumentParser(description="Generate a summary for a single PDF.")
+    parser.add_argument("api_key", type=str, help="OpenAI API Key")
+    parser.add_argument("pdf_path", type=str, help="Path to the PDF file")
+
+    args = parser.parse_args()
+
+    try:
+        results = process_pdf(args.api_key, args.pdf_path)
+        markdown_text = "\n".join(results)
+
+        # Save the results to a Markdown file
+        base_name = os.path.splitext(os.path.basename(args.pdf_path))[0]
+        output_file_path = f"CAPS_Summaries/{base_name}_Summary.md"
+        with open(output_file_path, "w") as output_file:
+            output_file.write(markdown_text)
+
+        print(f"Summary saved to {output_file_path}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
