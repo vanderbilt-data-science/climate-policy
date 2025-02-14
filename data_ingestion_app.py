@@ -13,7 +13,11 @@ if uploaded_file is not None:
 
 city = st.text_input("City")
 state = st.selectbox("State", ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "WA", "WV", "WI", "WY"])
+st.markdown("Please provide the county details as per the US Census Bureau: e.g. 'Forsyth County, North Carolina' or 'Anchorage Municipality, Alaska'")
+county = st.text_input("County")
 year = st.text_input("Year")
+st.markdown("Please provide the city center coordinates e.g. '35.994033, -83.929849' for mapping purposes")
+city_center_coordinates = st.text_input("City Center Coordinates (latitude, longitude)")
 
 # Use a select box for the type of plan
 plan_type = st.selectbox("Type of Plan", [
@@ -44,19 +48,21 @@ if st.button("Submit"):
         st.write(f"File saved as {file_name} in CAPS folder.")
         
         # Run the external Python scripts with the required parameters
+        subprocess.run(["python", "data_ingestion_helpers/city_county_mapping_addition.py", city, state, county, city_center_coordinates])
+        st.write("City, State, County, and City Center Coordinates added to city_county_mapping.csv")
         subprocess.run(["python", "data_ingestion_helpers/summary_generation.py", api_key, file_path])
         st.write("Summary generated successfully!")
 
         subprocess.run(["python", "data_ingestion_helpers/data_ingestion_vectorstores.py", api_key, file_name, summary_file_name])
-        st.write("Vector store created successfully!")
+        st.write("Vector store created successfully")
 
         subprocess.run(["python", "data_ingestion_helpers/dataset_addition.py", api_key, file_path])
-        st.write("Data added to dataset successfully!")
+        st.write("Data added to dataset successfully")
 
         subprocess.run(["python", "caps_directory_reader.py"])
-        st.write("CAPs directory reader executed successfully!")
+        st.write("CAPs directory reader executed successfully")
         
-        st.write("All scripts executed successfully!")
+        st.write("All scripts executed successfully")
     else:
         st.error("Please fill in all fields, upload a file, and provide your OpenAI API key.")
 
