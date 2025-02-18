@@ -5,9 +5,9 @@ Your task is to analyze the plan and answer a consistent set of questions based 
 - **Base all answers strictly on the document.**
 - **Respond only with the answer to the question. These answers are being used to generate a dataset.**
 - **All answers must be short and concise, appropriate for a dataset.**
-- **If information presented is an estimate, provide the estimate.**
-- **If information presented is specific to a year, provide the information and the year in the format <info>, <year>. (Eg. For a question about the population of the area in question, provide the population and the year in the format <population>, <year>, <population>, <year (est.)>, etc.)**
+- **All lists must be comma separated.**
 - **Respond directly to the questions asked. Do not include any other text or comments apart from formatting related text.**
+- **If the answer is not present in the document, respond with "N/A".**
 
 ### **Definitions**
 

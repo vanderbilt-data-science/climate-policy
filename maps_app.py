@@ -44,6 +44,8 @@ def fetch_county_data():
     county_data = r_counties.json()
     df = pd.DataFrame(county_data[1:], columns=county_data[0])
     df["POP"] = df["POP"].astype(int)
+    # Split the NAME column into state and county
+    df[['stateName', 'countyName']] = df['NAME'].str.split(',', expand=True)
     # Combine state and county to form FIPS
     df["FIPS"] = df["state"].str.zfill(2) + df["county"].str.zfill(3)
     return df
@@ -160,11 +162,7 @@ def load_and_merge_caps_county(_counties_gdf):
     caps_df = pd.read_csv("caps_plans.csv")
     mapping_df = pd.read_csv("city_county_mapping.csv")
     # Standardize text for matching
-    caps_df["City"] = caps_df["City"].str.strip().str.upper()
     caps_df["State"] = caps_df["State"].str.strip().str.upper()
-    mapping_df["CityName"] = mapping_df["CityName"].str.strip().str.upper()
-    mapping_df["StateName"] = mapping_df["StateName"].str.strip().str.upper()
-    mapping_df["CountyName"] = mapping_df["CountyName"].str.strip().str.upper()
     mapping_df["CountyKey"] = mapping_df["CountyName"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip()
     )
