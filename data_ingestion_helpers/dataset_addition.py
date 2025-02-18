@@ -72,7 +72,7 @@ if __name__ == "__main__":
         "What is the name of the city?",
         "What is the name of the state?",
         "What year was the plan developed and distributed?",
-        "List the top 5 threats identified in the plan.",
+        "List 5 threats identified and discussed most often in the plan.",
         "List every single adaptation measure in the plan.",
         "List every single mitigation measure in the plan.",
         "List every singel resilience measure in the plan.",

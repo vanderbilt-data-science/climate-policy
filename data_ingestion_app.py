@@ -13,7 +13,7 @@ if uploaded_file is not None:
 
 city = st.text_input("City")
 state = st.selectbox("State", ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "WA", "WV", "WI", "WY"])
-st.markdown("Please provide the county details as per the US Census Bureau: e.g. 'Forsyth County, North Carolina' or 'Anchorage Municipality, Alaska'")
+st.markdown("Please provide the county name as per the US Census Bureau: e.g. 'Forsyth County, North Carolina', 'Anchorage Municipality, Alaska', 'Orleans Parish, Louisiana' or 'District of Columbia, District of Columbia'")
 county = st.text_input("County")
 year = st.text_input("Year")
 st.markdown("Please provide the city center coordinates e.g. '35.994033, -83.929849' for mapping purposes")
