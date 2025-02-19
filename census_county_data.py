@@ -13,7 +13,7 @@ def fetch_county_data():
     county_data = r_counties.json()
     df = pd.DataFrame(county_data[1:], columns=county_data[0])
     # Split the NAME column into state and county
-    df[['stateName', 'countyName']] = df['NAME'].str.split(',', expand=True)
+    df[['countyName', 'stateName']] = df['NAME'].str.split(',', expand=True)
     # Combine state and county to form FIPS
     df["FIPS"] = df["state"].str.zfill(2) + df["county"].str.zfill(3)
     df.to_csv("us_counties.csv", index=False)

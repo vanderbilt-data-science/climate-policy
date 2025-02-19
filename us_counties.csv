@@ -1,23 +1,23 @@
-NAME,state,county,stateName,countyName,FIPS
+NAME,state,county,countyName,stateName,FIPS
 "Fayette County, Illinois",17,051,Fayette County, Illinois,17051
 "Logan County, Illinois",17,107,Logan County, Illinois,17107
 "Saline County, Illinois",17,165,Saline County, Illinois,17165
-"Lake County, Illinois",17,097,Lake County, Illinois,17097
 "Massac County, Illinois",17,127,Massac County, Illinois,17127
 "Cass County, Illinois",17,017,Cass County, Illinois,17017
+"Grant County, Indiana",18,053,Grant County, Indiana,18053
+"Lake County, Illinois",17,097,Lake County, Illinois,17097
 "Huntington County, Indiana",18,069,Huntington County, Indiana,18069
-"White County, Indiana",18,181,White County, Indiana,18181
 "Jay County, Indiana",18,075,Jay County, Indiana,18075
-"Shelby County, Indiana",18,145,Shelby County, Indiana,18145
+"White County, Indiana",18,181,White County, Indiana,18181
 "Sullivan County, Indiana",18,153,Sullivan County, Indiana,18153
 "Tippecanoe County, Indiana",18,157,Tippecanoe County, Indiana,18157
-"Hamilton County, Indiana",18,057,Hamilton County, Indiana,18057
-"Bartholomew County, Indiana",18,005,Bartholomew County, Indiana,18005
-"Fulton County, Indiana",18,049,Fulton County, Indiana,18049
+"Shelby County, Indiana",18,145,Shelby County, Indiana,18145
 "Noble County, Indiana",18,113,Noble County, Indiana,18113
-"Clark County, Indiana",18,019,Clark County, Indiana,18019
+"Hamilton County, Indiana",18,057,Hamilton County, Indiana,18057
+"Fulton County, Indiana",18,049,Fulton County, Indiana,18049
 "Hendricks County, Indiana",18,063,Hendricks County, Indiana,18063
-"Grant County, Indiana",18,053,Grant County, Indiana,18053
+"Bartholomew County, Indiana",18,005,Bartholomew County, Indiana,18005
+"Clark County, Indiana",18,019,Clark County, Indiana,18019
 "Jackson County, Indiana",18,071,Jackson County, Indiana,18071
 "Owen County, Indiana",18,119,Owen County, Indiana,18119
 "Whitley County, Indiana",18,183,Whitley County, Indiana,18183
@@ -32,18 +32,18 @@ NAME,state,county,stateName,countyName,FIPS
 "Starke County, Indiana",18,149,Starke County, Indiana,18149
 "Greene County, Indiana",18,055,Greene County, Indiana,18055
 "Benton County, Iowa",19,011,Benton County, Iowa,19011
-"Dubuque County, Iowa",19,061,Dubuque County, Iowa,19061
-"Pocahontas County, Iowa",19,151,Pocahontas County, Iowa,19151
-"Van Buren County, Iowa",19,177,Van Buren County, Iowa,19177
 "Adams County, Iowa",19,003,Adams County, Iowa,19003
 "Audubon County, Iowa",19,009,Audubon County, Iowa,19009
-"Davis County, Iowa",19,051,Davis County, Iowa,19051
+"Hardin County, Iowa",19,083,Hardin County, Iowa,19083
+"Dubuque County, Iowa",19,061,Dubuque County, Iowa,19061
 "Ida County, Iowa",19,093,Ida County, Iowa,19093
-"Monroe County, Iowa",19,135,Monroe County, Iowa,19135
+"Pocahontas County, Iowa",19,151,Pocahontas County, Iowa,19151
+"Van Buren County, Iowa",19,177,Van Buren County, Iowa,19177
 "Sioux County, Iowa",19,167,Sioux County, Iowa,19167
+"Davis County, Iowa",19,051,Davis County, Iowa,19051
 "Calhoun County, Iowa",19,025,Calhoun County, Iowa,19025
 "Cerro Gordo County, Iowa",19,033,Cerro Gordo County, Iowa,19033
-"Hardin County, Iowa",19,083,Hardin County, Iowa,19083
+"Monroe County, Iowa",19,135,Monroe County, Iowa,19135
 "Lucas County, Iowa",19,117,Lucas County, Iowa,19117
 "Palo Alto County, Iowa",19,147,Palo Alto County, Iowa,19147
 "Henry County, Iowa",19,087,Henry County, Iowa,19087
@@ -80,32 +80,32 @@ NAME,state,county,stateName,countyName,FIPS
 "Sumter County, Georgia",13,261,Sumter County, Georgia,13261
 "Taliaferro County, Georgia",13,265,Taliaferro County, Georgia,13265
 "Warren County, Georgia",13,301,Warren County, Georgia,13301
-"Wayne County, Iowa",19,185,Wayne County, Iowa,19185
 "Scott County, Iowa",19,163,Scott County, Iowa,19163
+"Harvey County, Kansas",20,079,Harvey County, Kansas,20079
+"Wayne County, Iowa",19,185,Wayne County, Iowa,19185
+"Clark County, Kansas",20,025,Clark County, Kansas,20025
 "Sherman County, Kansas",20,181,Sherman County, Kansas,20181
 "Thomas County, Kansas",20,193,Thomas County, Kansas,20193
-"Morris County, Kansas",20,127,Morris County, Kansas,20127
 "Rooks County, Kansas",20,163,Rooks County, Kansas,20163
-"Clark County, Kansas",20,025,Clark County, Kansas,20025
+"Morris County, Kansas",20,127,Morris County, Kansas,20127
+"Pawnee County, Kansas",20,145,Pawnee County, Kansas,20145
 "Harper County, Kansas",20,077,Harper County, Kansas,20077
 "Lyon County, Kansas",20,111,Lyon County, Kansas,20111
-"Pawnee County, Kansas",20,145,Pawnee County, Kansas,20145
 "Comanche County, Kansas",20,033,Comanche County, Kansas,20033
 "Gove County, Kansas",20,063,Gove County, Kansas,20063
-"Harvey County, Kansas",20,079,Harvey County, Kansas,20079
 "Kearny County, Kansas",20,093,Kearny County, Kansas,20093
 "McPherson County, Kansas",20,113,McPherson County, Kansas,20113
-"Desha County, Arkansas",05,041,Desha County, Arkansas,05041
-"Fulton County, Arkansas",05,049,Fulton County, Arkansas,05049
-"Howard County, Arkansas",05,061,Howard County, Arkansas,05061
-"Garland County, Arkansas",05,051,Garland County, Arkansas,05051
 "Mississippi County, Arkansas",05,093,Mississippi County, Arkansas,05093
 "Pope County, Arkansas",05,115,Pope County, Arkansas,05115
 "Prairie County, Arkansas",05,117,Prairie County, Arkansas,05117
+"Cleveland County, Arkansas",05,025,Cleveland County, Arkansas,05025
+"Desha County, Arkansas",05,041,Desha County, Arkansas,05041
+"Cleburne County, Arkansas",05,023,Cleburne County, Arkansas,05023
+"Fulton County, Arkansas",05,049,Fulton County, Arkansas,05049
+"Howard County, Arkansas",05,061,Howard County, Arkansas,05061
+"Garland County, Arkansas",05,051,Garland County, Arkansas,05051
 "Union County, Arkansas",05,139,Union County, Arkansas,05139
 "Woodruff County, Arkansas",05,147,Woodruff County, Arkansas,05147
-"Cleburne County, Arkansas",05,023,Cleburne County, Arkansas,05023
-"Cleveland County, Arkansas",05,025,Cleveland County, Arkansas,05025
 "Jackson County, Arkansas",05,067,Jackson County, Arkansas,05067
 "Hempstead County, Arkansas",05,057,Hempstead County, Arkansas,05057
 "Sharp County, Arkansas",05,135,Sharp County, Arkansas,05135
@@ -124,20 +124,20 @@ NAME,state,county,stateName,countyName,FIPS
 "Monroe County, Arkansas",05,095,Monroe County, Arkansas,05095
 "Conway County, Arkansas",05,029,Conway County, Arkansas,05029
 "Newton County, Arkansas",05,101,Newton County, Arkansas,05101
-"Arkansas County, Arkansas",05,001,Arkansas County, Arkansas,05001
 "Lonoke County, Arkansas",05,085,Lonoke County, Arkansas,05085
 "Carroll County, Arkansas",05,015,Carroll County, Arkansas,05015
 "St. Francis County, Arkansas",05,123,St. Francis County, Arkansas,05123
 "Pulaski County, Arkansas",05,119,Pulaski County, Arkansas,05119
-"Merced County, California",06,047,Merced County, California,06047
-"Mariposa County, California",06,043,Mariposa County, California,06043
-"Modoc County, California",06,049,Modoc County, California,06049
 "Contra Costa County, California",06,013,Contra Costa County, California,06013
-"Inyo County, California",06,027,Inyo County, California,06027
 "Stanislaus County, California",06,099,Stanislaus County, California,06099
 "Santa Barbara County, California",06,083,Santa Barbara County, California,06083
 "Tehama County, California",06,103,Tehama County, California,06103
 "Mono County, California",06,051,Mono County, California,06051
+"Arkansas County, Arkansas",05,001,Arkansas County, Arkansas,05001
+"Merced County, California",06,047,Merced County, California,06047
+"Mariposa County, California",06,043,Mariposa County, California,06043
+"Modoc County, California",06,049,Modoc County, California,06049
+"Inyo County, California",06,027,Inyo County, California,06027
 "San Benito County, California",06,069,San Benito County, California,06069
 "Bryan County, Georgia",13,029,Bryan County, Georgia,13029
 "Butts County, Georgia",13,035,Butts County, Georgia,13035
@@ -163,12 +163,12 @@ NAME,state,county,stateName,countyName,FIPS
 "Honolulu County, Hawaii",15,003,Honolulu County, Hawaii,15003
 "Kauai County, Hawaii",15,007,Kauai County, Hawaii,15007
 "Kalawao County, Hawaii",15,005,Kalawao County, Hawaii,15005
+"Kootenai County, Idaho",16,055,Kootenai County, Idaho,16055
 "Cassia County, Idaho",16,031,Cassia County, Idaho,16031
+"Franklin County, Idaho",16,041,Franklin County, Idaho,16041
 "Lincoln County, Idaho",16,063,Lincoln County, Idaho,16063
 "Valley County, Idaho",16,085,Valley County, Idaho,16085
-"Franklin County, Idaho",16,041,Franklin County, Idaho,16041
 "Nez Perce County, Idaho",16,069,Nez Perce County, Idaho,16069
-"Kootenai County, Idaho",16,055,Kootenai County, Idaho,16055
 "Minidoka County, Idaho",16,067,Minidoka County, Idaho,16067
 "Twin Falls County, Idaho",16,083,Twin Falls County, Idaho,16083
 "Blaine County, Idaho",16,013,Blaine County, Idaho,16013
@@ -217,46 +217,43 @@ NAME,state,county,stateName,countyName,FIPS
 "Shasta County, California",06,089,Shasta County, California,06089
 "Solano County, California",06,095,Solano County, California,06095
 "Colusa County, California",06,011,Colusa County, California,06011
+"Scott County, Mississippi",28,123,Scott County, Mississippi,28123
 "Copiah County, Mississippi",28,029,Copiah County, Mississippi,28029
 "Hinds County, Mississippi",28,049,Hinds County, Mississippi,28049
+"Forrest County, Mississippi",28,035,Forrest County, Mississippi,28035
+"Jefferson Davis County, Mississippi",28,065,Jefferson Davis County, Mississippi,28065
 "Union County, Mississippi",28,145,Union County, Mississippi,28145
 "Tippah County, Mississippi",28,139,Tippah County, Mississippi,28139
-"Forrest County, Mississippi",28,035,Forrest County, Mississippi,28035
 "Lafayette County, Mississippi",28,071,Lafayette County, Mississippi,28071
 "Lowndes County, Mississippi",28,087,Lowndes County, Mississippi,28087
 "Wilkinson County, Mississippi",28,157,Wilkinson County, Mississippi,28157
-"Jefferson Davis County, Mississippi",28,065,Jefferson Davis County, Mississippi,28065
-"Scott County, Mississippi",28,123,Scott County, Mississippi,28123
 "Yazoo County, Mississippi",28,163,Yazoo County, Mississippi,28163
-"Bolivar County, Mississippi",28,011,Bolivar County, Mississippi,28011
 "Pike County, Mississippi",28,113,Pike County, Mississippi,28113
 "Stone County, Mississippi",28,131,Stone County, Mississippi,28131
 "Kemper County, Mississippi",28,069,Kemper County, Mississippi,28069
 "Sunflower County, Mississippi",28,133,Sunflower County, Mississippi,28133
-"Adams County, Mississippi",28,001,Adams County, Mississippi,28001
 "DeSoto County, Mississippi",28,033,DeSoto County, Mississippi,28033
+"Barton County, Missouri",29,011,Barton County, Missouri,29011
+"Douglas County, Missouri",29,067,Douglas County, Missouri,29067
+"Bolivar County, Mississippi",28,011,Bolivar County, Mississippi,28011
+"Adams County, Mississippi",28,001,Adams County, Mississippi,28001
 "Delaware County, Pennsylvania",42,045,Delaware County, Pennsylvania,42045
 "Somerset County, Pennsylvania",42,111,Somerset County, Pennsylvania,42111
 "Madison County, Missouri",29,123,Madison County, Missouri,29123
-"Vernon County, Missouri",29,217,Vernon County, Missouri,29217
 "Nodaway County, Missouri",29,147,Nodaway County, Missouri,29147
-"Chariton County, Missouri",29,041,Chariton County, Missouri,29041
-"Wayne County, Missouri",29,223,Wayne County, Missouri,29223
-"Scott County, Missouri",29,201,Scott County, Missouri,29201
-"Barton County, Missouri",29,011,Barton County, Missouri,29011
-"Cedar County, Missouri",29,039,Cedar County, Missouri,29039
-"Gasconade County, Missouri",29,073,Gasconade County, Missouri,29073
 "Macon County, Missouri",29,121,Macon County, Missouri,29121
 "Oregon County, Missouri",29,149,Oregon County, Missouri,29149
+"Vernon County, Missouri",29,217,Vernon County, Missouri,29217
+"Wayne County, Missouri",29,223,Wayne County, Missouri,29223
+"Chariton County, Missouri",29,041,Chariton County, Missouri,29041
+"Cedar County, Missouri",29,039,Cedar County, Missouri,29039
+"Gasconade County, Missouri",29,073,Gasconade County, Missouri,29073
+"Scott County, Missouri",29,201,Scott County, Missouri,29201
 "Ste. Genevieve County, Missouri",29,186,Ste. Genevieve County, Missouri,29186
-"Douglas County, Missouri",29,067,Douglas County, Missouri,29067
-"Henry County, Missouri",29,083,Henry County, Missouri,29083
-"Lawrence County, Missouri",29,109,Lawrence County, Missouri,29109
 "Pulaski County, Missouri",29,169,Pulaski County, Missouri,29169
 "Texas County, Missouri",29,215,Texas County, Missouri,29215
 "Callaway County, Missouri",29,027,Callaway County, Missouri,29027
 "Cooper County, Missouri",29,053,Cooper County, Missouri,29053
-"Gentry County, Missouri",29,075,Gentry County, Missouri,29075
 "Washington County, Virginia",51,191,Washington County, Virginia,51191
 "Page County, Virginia",51,139,Page County, Virginia,51139
 "Alexandria city, Virginia",51,510,Alexandria city, Virginia,51510
@@ -273,21 +270,10 @@ NAME,state,county,stateName,countyName,FIPS
 "Salem city, Virginia",51,775,Salem city, Virginia,51775
 "Charlotte County, Virginia",51,037,Charlotte County, Virginia,51037
 "Greensville County, Virginia",51,081,Greensville County, Virginia,51081
-"Thurston County, Washington",53,067,Thurston County, Washington,53067
 "Columbia County, Washington",53,013,Columbia County, Washington,53013
-"Guayanilla Municipio, Puerto Rico",72,059,Guayanilla Municipio, Puerto Rico,72059
-"Sabana Grande Municipio, Puerto Rico",72,121,Sabana Grande Municipio, Puerto Rico,72121
-"Hormigueros Municipio, Puerto Rico",72,067,Hormigueros Municipio, Puerto Rico,72067
-"Utuado Municipio, Puerto Rico",72,141,Utuado Municipio, Puerto Rico,72141
-"Florida Municipio, Puerto Rico",72,054,Florida Municipio, Puerto Rico,72054
-"Moca Municipio, Puerto Rico",72,099,Moca Municipio, Puerto Rico,72099
-"Salinas Municipio, Puerto Rico",72,123,Salinas Municipio, Puerto Rico,72123
 "Mississippi County, Missouri",29,133,Mississippi County, Missouri,29133
 "Ozark County, Missouri",29,153,Ozark County, Missouri,29153
 "Bollinger County, Missouri",29,017,Bollinger County, Missouri,29017
-"Sumner County, Tennessee",47,165,Sumner County, Tennessee,47165
-"Trousdale County, Tennessee",47,169,Trousdale County, Tennessee,47169
-"Clay County, Tennessee",47,027,Clay County, Tennessee,47027
 "Moultrie County, Illinois",17,139,Moultrie County, Illinois,17139
 "Pike County, Illinois",17,149,Pike County, Illinois,17149
 "Pope County, Illinois",17,151,Pope County, Illinois,17151
@@ -321,15 +307,10 @@ NAME,state,county,stateName,countyName,FIPS
 "Richland County, Illinois",17,159,Richland County, Illinois,17159
 "Washington County, Illinois",17,189,Washington County, Illinois,17189
 "Washington County, Oregon",41,067,Washington County, Oregon,41067
-"Clatsop County, Oregon",41,007,Clatsop County, Oregon,41007
 "Cameron County, Pennsylvania",42,023,Cameron County, Pennsylvania,42023
 "Bucks County, Pennsylvania",42,017,Bucks County, Pennsylvania,42017
-"Lehigh County, Pennsylvania",42,077,Lehigh County, Pennsylvania,42077
 "Clarion County, Pennsylvania",42,031,Clarion County, Pennsylvania,42031
-"Greene County, Pennsylvania",42,059,Greene County, Pennsylvania,42059
-"Luzerne County, Pennsylvania",42,079,Luzerne County, Pennsylvania,42079
 "Columbia County, Pennsylvania",42,037,Columbia County, Pennsylvania,42037
-"Jefferson County, Pennsylvania",42,065,Jefferson County, Pennsylvania,42065
 "Perry County, Pennsylvania",42,099,Perry County, Pennsylvania,42099
 "Sullivan County, Pennsylvania",42,113,Sullivan County, Pennsylvania,42113
 "Kent County, Rhode Island",44,003,Kent County, Rhode Island,44003
@@ -344,8 +325,6 @@ NAME,state,county,stateName,countyName,FIPS
 "Jasper County, South Carolina",45,053,Jasper County, South Carolina,45053
 "Lee County, South Carolina",45,061,Lee County, South Carolina,45061
 "Abbeville County, South Carolina",45,001,Abbeville County, South Carolina,45001
-"Lyman County, South Dakota",46,085,Lyman County, South Dakota,46085
-"Deuel County, South Dakota",46,039,Deuel County, South Dakota,46039
 "Glenn County, California",06,021,Glenn County, California,06021
 "Butte County, California",06,007,Butte County, California,06007
 "Kings County, California",06,031,Kings County, California,06031
@@ -407,15 +386,36 @@ NAME,state,county,stateName,countyName,FIPS
 "District of Columbia, District of Columbia",11,001,District of Columbia, District of Columbia,11001
 "New Haven County, Connecticut",09,009,New Haven County, Connecticut,09009
 "Hartford County, Connecticut",09,003,Hartford County, Connecticut,09003
+"Haywood County, Tennessee",47,075,Haywood County, Tennessee,47075
+"Henry County, Missouri",29,083,Henry County, Missouri,29083
+"Lawrence County, Missouri",29,109,Lawrence County, Missouri,29109
+"Gentry County, Missouri",29,075,Gentry County, Missouri,29075
+"Thurston County, Washington",53,067,Thurston County, Washington,53067
+"Guayanilla Municipio, Puerto Rico",72,059,Guayanilla Municipio, Puerto Rico,72059
+"Hormigueros Municipio, Puerto Rico",72,067,Hormigueros Municipio, Puerto Rico,72067
+"Florida Municipio, Puerto Rico",72,054,Florida Municipio, Puerto Rico,72054
+"Sabana Grande Municipio, Puerto Rico",72,121,Sabana Grande Municipio, Puerto Rico,72121
+"Moca Municipio, Puerto Rico",72,099,Moca Municipio, Puerto Rico,72099
+"Salinas Municipio, Puerto Rico",72,123,Salinas Municipio, Puerto Rico,72123
+"Utuado Municipio, Puerto Rico",72,141,Utuado Municipio, Puerto Rico,72141
+"Sumner County, Tennessee",47,165,Sumner County, Tennessee,47165
+"Trousdale County, Tennessee",47,169,Trousdale County, Tennessee,47169
 "Shelby County, Tennessee",47,157,Shelby County, Tennessee,47157
+"Sequatchie County, Tennessee",47,153,Sequatchie County, Tennessee,47153
+"Clay County, Tennessee",47,027,Clay County, Tennessee,47027
+"Davidson County, Tennessee",47,037,Davidson County, Tennessee,47037
+"Clatsop County, Oregon",41,007,Clatsop County, Oregon,41007
+"Lehigh County, Pennsylvania",42,077,Lehigh County, Pennsylvania,42077
+"Greene County, Pennsylvania",42,059,Greene County, Pennsylvania,42059
+"Luzerne County, Pennsylvania",42,079,Luzerne County, Pennsylvania,42079
+"Jefferson County, Pennsylvania",42,065,Jefferson County, Pennsylvania,42065
+"Lyman County, South Dakota",46,085,Lyman County, South Dakota,46085
+"Deuel County, South Dakota",46,039,Deuel County, South Dakota,46039
 "Henderson County, Tennessee",47,077,Henderson County, Tennessee,47077
 "Jefferson County, Tennessee",47,089,Jefferson County, Tennessee,47089
-"Sequatchie County, Tennessee",47,153,Sequatchie County, Tennessee,47153
 "Carroll County, Tennessee",47,017,Carroll County, Tennessee,47017
-"Davidson County, Tennessee",47,037,Davidson County, Tennessee,47037
 "Perry County, Tennessee",47,135,Perry County, Tennessee,47135
 "Meigs County, Tennessee",47,121,Meigs County, Tennessee,47121
-"Haywood County, Tennessee",47,075,Haywood County, Tennessee,47075
 "Montgomery County, Tennessee",47,125,Montgomery County, Tennessee,47125
 "Grundy County, Tennessee",47,061,Grundy County, Tennessee,47061
 "Cocke County, Tennessee",47,029,Cocke County, Tennessee,47029
@@ -428,16 +428,16 @@ NAME,state,county,stateName,countyName,FIPS
 "Polk County, Tennessee",47,139,Polk County, Tennessee,47139
 "White County, Tennessee",47,185,White County, Tennessee,47185
 "Sullivan County, Tennessee",47,163,Sullivan County, Tennessee,47163
-"Schoharie County, New York",36,095,Schoharie County, New York,36095
-"Fulton County, New York",36,035,Fulton County, New York,36035
-"Rensselaer County, New York",36,083,Rensselaer County, New York,36083
-"Franklin County, New York",36,033,Franklin County, New York,36033
-"Queens County, New York",36,081,Queens County, New York,36081
-"Washington County, New York",36,115,Washington County, New York,36115
-"New York County, New York",36,061,New York County, New York,36061
-"Cayuga County, New York",36,011,Cayuga County, New York,36011
-"Rockland County, New York",36,087,Rockland County, New York,36087
 "Niagara County, New York",36,063,Niagara County, New York,36063
+"Schoharie County, New York",36,095,Schoharie County, New York,36095
+"Rensselaer County, New York",36,083,Rensselaer County, New York,36083
+"Queens County, New York",36,081,Queens County, New York,36081
+"Rockland County, New York",36,087,Rockland County, New York,36087
+"Fulton County, New York",36,035,Fulton County, New York,36035
+"Franklin County, New York",36,033,Franklin County, New York,36033
+"New York County, New York",36,061,New York County, New York,36061
+"Washington County, New York",36,115,Washington County, New York,36115
+"Cayuga County, New York",36,011,Cayuga County, New York,36011
 "Essex County, New York",36,031,Essex County, New York,36031
 "Nassau County, New York",36,059,Nassau County, New York,36059
 "Schuyler County, New York",36,097,Schuyler County, New York,36097
@@ -453,7 +453,6 @@ NAME,state,county,stateName,countyName,FIPS
 "Sullivan County, New York",36,105,Sullivan County, New York,36105
 "Orange County, New York",36,071,Orange County, New York,36071
 "Haywood County, North Carolina",37,087,Haywood County, North Carolina,37087
-"Forsyth County, North Carolina",37,067,Forsyth County, North Carolina,37067
 "Lake County, Indiana",18,089,Lake County, Indiana,18089
 "Montgomery County, Indiana",18,107,Montgomery County, Indiana,18107
 "Adams County, Indiana",18,001,Adams County, Indiana,18001
@@ -477,39 +476,39 @@ NAME,state,county,stateName,countyName,FIPS
 "Pike County, Indiana",18,125,Pike County, Indiana,18125
 "Pulaski County, Indiana",18,131,Pulaski County, Indiana,18131
 "Steuben County, Indiana",18,151,Steuben County, Indiana,18151
+"Reeves County, Texas",48,389,Reeves County, Texas,48389
+"Forsyth County, North Carolina",37,067,Forsyth County, North Carolina,37067
 "Laramie County, Wyoming",56,021,Laramie County, Wyoming,56021
 "Teton County, Wyoming",56,039,Teton County, Wyoming,56039
 "San Jacinto County, Texas",48,407,San Jacinto County, Texas,48407
+"Roberts County, Texas",48,393,Roberts County, Texas,48393
+"Somervell County, Texas",48,425,Somervell County, Texas,48425
 "Upshur County, Texas",48,459,Upshur County, Texas,48459
+"Uvalde County, Texas",48,463,Uvalde County, Texas,48463
 "Waller County, Texas",48,473,Waller County, Texas,48473
 "Wilson County, Texas",48,493,Wilson County, Texas,48493
 "Hockley County, Texas",48,219,Hockley County, Texas,48219
+"Jack County, Texas",48,237,Jack County, Texas,48237
 "Midland County, Texas",48,329,Midland County, Texas,48329
 "Llano County, Texas",48,299,Llano County, Texas,48299
 "Fannin County, Texas",48,147,Fannin County, Texas,48147
-"Brazos County, Texas",48,041,Brazos County, Texas,48041
 "Gaines County, Texas",48,165,Gaines County, Texas,48165
-"Gray County, Texas",48,179,Gray County, Texas,48179
-"Jack County, Texas",48,237,Jack County, Texas,48237
+"Galveston County, Texas",48,167,Galveston County, Texas,48167
+"Brazos County, Texas",48,041,Brazos County, Texas,48041
 "Bosque County, Texas",48,035,Bosque County, Texas,48035
 "Bexar County, Texas",48,029,Bexar County, Texas,48029
 "Baylor County, Texas",48,023,Baylor County, Texas,48023
-"Denton County, Texas",48,121,Denton County, Texas,48121
-"Galveston County, Texas",48,167,Galveston County, Texas,48167
-"Roberts County, Texas",48,393,Roberts County, Texas,48393
-"Uvalde County, Texas",48,463,Uvalde County, Texas,48463
 "Bowie County, Texas",48,037,Bowie County, Texas,48037
-"Kent County, Texas",48,263,Kent County, Texas,48263
-"Somervell County, Texas",48,425,Somervell County, Texas,48425
+"Gray County, Texas",48,179,Gray County, Texas,48179
 "Hardin County, Texas",48,199,Hardin County, Texas,48199
+"Denton County, Texas",48,121,Denton County, Texas,48121
+"Kent County, Texas",48,263,Kent County, Texas,48263
 "Leon County, Texas",48,289,Leon County, Texas,48289
 "Newton County, Texas",48,351,Newton County, Texas,48351
-"Reeves County, Texas",48,389,Reeves County, Texas,48389
 "Travis County, Texas",48,453,Travis County, Texas,48453
 "Collingsworth County, Texas",48,087,Collingsworth County, Texas,48087
 "Erath County, Texas",48,143,Erath County, Texas,48143
 "Motley County, Texas",48,345,Motley County, Texas,48345
-"Coleman County, Texas",48,083,Coleman County, Texas,48083
 "Medina County, Texas",48,325,Medina County, Texas,48325
 "Henderson County, Texas",48,213,Henderson County, Texas,48213
 "Lamar County, Texas",48,277,Lamar County, Texas,48277
@@ -522,7 +521,6 @@ NAME,state,county,stateName,countyName,FIPS
 "Zapata County, Texas",48,505,Zapata County, Texas,48505
 "Hood County, Texas",48,221,Hood County, Texas,48221
 "King County, Texas",48,269,King County, Texas,48269
-"Cherokee County, Texas",48,073,Cherokee County, Texas,48073
 "Delta County, Texas",48,119,Delta County, Texas,48119
 "Jones County, Texas",48,253,Jones County, Texas,48253
 "Windham County, Connecticut",09,015,Windham County, Connecticut,09015
@@ -531,17 +529,19 @@ NAME,state,county,stateName,countyName,FIPS
 "Tolland County, Connecticut",09,013,Tolland County, Connecticut,09013
 "Fairfield County, Connecticut",09,001,Fairfield County, Connecticut,09001
 "Washington County, Florida",12,133,Washington County, Florida,12133
-"Duval County, Florida",12,031,Duval County, Florida,12031
 "Bradford County, Florida",12,007,Bradford County, Florida,12007
 "Brevard County, Florida",12,009,Brevard County, Florida,12009
-"Clay County, Florida",12,019,Clay County, Florida,12019
-"Lafayette County, Florida",12,067,Lafayette County, Florida,12067
-"Lake County, Florida",12,069,Lake County, Florida,12069
-"Nassau County, Florida",12,089,Nassau County, Florida,12089
 "Pinellas County, Florida",12,103,Pinellas County, Florida,12103
 "Polk County, Florida",12,105,Polk County, Florida,12105
 "St. Lucie County, Florida",12,111,St. Lucie County, Florida,12111
 "Glades County, Florida",12,043,Glades County, Florida,12043
+"Coleman County, Texas",48,083,Coleman County, Texas,48083
+"Cherokee County, Texas",48,073,Cherokee County, Texas,48073
+"Duval County, Florida",12,031,Duval County, Florida,12031
+"Clay County, Florida",12,019,Clay County, Florida,12019
+"Lafayette County, Florida",12,067,Lafayette County, Florida,12067
+"Lake County, Florida",12,069,Lake County, Florida,12069
+"Nassau County, Florida",12,089,Nassau County, Florida,12089
 "Hendry County, Florida",12,051,Hendry County, Florida,12051
 "Indian River County, Florida",12,061,Indian River County, Florida,12061
 "Jackson County, Florida",12,063,Jackson County, Florida,12063
@@ -641,35 +641,35 @@ NAME,state,county,stateName,countyName,FIPS
 "Bladen County, North Carolina",37,017,Bladen County, North Carolina,37017
 "Carteret County, North Carolina",37,031,Carteret County, North Carolina,37031
 "Bertie County, North Carolina",37,015,Bertie County, North Carolina,37015
-"Martin County, North Carolina",37,117,Martin County, North Carolina,37117
-"Perquimans County, North Carolina",37,143,Perquimans County, North Carolina,37143
-"Rockingham County, North Carolina",37,157,Rockingham County, North Carolina,37157
 "Camden County, North Carolina",37,029,Camden County, North Carolina,37029
 "Gaston County, North Carolina",37,071,Gaston County, North Carolina,37071
-"Moore County, North Carolina",37,125,Moore County, North Carolina,37125
-"Stanly County, North Carolina",37,167,Stanly County, North Carolina,37167
-"Yancey County, North Carolina",37,199,Yancey County, North Carolina,37199
 "Chatham County, North Carolina",37,037,Chatham County, North Carolina,37037
 "Johnston County, North Carolina",37,101,Johnston County, North Carolina,37101
-"Person County, North Carolina",37,145,Person County, North Carolina,37145
 "Ashe County, North Carolina",37,009,Ashe County, North Carolina,37009
 "Lenoir County, North Carolina",37,107,Lenoir County, North Carolina,37107
 "Onslow County, North Carolina",37,133,Onslow County, North Carolina,37133
+"Martin County, North Carolina",37,117,Martin County, North Carolina,37117
+"Perquimans County, North Carolina",37,143,Perquimans County, North Carolina,37143
+"Moore County, North Carolina",37,125,Moore County, North Carolina,37125
+"Person County, North Carolina",37,145,Person County, North Carolina,37145
+"Rockingham County, North Carolina",37,157,Rockingham County, North Carolina,37157
+"Stanly County, North Carolina",37,167,Stanly County, North Carolina,37167
+"Yancey County, North Carolina",37,199,Yancey County, North Carolina,37199
 "Rutherford County, North Carolina",37,161,Rutherford County, North Carolina,37161
 "Yadkin County, North Carolina",37,197,Yadkin County, North Carolina,37197
 "Burke County, North Carolina",37,023,Burke County, North Carolina,37023
 "Traill County, North Dakota",38,097,Traill County, North Dakota,38097
 "Dickey County, North Dakota",38,021,Dickey County, North Dakota,38021
 "Ward County, North Dakota",38,101,Ward County, North Dakota,38101
-"Pembina County, North Dakota",38,067,Pembina County, North Dakota,38067
 "Hettinger County, North Dakota",38,041,Hettinger County, North Dakota,38041
 "Cass County, North Dakota",38,017,Cass County, North Dakota,38017
 "Emmons County, North Dakota",38,029,Emmons County, North Dakota,38029
-"Richland County, North Dakota",38,077,Richland County, North Dakota,38077
 "Adams County, North Dakota",38,001,Adams County, North Dakota,38001
 "Eddy County, North Dakota",38,027,Eddy County, North Dakota,38027
-"Mercer County, North Dakota",38,057,Mercer County, North Dakota,38057
 "Ransom County, North Dakota",38,073,Ransom County, North Dakota,38073
+"Pembina County, North Dakota",38,067,Pembina County, North Dakota,38067
+"Richland County, North Dakota",38,077,Richland County, North Dakota,38077
+"Mercer County, North Dakota",38,057,Mercer County, North Dakota,38057
 "Sioux County, North Dakota",38,085,Sioux County, North Dakota,38085
 "Golden Valley County, North Dakota",38,033,Golden Valley County, North Dakota,38033
 "Towner County, North Dakota",38,095,Towner County, North Dakota,38095
@@ -721,7 +721,6 @@ NAME,state,county,stateName,countyName,FIPS
 "Seward County, Kansas",20,175,Seward County, Kansas,20175
 "Johnson County, Kansas",20,091,Johnson County, Kansas,20091
 "Miami County, Kansas",20,121,Miami County, Kansas,20121
-"Woodson County, Kansas",20,207,Woodson County, Kansas,20207
 "Ness County, Kansas",20,135,Ness County, Kansas,20135
 "Bourbon County, Kansas",20,011,Bourbon County, Kansas,20011
 "Kiowa County, Kansas",20,097,Kiowa County, Kansas,20097
@@ -734,19 +733,20 @@ NAME,state,county,stateName,countyName,FIPS
 "Brown County, Kansas",20,013,Brown County, Kansas,20013
 "Phillips County, Kansas",20,147,Phillips County, Kansas,20147
 "Decatur County, Kansas",20,039,Decatur County, Kansas,20039
+"Caldwell County, Kentucky",21,033,Caldwell County, Kentucky,21033
+"Woodson County, Kansas",20,207,Woodson County, Kansas,20207
+"Barren County, Kentucky",21,009,Barren County, Kentucky,21009
 "Garrard County, Kentucky",21,079,Garrard County, Kentucky,21079
+"Hancock County, Kentucky",21,091,Hancock County, Kentucky,21091
+"Hardin County, Kentucky",21,093,Hardin County, Kentucky,21093
 "Campbell County, Kentucky",21,037,Campbell County, Kentucky,21037
 "Elliott County, Kentucky",21,063,Elliott County, Kentucky,21063
 "Larue County, Kentucky",21,123,Larue County, Kentucky,21123
+"McLean County, Kentucky",21,149,McLean County, Kentucky,21149
 "Mercer County, Kentucky",21,167,Mercer County, Kentucky,21167
+"Powell County, Kentucky",21,197,Powell County, Kentucky,21197
 "Russell County, Kentucky",21,207,Russell County, Kentucky,21207
 "Washington County, Kentucky",21,229,Washington County, Kentucky,21229
-"Barren County, Kentucky",21,009,Barren County, Kentucky,21009
-"Hancock County, Kentucky",21,091,Hancock County, Kentucky,21091
-"Hardin County, Kentucky",21,093,Hardin County, Kentucky,21093
-"McLean County, Kentucky",21,149,McLean County, Kentucky,21149
-"Powell County, Kentucky",21,197,Powell County, Kentucky,21197
-"Caldwell County, Kentucky",21,033,Caldwell County, Kentucky,21033
 "Boyd County, Kentucky",21,019,Boyd County, Kentucky,21019
 "Fayette County, Kentucky",21,067,Fayette County, Kentucky,21067
 "Johnson County, Kentucky",21,115,Johnson County, Kentucky,21115
@@ -790,14 +790,14 @@ NAME,state,county,stateName,countyName,FIPS
 "Taylor County, Kentucky",21,217,Taylor County, Kentucky,21217
 "Carlisle County, Kentucky",21,039,Carlisle County, Kentucky,21039
 "Estill County, Kentucky",21,065,Estill County, Kentucky,21065
+"West Baton Rouge Parish, Louisiana",22,121,West Baton Rouge Parish, Louisiana,22121
 "Rapides Parish, Louisiana",22,079,Rapides Parish, Louisiana,22079
+"St. Bernard Parish, Louisiana",22,087,St. Bernard Parish, Louisiana,22087
 "Tangipahoa Parish, Louisiana",22,105,Tangipahoa Parish, Louisiana,22105
 "West Carroll Parish, Louisiana",22,123,West Carroll Parish, Louisiana,22123
 "Caldwell Parish, Louisiana",22,021,Caldwell Parish, Louisiana,22021
 "East Carroll Parish, Louisiana",22,035,East Carroll Parish, Louisiana,22035
 "Evangeline Parish, Louisiana",22,039,Evangeline Parish, Louisiana,22039
-"St. Bernard Parish, Louisiana",22,087,St. Bernard Parish, Louisiana,22087
-"West Baton Rouge Parish, Louisiana",22,121,West Baton Rouge Parish, Louisiana,22121
 "Red River Parish, Louisiana",22,081,Red River Parish, Louisiana,22081
 "Natchitoches Parish, Louisiana",22,069,Natchitoches Parish, Louisiana,22069
 "Catahoula Parish, Louisiana",22,025,Catahoula Parish, Louisiana,22025
@@ -815,22 +815,22 @@ NAME,state,county,stateName,countyName,FIPS
 "Talbot County, Maryland",24,041,Talbot County, Maryland,24041
 "Barnstable County, Massachusetts",25,001,Barnstable County, Massachusetts,25001
 "Berkshire County, Massachusetts",25,003,Berkshire County, Massachusetts,25003
+"Allegan County, Michigan",26,005,Allegan County, Michigan,26005
 "Plymouth County, Massachusetts",25,023,Plymouth County, Massachusetts,25023
 "Norfolk County, Massachusetts",25,021,Norfolk County, Massachusetts,25021
 "Nantucket County, Massachusetts",25,019,Nantucket County, Massachusetts,25019
-"Allegan County, Michigan",26,005,Allegan County, Michigan,26005
 "Alger County, Michigan",26,003,Alger County, Michigan,26003
-"Oceana County, Michigan",26,127,Oceana County, Michigan,26127
-"Clare County, Michigan",26,035,Clare County, Michigan,26035
-"Isabella County, Michigan",26,073,Isabella County, Michigan,26073
-"Tuscola County, Michigan",26,157,Tuscola County, Michigan,26157
 "Alpena County, Michigan",26,007,Alpena County, Michigan,26007
+"Montcalm County, Michigan",26,117,Montcalm County, Michigan,26117
+"Oceana County, Michigan",26,127,Oceana County, Michigan,26127
 "Midland County, Michigan",26,111,Midland County, Michigan,26111
 "Oscoda County, Michigan",26,135,Oscoda County, Michigan,26135
+"Clare County, Michigan",26,035,Clare County, Michigan,26035
 "Clinton County, Michigan",26,037,Clinton County, Michigan,26037
 "Gratiot County, Michigan",26,057,Gratiot County, Michigan,26057
+"Isabella County, Michigan",26,073,Isabella County, Michigan,26073
 "Lenawee County, Michigan",26,091,Lenawee County, Michigan,26091
-"Montcalm County, Michigan",26,117,Montcalm County, Michigan,26117
+"Tuscola County, Michigan",26,157,Tuscola County, Michigan,26157
 "St. Clair County, Michigan",26,147,St. Clair County, Michigan,26147
 "Washtenaw County, Michigan",26,161,Washtenaw County, Michigan,26161
 "Cass County, Michigan",26,027,Cass County, Michigan,26027
@@ -892,19 +892,19 @@ NAME,state,county,stateName,countyName,FIPS
 "Rush County, Indiana",18,139,Rush County, Indiana,18139
 "Boone County, Indiana",18,011,Boone County, Indiana,18011
 "Gogebic County, Michigan",26,053,Gogebic County, Michigan,26053
-"Meeker County, Minnesota",27,093,Meeker County, Minnesota,27093
-"Rice County, Minnesota",27,131,Rice County, Minnesota,27131
-"Red Lake County, Minnesota",27,125,Red Lake County, Minnesota,27125
 "Clay County, Minnesota",27,027,Clay County, Minnesota,27027
-"Fillmore County, Minnesota",27,045,Fillmore County, Minnesota,27045
-"Polk County, Minnesota",27,119,Polk County, Minnesota,27119
-"Sibley County, Minnesota",27,143,Sibley County, Minnesota,27143
 "Watonwan County, Minnesota",27,165,Watonwan County, Minnesota,27165
 "Big Stone County, Minnesota",27,011,Big Stone County, Minnesota,27011
 "Cass County, Minnesota",27,021,Cass County, Minnesota,27021
-"Hubbard County, Minnesota",27,057,Hubbard County, Minnesota,27057
-"Martin County, Minnesota",27,091,Martin County, Minnesota,27091
 "Nobles County, Minnesota",27,105,Nobles County, Minnesota,27105
+"Meeker County, Minnesota",27,093,Meeker County, Minnesota,27093
+"Martin County, Minnesota",27,091,Martin County, Minnesota,27091
+"Rice County, Minnesota",27,131,Rice County, Minnesota,27131
+"Red Lake County, Minnesota",27,125,Red Lake County, Minnesota,27125
+"Polk County, Minnesota",27,119,Polk County, Minnesota,27119
+"Sibley County, Minnesota",27,143,Sibley County, Minnesota,27143
+"Fillmore County, Minnesota",27,045,Fillmore County, Minnesota,27045
+"Hubbard County, Minnesota",27,057,Hubbard County, Minnesota,27057
 "Sherburne County, Minnesota",27,141,Sherburne County, Minnesota,27141
 "Carver County, Minnesota",27,019,Carver County, Minnesota,27019
 "McLeod County, Minnesota",27,085,McLeod County, Minnesota,27085
@@ -917,25 +917,25 @@ NAME,state,county,stateName,countyName,FIPS
 "Mille Lacs County, Minnesota",27,095,Mille Lacs County, Minnesota,27095
 "Carlton County, Minnesota",27,017,Carlton County, Minnesota,27017
 "Kanabec County, Minnesota",27,065,Kanabec County, Minnesota,27065
+"Lamar County, Alabama",01,075,Lamar County, Alabama,01075
 "St. Clair County, Alabama",01,115,St. Clair County, Alabama,01115
-"Cullman County, Alabama",01,043,Cullman County, Alabama,01043
-"Houston County, Alabama",01,069,Houston County, Alabama,01069
 "Tuscaloosa County, Alabama",01,125,Tuscaloosa County, Alabama,01125
+"Cullman County, Alabama",01,043,Cullman County, Alabama,01043
 "Coffee County, Alabama",01,031,Coffee County, Alabama,01031
 "Chilton County, Alabama",01,021,Chilton County, Alabama,01021
 "Coosa County, Alabama",01,037,Coosa County, Alabama,01037
+"Houston County, Alabama",01,069,Houston County, Alabama,01069
 "Etowah County, Alabama",01,055,Etowah County, Alabama,01055
-"Lamar County, Alabama",01,075,Lamar County, Alabama,01075
 "Butler County, Alabama",01,013,Butler County, Alabama,01013
 "Walker County, Alabama",01,127,Walker County, Alabama,01127
 "Greene County, Alabama",01,063,Greene County, Alabama,01063
 "Bullock County, Alabama",01,011,Bullock County, Alabama,01011
 "Chambers County, Alabama",01,017,Chambers County, Alabama,01017
+"Yukon-Koyukuk Census Area, Alaska",02,290,Yukon-Koyukuk Census Area, Alaska,02290
+"Hoonah-Angoon Census Area, Alaska",02,105,Hoonah-Angoon Census Area, Alaska,02105
 "Haines Borough, Alaska",02,100,Haines Borough, Alaska,02100
 "Juneau City and Borough, Alaska",02,110,Juneau City and Borough, Alaska,02110
-"Yukon-Koyukuk Census Area, Alaska",02,290,Yukon-Koyukuk Census Area, Alaska,02290
 "Denali Borough, Alaska",02,068,Denali Borough, Alaska,02068
-"Hoonah-Angoon Census Area, Alaska",02,105,Hoonah-Angoon Census Area, Alaska,02105
 "Wrangell City and Borough, Alaska",02,275,Wrangell City and Borough, Alaska,02275
 "Pima County, Arizona",04,019,Pima County, Arizona,04019
 "Gila County, Arizona",04,007,Gila County, Arizona,04007
@@ -1079,15 +1079,15 @@ NAME,state,county,stateName,countyName,FIPS
 "Montgomery County, Ohio",39,113,Montgomery County, Ohio,39113
 "Warren County, Ohio",39,165,Warren County, Ohio,39165
 "Ashtabula County, Ohio",39,007,Ashtabula County, Ohio,39007
-"Kay County, Oklahoma",40,071,Kay County, Oklahoma,40071
-"Craig County, Oklahoma",40,035,Craig County, Oklahoma,40035
-"Canadian County, Oklahoma",40,017,Canadian County, Oklahoma,40017
-"Latimer County, Oklahoma",40,077,Latimer County, Oklahoma,40077
-"Texas County, Oklahoma",40,139,Texas County, Oklahoma,40139
-"Pushmataha County, Oklahoma",40,127,Pushmataha County, Oklahoma,40127
-"Johnston County, Oklahoma",40,069,Johnston County, Oklahoma,40069
 "Beaver County, Oklahoma",40,007,Beaver County, Oklahoma,40007
 "Hughes County, Oklahoma",40,063,Hughes County, Oklahoma,40063
+"Kay County, Oklahoma",40,071,Kay County, Oklahoma,40071
+"Latimer County, Oklahoma",40,077,Latimer County, Oklahoma,40077
+"Johnston County, Oklahoma",40,069,Johnston County, Oklahoma,40069
+"Craig County, Oklahoma",40,035,Craig County, Oklahoma,40035
+"Canadian County, Oklahoma",40,017,Canadian County, Oklahoma,40017
+"Texas County, Oklahoma",40,139,Texas County, Oklahoma,40139
+"Pushmataha County, Oklahoma",40,127,Pushmataha County, Oklahoma,40127
 "Comanche County, Oklahoma",40,031,Comanche County, Oklahoma,40031
 "Adair County, Oklahoma",40,001,Adair County, Oklahoma,40001
 "Stephens County, Oklahoma",40,137,Stephens County, Oklahoma,40137
@@ -1349,14 +1349,14 @@ NAME,state,county,stateName,countyName,FIPS
 "Wahkiakum County, Washington",53,069,Wahkiakum County, Washington,53069
 "Grant County, Washington",53,025,Grant County, Washington,53025
 "Snohomish County, Washington",53,061,Snohomish County, Washington,53061
+"Clay County, West Virginia",54,015,Clay County, West Virginia,54015
 "Summers County, West Virginia",54,089,Summers County, West Virginia,54089
+"Wirt County, West Virginia",54,105,Wirt County, West Virginia,54105
 "Greenbrier County, West Virginia",54,025,Greenbrier County, West Virginia,54025
-"Mineral County, West Virginia",54,057,Mineral County, West Virginia,54057
 "Lewis County, West Virginia",54,041,Lewis County, West Virginia,54041
+"Mineral County, West Virginia",54,057,Mineral County, West Virginia,54057
 "Pocahontas County, West Virginia",54,075,Pocahontas County, West Virginia,54075
 "Randolph County, West Virginia",54,083,Randolph County, West Virginia,54083
-"Wirt County, West Virginia",54,105,Wirt County, West Virginia,54105
-"Clay County, West Virginia",54,015,Clay County, West Virginia,54015
 "Monongalia County, West Virginia",54,061,Monongalia County, West Virginia,54061
 "Wetzel County, West Virginia",54,103,Wetzel County, West Virginia,54103
 "Kanawha County, West Virginia",54,039,Kanawha County, West Virginia,54039
@@ -1366,15 +1366,15 @@ NAME,state,county,stateName,countyName,FIPS
 "Braxton County, West Virginia",54,007,Braxton County, West Virginia,54007
 "Boone County, West Virginia",54,005,Boone County, West Virginia,54005
 "Wyoming County, West Virginia",54,109,Wyoming County, West Virginia,54109
+"Buffalo County, Wisconsin",55,011,Buffalo County, Wisconsin,55011
+"Dodge County, Wisconsin",55,027,Dodge County, Wisconsin,55027
 "Dunn County, Wisconsin",55,033,Dunn County, Wisconsin,55033
 "Grant County, Wisconsin",55,043,Grant County, Wisconsin,55043
 "Sheboygan County, Wisconsin",55,117,Sheboygan County, Wisconsin,55117
+"Trempealeau County, Wisconsin",55,121,Trempealeau County, Wisconsin,55121
 "Menominee County, Wisconsin",55,078,Menominee County, Wisconsin,55078
-"Buffalo County, Wisconsin",55,011,Buffalo County, Wisconsin,55011
 "La Crosse County, Wisconsin",55,063,La Crosse County, Wisconsin,55063
 "Marathon County, Wisconsin",55,073,Marathon County, Wisconsin,55073
-"Trempealeau County, Wisconsin",55,121,Trempealeau County, Wisconsin,55121
-"Dodge County, Wisconsin",55,027,Dodge County, Wisconsin,55027
 "Vilas County, Wisconsin",55,125,Vilas County, Wisconsin,55125
 "Manitowoc County, Wisconsin",55,071,Manitowoc County, Wisconsin,55071
 "Burnett County, Wisconsin",55,013,Burnett County, Wisconsin,55013
@@ -1547,11 +1547,11 @@ NAME,state,county,stateName,countyName,FIPS
 "Orange County, Vermont",50,017,Orange County, Vermont,50017
 "Windsor County, Vermont",50,027,Windsor County, Vermont,50027
 "Utah County, Utah",49,049,Utah County, Utah,49049
-"Duchesne County, Utah",49,013,Duchesne County, Utah,49013
 "Uintah County, Utah",49,047,Uintah County, Utah,49047
+"Garfield County, Utah",49,017,Garfield County, Utah,49017
+"Duchesne County, Utah",49,013,Duchesne County, Utah,49013
 "Davis County, Utah",49,011,Davis County, Utah,49011
 "Emery County, Utah",49,015,Emery County, Utah,49015
-"Garfield County, Utah",49,017,Garfield County, Utah,49017
 "Isle of Wight County, Virginia",51,093,Isle of Wight County, Virginia,51093
 "Franklin city, Virginia",51,620,Franklin city, Virginia,51620
 "Lexington city, Virginia",51,678,Lexington city, Virginia,51678
@@ -1659,14 +1659,14 @@ NAME,state,county,stateName,countyName,FIPS
 "Jefferson County, Missouri",29,099,Jefferson County, Missouri,29099
 "New Madrid County, Missouri",29,143,New Madrid County, Missouri,29143
 "Ralls County, Missouri",29,173,Ralls County, Missouri,29173
+"Judith Basin County, Montana",30,045,Judith Basin County, Montana,30045
 "Custer County, Montana",30,017,Custer County, Montana,30017
+"Liberty County, Montana",30,051,Liberty County, Montana,30051
+"Daniels County, Montana",30,019,Daniels County, Montana,30019
 "Powder River County, Montana",30,075,Powder River County, Montana,30075
 "Roosevelt County, Montana",30,085,Roosevelt County, Montana,30085
-"Liberty County, Montana",30,051,Liberty County, Montana,30051
 "Richland County, Montana",30,083,Richland County, Montana,30083
 "Toole County, Montana",30,101,Toole County, Montana,30101
-"Daniels County, Montana",30,019,Daniels County, Montana,30019
-"Judith Basin County, Montana",30,045,Judith Basin County, Montana,30045
 "Deer Lodge County, Montana",30,023,Deer Lodge County, Montana,30023
 "McCone County, Montana",30,055,McCone County, Montana,30055
 "Rosebud County, Montana",30,087,Rosebud County, Montana,30087
@@ -1674,9 +1674,7 @@ NAME,state,county,stateName,countyName,FIPS
 "Broadwater County, Montana",30,007,Broadwater County, Montana,30007
 "Phillips County, Montana",30,071,Phillips County, Montana,30071
 "Blaine County, Nebraska",31,009,Blaine County, Nebraska,31009
-"Deuel County, Nebraska",31,049,Deuel County, Nebraska,31049
 "Logan County, Nebraska",31,113,Logan County, Nebraska,31113
-"Thayer County, Nebraska",31,169,Thayer County, Nebraska,31169
 "Adams County, Nebraska",31,001,Adams County, Nebraska,31001
 "Boone County, Nebraska",31,011,Boone County, Nebraska,31011
 "St. Martin Parish, Louisiana",22,099,St. Martin Parish, Louisiana,22099
@@ -1712,7 +1710,6 @@ NAME,state,county,stateName,countyName,FIPS
 "Limestone County, Alabama",01,083,Limestone County, Alabama,01083
 "Shelby County, Alabama",01,117,Shelby County, Alabama,01117
 "Winston County, Alabama",01,133,Winston County, Alabama,01133
-"Baldwin County, Alabama",01,003,Baldwin County, Alabama,01003
 "Elmore County, Alabama",01,051,Elmore County, Alabama,01051
 "Jackson County, Alabama",01,071,Jackson County, Alabama,01071
 "Talladega County, Alabama",01,121,Talladega County, Alabama,01121
@@ -1730,13 +1727,9 @@ NAME,state,county,stateName,countyName,FIPS
 "Perry County, Alabama",01,105,Perry County, Alabama,01105
 "Cleburne County, Alabama",01,029,Cleburne County, Alabama,01029
 "Conecuh County, Alabama",01,035,Conecuh County, Alabama,01035
-"Barbour County, Alabama",01,005,Barbour County, Alabama,01005
-"Bibb County, Alabama",01,007,Bibb County, Alabama,01007
 "Calhoun County, Alabama",01,015,Calhoun County, Alabama,01015
 "Clarke County, Alabama",01,025,Clarke County, Alabama,01025
 "Fayette County, Alabama",01,057,Fayette County, Alabama,01057
-"Rock County, Nebraska",31,149,Rock County, Nebraska,31149
-"Sherman County, Nebraska",31,163,Sherman County, Nebraska,31163
 "Beauregard Parish, Louisiana",22,011,Beauregard Parish, Louisiana,22011
 "Bienville Parish, Louisiana",22,013,Bienville Parish, Louisiana,22013
 "Bossier Parish, Louisiana",22,015,Bossier Parish, Louisiana,22015
@@ -1788,10 +1781,17 @@ NAME,state,county,stateName,countyName,FIPS
 "Harford County, Maryland",24,025,Harford County, Maryland,24025
 "Allegany County, Maryland",24,001,Allegany County, Maryland,24001
 "Howard County, Nebraska",31,093,Howard County, Nebraska,31093
-"Gosper County, Nebraska",31,073,Gosper County, Nebraska,31073
-"Sarpy County, Nebraska",31,153,Sarpy County, Nebraska,31153
 "Boyd County, Nebraska",31,015,Boyd County, Nebraska,31015
 "Fillmore County, Nebraska",31,059,Fillmore County, Nebraska,31059
+"Deuel County, Nebraska",31,049,Deuel County, Nebraska,31049
+"Gosper County, Nebraska",31,073,Gosper County, Nebraska,31073
+"Thayer County, Nebraska",31,169,Thayer County, Nebraska,31169
+"Sherman County, Nebraska",31,163,Sherman County, Nebraska,31163
+"Baldwin County, Alabama",01,003,Baldwin County, Alabama,01003
+"Barbour County, Alabama",01,005,Barbour County, Alabama,01005
+"Bibb County, Alabama",01,007,Bibb County, Alabama,01007
+"Rock County, Nebraska",31,149,Rock County, Nebraska,31149
+"Sarpy County, Nebraska",31,153,Sarpy County, Nebraska,31153
 "Hooker County, Nebraska",31,091,Hooker County, Nebraska,31091
 "Seward County, Nebraska",31,159,Seward County, Nebraska,31159
 "Webster County, Nebraska",31,181,Webster County, Nebraska,31181
@@ -1808,26 +1808,26 @@ NAME,state,county,stateName,countyName,FIPS
 "Wheeler County, Nebraska",31,183,Wheeler County, Nebraska,31183
 "Lander County, Nevada",32,015,Lander County, Nevada,32015
 "Esmeralda County, Nevada",32,009,Esmeralda County, Nevada,32009
+"Carson City, Nevada",32,510,Carson City, Nevada,32510
 "Mineral County, Nevada",32,021,Mineral County, Nevada,32021
 "Lincoln County, Nevada",32,017,Lincoln County, Nevada,32017
 "Washoe County, Nevada",32,031,Washoe County, Nevada,32031
-"Carson City, Nevada",32,510,Carson City, Nevada,32510
 "Merrimack County, New Hampshire",33,013,Merrimack County, New Hampshire,33013
 "Belknap County, New Hampshire",33,001,Belknap County, New Hampshire,33001
 "Strafford County, New Hampshire",33,017,Strafford County, New Hampshire,33017
+"Gloucester County, New Jersey",34,015,Gloucester County, New Jersey,34015
 "Monmouth County, New Jersey",34,025,Monmouth County, New Jersey,34025
 "Sussex County, New Jersey",34,037,Sussex County, New Jersey,34037
 "Essex County, New Jersey",34,013,Essex County, New Jersey,34013
-"Gloucester County, New Jersey",34,015,Gloucester County, New Jersey,34015
 "Passaic County, New Jersey",34,031,Passaic County, New Jersey,34031
 "Bergen County, New Jersey",34,003,Bergen County, New Jersey,34003
 "Warren County, New Jersey",34,041,Warren County, New Jersey,34041
 "Burlington County, New Jersey",34,005,Burlington County, New Jersey,34005
-"Luna County, New Mexico",35,029,Luna County, New Mexico,35029
 "Taos County, New Mexico",35,055,Taos County, New Mexico,35055
+"Quay County, New Mexico",35,037,Quay County, New Mexico,35037
+"Luna County, New Mexico",35,029,Luna County, New Mexico,35029
 "Colfax County, New Mexico",35,007,Colfax County, New Mexico,35007
 "Harding County, New Mexico",35,021,Harding County, New Mexico,35021
-"Quay County, New Mexico",35,037,Quay County, New Mexico,35037
 "Noxubee County, Mississippi",28,103,Noxubee County, Mississippi,28103
 "Tate County, Mississippi",28,137,Tate County, Mississippi,28137
 "Panola County, Mississippi",28,107,Panola County, Mississippi,28107
@@ -1848,13 +1848,10 @@ NAME,state,county,stateName,countyName,FIPS
 "Madison County, Iowa",19,121,Madison County, Iowa,19121
 "Guaynabo Municipio, Puerto Rico",72,061,Guaynabo Municipio, Puerto Rico,72061
 "Fajardo Municipio, Puerto Rico",72,053,Fajardo Municipio, Puerto Rico,72053
-"Aguas Buenas Municipio, Puerto Rico",72,007,Aguas Buenas Municipio, Puerto Rico,72007
 "Hatillo Municipio, Puerto Rico",72,065,Hatillo Municipio, Puerto Rico,72065
 "Santa Isabel Municipio, Puerto Rico",72,133,Santa Isabel Municipio, Puerto Rico,72133
 "Mayagüez Municipio, Puerto Rico",72,097,Mayagüez Municipio, Puerto Rico,72097
 "Río Grande Municipio, Puerto Rico",72,119,Río Grande Municipio, Puerto Rico,72119
-"Añasco Municipio, Puerto Rico",72,011,Añasco Municipio, Puerto Rico,72011
-"Cataño Municipio, Puerto Rico",72,033,Cataño Municipio, Puerto Rico,72033
 "Guánica Municipio, Puerto Rico",72,055,Guánica Municipio, Puerto Rico,72055
 "Loíza Municipio, Puerto Rico",72,087,Loíza Municipio, Puerto Rico,72087
 "Las Piedras Municipio, Puerto Rico",72,085,Las Piedras Municipio, Puerto Rico,72085
@@ -1977,6 +1974,9 @@ NAME,state,county,stateName,countyName,FIPS
 "Fremont County, Wyoming",56,013,Fremont County, Wyoming,56013
 "Sublette County, Wyoming",56,035,Sublette County, Wyoming,56035
 "Weston County, Wyoming",56,045,Weston County, Wyoming,56045
+"Aguas Buenas Municipio, Puerto Rico",72,007,Aguas Buenas Municipio, Puerto Rico,72007
+"Añasco Municipio, Puerto Rico",72,011,Añasco Municipio, Puerto Rico,72011
+"Cataño Municipio, Puerto Rico",72,033,Cataño Municipio, Puerto Rico,72033
 "Aibonito Municipio, Puerto Rico",72,009,Aibonito Municipio, Puerto Rico,72009
 "Juncos Municipio, Puerto Rico",72,077,Juncos Municipio, Puerto Rico,72077
 "Lajas Municipio, Puerto Rico",72,079,Lajas Municipio, Puerto Rico,72079
