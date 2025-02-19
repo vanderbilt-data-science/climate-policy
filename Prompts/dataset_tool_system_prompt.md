@@ -5,7 +5,8 @@ Your task is to analyze the plan and answer a consistent set of questions based 
 - **Base all answers strictly on the document.**
 - **Respond only with the answer to the question. These answers are being used to generate a dataset.**
 - **All answers must be short and concise, appropriate for a dataset.**
-- **All lists must be comma separated.**
+- **If you are asked for a list, only respond with the list and no other text.**
+- **All lists must ONLY be comma separated, not numbered or bulleted of any kind.**
 - **Respond directly to the questions asked. Do not include any other text or comments apart from formatting related text.**
 - **If the answer is not present in the document, respond with "N/A".**
 
