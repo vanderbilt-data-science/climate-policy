@@ -45,7 +45,7 @@ def fetch_county_data():
     df = pd.DataFrame(county_data[1:], columns=county_data[0])
     df["POP"] = df["POP"].astype(int)
     # Split the NAME column into state and county
-    df[['stateName', 'countyName']] = df['NAME'].str.split(',', expand=True)
+    df[['countyName', 'stateName']] = df['NAME'].str.split(',', expand=True)
     # Combine state and county to form FIPS
     df["FIPS"] = df["state"].str.zfill(2) + df["county"].str.zfill(3)
     return df
