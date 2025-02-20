@@ -69,11 +69,11 @@ def main():
     api_key = input("Enter your OpenAI API key: ").strip()
 
     # Paths for prompt and questions files
-    prompt_file_path = "Prompts/summary_tool_system_prompt.md"
-    questions_file_path = "Prompts/summary_tool_questions.md"
+    prompt_file_path = "./Prompts/summary_tool_system_prompt.md"
+    questions_file_path = "./Prompts/summary_tool_questions.md"
 
     # Create output directory if it doesn't exist
-    output_directory = "CAPS_Summaries"
+    output_directory = "./CAPS_Summaries"
     os.makedirs(output_directory, exist_ok=True)
 
     # Process each PDF in the directory

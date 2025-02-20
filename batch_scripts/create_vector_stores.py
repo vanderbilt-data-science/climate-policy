@@ -13,7 +13,7 @@ os.environ["OPENAI_API_KEY"] = getpass("Provide OpenAI API Key:")
 # Function to create and save a combined vector store from all summary documents
 def create_combined_summary_vector_store():
     # Directory containing the Markdown summaries
-    directory_path = "CAPS_Summaries"
+    directory_path = "./CAPS_Summaries"
 
     # List all Markdown files in the directory
     md_files = [f for f in os.listdir(directory_path) if f.endswith('.md')]
@@ -37,15 +37,15 @@ def create_combined_summary_vector_store():
     vector_store = FAISS.from_documents(documents=splits, embedding=embeddings)
 
     # Save the vector store locally
-    vector_store.save_local("Combined_Summary_Vectorstore")
+    vector_store.save_local("./Combined_Summary_Vectorstore")
     print("Combined summary vector store creation complete and saved as 'Combined_Summary_Vectorstore'.")
 
 # Function to create and save individual vector stores for summary documents
 def create_individual_summary_vector_stores():
     # Directory containing the Markdown summaries
-    directory_path = "CAPS_Summaries"
+    directory_path = "./CAPS_Summaries"
     # Directory to save individual vector stores
-    save_directory = "Individual_Summary_Vectorstores"
+    save_directory = "./Individual_Summary_Vectorstores"
 
     # Ensure the save directory exists
     os.makedirs(save_directory, exist_ok=True)
@@ -79,10 +79,10 @@ def create_individual_summary_vector_stores():
 # Function to create and save individual vector stores for all documents in CAPS_Summaries and CAPS
 def create_individual_vector_stores_for_all_documents():
     # Directories containing the documents
-    summary_directory = "CAPS_Summaries"
-    caps_directory = "CAPS"
+    summary_directory = "./CAPS_Summaries"
+    caps_directory = "./CAPS"
     # Directory to save individual vector stores
-    save_directory = "Individual_All_Vectorstores"
+    save_directory = "./Individual_All_Vectorstores"
 
     # Ensure the save directory exists
     os.makedirs(save_directory, exist_ok=True)
@@ -95,7 +95,7 @@ def create_individual_vector_stores_for_all_documents():
     # Process each summary file individually by copying existing vector stores
     for file_name in summary_files:
         # Source vector store path in Individual_Summary_Vectorstores
-        source_vector_store_name = os.path.join("Individual_Summary_Vectorstores", f"{os.path.splitext(file_name)[0]}_vectorstore")
+        source_vector_store_name = os.path.join("./Individual_Summary_Vectorstores", f"{os.path.splitext(file_name)[0]}_vectorstore")
         # Destination vector store path in Individual_All_Vectorstores
         destination_vector_store_name = os.path.join(save_directory, f"{os.path.splitext(file_name)[0]}_vectorstore")
         # Copy the vector store

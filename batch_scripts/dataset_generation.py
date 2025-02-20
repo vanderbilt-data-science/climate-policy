@@ -69,7 +69,7 @@ def main():
         "List every single resilience measure in the plan.",
     ]
 
-    output_file_path = "climate_action_plans_dataset.csv"
+    output_file_path = "./climate_action_plans_dataset.csv"
     with open(output_file_path, "w", newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(["City Name", "State Name", "Year", "Plan Type", "Threats", "Adaptation Measures", "Mitigation Measures", "Resilience Measures"])
