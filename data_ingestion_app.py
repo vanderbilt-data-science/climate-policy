@@ -121,7 +121,7 @@ if st.button("Submit"):
         subprocess.run(["python", "data_ingestion_helpers/dataset_addition.py", api_key, file_path])
         st.write("Data added to dataset successfully")
 
-        subprocess.run(["python", "caps_directory_reader.py"])
-        st.write("CAPs directory reader executed successfully")
+        subprocess.run(["python", "batch_scripts/caps_directory_reader.py"])
+        st.write("CAPS directory reader executed successfully")
 
         st.success("All scripts executed successfully!")

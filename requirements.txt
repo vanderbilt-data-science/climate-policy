@@ -12,4 +12,4 @@ folium
 streamlit_folium
 shapely
 branca
-
+geopy

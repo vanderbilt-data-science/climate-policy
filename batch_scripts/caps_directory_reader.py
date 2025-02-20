@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Define the folder path containing the files
-caps_folder = "CAPS"
+caps_folder = "./CAPS"
 
 # List all files in the CAPS folder
 files = os.listdir(caps_folder)
@@ -23,6 +23,6 @@ for file in files:
 df = pd.DataFrame(data, columns=["City", "State", "Year", "Plan Type"])
 
 # Save to CSV
-df.to_csv("caps_plans.csv", index=False)
+df.to_csv("./caps_plans.csv", index=False)
 
 print(f"CSV file saved to: caps_plans.csv")
