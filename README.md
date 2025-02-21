@@ -30,17 +30,61 @@ Fall 2024 (September through December 2024 intially)
 
 ## Repo Structure 
 
+This repository contains code for three main components: 
+
+1. Data ingestion and processing portal
+2. Climate Action Plan QA Tool
+3. Climate Action Plan Maps Tool
+
+Both the QA and Maps tools are hosted on Streamlit Cloud as well as HuggingFace Spaces. They may also be run locally. The data ingestion and processing portal is designed to be run locally. 
+
+Users can run the tools using the following commands:
+
+```streamlit run data_ingestion_app.py``` to run the data ingestion and processing portal
+
+```streamlit run app.py``` to run the QA tool
+
+```streamlit run maps_app.py``` to run the maps tool
+
+#### ```/data``` contains all the externald data sources used in the maps tool
+
+#### ```/data_ingestion_helpers``` contains the helper functions used in the data ingestion process. Each run of the data ingestion process will do the following:
+
+1. Save the new Climate Action Plan to the CAPS folder
+2. Collects the metatdata of the city (City, State, County, and City Center Coordinates) and updates the city_county_mapping.csv file
+3. Generates a summary of the Climate Action Plan and stores it in the CAPS_Summaries folder
+4. Creates the vector stores of the Climate Action Plan used in the QA tool (Individual, Summary and Combined Vector Stores)
+5. Queries an LLM to update the climate actions plans dataset in climate_actions_plans.csv
+6. Updates the CAPS plans list in caps_plans.csv
+7. Re-runs the maps_data.py script to update the data powering the maps tool
+
+#### ```/batch_scripts``` contains scripts that can be run to batch process CAPs. 
+
+```batch_summary_generation.py``` generates summaries for all CAPs in the CAPS folder and saves them in the CAPS_Summaries folder
+
+```caps_directory_reader.py``` reads in the CAPS plans in the CAPS folder and saves the data to a csv file called caps_plans.csv
+
+```census_county_data.py``` reads in the census data and saves the data to a csv file called us_counties.csv which is used by the data ingestion tool
+
+```create_vector_stores.py``` creates the vector stores of the Climate Action Plan used in the QA tool (Individual, Summary and Combined Vector Stores)
+
+```dataset_generation.py``` queries an LLM to create the climate actions plans dataset in climate_actions_plans.csv
+
+In most cases, these batch process files will not need to be run. 
+
+#### ```/maps_helpers``` contains the helper functions used in the maps tool and stores the data powering the maps tool
+
 To run the tool, in a terminal run ```streamlit run app.py```. Please ensure that all necessary packages have been installed as per the ```requirements.txt``` file. Necessary packages can be installed using pip: ```pip install -r requirements.txt``` 
 
 The ```Prompts``` folder contains all the system prompt templates used in the tool. These can be modified to modify the behavior of the tools. 
 
 ## Project logistics
 
-**Sprint planning**: Every Monday at 3-4pm on [Zoom](https://vanderbilt.zoom.us/j/99721970914?pwd=UK6icdNV4bKaXiVZAArk8aVatmzKEC.1&from=addon). 
+**Sprint planning**: Every Monday at 10-10:30am on [Zoom](https://vanderbilt.zoom.us/j/98561891048?pwd=VRIXN9QgykKV4HhblNLSCqu6UwKS6Z.1&from=addon). 
 
-**Backlog Grooming**: Every Wednesday at 10-11am on [Zoom](https://vanderbilt.zoom.us/j/98299561939?pwd=vl4Aa7HvmBoTCVR4QaaRlpRKevxYpo.1&from=addon). 
+**Backlog Grooming**: NA / as needed. 
 
-**Sprint Restrospective**: Every Friday 12:15-12:45pm on [Zoom](https://vanderbilt.zoom.us/j/97196543286?pwd=Km2IIUtF0fltijN5oQ92v9wtrNqKt4.1&from=addon). 
+**Sprint Restrospective**: Every Friday 1:30-2pm on [Zoom](https://vanderbilt.zoom.us/j/91271107413?pwd=CESI9izE4x3Mcshv2DqNyAa7nG0GUr.1&from=addon). 
 
 **Demos**: Every Friday at 3pm on Zoom as well as in person at the DSI.  
 
@@ -67,4 +111,4 @@ Provide any useful resources to get readers up to speed with the project here.
 Project Lead: [Umang Chaudhry](mailto:umang.chaudhry@vanderbilt.edu), Senior Data Scientist, Vanderbilt Data Science Institute  
 PI: [Dr. JB Ruhl](mailto:jb.ruhl@vanderbilt.edu), David Daniels Allen Distinguished Chair in Law, Vanderbilt University Law School  
 Project Manager: [Isabella Urquia](mailto:isabella.m.urquia@vanderbilt.edu)  
-Team Members: [Ethan Thorpe](mailto:ethan.i.thorpe@vanderbilt.edu), [Mariah Caballero](mailto:mariah.d.caballero@vanderbilt.edu), Xuanxuan Chen, Aparna Lakshmi, Harmony Wang  
+Team Members: [Ethan Thorpe](mailto:ethan.i.thorpe@vanderbilt.edu), [Mariah Caballero](mailto:mariah.d.caballero@vanderbilt.edu), Harmony Wang, Xuanxuan Chen, Aparna Lakshmi

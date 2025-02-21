@@ -93,7 +93,7 @@ state_abbrev_to_fips = {
     "WV": "54", "WI": "55", "WY": "56"
 }
 
-def load_and_merge_caps(_states_gdf):
+def load_and_merge_caps(states_gdf):
     caps_df = pd.read_csv("caps_plans.csv")
     caps_df["State"] = caps_df["State"].str.strip().str.upper()
     caps_df["STATE_FIPS"] = caps_df["State"].map(state_abbrev_to_fips)
@@ -104,12 +104,12 @@ def load_and_merge_caps(_states_gdf):
         n_caps=("Plan Type", "count"),
         plan_list=("plan_info", lambda x: list(x))
     ).reset_index()
-    merged = _states_gdf.merge(grouped, on="STATE_FIPS", how="left")
+    merged = states_gdf.merge(grouped, on="STATE_FIPS", how="left")
     merged["n_caps"] = merged["n_caps"].fillna(0).astype(int)
     merged["plan_list"] = merged["plan_list"].apply(lambda x: x if isinstance(x, list) else [])
     return merged
 
-def load_and_merge_caps_county(_counties_gdf):
+def load_and_merge_caps_county(counties_gdf):
     caps_df = pd.read_csv("caps_plans.csv")
     mapping_df = pd.read_csv("city_county_mapping.csv")
     # Standardize text for matching
@@ -134,11 +134,11 @@ def load_and_merge_caps_county(_counties_gdf):
         plan_list=("plan_info", lambda x: list(x))
     ).reset_index()
     fips_to_abbrev = {v: k for k, v in state_abbrev_to_fips.items()}
-    _counties_gdf["STATE"] = _counties_gdf["FIPS"].str[:2].map(fips_to_abbrev)
-    _counties_gdf["CountyKey"] = _counties_gdf["NAME"].apply(
+    counties_gdf["STATE"] = counties_gdf["FIPS"].str[:2].map(fips_to_abbrev)
+    counties_gdf["CountyKey"] = counties_gdf["NAME"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip()
     )
-    merged_counties = _counties_gdf.merge(
+    merged_counties = counties_gdf.merge(
         grouped, 
         left_on=["CountyKey", "STATE"], 
         right_on=["CountyKey", "StateName"], 
@@ -166,6 +166,52 @@ def load_city_plans():
     grouped = df.groupby(["City", "State"]).agg(plan_list=("plan_info", lambda x: list(x))).reset_index()
     return grouped
 
+def merge_nri_data(states_gdf_caps, counties_gdf_caps):
+    nri_df = pd.read_excel("data/NRI Future Risk Index.xlsx")
+    nri_df = nri_df[["STATEABBRV", "STATE", "COUNTY", "STCOFIPS", 
+                        "CFLD_MID_HIGHER_PRISKS", 
+                        "CFLD_LATE_HIGHER_PRISKS",
+                        "CFLD_MID_HIGHER_HM",
+                        "CFLD_LATE_HIGHER_HM",
+                        "WFIR_MID_HIGHER_PRISKS",
+                        "WFIR_LATE_HIGHER_PRISKS",
+                        "WFIR_MID_HIGHER_HM",
+                        "WFIR_LATE_HIGHER_HM",
+                        "DRGT_MID_HIGHER_PRISKS",
+                        "DRGT_LATE_HIGHER_PRISKS",
+                        "DRGT_MID_HIGHER_HM",
+                        "DRGT_LATE_HIGHER_HM",
+                        "HRCN_MID_HIGHER_PRISKS",
+                        "HRCN_LATE_HIGHER_PRISKS",
+                        "HRCN_MID_HIGHER_HM",
+                        "HRCN_LATE_HIGHER_HM"]]
+
+    
+    grouped_states = nri_df.groupby("STATE").agg(
+        CFLD_MID_HIGHER_PRISKS=("CFLD_MID_HIGHER_PRISKS", "mean"),
+        CFLD_LATE_HIGHER_PRISKS=("CFLD_LATE_HIGHER_PRISKS", "mean"),
+        CFLD_MID_HIGHER_HM=("CFLD_MID_HIGHER_HM", "mean"),
+        CFLD_LATE_HIGHER_HM=("CFLD_LATE_HIGHER_HM", "mean"),
+        WFIR_MID_HIGHER_PRISKS=("WFIR_MID_HIGHER_PRISKS", "mean"),
+        WFIR_LATE_HIGHER_PRISKS=("WFIR_LATE_HIGHER_PRISKS", "mean"),
+        WFIR_MID_HIGHER_HM=("WFIR_MID_HIGHER_HM", "mean"),
+        WFIR_LATE_HIGHER_HM=("WFIR_LATE_HIGHER_HM", "mean"),
+        DRGT_MID_HIGHER_PRISKS=("DRGT_MID_HIGHER_PRISKS", "mean"),
+        DRGT_LATE_HIGHER_PRISKS=("DRGT_LATE_HIGHER_PRISKS", "mean"),
+        DRGT_MID_HIGHER_HM=("DRGT_MID_HIGHER_HM", "mean"),
+        DRGT_LATE_HIGHER_HM=("DRGT_LATE_HIGHER_HM", "mean"),
+        HRCN_MID_HIGHER_PRISKS=("HRCN_MID_HIGHER_PRISKS", "mean"),
+        HRCN_LATE_HIGHER_PRISKS=("HRCN_LATE_HIGHER_PRISKS", "mean"),
+        HRCN_MID_HIGHER_HM=("HRCN_MID_HIGHER_HM", "mean"),
+        HRCN_LATE_HIGHER_HM=("HRCN_LATE_HIGHER_HM", "mean"),
+    )
+    counties_gdf_caps['FIPS'] = pd.to_numeric(counties_gdf_caps['FIPS'], errors='coerce').fillna(0).astype(int)
+    nri_df['STCOFIPS'] = pd.to_numeric(nri_df['STCOFIPS'], errors='coerce').fillna(0).astype(int)
+
+    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="NAME", right_on="STATE", how="left")
+    merged_counties_gdf = counties_gdf_caps.merge(nri_df, left_on="FIPS", right_on="STCOFIPS", how="left")
+    return merged_states_gdf, merged_counties_gdf
+
 if __name__ == "__main__":
     state_df = fetch_state_data()
     county_df = fetch_county_data()
@@ -175,6 +221,8 @@ if __name__ == "__main__":
 
     states_gdf_caps = load_and_merge_caps(states_gdf)
     counties_gdf_caps = load_and_merge_caps_county(counties_gdf)
+
+    states_gdf_caps, counties_gdf_caps = merge_nri_data(states_gdf_caps, counties_gdf_caps)
 
     city_mapping_df = load_city_mapping()
     city_plans_df = load_city_plans()
