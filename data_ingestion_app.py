@@ -124,4 +124,7 @@ if st.button("Submit"):
         subprocess.run(["python", "batch_scripts/caps_directory_reader.py"])
         st.write("CAPS directory reader executed successfully")
 
+        subprocess.run(["python", "maps_helpers/maps_data.py"])
+        st.write("Maps data re-created")
+
         st.success("All scripts executed successfully!")
