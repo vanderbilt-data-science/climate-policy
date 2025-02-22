@@ -13,4 +13,3 @@ streamlit_folium
 shapely
 branca
 geopy
-ast
