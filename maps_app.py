@@ -183,7 +183,6 @@ with tab1:
     cols = st.columns([1, 2])
     with cols[1]:
         st_data_state = st_folium(m_state, width=1000, height=800)
-        st.write(st_data_state)
     with cols[0]:
         st.markdown("### Additional Information")
         if st_data_state.get("last_active_drawing"):
