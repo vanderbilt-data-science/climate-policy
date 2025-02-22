@@ -184,7 +184,7 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
                         "HRCN_MID_HIGHER_PRISKS",
                         "HRCN_LATE_HIGHER_PRISKS",
                         "HRCN_MID_HIGHER_HM",
-                        "HRCN_LATE_HIGHER_HM"]]
+                        "HRCN_LATE_HIGHER_HM"]].round(2)
 
     
     grouped_states = nri_df.groupby("STATE").agg(
@@ -204,7 +204,8 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
         HRCN_LATE_HIGHER_PRISKS=("HRCN_LATE_HIGHER_PRISKS", "mean"),
         HRCN_MID_HIGHER_HM=("HRCN_MID_HIGHER_HM", "mean"),
         HRCN_LATE_HIGHER_HM=("HRCN_LATE_HIGHER_HM", "mean"),
-    )
+    ).round(2)
+    
     counties_gdf_caps['FIPS'] = pd.to_numeric(counties_gdf_caps['FIPS'], errors='coerce').fillna(0).astype(int)
     nri_df['STCOFIPS'] = pd.to_numeric(nri_df['STCOFIPS'], errors='coerce').fillna(0).astype(int)
 
