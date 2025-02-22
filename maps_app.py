@@ -1,10 +1,7 @@
 import streamlit as st
-import requests
 import geopandas as gpd
 import pandas as pd
 import folium
-from folium import IFrame
-from shapely.geometry import shape
 from streamlit_folium import st_folium
 import branca.colormap as cm
 import math
@@ -19,8 +16,6 @@ st.set_page_config(page_title="Climate Policy Maps", layout="wide")
 # ------------------------------------------------------------------------------
 # 1) FETCH AND PREPARE DATA (WITH CACHING)
 # ------------------------------------------------------------------------------
-
-API_KEY = "ea9637fd9f0c41f3e2e932faa99dfcd76f8041aa"  # Replace with your valid key
 
 @st.cache_data
 def fetch_state_data():
@@ -188,6 +183,7 @@ with tab1:
     cols = st.columns([1, 2])
     with cols[1]:
         st_data_state = st_folium(m_state, width=1000, height=800)
+        st.write(st_data_state)
     with cols[0]:
         st.markdown("### Additional Information")
         if st_data_state.get("last_active_drawing"):
@@ -197,6 +193,22 @@ with tab1:
             fips = props.get("STATE_FIPS", "N/A")
             n_caps = props.get("n_caps", 0)
             plan_list = props.get("plan_list", [])
+            cfld_mid_higher_prisks = props.get("CFLD_MID_HIGHER_PRISKS", "N/A")
+            cfld_late_higher_prisks = props.get("CFLD_LATE_HIGHER_PRISKS", "N/A")
+            cfld_mid_higher_hm = props.get("CFLD_MID_HIGHER_HM", "N/A")
+            cfld_late_higher_hm = props.get("CFLD_LATE_HIGHER_HM", "N/A")
+            wfir_mid_higher_prisks = props.get("WFIR_MID_HIGHER_PRISKS", "N/A")
+            wfir_late_higher_prisks = props.get("WFIR_LATE_HIGHER_PRISKS", "N/A")
+            wfir_mid_higher_hm = props.get("WFIR_MID_HIGHER_HM", "N/A")
+            wfir_late_higher_hm = props.get("WFIR_LATE_HIGHER_HM", "N/A")
+            drgt_mid_higher_prisks = props.get("DRGT_MID_HIGHER_PRISKS", "N/A")
+            drgt_late_higher_prisks = props.get("DRGT_LATE_HIGHER_PRISKS", "N/A")
+            drgt_mid_higher_hm = props.get("DRGT_MID_HIGHER_HM", "N/A")
+            drgt_late_higher_hm = props.get("DRGT_LATE_HIGHER_HM", "N/A")
+            hrcn_mid_higher_prisks = props.get("HRCN_MID_HIGHER_PRISKS", "N/A")
+            hrcn_late_higher_prisks = props.get("HRCN_LATE_HIGHER_PRISKS", "N/A")
+            hrcn_mid_higher_hm = props.get("HRCN_MID_HIGHER_HM", "N/A")
+            hrcn_late_higher_hm = props.get("HRCN_LATE_HIGHER_HM", "N/A")
             st.write("**State:**", state_name)
             # Format population with comma separators if available
             if population != "N/A":
@@ -206,12 +218,31 @@ with tab1:
             st.write("**Population:**", pop_str)
             st.write("**FIPS:**", f"{fips}")
             st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
-            st.markdown("#### Cities with Climate Action Plans:")
-            if plan_list:
-                for plan in plan_list:
-                    st.write(plan)
-            else:
-                st.write("None")
+            with st.expander("Cities with Climate Action Plans:"):
+                if plan_list:
+                    for plan in plan_list:
+                        st.write(plan)
+                else:
+                    st.write("None")
+            
+            with st.expander("NRI Future Risk Index (Higher Warming Pathway):"):
+                st.write("**Coastal Flooding Mid-Century Projected Risk:**", f"{cfld_mid_higher_prisks}")
+                st.write("**Coastal Flooding Late-Century Projected Risk:**", f"{cfld_late_higher_prisks}")
+                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", f"{cfld_mid_higher_hm}")
+                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", f"{cfld_late_higher_hm}")
+                st.write("**Wildfire Mid-Century Projected Risk:**", f"{wfir_mid_higher_prisks}")
+                st.write("**Wildfire Late-Century Projected Risk:**", f"{wfir_late_higher_prisks}")
+                st.write("**Wildfire Mid-Century Hazard Multiplier:**", f"{wfir_mid_higher_hm}")
+                st.write("**Wildfire Late-Century Hazard Multiplier:**", f"{wfir_late_higher_hm}")
+                st.write("**Drought Mid-Century Projected Risk:**", f"{drgt_mid_higher_prisks}")
+                st.write("**Drought Late-Century Projected Risk:**", f"{drgt_late_higher_prisks}")
+                st.write("**Drought Mid-Century Hazard Multiplier:**", f"{drgt_mid_higher_hm}")
+                st.write("**Drought Late-Century Hazard Multiplier:**", f"{drgt_late_higher_hm}")
+                st.write("**Hurricane Mid-Century Projected Risk:**", f"{hrcn_mid_higher_prisks}")
+                st.write("**Hurricane Late-Century Projected Risk:**", f"{hrcn_late_higher_prisks}")
+                st.write("**Hurricane Mid-Century Hazard Multiplier:**", f"{hrcn_mid_higher_hm}")
+                st.write("**Hurricane Late-Century Hazard Multiplier:**", f"{hrcn_late_higher_hm}")
+                    
         else:
             st.info("Click on a state to view details.")
         user_input_state = st.text_input("Ask a Question about State:", key="state_question")
@@ -300,6 +331,22 @@ with tab2:
             county_name = props.get("NAME", "N/A")
             population = props.get("POP", "N/A")
             fips = props.get("FIPS", "N/A")
+            nri_mid_higher_prisks = props.get("CFLD_MID_HIGHER_PRISKS", "N/A")
+            nri_late_higher_prisks = props.get("CFLD_LATE_HIGHER_PRISKS", "N/A")
+            nri_mid_higher_hm = props.get("CFLD_MID_HIGHER_HM", "N/A")
+            nri_late_higher_hm = props.get("CFLD_LATE_HIGHER_HM", "N/A")
+            nri_mid_higher_prisks = props.get("WFIR_MID_HIGHER_PRISKS", "N/A")
+            nri_late_higher_prisks = props.get("WFIR_LATE_HIGHER_PRISKS", "N/A")
+            nri_mid_higher_hm = props.get("WFIR_MID_HIGHER_HM", "N/A")
+            nri_late_higher_hm = props.get("WFIR_LATE_HIGHER_HM", "N/A")
+            nri_mid_higher_prisks = props.get("DRGT_MID_HIGHER_PRISKS", "N/A")
+            nri_late_higher_prisks = props.get("DRGT_LATE_HIGHER_PRISKS", "N/A")
+            nri_mid_higher_hm = props.get("DRGT_MID_HIGHER_HM", "N/A")
+            nri_late_higher_hm = props.get("DRGT_LATE_HIGHER_HM", "N/A")
+            nri_mid_higher_prisks = props.get("HRCN_MID_HIGHER_PRISKS", "N/A")
+            nri_late_higher_prisks = props.get("HRCN_LATE_HIGHER_PRISKS", "N/A")
+            nri_mid_higher_hm = props.get("HRCN_MID_HIGHER_HM", "N/A")
+            nri_late_higher_hm = props.get("HRCN_LATE_HIGHER_HM", "N/A")
             st.write("**County:**", county_name)
             # Format population with comma separators if available
             if population != "N/A":
@@ -314,13 +361,31 @@ with tab2:
             st.write("**FIPS:**", str(fips))
             n_caps = props.get("n_caps", 0)
             st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
-            st.markdown("#### Cities with Climate Action Plans:")
-            plan_list = props.get("plan_list", [])
-            if plan_list:
-                for plan in plan_list:
-                    st.write(plan)
-            else:
-                st.write("None")
+            with st.expander("#### Cities with Climate Action Plans:"):
+                plan_list = props.get("plan_list", [])
+                if plan_list:
+                    for plan in plan_list:
+                        st.write(plan)
+                else:
+                    st.write("None")
+            with st.expander("#### NRI Future Risk Index (Higher Warming Pathway):"):
+                st.write("**Coastal Flooding Mid-Century Projected Risk:**", f"{nri_mid_higher_prisks}")
+                st.write("**Coastal Flooding Late-Century Projected Risk:**", f"{nri_late_higher_prisks}")
+                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", f"{nri_mid_higher_hm}")
+                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", f"{nri_late_higher_hm}")
+                st.write("**Wildfire Mid-Century Projected Risk:**", f"{nri_mid_higher_prisks}")
+                st.write("**Wildfire Late-Century Projected Risk:**", f"{nri_late_higher_prisks}")
+                st.write("**Wildfire Mid-Century Hazard Multiplier:**", f"{nri_mid_higher_hm}")
+                st.write("**Wildfire Late-Century Hazard Multiplier:**", f"{nri_late_higher_hm}")
+                st.write("**Drought Mid-Century Projected Risk:**", f"{nri_mid_higher_prisks}")
+                st.write("**Drought Late-Century Projected Risk:**", f"{nri_late_higher_prisks}")
+                st.write("**Drought Mid-Century Hazard Multiplier:**", f"{nri_mid_higher_hm}")
+                st.write("**Drought Late-Century Hazard Multiplier:**", f"{nri_late_higher_hm}")
+                st.write("**Hurricane Mid-Century Projected Risk:**", f"{nri_mid_higher_prisks}")
+                st.write("**Hurricane Late-Century Projected Risk:**", f"{nri_late_higher_prisks}")
+                st.write("**Hurricane Mid-Century Hazard Multiplier:**", f"{nri_mid_higher_hm}")
+                st.write("**Hurricane Late-Century Hazard Multiplier:**", f"{nri_late_higher_hm}")
+                
         else:
             st.info("Click on a county to view details.")
         user_input_county = st.text_input("**Ask a Question about County:**", key="county_question")
