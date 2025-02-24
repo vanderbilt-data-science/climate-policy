@@ -1,10 +1,14 @@
 import streamlit as st
-import geopandas as gpd
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
-import branca.colormap as cm
-import math
+import os
+
+from langchain.docstore.document import Document
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.chains.combine_documents import create_stuff_documents_chain
 
 # ------------------------------------------------------------------------------
 # Page Configuration
@@ -26,68 +30,203 @@ def fetch_county_data():
     df = pd.read_pickle("./maps_helpers/county_df.pkl")
     return df
 
-# ------------------------------------------------------------------------------
-# Load Census Data and Setup Color Scales
-# ------------------------------------------------------------------------------
-state_df = fetch_state_data()
-county_df = fetch_county_data()
-
-max_pop_state = state_df["POP"].max()
-max_pop_county = county_df["POP"].max()
-
-min_log_pop = math.log(county_df["POP"].min())
-max_log_pop = math.log(max_pop_county)
-
-blue_colors = ["#f7fbff", "#deebf7", "#9ecae1", "#3182bd", "#08519c"]
-state_cm = cm.LinearColormap(blue_colors, vmin=0, vmax=max_pop_state, caption="Population")
-county_cm = cm.LinearColormap(blue_colors, vmin=min_log_pop, vmax=max_log_pop, caption="Population (log scale)")
-
-# ------------------------------------------------------------------------------
-# 2a) LOAD AND MERGE CAPS PLANS DATA FOR STATES
-# ------------------------------------------------------------------------------
 @st.cache_data
-def load_and_merge_caps():
-    """Load state-level climate action plan data from pickle."""
-    merged = pd.read_pickle("./maps_helpers/states_gdf_caps.pkl")
-    return merged
+def load_states_gdf_caps():
+    return pd.read_pickle("./maps_helpers/states_gdf_caps.pkl")
 
-states_gdf = load_and_merge_caps()
-states_gdf = gpd.GeoDataFrame(states_gdf, geometry="geometry", crs="EPSG:4326")
-
-# ------------------------------------------------------------------------------
-# 2b) LOAD AND MERGE CAPS DATA FOR COUNTIES
-# ------------------------------------------------------------------------------
 @st.cache_data
-def load_and_merge_caps_county():
-    """Load county-level climate action plan data from pickle."""
-    merged_counties = pd.read_pickle("./maps_helpers/counties_gdf_caps.pkl")
-    return merged_counties
-
-counties_gdf = load_and_merge_caps_county()
-counties_gdf = gpd.GeoDataFrame(counties_gdf, geometry="geometry", crs="EPSG:4326")
-
-# Note: The precomputed display columns (e.g. POP_TT and FIPS_TT) are already in the pickled file.
+def load_counties_gdf_caps():
+    return pd.read_pickle("./maps_helpers/counties_gdf_caps.pkl")
 
 # ------------------------------------------------------------------------------
-# 2c) LOAD CITY MAPPING AND PLANS DATA
+# Load EPA region color mapping (discrete colors for regions 1 to 10)
+# ------------------------------------------------------------------------------
+region_colors = {
+    1: "#e41a1c",
+    2: "#377eb8",
+    3: "#4daf4a",
+    4: "#984ea3",
+    5: "#ff7f00",
+    6: "#ffff33",
+    7: "#a65628",
+    8: "#f781bf",
+    9: "#999999",
+    10: "#66c2a5"
+}
+
+# ------------------------------------------------------------------------------
+# Load other datasets for CAPS and city mapping
 # ------------------------------------------------------------------------------
 @st.cache_data
 def load_city_mapping():
-    """Load city mapping data from the pickle file."""
     df = pd.read_pickle("./maps_helpers/city_mapping_df.pkl")
     return df
 
 @st.cache_data
 def load_city_plans():
-    """Load city-level climate action plan data from the pickle file."""
-    grouped = pd.read_pickle("./maps_helpers/city_plans_df.pkl")
-    return grouped
+    df = pd.read_pickle("./maps_helpers/city_plans_df.pkl")
+    return df
 
+state_df = fetch_state_data()
+county_df = fetch_county_data()
+states_gdf = load_states_gdf_caps()
+counties_gdf = load_counties_gdf_caps()
 city_mapping_df = load_city_mapping()
 city_plans_df = load_city_plans()
 
 # ------------------------------------------------------------------------------
-# 3) BUILD THE APP WITH TABS FOR STATE AND COUNTY MAPS
+# Function to generate legend HTML
+# ------------------------------------------------------------------------------
+def generate_legend_html(region_colors):
+    legend_html = """
+    <div style="
+         font-size:14px;
+         opacity: 1;
+         ">
+         <b>EPA Regions</b><br>
+    """
+    for region, color in region_colors.items():
+        legend_html += f'<i style="background:{color}; width:18px; height:18px; display:inline-block; margin-right:5px;"></i>Region {region}<br>'
+    legend_html += "</div>"
+    return legend_html
+
+# ------------------------------------------------------------------------------
+# Helper function to reformat plan names
+# ------------------------------------------------------------------------------
+def format_plan_name(plan, state_abbr):
+    """
+    Given a plan string (e.g. "Oakland, 2020, Mitigation Primary CAP")
+    and a state abbreviation (e.g. "CA"), return the formatted string
+    matching the vector store directory naming convention.
+    Expected output: "Oakland, CA Mitigation Primary CAP 2020"
+    """
+    parts = [p.strip() for p in plan.split(",")]
+    if len(parts) == 3:
+        city, year, title = parts
+        return f"{city}, {state_abbr} {title} {year}"
+    else:
+        # If the plan string is already in the desired format or unrecognized,
+        # return it unchanged.
+        return plan
+
+# ------------------------------------------------------------------------------
+# Function to answer questions about the selected state
+# ------------------------------------------------------------------------------
+def answer_question_state(api_key, user_input, extra_context, plan_list, state_abbr):
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    all_retrieved_chunks = []
+
+    # Process each plan in the list after reformatting its name.
+    for plan in plan_list:
+        formatted_plan = format_plan_name(plan, state_abbr)
+        vectorstore_path = os.path.join("Individual_All_Vectorstores", formatted_plan + "_vectorstore")
+        try:
+            embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+            vector_store = FAISS.load_local(
+                vectorstore_path,
+                embedding_model,
+                allow_dangerous_deserialization=True
+            )
+        except Exception as e:
+            st.error(f"Error loading vector store for plan '{formatted_plan}': {e}")
+            continue
+
+        retriever = vector_store.as_retriever(search_kwargs={"k": 2})
+        retrieved_chunks = retriever.invoke(user_input)
+        all_retrieved_chunks.extend(retrieved_chunks)
+    
+    # Wrap extra context as a Document and append.
+    all_retrieved_chunks.append(Document(page_content=extra_context))
+
+    # Read the system prompt for multi-document QA
+    prompt_path = "Prompts/maps_qa.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+    
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    llm = ChatOpenAI(model="gpt-4o")
+    question_answer_chain = create_stuff_documents_chain(
+        llm, prompt, document_variable_name="context"
+    )
+
+    result = question_answer_chain.invoke({
+        "input": user_input,
+        "context": all_retrieved_chunks
+    })
+
+    answer = result["answer"] if "answer" in result else result
+    return answer
+
+# ------------------------------------------------------------------------------
+# Function to answer questions about the selected county
+# ------------------------------------------------------------------------------
+def answer_question_county(api_key, user_input, extra_context, plan_list, state_abbr):
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    all_retrieved_chunks = []
+
+    # Process each plan in the list after reformatting its name.
+    for plan in plan_list:
+        formatted_plan = format_plan_name(plan, state_abbr)
+        vectorstore_path = os.path.join("Individual_All_Vectorstores", formatted_plan + "_vectorstore")
+        try:
+            embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+            vector_store = FAISS.load_local(
+                vectorstore_path,
+                embedding_model,
+                allow_dangerous_deserialization=True
+            )
+        except Exception as e:
+            st.error(f"Error loading vector store for plan '{formatted_plan}': {e}")
+            continue
+
+        retriever = vector_store.as_retriever(search_kwargs={"k": 2})
+        retrieved_chunks = retriever.invoke(user_input)
+        all_retrieved_chunks.extend(retrieved_chunks)
+    
+    # Wrap extra context as a Document and append.
+    all_retrieved_chunks.append(Document(page_content=extra_context))
+
+    # Read the system prompt for multi-document QA
+    prompt_path = "Prompts/maps_qa.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+    
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    llm = ChatOpenAI(model="gpt-4o")
+    question_answer_chain = create_stuff_documents_chain(
+        llm, prompt, document_variable_name="context"
+    )
+
+    result = question_answer_chain.invoke({
+        "input": user_input,
+        "context": all_retrieved_chunks
+    })
+
+    answer = result["answer"] if "answer" in result else result
+    return answer
+
+# ------------------------------------------------------------------------------
+# 2) BUILD THE APP WITH TABS FOR STATE AND COUNTY MAPS
 # ------------------------------------------------------------------------------
 tab1, tab2 = st.tabs(["State Map", "County Map"])
 
@@ -96,14 +235,15 @@ tab1, tab2 = st.tabs(["State Map", "County Map"])
 # ================================
 with tab1:
     st.subheader("State Map")
+    # Create map with no default tiles
     m_state = folium.Map(location=[35.3, -97.6], zoom_start=4, tiles=None)
+    # Add OSM tile layer with control disabled
     folium.TileLayer("OpenStreetMap", control=False).add_to(m_state)
     
     state_boundaries = folium.FeatureGroup(name="State Boundaries", control=False)
-    
     tooltip_state = folium.GeoJsonTooltip(
-        fields=["NAME", "POP_TT"],
-        aliases=["State:", "Population:"],
+        fields=["NAME", "POP_TT", "EPA_REGION"],
+        aliases=["State:", "Population:", "EPA Region:"],
         localize=True,
         sticky=False,
         labels=True,
@@ -119,7 +259,7 @@ with tab1:
     folium.GeoJson(
         states_gdf,
         style_function=lambda x: {
-            "fillColor": state_cm(x["properties"]["POP"]) if x["properties"]["POP"] not in [None, "No data"] else "transparent",
+            "fillColor": region_colors.get(x["properties"].get("EPA_REGION"), "transparent"),
             "color": "black",
             "fillOpacity": 0.4,
             "weight": 1
@@ -127,14 +267,11 @@ with tab1:
         tooltip=tooltip_state,
         highlight_function=lambda x: {"weight": 2, "color": "blue"}
     ).add_to(state_boundaries)
-    
     state_boundaries.add_to(m_state)
-    state_cm.add_to(m_state)
     
-    # Optional: Add city markers to the state map
+    # Add city markers to the state map
     city_markers_fg = folium.FeatureGroup(name="City Markers", show=False)
-    unique_cities = city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates()
-    for _, row in unique_cities.iterrows():
+    for _, row in city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates().iterrows():
         lat = row["Latitude"]
         lon = row["Longitude"]
         city = row["CityName"]
@@ -160,72 +297,89 @@ with tab1:
     m_state.add_child(city_markers_fg)
     folium.LayerControl(collapsed=False).add_to(m_state)
     
-    cols = st.columns([1, 2])
-    with cols[1]:
-        st_data_state = st_folium(m_state, width=1000, height=800)
-    with cols[0]:
+    # Create three columns: left (Additional Info & QA), middle (Map), right (Legend)
+    cols_state = st.columns([3, 6, 1])
+    
+    with cols_state[1]:
+        st_data_state = st_folium(m_state, width=900, height=650)
+    
+    with cols_state[0]:
         st.markdown("### Additional Information")
         if st_data_state.get("last_active_drawing"):
             props = st_data_state["last_active_drawing"].get("properties", {})
             state_name = props.get("NAME", "N/A")
             population = props.get("POP_TT", "N/A")
             fips = props.get("STATE_FIPS", "N/A")
+            state_abbr = props.get("STATE_ABBR", "N/A")
             n_caps = props.get("n_caps", 0)
             plan_list = props.get("plan_list", [])
-            # Risk index details
-            cfld_mid_higher_prisks = props.get("CFLD_MID_HIGHER_PRISKS", "N/A")
-            cfld_late_higher_prisks = props.get("CFLD_LATE_HIGHER_PRISKS", "N/A")
-            cfld_mid_higher_hm = props.get("CFLD_MID_HIGHER_HM", "N/A")
-            cfld_late_higher_hm = props.get("CFLD_LATE_HIGHER_HM", "N/A")
-            wfir_mid_higher_prisks = props.get("WFIR_MID_HIGHER_PRISKS", "N/A")
-            wfir_late_higher_prisks = props.get("WFIR_LATE_HIGHER_PRISKS", "N/A")
-            wfir_mid_higher_hm = props.get("WFIR_MID_HIGHER_HM", "N/A")
-            wfir_late_higher_hm = props.get("WFIR_LATE_HIGHER_HM", "N/A")
-            drgt_mid_higher_prisks = props.get("DRGT_MID_HIGHER_PRISKS", "N/A")
-            drgt_late_higher_prisks = props.get("DRGT_LATE_HIGHER_PRISKS", "N/A")
-            drgt_mid_higher_hm = props.get("DRGT_MID_HIGHER_HM", "N/A")
-            drgt_late_higher_hm = props.get("DRGT_LATE_HIGHER_HM", "N/A")
-            hrcn_mid_higher_prisks = props.get("HRCN_MID_HIGHER_PRISKS", "N/A")
-            hrcn_late_higher_prisks = props.get("HRCN_LATE_HIGHER_PRISKS", "N/A")
-            hrcn_mid_higher_hm = props.get("HRCN_MID_HIGHER_HM", "N/A")
-            hrcn_late_higher_hm = props.get("HRCN_LATE_HIGHER_HM", "N/A")
-            
             st.write("**State:**", state_name)
             st.write("**Population:**", population)
             st.write("**FIPS:**", f"{fips}")
             st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
-            
             with st.expander("Cities with Climate Action Plans:"):
                 if plan_list:
                     for plan in plan_list:
                         st.write(plan)
                 else:
                     st.write("None")
-            
             with st.expander("NRI Future Risk Index (Higher Warming Pathway):"):
-                st.write("**Coastal Flooding Mid-Century Projected Risk:**", cfld_mid_higher_prisks)
-                st.write("**Coastal Flooding Late-Century Projected Risk:**", cfld_late_higher_prisks)
-                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", cfld_mid_higher_hm)
-                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", cfld_late_higher_hm)
-                st.write("**Wildfire Mid-Century Projected Risk:**", wfir_mid_higher_prisks)
-                st.write("**Wildfire Late-Century Projected Risk:**", wfir_late_higher_prisks)
-                st.write("**Wildfire Mid-Century Hazard Multiplier:**", wfir_mid_higher_hm)
-                st.write("**Wildfire Late-Century Hazard Multiplier:**", wfir_late_higher_hm)
-                st.write("**Drought Mid-Century Projected Risk:**", drgt_mid_higher_prisks)
-                st.write("**Drought Late-Century Projected Risk:**", drgt_late_higher_prisks)
-                st.write("**Drought Mid-Century Hazard Multiplier:**", drgt_mid_higher_hm)
-                st.write("**Drought Late-Century Hazard Multiplier:**", drgt_late_higher_hm)
-                st.write("**Hurricane Mid-Century Projected Risk:**", hrcn_mid_higher_prisks)
-                st.write("**Hurricane Late-Century Projected Risk:**", hrcn_late_higher_prisks)
-                st.write("**Hurricane Mid-Century Hazard Multiplier:**", hrcn_mid_higher_hm)
-                st.write("**Hurricane Late-Century Hazard Multiplier:**", hrcn_late_higher_hm)
+                st.write("**Coastal Flooding Mid-Century Projected Risk:**", props.get("CFLD_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Late-Century Projected Risk:**", props.get("CFLD_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", props.get("CFLD_MID_HIGHER_HM", "N/A"))
+                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", props.get("CFLD_LATE_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Mid-Century Projected Risk:**", props.get("WFIR_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Late-Century Projected Risk:**", props.get("WFIR_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Mid-Century Hazard Multiplier:**", props.get("WFIR_MID_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Late-Century Hazard Multiplier:**", props.get("WFIR_LATE_HIGHER_HM", "N/A"))
+                st.write("**Drought Mid-Century Projected Risk:**", props.get("DRGT_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Late-Century Projected Risk:**", props.get("DRGT_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Mid-Century Hazard Multiplier:**", props.get("DRGT_MID_HIGHER_HM", "N/A"))
+                st.write("**Drought Late-Century Hazard Multiplier:**", props.get("DRGT_LATE_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Mid-Century Projected Risk:**", props.get("HRCN_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Late-Century Projected Risk:**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Mid-Century Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Late-Century Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+            
+            extra_context = (
+                f"State: {state_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+                f"NRI Future Risk Index (Higher Warming Pathway):\n"
+                f"Coastal Flooding Mid-Century Projected Risk: {props.get('CFLD_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Coastal Flooding Late-Century Projected Risk: {props.get('CFLD_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Coastal Flooding Mid-Century Hazard Multiplier: {props.get('CFLD_MID_HIGHER_HM', 'N/A')}\n"
+                f"Coastal Flooding Late-Century Hazard Multiplier: {props.get('CFLD_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Wildfire Mid-Century Projected Risk: {props.get('WFIR_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Wildfire Late-Century Projected Risk: {props.get('WFIR_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Wildfire Mid-Century Hazard Multiplier: {props.get('WFIR_MID_HIGHER_HM', 'N/A')}\n"
+                f"Wildfire Late-Century Hazard Multiplier: {props.get('WFIR_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Drought Mid-Century Projected Risk: {props.get('DRGT_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Drought Late-Century Projected Risk: {props.get('DRGT_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Drought Mid-Century Hazard Multiplier: {props.get('DRGT_MID_HIGHER_HM', 'N/A')}\n"
+                f"Drought Late-Century Hazard Multiplier: {props.get('DRGT_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Hurricane Mid-Century Projected Risk: {props.get('HRCN_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Hurricane Late-Century Projected Risk: {props.get('HRCN_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Hurricane Mid-Century Hazard Multiplier: {props.get('HRCN_MID_HIGHER_HM', 'N/A')}\n"
+                f"Hurricane Late-Century Hazard Multiplier: {props.get('HRCN_LATE_HIGHER_HM', 'N/A')}\n"
+            )
+
+            api_key = st.text_input("Enter your OpenAI API key:", type="password")
+            user_input_state = st.text_input("Ask a Question about the selected State:", key="state_question")
+            if st.button("Submit State Query", key="state_submit"):
+                if api_key and user_input_state:
+                    result = answer_question_state(api_key, user_input_state, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
         else:
             st.info("Click on a state to view details.")
         
-        user_input_state = st.text_input("Ask a Question about State:", key="state_question")
-        if st.button("Submit State Query", key="state_submit"):
-            st.write("This is some dummy response for your state input!")
-            
+    with cols_state[2]:
+        legend_html = generate_legend_html(region_colors)
+        st.markdown(legend_html, unsafe_allow_html=True)
+
 # ================================
 # Tab 2: County Map
 # ================================
@@ -235,10 +389,9 @@ with tab2:
     folium.TileLayer("OpenStreetMap", control=False).add_to(m_county)
     
     county_boundaries = folium.FeatureGroup(name="County Boundaries", control=False)
-    
     tooltip_county = folium.GeoJsonTooltip(
-        fields=["NAME", "POP_TT", "FIPS_TT"],
-        aliases=["County:", "Population:", "FIPS:"],
+        fields=["NAME", "POP_TT", "FIPS_TT", "EPA_REGION"],
+        aliases=["County:", "Population:", "FIPS:", "EPA Region:"],
         localize=True,
         sticky=False,
         labels=True,
@@ -254,8 +407,7 @@ with tab2:
     folium.GeoJson(
         counties_gdf,
         style_function=lambda x: {
-            "fillColor": county_cm(math.log(float(x["properties"]["POP"])))
-            if x["properties"]["POP"] not in [None, "No data"] else "transparent",
+            "fillColor": region_colors.get(x["properties"].get("EPA_REGION"), "transparent"),
             "color": "black",
             "fillOpacity": 0.4,
             "weight": 1
@@ -265,11 +417,9 @@ with tab2:
     ).add_to(county_boundaries)
     county_boundaries.add_to(m_county)
     
-    county_cm.add_to(m_county)
-    
+    # Add city markers for counties
     city_markers_fg_county = folium.FeatureGroup(name="City Markers", show=False)
-    unique_cities = city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates()
-    for _, row in unique_cities.iterrows():
+    for _, row in city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates().iterrows():
         lat = row["Latitude"]
         lon = row["Longitude"]
         city = row["CityName"]
@@ -295,10 +445,13 @@ with tab2:
     m_county.add_child(city_markers_fg_county)
     folium.LayerControl(collapsed=False).add_to(m_county)
     
-    cols = st.columns([1, 2])
-    with cols[1]:
-        st_data_county = st_folium(m_county, width=1000, height=800)
-    with cols[0]:
+    # For the county tab, also use three columns: left (Additional Info & QA), middle (Map), right (Legend)
+    cols_county = st.columns([3, 6, 1])
+    
+    with cols_county[1]:
+        st_data_county = st_folium(m_county, width=900, height=650)
+    
+    with cols_county[0]:
         st.markdown("### Additional Information")
         if st_data_county.get("last_active_drawing"):
             props = st_data_county["last_active_drawing"].get("properties", {})
@@ -306,28 +459,11 @@ with tab2:
             population = props.get("POP_TT", "N/A")
             fips = props.get("FIPS_TT", "N/A")
             n_caps = props.get("n_caps", 0)
-            cfld_mid_higher_prisks = props.get("CFLD_MID_HIGHER_PRISKS", "N/A")
-            cfld_late_higher_prisks = props.get("CFLD_LATE_HIGHER_PRISKS", "N/A")
-            cfld_mid_higher_hm = props.get("CFLD_MID_HIGHER_HM", "N/A")
-            cfld_late_higher_hm = props.get("CFLD_LATE_HIGHER_HM", "N/A")
-            wfir_mid_higher_prisks = props.get("WFIR_MID_HIGHER_PRISKS", "N/A")
-            wfir_late_higher_prisks = props.get("WFIR_LATE_HIGHER_PRISKS", "N/A")
-            wfir_mid_higher_hm = props.get("WFIR_MID_HIGHER_HM", "N/A")
-            wfir_late_higher_hm = props.get("WFIR_LATE_HIGHER_HM", "N/A")
-            drgt_mid_higher_prisks = props.get("DRGT_MID_HIGHER_PRISKS", "N/A")
-            drgt_late_higher_prisks = props.get("DRGT_LATE_HIGHER_PRISKS", "N/A")
-            drgt_mid_higher_hm = props.get("DRGT_MID_HIGHER_HM", "N/A")
-            drgt_late_higher_hm = props.get("DRGT_LATE_HIGHER_HM", "N/A")
-            hrcn_mid_higher_prisks = props.get("HRCN_MID_HIGHER_PRISKS", "N/A")
-            hrcn_late_higher_prisks = props.get("HRCN_LATE_HIGHER_PRISKS", "N/A")
-            hrcn_mid_higher_hm = props.get("HRCN_MID_HIGHER_HM", "N/A")
-            hrcn_late_higher_hm = props.get("HRCN_LATE_HIGHER_HM", "N/A")
-            
+            state_abbr = props.get("STATE_ABBR", "N/A")
             st.write("**County:**", county_name)
             st.write("**Population:**", population)
-            st.write("**FIPS:**", fips)
+            st.write("**FIPS:**", f"{fips}")
             st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
-            
             with st.expander("#### Cities with Climate Action Plans:"):
                 plan_list = props.get("plan_list", [])
                 if plan_list:
@@ -335,27 +471,42 @@ with tab2:
                         st.write(plan)
                 else:
                     st.write("None")
-            
             with st.expander("#### NRI Future Risk Index (Higher Warming Pathway):"):
-                st.write("**Coastal Flooding Mid-Century Projected Risk:**", cfld_mid_higher_prisks)
-                st.write("**Coastal Flooding Late-Century Projected Risk:**", cfld_late_higher_prisks)
-                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", cfld_mid_higher_hm)
-                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", cfld_late_higher_hm)
-                st.write("**Wildfire Mid-Century Projected Risk:**", wfir_mid_higher_prisks)
-                st.write("**Wildfire Late-Century Projected Risk:**", wfir_late_higher_prisks)
-                st.write("**Wildfire Mid-Century Hazard Multiplier:**", wfir_mid_higher_hm)
-                st.write("**Wildfire Late-Century Hazard Multiplier:**", wfir_late_higher_hm)
-                st.write("**Drought Mid-Century Projected Risk:**", drgt_mid_higher_prisks)
-                st.write("**Drought Late-Century Projected Risk:**", drgt_late_higher_prisks)
-                st.write("**Drought Mid-Century Hazard Multiplier:**", drgt_mid_higher_hm)
-                st.write("**Drought Late-Century Hazard Multiplier:**", drgt_late_higher_hm)
-                st.write("**Hurricane Mid-Century Projected Risk:**", hrcn_mid_higher_prisks)
-                st.write("**Hurricane Late-Century Projected Risk:**", hrcn_late_higher_prisks)
-                st.write("**Hurricane Mid-Century Hazard Multiplier:**", hrcn_mid_higher_hm)
-                st.write("**Hurricane Late-Century Hazard Multiplier:**", hrcn_late_higher_hm)
+                st.write("**Coastal Flooding Mid-Century Projected Risk:**", props.get("CFLD_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Late-Century Projected Risk:**", props.get("CFLD_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", props.get("CFLD_MID_HIGHER_HM", "N/A"))
+                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", props.get("CFLD_LATE_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Mid-Century Projected Risk:**", props.get("WFIR_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Late-Century Projected Risk:**", props.get("WFIR_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Mid-Century Hazard Multiplier:**", props.get("WFIR_MID_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Late-Century Hazard Multiplier:**", props.get("WFIR_LATE_HIGHER_HM", "N/A"))
+                st.write("**Drought Mid-Century Projected Risk:**", props.get("DRGT_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Late-Century Projected Risk:**", props.get("DRGT_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Mid-Century Hazard Multiplier:**", props.get("DRGT_MID_HIGHER_HM", "N/A"))
+                st.write("**Drought Late-Century Hazard Multiplier:**", props.get("DRGT_LATE_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Mid-Century Projected Risk:**", props.get("HRCN_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Late-Century Projected Risk:**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Mid-Century Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Late-Century Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+            
+            extra_context = (
+                f"County: {county_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+            )
+
+            api_key = st.text_input("Enter your OpenAI API key:", type="password", key="county_api_key")
+            user_input_county = st.text_input("Ask a Question about the selected County:", key="county_question")
+            if st.button("Submit County Query", key="county_submit"):
+                if api_key and user_input_county:
+                    result = answer_question_county(api_key, user_input_county, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
         else:
             st.info("Click on a county to view details.")
-        
-        user_input_county = st.text_input("**Ask a Question about County:**", key="county_question")
-        if st.button("Submit County Query", key="county_submit"):
-            st.write("This is some dummy response for your county input!")
+    
+    with cols_county[2]:
+        legend_html = generate_legend_html(region_colors)
+        st.markdown(legend_html, unsafe_allow_html=True)

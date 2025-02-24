@@ -5,6 +5,20 @@ from shapely.geometry import shape
 
 API_KEY = "ea9637fd9f0c41f3e2e932faa99dfcd76f8041aa"
 
+# Mapping dictionaries
+state_abbrev_to_fips = {
+    "AL": "01", "AK": "02", "AZ": "04", "AR": "05", "CA": "06", "CO": "08",
+    "CT": "09", "DE": "10", "DC": "11", "FL": "12", "GA": "13", "HI": "15",
+    "ID": "16", "IL": "17", "IN": "18", "IA": "19", "KS": "20", "KY": "21",
+    "LA": "22", "ME": "23", "MD": "24", "MA": "25", "MI": "26", "MN": "27",
+    "MS": "28", "MO": "29", "MT": "30", "NE": "31", "NV": "32", "NH": "33",
+    "NJ": "34", "NM": "35", "NY": "36", "NC": "37", "ND": "38", "OH": "39",
+    "OK": "40", "OR": "41", "PA": "42", "RI": "44", "SC": "45", "SD": "46",
+    "TN": "47", "TX": "48", "UT": "49", "VT": "50", "VA": "51", "WA": "53",
+    "WV": "54", "WI": "55", "WY": "56"
+}
+fips_to_abbrev = {v: k for k, v in state_abbrev_to_fips.items()}
+
 def fetch_state_data():
     """Fetch state-level Census data and return as a DataFrame."""
     state_url = (
@@ -27,7 +41,6 @@ def fetch_county_data():
     county_data = r_counties.json()
     df = pd.DataFrame(county_data[1:], columns=county_data[0])
     df["POP"] = df["POP"].astype(int)
-    # Split the NAME column into county and state names
     df[['countyName', 'stateName']] = df['NAME'].str.split(',', expand=True)
     df["FIPS"] = df["state"].str.zfill(2) + df["county"].str.zfill(3)
     return df
@@ -36,15 +49,29 @@ def fetch_geojson(url: str):
     """Fetch the GeoJSON data from the provided URL."""
     return requests.get(url).json()
 
+def load_epa_data():
+    """
+    Load EPA region data from the CSV file.
+    This version explicitly reads only the 'Region' and 'States' columns,
+    which prevents extra trailing commas from creating additional columns.
+    """
+    df = pd.read_csv("epa_regions.csv", usecols=["Region", "States"])
+    # Force uppercase on the state abbreviations and strip whitespace
+    df["States"] = df["States"].str.strip().str.upper()
+    return df
+
+
 def build_states_gdf(state_df, state_abbrev_to_fips):
-    """Build a GeoDataFrame for US states with Census data attached."""
+    """
+    Build a GeoDataFrame for US states with Census data and EPA region attached.
+    """
     state_pop_dict = state_df.set_index("state")["POP"].to_dict()
     state_name_dict = state_df.set_index("state")["NAME"].to_dict()
     url = "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json"
     geo_data = fetch_geojson(url)
     rows = []
     for feat in geo_data["features"]:
-        abbrev = feat["id"]
+        abbrev = feat["id"].upper()  # Ensure uppercase
         geom = shape(feat["geometry"])
         fips = state_abbrev_to_fips.get(abbrev)
         if fips:
@@ -57,12 +84,22 @@ def build_states_gdf(state_df, state_abbrev_to_fips):
                 "POP": pop_val
             })
     gdf = gpd.GeoDataFrame(rows, crs="EPSG:4326")
-    # Precompute a formatted population column for tooltips (e.g., with commas)
     gdf["POP_TT"] = gdf["POP"].apply(lambda x: f"{int(x):,}" if isinstance(x, int) else "No data")
+    # Add state abbreviation column for merging EPA data
+    gdf["STATE_ABBR"] = gdf["STATE_FIPS"].map(fips_to_abbrev)
+    # Merge EPA data
+    epa_df = load_epa_data()
+    gdf = gdf.merge(epa_df, left_on="STATE_ABBR", right_on="States", how="left")
+    # Rename EPA column and ensure it's numeric
+    gdf.rename(columns={"Region": "EPA_REGION"}, inplace=True)
+    gdf["EPA_REGION"] = pd.to_numeric(gdf["EPA_REGION"], errors="coerce")
     return gdf
 
 def build_counties_gdf(county_df):
-    """Build a GeoDataFrame for US counties and simplify geometries for performance."""
+    """
+    Build a GeoDataFrame for US counties, simplify geometries,
+    and merge EPA region data.
+    """
     county_pop_dict = county_df.set_index("FIPS")["POP"].to_dict()
     county_name_dict = county_df.set_index("FIPS")["NAME"].to_dict()
     url = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
@@ -80,24 +117,20 @@ def build_counties_gdf(county_df):
             "POP": pop_val
         })
     gdf = gpd.GeoDataFrame(rows, crs="EPSG:4326")
-    # Increase the simplification tolerance to reduce geometry complexity
     gdf["geometry"] = gdf["geometry"].simplify(tolerance=0.05, preserve_topology=True)
+    # Add state abbreviation column for merging EPA data
+    gdf["STATE_ABBR"] = gdf["FIPS"].str[:2].map(fips_to_abbrev)
+    epa_df = load_epa_data()
+    gdf = gdf.merge(epa_df, left_on="STATE_ABBR", right_on="States", how="left")
+    gdf.rename(columns={"Region": "EPA_REGION"}, inplace=True)
+    gdf["EPA_REGION"] = pd.to_numeric(gdf["EPA_REGION"], errors="coerce")
     return gdf
 
-state_abbrev_to_fips = {
-    "AL": "01", "AK": "02", "AZ": "04", "AR": "05", "CA": "06", "CO": "08",
-    "CT": "09", "DE": "10", "DC": "11", "FL": "12", "GA": "13", "HI": "15",
-    "ID": "16", "IL": "17", "IN": "18", "IA": "19", "KS": "20", "KY": "21",
-    "LA": "22", "ME": "23", "MD": "24", "MA": "25", "MI": "26", "MN": "27",
-    "MS": "28", "MO": "29", "MT": "30", "NE": "31", "NV": "32", "NH": "33",
-    "NJ": "34", "NM": "35", "NY": "36", "NC": "37", "ND": "38", "OH": "39",
-    "OK": "40", "OR": "41", "PA": "42", "RI": "44", "SC": "45", "SD": "46",
-    "TN": "47", "TX": "48", "UT": "49", "VT": "50", "VA": "51", "WA": "53",
-    "WV": "54", "WI": "55", "WY": "56"
-}
-
 def load_and_merge_caps(states_gdf):
-    """Merge state-level climate action plan data with the states GeoDataFrame and precompute display columns."""
+    """
+    Merge state-level climate action plan data with the states GeoDataFrame
+    and precompute display columns.
+    """
     caps_df = pd.read_csv("caps_plans.csv")
     caps_df["State"] = caps_df["State"].str.strip().str.upper()
     caps_df["STATE_FIPS"] = caps_df["State"].map(state_abbrev_to_fips)
@@ -111,16 +144,17 @@ def load_and_merge_caps(states_gdf):
     merged = states_gdf.merge(grouped, on="STATE_FIPS", how="left")
     merged["n_caps"] = merged["n_caps"].fillna(0).astype(int)
     merged["plan_list"] = merged["plan_list"].apply(lambda x: x if isinstance(x, list) else [])
-    # Precompute a formatted population column (if not already computed)
     if "POP_TT" not in merged.columns:
         merged["POP_TT"] = merged["POP"].apply(lambda x: f"{int(x):,}" if isinstance(x, int) else "No data")
     return merged
 
 def load_and_merge_caps_county(counties_gdf):
-    """Merge county-level climate action plan data with the counties GeoDataFrame and precompute display columns."""
+    """
+    Merge county-level climate action plan data with the counties GeoDataFrame
+    and precompute display columns.
+    """
     caps_df = pd.read_csv("caps_plans.csv")
     mapping_df = pd.read_csv("city_county_mapping.csv")
-    # Standardize text for matching
     caps_df["State"] = caps_df["State"].str.strip().str.upper()
     mapping_df["CountyKey"] = mapping_df["CountyName"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip()
@@ -141,7 +175,6 @@ def load_and_merge_caps_county(counties_gdf):
         n_caps=("Plan Type", "count"),
         plan_list=("plan_info", lambda x: list(x))
     ).reset_index()
-    fips_to_abbrev = {v: k for k, v in state_abbrev_to_fips.items()}
     counties_gdf["STATE"] = counties_gdf["FIPS"].str[:2].map(fips_to_abbrev)
     counties_gdf["CountyKey"] = counties_gdf["NAME"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip()
@@ -154,11 +187,9 @@ def load_and_merge_caps_county(counties_gdf):
     )
     merged_counties["n_caps"] = merged_counties["n_caps"].fillna(0).astype(int)
     merged_counties["plan_list"] = merged_counties["plan_list"].apply(lambda x: x if isinstance(x, list) else [])
-    # Precompute display columns for county tooltips
     merged_counties["POP_TT"] = merged_counties["POP"].apply(
         lambda x: f"{int(x):,}" if pd.notnull(x) and isinstance(x, (int, float)) else "No data"
     )
-    # Updated FIPS_TT lambda: if x is a string and is all digits, pad to 5 digits.
     merged_counties["FIPS_TT"] = merged_counties["FIPS"].apply(
         lambda x: x.zfill(5) if isinstance(x, str) and x.isdigit() else "No data"
     )
@@ -167,7 +198,7 @@ def load_and_merge_caps_county(counties_gdf):
 def load_city_mapping():
     """Load the city mapping CSV for marker locations."""
     df = pd.read_csv("city_county_mapping.csv")
-    df["CityName"] = df["CityName"].str.strip().str.upper()
+    df["CityName"] = df["CityName"].str.strip()
     df["StateName"] = df["StateName"].str.strip().str.upper()
     df["Latitude"] = pd.to_numeric(df["Latitude"], errors="coerce")
     df["Longitude"] = pd.to_numeric(df["Longitude"], errors="coerce")
@@ -176,14 +207,16 @@ def load_city_mapping():
 def load_city_plans():
     """Load and group climate action plan data by city and state."""
     df = pd.read_csv("caps_plans.csv")
-    df["City"] = df["City"].str.strip().str.upper()
+    df["City"] = df["City"].str.strip()
     df["State"] = df["State"].str.strip().str.upper()
     df["plan_info"] = df.apply(lambda row: f"{row['Year']}, {row['Plan Type']}", axis=1)
     grouped = df.groupby(["City", "State"]).agg(plan_list=("plan_info", lambda x: list(x))).reset_index()
     return grouped
 
 def merge_nri_data(states_gdf_caps, counties_gdf_caps):
-    """Merge the NRI Future Risk Index data with the state and county GeoDataFrames."""
+    """
+    Merge the NRI Future Risk Index data with the state and county GeoDataFrames.
+    """
     nri_df = pd.read_excel("data/NRI Future Risk Index.xlsx")
     nri_df = nri_df[["STATEABBRV", "STATE", "COUNTY", "STCOFIPS", 
                      "CFLD_MID_HIGHER_PRISKS", "CFLD_LATE_HIGHER_PRISKS",
