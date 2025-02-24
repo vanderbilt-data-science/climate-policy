@@ -1,9 +1,14 @@
 import streamlit as st
-import geopandas as gpd
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
-import math
+import os
+
+from langchain.docstore.document import Document
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.chains.combine_documents import create_stuff_documents_chain
 
 # ------------------------------------------------------------------------------
 # Page Configuration
@@ -86,6 +91,141 @@ def generate_legend_html(region_colors):
     return legend_html
 
 # ------------------------------------------------------------------------------
+# Helper function to reformat plan names
+# ------------------------------------------------------------------------------
+def format_plan_name(plan, state_abbr):
+    """
+    Given a plan string (e.g. "Oakland, 2020, Mitigation Primary CAP")
+    and a state abbreviation (e.g. "CA"), return the formatted string
+    matching the vector store directory naming convention.
+    Expected output: "Oakland, CA Mitigation Primary CAP 2020"
+    """
+    parts = [p.strip() for p in plan.split(",")]
+    if len(parts) == 3:
+        city, year, title = parts
+        return f"{city}, {state_abbr} {title} {year}"
+    else:
+        # If the plan string is already in the desired format or unrecognized,
+        # return it unchanged.
+        return plan
+
+# ------------------------------------------------------------------------------
+# Function to answer questions about the selected state
+# ------------------------------------------------------------------------------
+def answer_question_state(api_key, user_input, extra_context, plan_list, state_abbr):
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    all_retrieved_chunks = []
+
+    # Process each plan in the list after reformatting its name.
+    for plan in plan_list:
+        formatted_plan = format_plan_name(plan, state_abbr)
+        vectorstore_path = os.path.join("Individual_All_Vectorstores", formatted_plan + "_vectorstore")
+        try:
+            embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+            vector_store = FAISS.load_local(
+                vectorstore_path,
+                embedding_model,
+                allow_dangerous_deserialization=True
+            )
+        except Exception as e:
+            st.error(f"Error loading vector store for plan '{formatted_plan}': {e}")
+            continue
+
+        retriever = vector_store.as_retriever(search_kwargs={"k": 2})
+        retrieved_chunks = retriever.invoke(user_input)
+        all_retrieved_chunks.extend(retrieved_chunks)
+    
+    # Wrap extra context as a Document and append.
+    all_retrieved_chunks.append(Document(page_content=extra_context))
+
+    # Read the system prompt for multi-document QA
+    prompt_path = "Prompts/maps_qa.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+    
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    llm = ChatOpenAI(model="gpt-4o")
+    question_answer_chain = create_stuff_documents_chain(
+        llm, prompt, document_variable_name="context"
+    )
+
+    result = question_answer_chain.invoke({
+        "input": user_input,
+        "context": all_retrieved_chunks
+    })
+
+    answer = result["answer"] if "answer" in result else result
+    return answer
+
+# ------------------------------------------------------------------------------
+# Function to answer questions about the selected county
+# ------------------------------------------------------------------------------
+def answer_question_county(api_key, user_input, extra_context, plan_list, state_abbr):
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    all_retrieved_chunks = []
+
+    # Process each plan in the list after reformatting its name.
+    for plan in plan_list:
+        formatted_plan = format_plan_name(plan, state_abbr)
+        vectorstore_path = os.path.join("Individual_All_Vectorstores", formatted_plan + "_vectorstore")
+        try:
+            embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+            vector_store = FAISS.load_local(
+                vectorstore_path,
+                embedding_model,
+                allow_dangerous_deserialization=True
+            )
+        except Exception as e:
+            st.error(f"Error loading vector store for plan '{formatted_plan}': {e}")
+            continue
+
+        retriever = vector_store.as_retriever(search_kwargs={"k": 2})
+        retrieved_chunks = retriever.invoke(user_input)
+        all_retrieved_chunks.extend(retrieved_chunks)
+    
+    # Wrap extra context as a Document and append.
+    all_retrieved_chunks.append(Document(page_content=extra_context))
+
+    # Read the system prompt for multi-document QA
+    prompt_path = "Prompts/maps_qa.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+    
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    llm = ChatOpenAI(model="gpt-4o")
+    question_answer_chain = create_stuff_documents_chain(
+        llm, prompt, document_variable_name="context"
+    )
+
+    result = question_answer_chain.invoke({
+        "input": user_input,
+        "context": all_retrieved_chunks
+    })
+
+    answer = result["answer"] if "answer" in result else result
+    return answer
+
+# ------------------------------------------------------------------------------
 # 2) BUILD THE APP WITH TABS FOR STATE AND COUNTY MAPS
 # ------------------------------------------------------------------------------
 tab1, tab2 = st.tabs(["State Map", "County Map"])
@@ -157,7 +297,7 @@ with tab1:
     m_state.add_child(city_markers_fg)
     folium.LayerControl(collapsed=False).add_to(m_state)
     
-    # Create three columns: left (Additional Info), middle (Map), right (Legend - skinny)
+    # Create three columns: left (Additional Info & QA), middle (Map), right (Legend)
     cols_state = st.columns([3, 6, 1])
     
     with cols_state[1]:
@@ -170,6 +310,7 @@ with tab1:
             state_name = props.get("NAME", "N/A")
             population = props.get("POP_TT", "N/A")
             fips = props.get("STATE_FIPS", "N/A")
+            state_abbr = props.get("STATE_ABBR", "N/A")
             n_caps = props.get("n_caps", 0)
             plan_list = props.get("plan_list", [])
             st.write("**State:**", state_name)
@@ -199,12 +340,42 @@ with tab1:
                 st.write("**Hurricane Late-Century Projected Risk:**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
                 st.write("**Hurricane Mid-Century Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
                 st.write("**Hurricane Late-Century Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+            
+            extra_context = (
+                f"State: {state_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+                f"NRI Future Risk Index (Higher Warming Pathway):\n"
+                f"Coastal Flooding Mid-Century Projected Risk: {props.get('CFLD_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Coastal Flooding Late-Century Projected Risk: {props.get('CFLD_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Coastal Flooding Mid-Century Hazard Multiplier: {props.get('CFLD_MID_HIGHER_HM', 'N/A')}\n"
+                f"Coastal Flooding Late-Century Hazard Multiplier: {props.get('CFLD_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Wildfire Mid-Century Projected Risk: {props.get('WFIR_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Wildfire Late-Century Projected Risk: {props.get('WFIR_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Wildfire Mid-Century Hazard Multiplier: {props.get('WFIR_MID_HIGHER_HM', 'N/A')}\n"
+                f"Wildfire Late-Century Hazard Multiplier: {props.get('WFIR_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Drought Mid-Century Projected Risk: {props.get('DRGT_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Drought Late-Century Projected Risk: {props.get('DRGT_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Drought Mid-Century Hazard Multiplier: {props.get('DRGT_MID_HIGHER_HM', 'N/A')}\n"
+                f"Drought Late-Century Hazard Multiplier: {props.get('DRGT_LATE_HIGHER_HM', 'N/A')}\n"
+                f"Hurricane Mid-Century Projected Risk: {props.get('HRCN_MID_HIGHER_PRISKS', 'N/A')}\n"
+                f"Hurricane Late-Century Projected Risk: {props.get('HRCN_LATE_HIGHER_PRISKS', 'N/A')}\n"
+                f"Hurricane Mid-Century Hazard Multiplier: {props.get('HRCN_MID_HIGHER_HM', 'N/A')}\n"
+                f"Hurricane Late-Century Hazard Multiplier: {props.get('HRCN_LATE_HIGHER_HM', 'N/A')}\n"
+            )
+
+            api_key = st.text_input("Enter your OpenAI API key:", type="password")
+            user_input_state = st.text_input("Ask a Question about the selected State:", key="state_question")
+            if st.button("Submit State Query", key="state_submit"):
+                if api_key and user_input_state:
+                    result = answer_question_state(api_key, user_input_state, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
         else:
             st.info("Click on a state to view details.")
-        user_input_state = st.text_input("Ask a Question about State:", key="state_question")
-        if st.button("Submit State Query", key="state_submit"):
-            st.write("This is some dummy response for your state input!")
-    
+        
     with cols_state[2]:
         legend_html = generate_legend_html(region_colors)
         st.markdown(legend_html, unsafe_allow_html=True)
@@ -274,7 +445,7 @@ with tab2:
     m_county.add_child(city_markers_fg_county)
     folium.LayerControl(collapsed=False).add_to(m_county)
     
-    # For the county tab, also use three columns: left (Additional Info), middle (Map), right (Legend)
+    # For the county tab, also use three columns: left (Additional Info & QA), middle (Map), right (Legend)
     cols_county = st.columns([3, 6, 1])
     
     with cols_county[1]:
@@ -288,6 +459,7 @@ with tab2:
             population = props.get("POP_TT", "N/A")
             fips = props.get("FIPS_TT", "N/A")
             n_caps = props.get("n_caps", 0)
+            state_abbr = props.get("STATE_ABBR", "N/A")
             st.write("**County:**", county_name)
             st.write("**Population:**", population)
             st.write("**FIPS:**", f"{fips}")
@@ -316,11 +488,24 @@ with tab2:
                 st.write("**Hurricane Late-Century Projected Risk:**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
                 st.write("**Hurricane Mid-Century Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
                 st.write("**Hurricane Late-Century Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+            
+            extra_context = (
+                f"County: {county_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+            )
+
+            api_key = st.text_input("Enter your OpenAI API key:", type="password", key="county_api_key")
+            user_input_county = st.text_input("Ask a Question about the selected County:", key="county_question")
+            if st.button("Submit County Query", key="county_submit"):
+                if api_key and user_input_county:
+                    result = answer_question_county(api_key, user_input_county, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
         else:
             st.info("Click on a county to view details.")
-        user_input_county = st.text_input("**Ask a Question about County:**", key="county_question")
-        if st.button("Submit County Query", key="county_submit"):
-            st.write("This is some dummy response for your county input!")
     
     with cols_county[2]:
         legend_html = generate_legend_html(region_colors)
