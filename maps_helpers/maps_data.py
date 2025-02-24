@@ -198,7 +198,7 @@ def load_and_merge_caps_county(counties_gdf):
 def load_city_mapping():
     """Load the city mapping CSV for marker locations."""
     df = pd.read_csv("city_county_mapping.csv")
-    df["CityName"] = df["CityName"].str.strip().str.upper()
+    df["CityName"] = df["CityName"].str.strip()
     df["StateName"] = df["StateName"].str.strip().str.upper()
     df["Latitude"] = pd.to_numeric(df["Latitude"], errors="coerce")
     df["Longitude"] = pd.to_numeric(df["Longitude"], errors="coerce")
@@ -207,7 +207,7 @@ def load_city_mapping():
 def load_city_plans():
     """Load and group climate action plan data by city and state."""
     df = pd.read_csv("caps_plans.csv")
-    df["City"] = df["City"].str.strip().str.upper()
+    df["City"] = df["City"].str.strip()
     df["State"] = df["State"].str.strip().str.upper()
     df["plan_info"] = df.apply(lambda row: f"{row['Year']}, {row['Plan Type']}", axis=1)
     grouped = df.groupby(["City", "State"]).agg(plan_list=("plan_info", lambda x: list(x))).reset_index()

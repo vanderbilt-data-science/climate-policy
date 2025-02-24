@@ -102,8 +102,8 @@ with tab1:
     
     state_boundaries = folium.FeatureGroup(name="State Boundaries", control=False)
     tooltip_state = folium.GeoJsonTooltip(
-        fields=["NAME", "POP_TT"],
-        aliases=["State:", "Population:"],
+        fields=["NAME", "POP_TT", "EPA_REGION"],
+        aliases=["State:", "Population:", "EPA Region:"],
         localize=True,
         sticky=False,
         labels=True,
@@ -129,7 +129,7 @@ with tab1:
     ).add_to(state_boundaries)
     state_boundaries.add_to(m_state)
     
-    # Optional: Add city markers to the state map
+    # Add city markers to the state map
     city_markers_fg = folium.FeatureGroup(name="City Markers", show=False)
     for _, row in city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates().iterrows():
         lat = row["Latitude"]
@@ -219,8 +219,8 @@ with tab2:
     
     county_boundaries = folium.FeatureGroup(name="County Boundaries", control=False)
     tooltip_county = folium.GeoJsonTooltip(
-        fields=["NAME", "POP_TT", "FIPS_TT"],
-        aliases=["County:", "Population:", "FIPS:"],
+        fields=["NAME", "POP_TT", "FIPS_TT", "EPA_REGION"],
+        aliases=["County:", "Population:", "FIPS:", "EPA Region:"],
         localize=True,
         sticky=False,
         labels=True,
