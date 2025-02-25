@@ -1,391 +1,412 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction: Oakland, California**
+**Planning Jurisdiction:** City of Oakland
 
-The document does not provide specific details on the population, demographics, or average income of Oakland. However, it does mention that Oakland is a city that has been a leader in climate and resilience action, highlighting its vulnerability to climate change impacts.
+### **Location:**
+- **Geographic Setting:** Oakland is located along the eastern shore of San Francisco Bay.
+- **Coastline:** The city has 19 miles of San Francisco Bay shoreline.
 
-**Geographic Features and Infrastructure:**
+### **Demographics and Income:**
+- **Population:** The plan does not specify the exact population and average income; hence, such details are not explicitly mentioned in the document.
+- **Demographics:** The plan mentions a focus on equity, especially addressing the needs of Black, Latinx, Native, and Asian communities, focusing on reducing racial wealth disparities.
 
-- Oakland is located along the San Francisco Bay with “19 miles of San Francisco Bay shoreline.”
-- The city is vulnerable to “wildfire and drought.”
-- Oakland has significant industrial uses, which are being evaluated in terms of their impact, including the “legalized cannabis industry on existing local manufacturers and transportation firms.”
+### **Major Geographic Features:**
+- **Wildfire and Drought Vulnerability:** The document highlights Oakland's vulnerabilities to wildfires and droughts due to its geographical setting.
 
-**Local Climate and Water Challenges:**
+### **Key Infrastructure:**
+- **Seaports:** Mention is made of the Port of Oakland as a significant infrastructure component.
+- **Transportation:** The development of a Bus Rapid Transit (BRT) system in collaboration with AC Transit is noted.
 
-- The plan notes that Oakland is vulnerable to the effects of climate change, specifically mentioning its exposure to “wildfire and drought vulnerability.”
-- There are no specific mentions of aridity or detailed water challenges, but the city is preparing for “extreme weather events” including power losses related to climate-driven events.
+### **Local Climate:**
+- **Climate Vulnerabilities:** Being a coastal city, Oakland is exposed to risks such as sea-level rise. Additionally, the city faces vulnerabilities related to wildfires and droughts.
+  
+### **Natural Resources and Energy Production:**
+- **Renewable Energy:** There is a focus on transitioning away from fossil fuel dependence toward renewable energies. The plan mentions training in clean energy and collaboration with the Bay Area Regional Energy Network and East Bay Community Energy for retrofitting buildings to replace on-site fossil fuel combustion with electric systems.
 
-**Energy Production and Natural Resources:**
+### **Economic Landscape:**
+- **Key Industries and Economic Drivers:**
+  - **Green Jobs:** Oakland emphasizes the expansion of green jobs and industries as part of its economic and workforce development strategies. Programs support sustainable economic activities and green technologies.
+  - **Tech Sector:** Initiatives to foster diverse entrepreneurship in the tech economy, particularly through networks like the Oakland Startup Network, are mentioned.
+  - **Industrial and Manufacturing:** While not central in GHG inventories due to data limitations, the industrial sector, including transportation firms, is noted for its economic significance, particularly with considerations about impacts from sectors like cannabis.
+  - **Construction and Building Retrofits:** Investments in retrofitting buildings for cleaner energy solutions are highlighted, creating job opportunities in construction, HVAC systems, and clean energy technologies.
 
-- The document does not detail specific energy production methods such as oil, gas, or renewables. However, there is a focus on transitioning to a low-carbon economy, suggesting a shift towards renewable energy sources.
-
-**Industries and Economic Drivers:**
-
-- The plan emphasizes economic development through “green jobs” and a sustainable economy, leveraging existing city programs to support this transition.
-- Oakland’s economy is supported by small businesses, with programs in place to aid emerging climate-friendly entrepreneurs.
-- The city is investing in “wealth-building projects in Opportunity Zones” and prioritizing community wealth building, such as a co-operative grocery store and anti-displacement housing.
-
-**Economic Development Initiatives:**
-
-- The city is actively promoting equitable economic development with a focus on the green jobs sector, targeting business and workforce development services to communities of color.
-- Economic strategies include retrofitting buildings for modern electric systems, food recovery and organic waste reduction, supporting the reuse and repair economy, and urban farming and tree planting.
-
-Overall, Oakland’s physical and economic landscape is geared towards addressing climate vulnerabilities while fostering a transition to a sustainable and equitable economy.
+These elements collectively form the physical and economic landscape of Oakland as described in the document.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
+### Summary of Plan Components
+
 **Resilience:**
-
-The plan emphasizes resilience by prioritizing actions and strategies that "leave flexibility to accommodate technological, political, and cultural shifts over the Plan’s 10-year implementation period." It focuses on building resilience in frontline communities, highlighting the importance of addressing immediate and foreseeable climate risks, especially to health and safety. The plan includes actions such as "Fund Creation and Operation of Resilience Hubs" and "Enhance Community Energy Resilience," which aim to protect frontline communities and integrate adaptation with community engagement (ADAPTATION).
-
-**Mitigation:**
-
-The plan addresses mitigation by setting a goal to "identify an equitable path toward cost-effectively reducing Oakland’s local climate emissions a minimum of 56%," transitioning away from fossil fuel dependence, and reducing lifecycle emissions. It includes strategies like "Reduce Emissions from Port Vehicles and Equipment," "Accelerate City Fleet Vehicle Replacement," and "Phase Out Fossil Fuel Dependency in All City Agreements and Contracts" (LIST OF ACTIONS).
+- The plan emphasizes building resilience to climate change by leveraging existing resources and implementing resilience hubs. These hubs serve as community centers that provide "education and training, access to nature and open space, community connections, and green jobs," and can help communities prepare for climate impacts by increasing social cohesion and reducing housing and food insecurity (ADAPTATION).
 
 **Adaptation:**
+- It outlines a comprehensive approach to climate adaptation through actions such as funding and implementing a citywide vulnerability assessment and comprehensive adaptation plan. This includes updating emergency plans like the Local Hazard Mitigation Plan and addressing climate risks with forward-looking projections (ACTIONS).
+- The plan prioritizes community-driven processes, creating neighborhood-based emergency preparedness curriculums, and emphasizes the importance of centering equity, particularly for disproportionately impacted communities (ADAPTATION).
 
-Adaptation is a key component of the plan, with actions such as "Fund and Implement Citywide Vulnerability Assessment and Comprehensive Adaptation Plan" and "Wildfire Risk Reduction." The plan highlights the need for a comprehensive adaptation plan to address neighborhood-level risks and maximize public resources, especially for disproportionately impacted communities. It stresses the importance of centering equity in adaptation efforts and co-creating solutions with frontline communities (ADAPTATION).
+**Mitigation:**
+- The plan aims to reduce local climate emissions by at least 56% by 2030, transitioning away from fossil fuel dependence through various actions. It includes strategies like carbon removal, reducing emissions from the Port of Oakland, and expanding green infrastructure and biodiversity (LIST OF ACTIONS).
+- Actions also prioritize the reduction of emissions from city operations, promoting renewable energy, and workforce development for low-carbon economy transitions (LIST OF ACTIONS).
 
-**Classification:**
+### Classification of the Plan
 
-The plan can be classified as an **equal mitigation and adaptation climate action plan**. It places significant emphasis on both reducing GHG emissions and enhancing resilience and adaptation strategies to address climate impacts.
+Based on the summarized components, the plan can be classified as an **equal mitigation and adaptation climate action plan**. 
+
+- It balances actions and strategies for both climate mitigation and adaptation. The plan includes immediate and long-term mitigation strategies to reduce greenhouse gas emissions while simultaneously implementing adaptation measures to enhance community resilience and preparedness for climate impacts (Summary of Plan Components).
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that the planning jurisdiction, Oakland, will face. It highlights the ongoing and future impacts of climate change despite any immediate cessation of global GHG emissions. The scenario includes:
+Yes, the plan describes the climate change scenario that Oakland will face and for which it is planning climate policies for resilience, mitigation, and adaptation.
 
-- **Sea Level Rise and Wildfires:** "Even if global GHG emissions ended tomorrow, Oakland would still be impacted by climate change. Carbon in the atmosphere will continue to influence sea level rise, wildfires, and other threats." (*ADAPTATION*)
+- **Climate Risk Factors:** Oakland faces risks such as sea level rise, wildfires, smoke days from Northern California wildfires, and natural disasters like earthquakes and firestorms (as experienced in the 1989 Loma Prieta Earthquake and the 1991 firestorm in the Oakland Hills). The effects of climate change are expected to intensify these risks, as synthesised in the statement: *"carbon in the atmosphere will continue to influence sea level rise, wildfires, and other threats."* (ADAPTATION)
 
-- **Increased Risks Over Time:** "The longer it takes to eliminate human-caused carbon emissions, the more those risks will increase." (*ADAPTATION*)
+- **Impact on Communities:** The plan emphasizes that certain communities, often referred to as frontline communities, are particularly vulnerable to these impacts. *"Frontline communities feel the impacts of climate change first and worst, a trend that will be amplified without corrective and protective action."* (ADAPTATION)
 
-- **Vulnerability of Frontline Communities:** "Frontline communities feel the impacts of climate change first and worst, a trend that will be amplified without corrective and protective action." (*ADAPTATION*)
+- **Social and Economic Implications:** The city is also facing socio-economic challenges, as seen during the COVID-19 pandemic, which highlighted the existing vulnerabilities and needs for resilience, especially in communities of color and low-income groups. *"Local food recovery agencies saw the need for their services triple, while both food donations and volunteers declined. [...] communities of color the worst, with African Americans in Alameda County nearly twice as likely as the general population to test positive in the first few months of the pandemic."* (ADAPTATION)
 
-The plan emphasizes the importance of resilience and adaptation measures to address these imminent threats, particularly in disproportionately impacted communities.
+- **Economic Risks:** The failure to adequately address these impacts could have economic repercussions, such as affecting Oakland’s credit rating and increasing the cost of borrowing for city projects and services, due to risks associated with sea level rise, rising energy costs, and other climate-related factors. *"These risks have the potential to limit the ability of Oaklanders to purchase and refinance homes, borrow money for businesses, or otherwise access capital, particularly in flatland neighborhoods where climate impacts are felt first, worst, and hardest."* (Identify and Reduce Financial Risks from Climate Change)
+
+Oakland’s plan outlines the need for robust climate policies in response to these scenarios, aiming to build resilience, mitigate climate impacts, and implement adaptation strategies, in particular focusing on protecting frontline communities.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Extreme Heat**
+1. **Extreme Heat**  
+   - *Climate Hazard:* Increased temperatures leading to extreme heat events.  
+   - *Climate Risks:* Heat-related illness or death, worsened air quality, and increased utility rates.  
+   - *Vulnerable Populations:* Frontline communities, particularly those with existing health issues, low-income communities, and those with reduced access to cooling options.
 
-- **The climate hazard:** "Increasing temperatures leading to extreme heat."
-- **The climate risks it poses:** "Heat-related illness or death."
-- **Areas or populations with the most climate vulnerability:** "Transit-dependent populations such as the elderly, children, and people with disabilities; outdoor and informal workers; low-income communities; indigenous people; undocumented immigrants; and incarcerated populations."
+2. **Flooding**  
+   - *Climate Hazard:* Changes in precipitation leading to worsened flooding, erosion, and landslides.  
+   - *Climate Risks:* Infrastructure threats, property damage, and economic shocks.  
+   - *Vulnerable Areas/Populations:* Housing-insecure families and frontline communities living in flood-prone zones.
 
-**2. Flooding**
+3. **Wildfires**  
+   - *Climate Hazard:* Increased risk of fires due to rising temperatures and changes in precipitation.  
+   - *Climate Risks:* Respiratory diseases from smoke inhalation, property loss, and utility interruptions.  
+   - *Vulnerable Populations:* Outdoor and informal workers, elderly, children, people with disabilities, and those living in high-risk wildfire areas.
 
-- **The climate hazard:** "Changes in precipitation leading to worsened flooding."
-- **The climate risks it poses:** "Property damage, infrastructure threats, and economic shocks."
-- **Areas or populations with the most climate vulnerability:** "Frontline communities that are already vulnerable due to lower incomes and housing insecurity."
+4. **Sea Level Rise**  
+   - *Climate Hazard:* Rising sea levels leading to coastal infrastructure threats and increased exposure to groundwater and soil contamination.  
+   - *Climate Risks:* Increased flooding and economic impacts from infrastructure loss.  
+   - *Vulnerable Areas/Populations:* Flatland neighborhoods and frontline communities with infrastructure at risk of sea level rise.
 
-**3. Wildfires**
+5. **Drought**  
+   - *Climate Hazard:* Increased frequency and severity of droughts.  
+   - *Climate Risks:* Water shortages and crop loss leading to food insecurity.  
+   - *Vulnerable Populations:* Communities reliant on water resources for agriculture and daily living.
 
-- **The climate hazard:** "Increasing risk of fire due to rising temperatures."
-- **The climate risks it poses:** "Respiratory diseases from smoke inhalation during fires."
-- **Areas or populations with the most climate vulnerability:** "Homes with high wildfire risks, particularly frontline communities."
+6. **Air Quality Degradation**  
+   - *Climate Hazard:* Worsened air quality due to increased temperatures and wildfire smoke.  
+   - *Climate Risks:* Asthma and other respiratory conditions, particularly affecting health outcomes.  
+   - *Vulnerable Populations:* Communities along heavily polluted corridors and those with existing respiratory conditions.
 
-**4. Sea Level Rise**
+7. **Food System Shocks**  
+   - *Climate Hazard:* Disruption in food supply systems due to various climate impacts.  
+   - *Climate Risks:* Crop loss and food insecurity.  
+   - *Vulnerable Populations:* Low-income communities with limited access to food resources.  
 
-- **The climate hazard:** "Rising sea levels leading to increased flooding and coastal infrastructure threats."
-- **The climate risks it poses:** "Increased exposure to groundwater and soil contamination."
-- **Areas or populations with the most climate vulnerability:** "Flatland neighborhoods where climate impacts are felt first, worst, and hardest."
+8. **Economic Shocks**  
+   - *Climate Hazard:* Economic disruptions from natural disasters exacerbated by climate change.  
+   - *Climate Risks:* Businesses and schools face closures leading to financial instability.  
+   - *Vulnerable Populations:* Housing-insecure families and communities with high economic vulnerability.
 
-**5. Drought**
-
-- **The climate hazard:** "Increased drought due to changes in precipitation."
-- **The climate risks it poses:** "Water shortages and crop loss, leading to food insecurity."
-- **Areas or populations with the most climate vulnerability:** "Residents and businesses impacted by water shortages and increased utility rates."
-
-**6. Air Quality Degradation**
-
-- **The climate hazard:** "Worsened air quality due to climate change."
-- **The climate risks it poses:** "Asthma and other respiratory conditions."
-- **Areas or populations with the most climate vulnerability:** "Frontline communities living along heavily polluted corridors."
-
-**7. Power Outages**
-
-- **The climate hazard:** "Public safety power shutoffs during wildfire seasons."
-- **The climate risks it poses:** "Economic shocks and disruption of essential services."
-- **Areas or populations with the most climate vulnerability:** "Communities dependent on reliable electricity for health and safety, particularly frontline communities."
-
-**8. Economic Shocks**
-
-- **The climate hazard:** "Natural disasters exacerbated by the climate crisis."
-- **The climate risks it poses:** "Displacement and loss of jobs and housing."
-- **Areas or populations with the most climate vulnerability:** "Frontline communities and housing-insecure families."
+Each identified hazard and its risks highlight the disproportionate impact on frontline communities, necessitating focused adaptation and resilience efforts to mitigate these vulnerabilities.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options in the Plan**
+**Resilience Options Identified in the Plan**
 
 1. **Fund and Implement Citywide Vulnerability Assessment and Comprehensive Adaptation Plan**
-
-   - **Climate Threat Addressed:** This option addresses major climate risks in frontline communities by using forward-looking projections to identify climate threats.
-   - **Cost, Timeframe, and Location:** 
-     - **Cost:** The plan lists a cost of $$$.
-     - **Timeframe:** Implement key recommendations by 2025; update documents every 5 years.
-     - **Location:** Citywide, with a focus on frontline communities.
-   - **Other Attributes:**
-     - Economic considerations include prioritizing resources in frontline communities, which are often economically disadvantaged.
-     - Infrastructural considerations involve identifying existing community-serving facilities to serve as shelters and clean air centers.
+   - **Climate Threat Addressed:** General climate risks including those affecting frontline communities.
+   - **Details:** 
+     - *Cost:* $$$
+     - *Timeframe:* Implement key recommendations by 2025; updates every 5 years
+     - *Location:* Citywide
+   - **Other Attributes:** 
+     - Engages community stakeholders.
+     - Focuses on major climate risks in frontline communities first.
+     - Prioritizes resources in frontline communities (Adaptation Actions, A-3).
 
 2. **Fund Creation and Operation of Resilience Hubs**
-
-   - **Climate Threat Addressed:** This option addresses multiple climate hazards such as smoke days, extreme heat, and power outages.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** The plan lists a cost of $$$$.
-     - **Timeframe:** By 2025, partner with community groups to co-develop and pilot three Resilience Hubs.
-     - **Location:** Specific areas with prioritized gaps, particularly in frontline communities.
+   - **Climate Threat Addressed:** Adverse weather events like smoke days, extreme heat, and power outages.
+   - **Details:** 
+     - *Cost:* $$$$
+     - *Timeframe:* Identify and prioritize needs by 2022; develop and pilot three hubs by 2025.
+     - *Location:* Specific frontline communities with prioritized gaps.
    - **Other Attributes:**
-     - Economic attributes include supporting local job creation and providing year-round community support.
-     - Environmental considerations focus on energy-efficient systems, all-electric design, and solar energy with storage.
+     - Leverages existing community-serving facilities.
+     - Provides logistical spaces for community members and first responders.
+     - Incorporates climate solutions, such as solar power with storage and air filtration (Adaptation Actions, A-1).
 
 3. **Enhance Community Energy Resilience**
-
-   - **Climate Threat Addressed:** This option addresses power losses and Public Safety Power Shutoffs (PSPS) due to high fire danger.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** The plan lists a cost of $$$$.
-     - **Timeframe:** Develop a program and timeline for increasing resilience.
-     - **Location:** Focus on low-income, medically dependent, and elderly populations, particularly vulnerable areas.
+   - **Climate Threat Addressed:** Power outages during disaster-induced situations and Public Safety Power Shutoffs (PSPS).
+   - **Details:** 
+     - *Cost:* $$
+     - *Timeframe:* Not specifically mentioned.
+     - *Location:* Citywide, with focus on low-income, medically dependent, and elderly populations.
    - **Other Attributes:**
-     - Economic attributes address the financial burden of power losses.
-     - Infrastructural considerations include installation of renewable energy and onsite energy storage.
+     - Supports renewable energy and on-site energy storage with islanding capabilities.
+     - Aims to provide equitable support during power outages (Adaptation Actions, A-2).
 
-4. **Wildfire Risk Reduction**
-
-   - **Climate Threat Addressed:** This option directly addresses the threat of wildfires.
-   - **Cost, Timeframe, and Location:** Specific details on cost, timeframe, and location are not explicitly provided in the excerpts.
+4. **Identify and Reduce Financial Risks from Climate Change**
+   - **Climate Threat Addressed:** Economic impacts of climate change, such as those from increased insurance costs and credit rating effects.
+   - **Details:** 
+     - *Cost:* $$$
+     - *Timeframe:* Evaluate risks by 2024.
+     - *Location:* Citywide
    - **Other Attributes:**
-     - Environmental considerations include protecting natural ecosystems and reducing fire risk in high-risk areas.
+     - Includes options such as insurance products, green infrastructure bonds, and real estate strategies.
+     - Important for maintaining credit rating and lowering borrowing costs (Adaptation Actions, A-5).
 
 5. **Expand and Protect Green Infrastructure & Biodiversity**
-
-   - **Climate Threat Addressed:** This option addresses threats from climate impacts such as heatwaves, flooding, and pollution.
-   - **Cost, Timeframe, and Location:** Specific details on cost, timeframe, and location are not explicitly provided in the excerpts.
+   - **Climate Threat Addressed:** Urban heat and flooding.
+   - **Details:** 
+     - *Cost:* Not specifically detailed.
+     - *Timeframe:* Not specifically mentioned.
+     - *Location:* Citywide
    - **Other Attributes:**
-     - Environmental benefits include capturing carbon, mitigating air pollution, and providing cleaner air.
-     - Infrastructural considerations involve leveraging existing parks and recreation centers for resilience.
+     - Enhances resilience by increasing tree canopy and rehabilitating open spaces.
+     - Contributes to cleaner air and reduced risks from heatwaves, floods, and smoke events (Adaptation Actions, A-6).
 
-6. **Identify and Reduce Financial Risks from Climate Change**
-
-   - **Climate Threat Addressed:** This option addresses financial risks related to climate impacts, such as sea level rise and increased energy costs.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** The plan lists a cost of $$$.
-     - **Timeframe:** By 2024, evaluate financial risks.
-     - **Location:** Citywide, focusing on areas with potential financial exposure due to climate impacts.
-   - **Other Attributes:**
-     - Economic considerations include mitigating risks to credit ratings and borrowing costs.
-     - Environmental and infrastructural considerations involve using green bonds and resilience planning to reduce financial exposure.
-
-These resilience options collectively aim to enhance the city's ability to cope with various climate hazards, prioritize disadvantaged communities, and ensure sustainable economic and infrastructural development.
+These resilience options collectively aim to build community capacity, engage local stakeholders, and prioritize vulnerable populations while considering economic and infrastructural factors to enhance overall resilience against climate threats (Adaptation Section).
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, each with specific attributes related to cost, timing, location, and other important factors:
+**Mitigation Options Identified in the Plan:**
 
 1. **Reduce Emissions from Port Vehicles and Equipment**
-   - **Cost:** The plan indicates that this action will have significant costs, as denoted by the "$$$$" symbol.
+   - **Cost:** Indicated by $$$$ (exact amount not specified).
    - **Timing:** 
      - By 2022, develop a long-term plan for full electrification of drayage trucks.
      - By 2024, develop a zero-emissions transportation master plan for all airport operations.
      - By 2022, develop a plan for sufficient electric charging infrastructure for yard trucks and cargo handling equipment.
    - **Location:** Port of Oakland.
-   - **Other Attributes:** The plan discusses regulatory, programmatic, and policy options for lowering emissions and mentions the development of funding sources to facilitate changes while maintaining financial viability. It also includes efforts to insulate the Port from changing power reliability and considers renewable diesel and hydrogen infrastructure as interim solutions. (_Section "Port of Oakland"_)
+   - **Other Attributes:** This involves electric charging infrastructure as part of a resilience effort, feasibility studies for renewable diesel, and partnerships to develop hydrogen projects. The plan also mentions analyzing entry fees for GHG-producing vehicles. (Section **Port of Oakland**).
 
 2. **Develop Local Carbon Investment Program**
-   - **Cost:** This action is marked with a cost symbol "$$$," indicating a significant financial requirement.
-   - **Timing:** By 2023, establish the program.
-   - **Location:** The program will prioritize projects in frontline communities.
-   - **Other Attributes:** The program focuses on voluntary and compliance GHG mitigation fees invested locally. It aims to enhance equity and create green jobs, with projects including tree planting, electrification, creek restoration, and neighborhood EV car share. Partnering with businesses to establish a "Carbon Neutral Oakland Business" designation is included, emphasizing local investment and community benefits. (_Section "Carbon Removal"_)
+   - **Cost:** Indicated by $$$ (exact amount not specified).
+   - **Timing:** By 2023, establish a program for both voluntary and compliance GHG mitigation fees.
+   - **Location:** Prioritization of projects in frontline communities.
+   - **Other Attributes:** The initiative aims to invest locally in projects such as tree planting, urban greening, building electrification, creek restoration, and neighborhood EV car share. The plan encourages partnership with businesses for a "Carbon Neutral Oakland Business" designation. (Section **Carbon Removal, CR-1**).
+
+3. **Reduce Emissions from Electricity**
+   - **Cost:** Not specifically detailed in the provided excerpts.
+   - **Timing, Location, and Other Attributes:** Details for this option are not fully described in the provided excerpts, but it addresses the reduction of emissions from electricity as a mitigation strategy. (Section not explicitly detailed in the provided excerpts).
+
+4. **Phase Out Fossil Fuel Dependency in All City Agreements and Contracts**
+   - **Cost, Timing, Location, and Other Attributes:** Specific details regarding cost, timing, location, and other attributes are not provided in the text excerpts.
+
+These mitigation options reflect efforts to address GHG emissions from key sources, including transportation infrastructure and local community projects, with a focus on reducing carbon emissions and enhancing sustainable practices in the planning jurisdiction.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, each with specific attributes related to cost, timeframe, location, and other important details:
+### **Mitigation Options Identified in the Plan**
+
+The plan outlines several mitigation options aimed at reducing greenhouse gas (GHG) emissions and enhancing climate resilience. Below is a summary of the mitigation options, as well as their associated costs, timeframes, locations, and other significant details:
 
 1. **Reduce Emissions from Port Vehicles and Equipment**
-   - **Cost:** Not explicitly provided.
+   - **Cost:** $$$$
    - **Timeframe:** 
      - By 2022, develop a long-term plan for full electrification of drayage trucks.
      - By 2024, develop a zero-emissions transportation master plan for all airport operations.
      - By 2022, develop a plan for sufficient electric charging infrastructure for yard trucks and cargo handling equipment.
-   - **Location:** Port of Oakland.
-   - **Attributes:** 
-     - Plan electric charging infrastructure as part of a comprehensive backup power and climate resilience effort.
-     - Study the feasibility of renewable diesel and the effect of battery electric trucks on the City’s overweight corridor.
-     - Collaborate on renewable hydrogen production, storage, and fueling infrastructure pilot projects.
-     - Analyze potential entry fees for GHG-producing vehicles as a funding source for PEV infrastructure.
-   - **Lead Agency:** Port.
+   - **Location:** Port of Oakland
+   - **Important Attributes:**
+     - Target reduction of GHG emissions from vehicles and equipment used on Port property.
+     - The plan involves regulatory, programmatic, and policy options to continue leadership in lowering emissions.
+     - Ideas include electric charging infrastructure and renewable diesel feasibility.
+   - **Lead Agency:** Port
+   - **Benefits:** Addressing health and resilience issues alongside climate change in frontline communities adjacent to the Port.
+   - **Citation:** *Section: Port of Oakland, Reduce Emissions from Port Vehicles and Equipment*
 
 2. **Develop Local Carbon Investment Program**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe:** By 2023, establish a program for both voluntary and compliance GHG mitigation fees.
-   - **Location:** Prioritize projects in frontline communities.
-   - **Attributes:**
-     - Projects include tree planting, urban greening, building electrification, creek restoration, and neighborhood EV car share.
-     - Partner with Oakland businesses to establish a “Carbon Neutral Oakland Business” designation.
-     - Offset or “Polluter Pays” fees invested locally, with priority benefit to frontline communities.
-   - **Lead Agencies:** EWDD, PWD, OPW.
+   - **Cost:** $$$
+   - **Timeframe:** By 2023, establish a program for both voluntary and compliance GHG mitigation fees to be invested locally.
+   - **Location:** Focus on frontline communities.
+   - **Important Attributes:**
+     - Prioritize projects such as tree planting, urban greening, building electrification, and neighborhood EV car share.
+     - Collaborate with local businesses to establish a "Carbon Neutral Oakland Business" designation.
+     - Offset or "Polluter Pays" fees to be invested locally with priority benefits to frontline communities.
+   - **Lead Agencies:** EWDD, PWD, OPW
+   - **Benefits:** Reduction in GHG emissions, green job creation, and enhancement of equity.
+   - **Citation:** *Section: Carbon Removal, Develop Local Carbon Investment Program*
 
-3. **Expand and Protect Tree Canopy Coverage**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe, Location, and Attributes:** Not detailed in the provided text.
-
-4. **Rehabilitate Riparian Areas and Open Space**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe, Location, and Attributes:** Not detailed in the provided text.
-
-5. **Explore Carbon Farming**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe, Location, and Attributes:** Not detailed in the provided text.
-
-6. **Assess Feasibility for Sequestration Incubator**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe, Location, and Attributes:** Not detailed in the provided text.
-
-7. **Explore Regional Aquatic Sequestration Opportunities**
-   - **Cost:** Not explicitly provided.
-   - **Timeframe, Location, and Attributes:** Not detailed in the provided text.
-
-Each mitigation option aims to reduce GHG emissions and enhance sustainability through strategic planning and implementation across various sectors.
+These options represent strategic efforts by Oakland to mitigate climate change impacts by focusing on local resources, innovation, and inclusive community involvement.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options, each addressing specific climate threats. Here is a summary of the adaptation options and their respective details:
+The plan identifies several adaptation options to address various climate threats. Below are the adaptation options identified along with summaries of the relevant details:
 
-1. **Fund and Implement Citywide Vulnerability Assessment and Comprehensive Adaptation Plan**
-   - **Climate Threat Addressed:** This option addresses a broad range of climate risks by identifying and prioritizing neighborhood-level vulnerabilities, especially in disproportionately impacted communities.
-   - **Information Provided:**
-     - **Cost:** Not specified in detail, but the plan mentions the need for funding this initiative.
-     - **Timeframe:** Implement key recommendations by 2025 and update every five years.
-     - **Location:** Citywide, with a focus on frontline communities.
-     - **Other Attributes:** Prioritizes resources in frontline communities and involves community stakeholder engagement. The plan highlights the importance of using forward-looking projections and adaptation best practices.
+### 1. **Fund and Implement Citywide Vulnerability Assessment and Comprehensive Adaptation Plan**
+- **Climate Threat Addressed:** General climate risks using forward-looking projections.
+- **Details:**
+  - **Cost:** Estimated in the range of $500,001 - $5,000,000 ($$$$).
+  - **Timeframe:** Update every 5 years with evolving climate and risk projections.
+  - **Location:** Priority is given to frontline communities.
+  - **Other Attributes:** Includes community stakeholder engagement to maximize public resources and address neighborhood-level risks (`ADAPTATION`).
 
-2. **Fund Creation and Operation of Resilience Hubs**
-   - **Climate Threat Addressed:** Resilience hubs aim to support communities during climate emergencies by providing access to clean air, shelter, and resources.
-   - **Information Provided:**
-     - **Cost:** Not specified.
-     - **Timeframe:** Not specified.
-     - **Location:** Not specified.
-     - **Other Attributes:** These hubs serve as everyday community resources providing education, training, and community connections. They are to be co-designed with local communities to meet specific local needs.
+### 2. **Fund Creation and Operation of Resilience Hubs**
+- **Climate Threat Addressed:** Not directly specified but implies general resilience to climate impacts.
+- **Details:**
+  - **Location:** Prioritized in frontline communities (no specific cost or timeframe mentioned).
 
-3. **Enhance Community Energy Resilience**
-   - **Climate Threat Addressed:** Addresses power losses due to climate-driven extreme weather events and Public Safety Power Shutoffs (PSPS).
-   - **Information Provided:**
-     - **Cost:** Estimated between $0 - $200,000.
-     - **Timeframe:** Not specified.
-     - **Location:** Citywide, focusing on low-income, medically dependent, and elderly populations.
-     - **Other Attributes:** Involves installing renewable energy and onsite energy storage with islanding capabilities. The plan emphasizes the critical need for backup power solutions that are not emission-intensive.
+### 3. **Enhance Community Energy Resilience**
+- **Climate Threat Addressed:** Power losses and Public Safety Power Shutoffs (PSPS) during climate-driven extreme weather events.
+- **Details:**
+  - **Cost:** Estimated in the range of $200,001 - $500,000 ($$$).
+  - **Location:** Not specifically mentioned, but focuses on low-income, medically dependent, and elderly populations.
+  - **Timeframe:** Developed in cooperation with EBCE for a program and timeline to increase resilience.
+  - **Other Attributes:** Installation of renewable energy and onsite energy storage with islanding capabilities (`ADAPTATION`).
 
-4. **Wildfire Risk Reduction**
-   - **Climate Threat Addressed:** Addresses the increasing risk and impact of wildfires.
-   - **Information Provided:**
-     - **Cost:** Not specified.
-     - **Timeframe:** Not specified.
-     - **Location:** High-risk areas prone to wildfires.
-     - **Other Attributes:** The plan identifies the need for resilience elements in the planning and construction of infrastructure in these areas, though specific strategies are not detailed.
+### 4. **Wildfire Risk Reduction**
+- **Climate Threat Addressed:** Wildfires.
+- **Details:**
+  - **Location:** No specific location mentioned (no specific cost or timeframe provided).
+  - **Other Attributes:** Not detailed in the excerpt provided.
 
-5. **Expand and Protect Green Infrastructure & Biodiversity**
-   - **Climate Threat Addressed:** Aims to mitigate the impacts of heatwaves, flooding, and smoke events.
-   - **Information Provided:**
-     - **Cost:** Not specified.
-     - **Timeframe:** Not specified.
-     - **Location:** Citywide, particularly in underserved and environmental justice communities.
-     - **Other Attributes:** This adaptation option highlights the role of parks and recreation systems as strategic networks for climate resilience. It focuses on increasing accessibility and equity through green infrastructure.
+### 5. **Identify and Reduce Financial Risks from Climate Change**
+- **Climate Threat Addressed:** Financial risks associated with climate impacts such as sea level rise and rising energy costs.
+- **Details:**
+  - **Timeframe:** By 2024, evaluate existing and potential financial risks.
+  - **Other Attributes:** Suggests strategies like insurance products, green infrastructure bonds, and resilience elements in planning and construction of infrastructure (`ADAPTATION`).
 
-These adaptation options collectively focus on reducing vulnerabilities and enhancing resilience across diverse communities within the planning jurisdiction.
+### 6. **Expand and Protect Green Infrastructure and Biodiversity**
+- **Climate Threat Addressed:** General climate resilience and ecosystem health.
+- **Details:** 
+  - **Location:** Specific location is not detailed. 
+  - **Cost and Timeframe:** Not specified within the excerpt provided.
+
+### 7. **Centering Equity in Adaptation**
+- **Climate Threat Addressed:** Disproportionate impacts of climate change on frontline communities.
+- **Details:**
+  - **Location:** Frontline communities such as West Oakland and near the Coliseum.
+  - **Other Attributes:** Solutions co-created with frontline communities, emphasizing investments in these areas (`ADAPTATION`).
+
+### General Note:
+- The adaptation options are part of a broader strategy to build resilience and address the immediate and foreseeable climate risks, particularly in frontline communities, with a vision to make all communities in Oakland resilient to such impacts by 2030 (`ADAPTATION`).
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan outlines several climate policies aimed at advancing climate justice. Here's a summary of each policy, including the climate threat it addresses and the areas or populations with the most climate vulnerability:
+The plan identifies several climate policies to advance climate justice, each addressing specific climate threats and focusing on areas or populations with high climate vulnerability:
 
 1. **Prioritizing Frontline Communities**
-   - **Climate Threat:** The plan addresses a variety of climate threats, including sea level rise, industrial pollution, and extreme heat.
-   - **Vulnerable Populations:** "Frontline communities" are defined as those who have been and will continue to be hit first and worst by the impacts of environmental injustice and the climate crisis. These include communities facing intersecting vulnerabilities, such as racial discrimination, poverty, disability, and housing insecurity. Specifically, in Oakland, these communities are often located in the flatlands and the Interstate 880 corridor, where there is the worst air and soil pollution, traffic congestion, and diesel particulate exposure. (*LEADING WITH EQUITY*)
+   - **Climate Threat:** General impacts of climate change, including sea level rise, industrial pollution, and heat.
+   - **Vulnerable Populations:** Frontline communities, defined as those who are hit "first and worst" by environmental injustice and the climate crisis. These include residents with intersecting vulnerabilities such as racial discrimination, poverty, housing insecurity, and poor air quality, often located in areas like the flatlands and the Interstate 880 corridor (_Leading with Equity_).
 
-2. **Equitable Implementation**
-   - **Climate Threat:** This policy addresses the broader impacts of climate change, including social and economic disparities exacerbated by climate impacts.
-   - **Vulnerable Populations:** The plan emphasizes ensuring equitable outcomes for "frontline communities," which are those with high social vulnerability and high climate impacts. The City uses tools like CalEnviroScreen 3.0 and the Oakland Equity Indicators Report to identify these communities, which often include areas with poor air quality, high poverty levels, and other socioeconomic disadvantages. (*Equitable Implementation*)
+2. **Update and Implement Emergency and Adaptation Plans**
+   - **Climate Threat:** Various climate risks and emergencies.
+   - **Vulnerable Populations:** Frontline communities that need to be prioritized for shelter, evacuation, and clean air resources (_Adaptation: Complete and/or update emergency plans_).
 
-3. **Citywide Vulnerability Assessment and Comprehensive Adaptation Plan**
-   - **Climate Threat:** The policy focuses on various climate risks, including those posed by climate emergency events.
-   - **Vulnerable Populations:** Resources and efforts will prioritize "frontline communities" that are at greater risk, such as those identified in the citywide vulnerability assessment. These include populations in areas with high exposure to climate hazards and those who are least able to adapt, resist, or recover from climate impacts. (*ADAPTATION*)
+3. **Equitable Implementation of ECAP Actions**
+   - **Climate Threat:** Broad spectrum of climate impacts exacerbated by social inequities.
+   - **Vulnerable Populations:** Frontline communities facing high climate impacts and high social vulnerability, specifically targeting areas and individuals facing cumulative environmental harms and socio-economic disadvantages (_Equitable Implementation_).
 
-4. **The Climate Emergency and Just Transition Resolution**
-   - **Climate Threat:** This resolution addresses the urgency of global warming, greenhouse gas emissions, and resilience against intensifying climate impacts.
-   - **Vulnerable Populations:** The resolution calls for a focus on "frontline communities" who are most exposed to climate change impacts, including low-income communities and communities of color. These populations face the greatest risks from climate-related disasters and socio-economic disadvantages. (*INTRODUCTION*)
+4. **Improve Housing Security to Address Climate Vulnerability**
+   - **Climate Threat:** Climate-related disasters (e.g., extreme heat, air pollution, sea-level rise) coupled with the housing affordability crisis.
+   - **Vulnerable Populations:** Low-income communities of color, especially in East and West Oakland, at risk of displacement and housing insecurity (_Housing Security and the Climate Crisis_).
 
-By addressing these threats and focusing on vulnerable populations, the plan aims to reduce disparate harms and ensure that the benefits of climate actions accrue first to those hardest hit by social and economic injustices.
+5. **Comprehensive Vulnerability Assessment and Adaptation Plan**
+   - **Climate Threat:** Diverse neighborhood-level risks including wildfire, drought, and social inequities that exacerbate climate impacts.
+   - **Vulnerable Populations:** Disproportionately impacted communities such as transit-dependent populations, outdoor workers, low-income communities, indigenous people, undocumented immigrants, and incarcerated populations (_Going Deeper_).
+
+These policies collectively aim to ensure that climate actions benefit the most vulnerable populations first and that equitable outcomes are achieved through careful policy design and execution.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, there are no explicit mentions of potential unforeseen maladaptive climate policies. The document outlines various climate policies and adaptation measures, but it does not specifically address any that may lead to maladaptation or unintended negative consequences. The focus is on building resilience, adaptation, and considering the needs of frontline communities. If any policies with potential maladaptive outcomes were discussed, they are not included in the excerpts provided.
+Based strictly on the document provided, the plan does not explicitly identify specific climate policies that have been recognized as potentially causing maladaptation. However, I will analyze the potential implications of certain policies to highlight where unforeseen maladaptive outcomes could occur:
+
+1. **Climate Policy: Resilience Hubs Initiative**
+   - **Climate Threat Addressed:** The initiative aims to address various climate threats, including extreme heat, smoke, poor air quality days, and general disaster preparedness. It is particularly targeted at frontline communities vulnerable to climate impacts.
+   - **Option Proposed:** The plan suggests developing resilience hubs that can integrate adaptation and climate solutions, engaging the community by serving multiple needs prior to and during emergencies. These hubs serve as logistic spaces for residents and first responders.
+   - **Potential Maladaptation:** If the resilience hubs are not equitably distributed or fail to adequately consider the specific needs of diverse neighborhoods, they may inadvertently deepen existing inequalities. Frontline communities far from these hubs might lack access to critical resources in emergencies, thus reinforcing existing vulnerabilities.
+
+2. **Climate Policy: Green Infrastructure Bonds Initiative**
+   - **Climate Threat Addressed:** Climate risks such as sea level rise, increasing fire risks, and the broader financial risks posed by climate change to the city and community are the focus of financial mitigation efforts.
+   - **Option Proposed:** Developing strategies such as green infrastructure bonds and insurance products to evaluate and mitigate financial risks related to climate impacts.
+   - **Potential Maladaptation:** If green infrastructure projects financed by these bonds do not prioritize or effectively engage with frontline communities, there could be a misallocation of resources, where benefits are realized predominantly by more affluent areas, thus exacerbating social inequities.
+
+Although the plans examined aim to enhance resilience and mitigate climate change impacts, these initiatives need careful implementation with a consistent focus on equity and inclusivity to avoid maladaptive outcomes.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-### **Metrics for Measuring Success**
+### **Measuring Success: Metrics, Goals, and Targets**
 
-The plan outlines several metrics to measure the success or failure of adaptation, resilience, and mitigation options:
+The plan outlines several metrics, goals, and targets to measure the success or failure of adaptation, resilience, and mitigation options. Below are the specified metrics and targets mentioned in the plan:
 
-#### **Transportation + Land Use**
-- **Housing Units:** 
-  - *"Housing units built near high quality transit lines"*
-  - *"Affordable housing units built near transit"*
-- **Mode Share:**
-  - *"% Increase in non-auto related mode share (active mobility and public transit)"*
-- **ZEV Adoption:**
-  - *"ZEV Adoption, overall and in frontline communities"*
-- **Infrastructure Investment:**
-  - *"Total mobility infrastructure investment in frontline communities"*
+#### **Transportation and Land Use Metrics:**
+- **Housing and Mobility:** 
+  - **Units:** 
+    - Housing units built near high-quality transit lines.
+    - Affordable housing units built near transit.
+  - **Percentage Increase:** 
+    - Increase in non-auto related mode share (active mobility and public transit).
+- **Zero Emission Vehicle (ZEV) Adoption:**
+  - ZEV Adoption overall, and specifically in frontline communities.
+  - Public ZEV charging infrastructure installations.
+- **Investment:**
+  - Total mobility infrastructure investment in frontline communities.
 
-#### **City Operations**
-- **City Building Retrofits:**
-  - *"# City buildings retrofitted to eliminate natural gas use"*
-- **Public Engagement:**
-  - *"# Oaklanders, and frontline communities specifically, directly engaged in ECAP implement activities"*
-- **City Fleet:**
-  - *"% of City fleet powered by clean energy"*
-- **GHG Emissions:**
-  - *"Reduction in GHG emissions from City operations"*
-- **Fossil Fuel Usage:**
-  - *"% of contracts mandating reduction or elimination of fossil fuel usage"*
+#### **City Buildings and Operations Metrics:**
+- **Retrofits and GHG Emissions:**
+  - **Number:** 
+    - City buildings retrofitted to eliminate natural gas use.
+  - **Percentage:** 
+    - Of City fleet powered by clean energy.
+  - **Reduction:** 
+    - GHG emissions from City operations.
+- **Contracts:**
+  - **Percentage:** 
+    - Contracts mandating reduction or elimination of fossil fuel usage.
 
-#### **Waste Management**
-- **Waste Diversion:**
-  - *"Total waste is reduced by an amount equal to 1% of plastic weight"*
-  - *"Waste actions avoid 71,830 tons of CO2e by 2030 and 108,127 tons CO2e by 2050"*
+#### **Community Engagement:**
+- **Engagement:**
+  - **Number:** 
+    - Oaklanders, and frontline communities specifically, directly engaged in ECAP implement activities.
 
-#### **Energy Supply**
-- **Carbon-Free Electricity:**
-  - *"By 2030, carbon-free electricity will reduce annual CO2e emissions by 176,858 tons per year, and by 2050, it will have reduced annual emissions by 250,799 tons per year"*
+#### **Waste and Material Consumption:**
+- By 2025, increase waste diversion to 70% and per capita waste to drop to 2.6 lbs/person/day (excludes ADC).
+- Construction & Demolition waste recovery, aiming for 14% reduction in waste sent to landfills.
 
-### **Concrete Goals and Targets**
+#### **Greenhouse Gas (GHG) Emissions:**
+- **Reduction Targets:**
+  - By 2030: Reduce GHG emissions at least 60% compared to 2005 levels.
+  - By 2050: Reduce GHG emissions 84% compared to 2005 levels.
+  - Specific reduction amounts:
+    - Carbon-free electricity to reduce annual CO2e emissions by 176,858 tons by 2030, and 250,799 tons by 2050.
+    - Waste actions avoid 71,830 tons of CO2e by 2030 and 108,127 tons CO2e by 2050.
+    - Combination of decarbonization and renewable electricity avoids 180,436 tons of CO2e by 2030 and 326,580 tons of CO2e by 2050.
 
-#### **Climate Emissions Reduction**
-- **Overall Reduction:**
-  - *"Reducing Oakland’s local climate emissions a minimum of 56% by 2030."*
+#### **Adaptation and Resilience Metrics:**
+- **Resilience Hubs:**
+  - Number of resilience hubs created and operational.
+- **Community Energy Resilience:**
+  - Enhanced community energy resilience (no specific units mentioned).
 
-#### **Renewable Energy**
-- **EBCE Renewable Energy:**
-  - *"EBCE is modeled as 82% renewable in 2019 and 100% renewable in 2030."*
+#### **Key Goals and Deadlines:**
+- Transition to 100% carbon-free service for municipal accounts, significantly reducing greenhouse gas emissions and increasing carbon-free energy use.
+- **Completion Deadlines:** 
+  - Updates to emergency plans, vulnerability assessments, and adaptation plans by 2025.
+  - Update such plans every 5 years with evolving climate and risk projections and adaptation best practices.
 
-#### **Zero Waste Goal**
-- **Waste Diversion Rate:**
-  - *"By 2035, to reflect a zero waste goal, diversion rate (not including ADC) is increased from 75% to 80%."*
-
-### **Implementation Deadlines**
-
-- **City Buildings:**
-  - *"Plan for All Existing Buildings to be Efficient & All-Electric by 2040."*
-- **Adaptation Measures:**
-  - *"Implement key recommendations of these plans by 2025 to address major climate risks in frontline communities first."*
-
-These metrics and targets are set to ensure that the planning jurisdiction effectively tracks and achieves its adaptation, resilience, and mitigation goals as outlined in its climate plan.
+These metrics, goals, and targets are designed to assess progress towards reducing climate impacts, enhancing resilience, and achieving equity in line with the overarching goals of the plan.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature              | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Oakland                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Population**         | Not specified in the document.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Threats Identified** | - Climate risks, with a focus on neighborhood-level risks. <br>- Disproportionate impacts on communities such as the elderly, children, people with disabilities, low-income communities, indigenous people, undocumented immigrants, and incarcerated populations. <br>*"Climate risks facing Oakland."* (Adaptation) <br>*"Disproportionately impacted communities: transit-dependent populations such as the elderly, children, and people with disabilities; outdoor and informal workers; low-income communities; indigenous people; undocumented immigrants; and incarcerated populations."* (Adaptation) |
-| **Measures Identified**| - Fund and implement a citywide vulnerability assessment and comprehensive adaptation plan. <br>- Creation of neighborhood-based emergency preparedness planning curriculum. <br>- Fund creation and operation of resilience hubs. <br>- Enhance community energy resilience. <br>- Expand and protect green infrastructure & biodiversity. <br>- Develop local carbon investment program. <br>- Expand and protect tree canopy coverage. <br>*"Fund & Implement Citywide Vulnerability Assessment & Comprehensive Adaptation Plan"* (List of Actions) <br>*"Create neighborhood-based emergency preparedness planning curriculum, prioritizing East & West Oakland residents."* (Adaptation)   |
+| **Feature**          | **Details**                                                                                                        |
+|----------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | Oakland                                                                                                           |
+| **Population**         | *Not specified in the document*                                                                                   |
+| **Threats Identified** | - Sea level rise                                                                                                  |
+|                      | - Climate risks to disproportionately impacted communities (e.g., transit-dependent, outdoor workers, low-income)  |
+|                      | - Wildfire risk                                                                                                     |
+| **Measures Identified** | - Fund & Implement Citywide Vulnerability Assessment & Comprehensive Adaptation Plan                              |
+|                      | - Enhance Community Energy Resilience                                                                              |
+|                      | - Expand and Protect Green Infrastructure & Biodiversity                                                            |
+|                      | - Identify and Reduce Financial Risks from Climate Change                                                           |
+|                      | - Develop Local Carbon Investment Program                                                                           |
+|                      | - Explore Carbon Farming                                                                                           |
+|                      | - Evaluate and Reduce Climate Impacts of City Expenditures and Operations                                           |
+|                      | - Phase Out Fossil Fuel Dependency in All City Agreements and Contracts                                             |
+|                      | - Improve public transit                                                                                            |
+|                      | - Support the establishment of green, community- and worker-owned cooperative businesses                            |
 ```

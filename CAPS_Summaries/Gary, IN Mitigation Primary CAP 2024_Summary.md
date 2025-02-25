@@ -1,404 +1,382 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction: City of Gary**
+**Planning Jurisdiction Details:**
 
-- **Location:** The City of Gary is located in northwest Indiana, within the United States.
-- **Population:** The population of Gary declined from 75,486 to 69,739 between 2020 and 2021, marking a 7.61% decrease.
+- **Name:** City of Gary
+- **Location:** Located in Northwest Indiana, adjacent to Lake Michigan.
+- **Population:** The population of Gary declined from 75,486 in 2020 to 69,739 in 2021, which is a 7.61% decrease.
 - **Demographics:** 
   - 78% of residents identify as Black or African American (Non-Hispanic).
-  - 10% identify as white (Non-Hispanic).
-  - 32.2% of residents are in poverty according to the United States Census.
-  - Disadvantaged populations include low-income neighborhoods, non-English speakers, people with disabilities, and people without health care.
-  
+  - 10% identify as white (non-Hispanic).
+- **Economics:**
+  - **Poverty:** 32.2% of residents live in poverty.
+  - **Employment Sectors:** The largest employment sector is manufacturing, followed by trade, transportation, and utilities.
+  - **Major Employers:** The largest employer is U.S. Steel/Gary Works.
+  - **Anchor Institutions:** Important facilities include Indiana University Northwest and the Gary/Chicago International Airport.
+
 **Geographic Features:**
 
-- **Coastline:** Gary has 13 miles of coastline, with 3.5 miles comprising publicly accessible beachfront along Lake Michigan, representing nearly 16% of the regional total (over 22 miles).
-- **Ecosystem:** Gary lies within the Indiana Dunes ecosystem and is home to areas like Miller Woods/Green Heron Pond/Bayless Dune, the Clark & Pine Nature Preserve, and the Ivanhoe Nature Preserve.
+- **Coastline:** Of the 13 miles of coastline in Gary, 3.5 miles are comprised of publicly accessible beachfront along Lake Michigan, making up nearly 16% of the regional total of over 22 miles.
+- **Ecosystems:** Gary lies within the Indiana Dunes ecosystem and is home to significant natural areas such as Miller Woods/Green Heron Pond/Bayless Dune, the Clark & Pine Nature Preserve, and the Ivanhoe Nature Preserve.
 
-**Key Infrastructure:**
+**Climate and Environmental Overview:**
 
-- **Airports:** Key infrastructure includes the Gary/Chicago International Airport.
-- **Educational Institutions:** Indiana University Northwest is an important anchor institution.
-  
-**Local Climate:**
-
-- The city already experiences the impacts of climate change such as more extreme heat, storms, and flooding.
-- Air quality is generally considered poor, with the region being placed in the top 25 most polluted areas by the American Lung Association's 2018 State of the Air report.
+- **Air Quality:** Air quality in Gary is generally considered poor; Chicago and northwest Indiana are noted among the top 25 most polluted areas according to the 2018 State of the Air report from the American Lung Association.
+- **Local Climate Impacts:** The jurisdiction is already experiencing impacts of climate change such as more extreme heat, storms, and flooding, leading to challenges such as an "urban heat island effect" and increased risk of adverse health conditions due to heavy pollution.
 
 **Energy Production and Natural Resources:**
 
-- Gary plans to generate 50 MW of renewable energy by 2030 and aims to reduce local government operations emissions by 50%.
-  
+- **Renewable Energy Goals:** The City of Gary outlined a goal to generate 50 MW of renewable energy by 2030 as per its 2021 Climate Action Plan. It also aims to reduce emissions from local government operations by 50% and decrease community-wide greenhouse gas emissions by 2030 from a 2017 baseline.
+
 **Industries and Economic Drivers:**
 
-- The largest employment sector is manufacturing, followed by trade, transportation, and utilities.
-- U.S. Steel/Gary Works is the largest employer in the city. Despite the decline of the steel industry, Gary Works remains a significant employment center.
-- Light manufacturing, including plastics, paper products, rubber, and chemicals, are integral parts of the economy.
-- The tourism sector has grown, with attractions like the Michael Jackson Family Home and entertainment venues at Buffington Harbor.
-- The Gary Regional Airport is a major Midwest cargo carrier, and the city hosts six truck terminals serving more than 100 trucking firms.
+- **Manufacturing:** The largest employment sector, providing significant economic activity within the city.
+- **Key Challenges:** The city faces challenges such as a higher cost of doing business due to rising energy and insurance costs along with disaster losses. The declining population and disadvantaged communities, including low-income neighborhoods, non-English speakers, and people lacking health care, denote socio-economic strains.
+  
+This comprehensive understanding reflects the current conditions and planning strategies of the City of Gary as it undertakes actions towards increased climate resilience and sustainability, focusing on mitigating vulnerabilities and enhancing economic stability.
+
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Resilience:**  
-The plan emphasizes building resilience by preparing the community to withstand and recover from climate impacts. It includes strategies that enhance community emergency preparedness, improve stormwater infrastructure, and increase the resilience of residential and commercial sectors. For example, the plan outlines actions such as creating an inventory of vulnerable roads, implementing green infrastructure, and retrofitting older buildings. It states, "A more resilient community will be better able to withstand and bounce back from extreme events, such as more intense heat waves, bigger storms, flooding, and drought" (Introduction 10).
+**Resilience:**
 
-**Mitigation:**  
-The plan includes specific strategies aimed at reducing greenhouse gas emissions. This includes increasing solar adoption, improving energy efficiency, and supporting green jobs. The City of Gary has set aggressive targets, such as generating 50 MW of renewable energy and reducing local government operations emissions by 50% by 2030 (Introduction 10). The plan also highlights the importance of "reducing our emissions through individual and collective action" (Introduction 11).
+The plan places a strong emphasis on building resilience within the community. It highlights strategies to protect vulnerable residents and enhance the overall capacity of the community to respond to climate impacts. This can be seen in the section titled "Strategies to Prepare for Change," which outlines efforts such as improving energy efficiency in existing buildings, increasing stormwater and green infrastructure, and enhancing community emergency preparedness (*Appendix 5*). The plan underscores the need for a resilient community that successfully responds to changing climate conditions, measured by the health of air, water, land, people, and living things (*Introduction*).
 
-**Adaptation:**  
-Adaptation measures are integral to the plan, focusing on adjusting systems to cope with climate change impacts. The plan prioritizes actions like updating land use plans, evaluating health services for extreme temperature events, and expanding the local tree canopy to provide shade and reduce heat absorption. It is noted that "Effective strategies and actions will address climate vulnerabilities by either reducing the potential impact or increasing the adaptive capacity" (Strategies to Prepare for Change 26).
+**Mitigation:**
 
-**Classification:**  
-Considering that the plan extensively covers resilience, mitigation, and adaptation, while heavily emphasizing resilience and adaptation measures, it can be classified as an **adaptation/resilience dedicated** plan.
+The plan includes significant mitigation efforts aimed at reducing greenhouse gas emissions. It aligns with the overarching goal of a "carbon-neutral future with equity for all" by setting specific targets such as generating 50 MW of renewable energy and reducing emissions from local government operations by 50% by 2030 (*Introduction*). Initiatives like increasing solar adoption, promoting energy efficiency, and creating green jobs are highlighted as part of the efforts to mitigate climate change impacts (*Executive Summary*).
+
+**Adaptation:**
+
+Adaptation is addressed through strategies that aim to prepare the community for ongoing climate impacts. The plan outlines actions such as retrofitting older buildings to higher standards, planning for extreme weather conditions, and engaging community members in land use planning to protect aquatic systems (*Appendix 5*). The focus on adapting to future climate variability is also evident in the community readiness strategies, which include updating emergency preparedness plans and educating residents about flood protocols (*Executive Summary*).
+
+**Classification:**
+
+Overall, the plan is best classified as an **equal mitigation and adaptation climate action plan**. It dedicates substantial attention to both reducing emissions (mitigation) and preparing the community for climate impacts (adaptation/resilience). The integration of efforts across multiple sectors highlights the plan's holistic approach to tackling climate change challenges.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes various scenarios of climate change that the City of Gary will face and for which it is planning climate policies for resilience, mitigation, and adaptation. Here is a summary of the scenarios:
+Yes, the plan describes a scenario of climate change that the City of Gary is planning for. The City of Gary is already experiencing impacts such as more extreme heat, storms, and flooding, and it anticipates these conditions worsening due to climate change. The plan highlights that climate change could lead to more frequent and severe extreme weather events. For instance: 
 
-- The City of Gary is experiencing **"more extreme heat, storms, and flooding"** as a result of climate change. The Department of Sustainability and Environmental Affairs is taking action to protect both current and future generations from these impacts. (*Executive Summary*)
+- "Climate change is leading to changes in weather patterns, resulting in more frequent and severe extreme weather events. Warmer temperatures can lead to increased evaporation rates, which in turn can fuel more intense rainfall events and increase the risk of flooding." *(Whole Community Resilience)*
 
-- The plan acknowledges that **"climate change is leading to changes in weather patterns, resulting in more frequent and severe extreme weather events."** This includes increased risks of flooding due to more intense rainfall events and stronger storms fueled by warmer oceans. Additionally, the frequency of wildfires is expected to rise due to drier conditions. (*Community Readiness*)
+Additionally, the plan acknowledges the potential impact of these scenarios on various sectors:
+- "The region is expected to experience substantial impacts brought on by climate change. These impacts affect all sectors of our community, including human health, natural resources, infrastructure, emergency response, the economy, and others." *(Executive Summary)*
 
-- The City of Gary's climate action plan aims to **"reduce local government operations emissions by 50%"** and **"generate 50 MW of renewable energy"** by 2030. The plan also seeks a reduction in community-wide greenhouse gas emissions from the 2017 baseline by 2030. (*Introduction*)
-
-These scenarios reflect the challenges posed by climate change, such as extreme weather events and greenhouse gas emissions, and outline the city's strategic plan to build resilience, reduce emissions, and adapt to future conditions.
+Overall, the plan anticipates adverse effects of climate change and describes actions to prevent or minimize potential damages, reflecting both adaptation and resilience policies.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Severe Heat**
+1. **Severe Heat**
+   - *Description:* The plan identifies that there could be 32-57 more days per year with temperatures above 90°F.
+   - *Climate Risks:* There is a risk to human health, including first responders, outdoor workers, and service industries due to increased frequency of extreme temperatures. This could also impact the energy sector by causing potential electrical outages.
+   - *Vulnerable Areas/Populations:* Those living in urban areas with impervious surfaces, i.e., regions experiencing the urban heat island effect. Additionally, populations considered at risk include outdoor workers and first responders as well as the unhoused population due to increased frequency of extreme temperatures.
 
-- **Climate Hazard:** "There could be 32-57 more days/year above 90° F." (Climate Ready Gary Climate Change Vulnerabilities 23)
-- **Climate Risks:** The plan does not provide specific risks associated with severe heat beyond increased frequency of extreme temperature events resulting in risks such as "risk to outdoor culture," "risk to first responders, outdoor workers, and service industries," and "risk to unhoused population." (Appendix 5: Climate Resilience Strategies 106)
-- **Vulnerable Areas/Populations:** "Risk to outdoor culture due to extreme heat and cold events," "risk to first responders, outdoor workers, and service industries," and "risk to unhoused population due to increased frequency of extreme temperatures." (Appendix 5: Climate Resilience Strategies 106)
+2. **Larger Storms**
+   - *Description:* The amount of precipitation in the largest storms could increase by 5-30%.
+   - *Climate Risks:* Increased risk of flooding, causing disruptions to transportation infrastructure, stormwater infrastructure, and greater risk of property damage.
+   - *Vulnerable Areas/Populations:* Regions with aging infrastructure and areas with inadequate stormwater management systems.
 
-**2. Larger Storms**
+3. **Extreme Cold**
+   - *Description:* Despite overall warming, the planning jurisdiction still experiences days with temperatures below 32°F.
+   - *Climate Risks:* Possible transportation disruptions and potential electrical outages due to extreme weather events.
+   - *Vulnerable Areas/Populations:* Populations without adequate heating or shelter, including the unhoused and residents with low adaptive capacities in terms of infrastructure.
 
-- **Climate Hazard:** "The amount of precipitation in the largest storms could increase 5-30%." (Climate Ready Gary Climate Change Vulnerabilities 23)
-- **Climate Risks:** "Increased risk of property damage due to extreme precipitation, storms, and flooding events," "damaged stormwater infrastructure due to increased precipitation," and "continued transportation disruption due to extreme weather events and damaged/aging infrastructure." (Appendix 5: Climate Resilience Strategies 106)
-- **Vulnerable Areas/Populations:** "Greater risk of property damage due to extreme precipitation, storms, and flooding events," "damaged stormwater infrastructure due to increased precipitation," and "transportation disruption due to extreme weather events." (Appendix 5: Climate Resilience Strategies 106)
-
-**3. Extreme Cold**
-
-- **Climate Hazard:** "Even as average temperatures rise, Gary still experiences days below 32°F." (Climate Ready Gary Climate Change Vulnerabilities 23)
-- **Climate Risks:** The plan does not explicitly outline specific risks associated with extreme cold beyond potential impacts on infrastructure and service industries.
-- **Vulnerable Areas/Populations:** "Risk to first responders, outdoor workers, and service industries due to increased frequency of extreme temperatures." (Appendix 5: Climate Resilience Strategies 106)
-
-**4. Flooding**
-
-- **Climate Hazard:** "More homes and businesses at risk of flooding." (Climate Ready Gary Climate Change Vulnerabilities 23)
-- **Climate Risks:** "Decline in water quality due to increased flooding events," "damaged stormwater infrastructure due to increased precipitation," and "greater risk of property damage due to extreme precipitation, storms, and flooding events." (Appendix 5: Climate Resilience Strategies 106)
-- **Vulnerable Areas/Populations:** "Decline in water quality due to increased flooding events," "risk to unhoused population due to increased frequency of extreme temperatures," and "greater risk of property damage due to extreme precipitation, storms, and flooding events." (Appendix 5: Climate Resilience Strategies 106)
+4. **Flooding**
+   - *Description:* More homes and businesses are at risk of flooding due to climate change.
+   - *Climate Risks:* Flooding could degrade the built environment, stress stormwater systems, and cause property damage. It also poses risks to water quality, potentially exposing residents to hazardous materials.
+   - *Vulnerable Areas/Populations:* Populations in low-lying urban areas with impervious surfaces and inadequate flood management systems, and residents in homes and businesses near flood-prone zones.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-### Resilience Options Identified in the Plan
+The plan identifies several resilience options. Below are the details for each identified strategy:
 
-#### 1. **Create a more resilient built environment**
-- **Climate Threat Addressed:** 
-  - Addresses Risks: 1 (Higher cost of doing business), 7 (Urban heat island effect), 10 (Greater risk of property damage), 11 (Accelerated degradation of abandoned/vacant buildings), 13 (Increased cost of residential energy).
-- **Details:**
-  - **Cost:** High ($$$)
-  - **Timeframe and Location:** Not specifically detailed in terms of timeframe and location.
-- **Attributes:**
-  - Involves retrofitting older buildings and requiring higher standards for new construction projects.  
-  - Promotes resilience through "resilient landscaping practices for new and existing buildings."  
-  - Economic considerations include reducing long-term operational costs by increasing building resilience.
+### 1. **Retrofit Older Buildings and Require Higher Standards for New Construction Projects**
+- **Climate Threat Addressed:** Addresses risks related to higher costs due to energy and insurance, urban heat island effect, greater risk of property damage, increased residential energy costs, and more (Risks 1, 7, 10, 11, 13).
+- **Cost, Timeframe, and Location:** 
+  - **Cost:** Estimated as high (`$$$`).
+  - **Responsible Party:** Gary Building Department.
+  - **Supporting Parties:** Gary Redevelopment Department, property owners, contractors.
+- **Other Attributes:**
+  - **Environmental and Economic Consideration:** Improves energy efficiency and living conditions, likely leading to reduced energy costs and enhanced property value.
 
-#### 2. **Improve community emergency preparedness (emphasis on at-risk neighborhoods)**
-- **Climate Threat Addressed:** 
-  - Addresses Risks: 2 (Overburdened healthcare system), 15 (Risk to first responders and outdoor workers).
-- **Details:**
-  - **Cost:** Medium ($) for updating Emergency Preparedness Plan; Medium ($) for publishing a Homeowner’s Guide.
-  - **Timeframe and Location:** Not specifically detailed in terms of timeframe and location.
-- **Attributes:**
-  - Enhances preparedness through educational initiatives like publishing a Homeowner’s Guide.
-  - Engages community stakeholders including police, fire departments, and the Red Cross.
+### 2. **Improve Community Emergency Preparedness with an Emphasis on At-Risk Neighborhoods**
+- **Climate Threat Addressed:** Addresses risks to the healthcare system due to climate impacts and risks to first responders and vulnerable populations due to extreme temperatures (Risks 2, 15).
+- **Cost, Timeframe, and Location:**
+  - **Cost:** Estimated as medium (`$`).
+  - **Responsible Party:** Gary Police & Fire Departments.
+  - **Supporting Parties:** City Emergency Preparedness working group, NIPSCO, homeowners, property owners.
+- **Other Attributes:**
+  - **Social Consideration:** Increases community awareness and readiness for natural disasters, enhancing community safety and resilience.
 
-#### 3. **Prevent or mitigate flood damage**
-- **Climate Threat Addressed:** 
-  - Addresses Risks: 4 (Decline in water quality), 6 (Degradation of aquatic systems), 8 (Transportation disruption), 10 (Greater risk of property damage), 11 (Accelerated degradation of abandoned/vacant buildings), 16 (Potential electrical outages), 18 (Damaged roads).
-- **Details:**
-  - **Cost:** Low ($) for identifying and prioritizing floodprone areas; Low ($) for educating homeowners on flood protocols; Medium ($$) for encouraging flood mitigation practices.
-  - **Timeframe and Location:** Not specifically detailed in terms of timeframe and location.
-- **Attributes:**
-  - Involves educational outreach to homeowners and community groups.
-  - Encourages community-based flood mitigation practices, potentially reducing long-term infrastructure repair costs.
+### 3. **Improve Effectiveness of City’s Grey Infrastructure**
+- **Climate Threat Addressed:** Addresses issues related to water quality degradation, aquatic system degradation, and stormwater infrastructure damage (Risks 4, 6, 12).
+- **Cost, Timeframe, and Location:**
+  - **Cost:** Ranges from low (`$`) to high (`$$$`) for different actions within this strategy.
+  - **Responsible Party:** Gary Sanitary District.
+  - **Supporting Parties:** State & federal agencies.
+- **Other Attributes:**
+  - **Infrastructure Consideration:** Improves city infrastructure, reducing flood risk and water pollution.
 
-#### 4. **Improve effectiveness of city’s grey infrastructure**
-- **Climate Threat Addressed:** 
-  - Addresses Risks: 4 (Decline in water quality), 6 (Degradation of aquatic systems), 12 (Damaged stormwater infrastructure).
-- **Details:**
-  - **Cost:** Low ($) for assessing existing wastewater and stormwater management systems; High ($$$) for continuing the development and implementation of Gary’s Long Term Control Plan.
-  - **Timeframe and Location:** Not specifically detailed in terms of timeframe and location.
-- **Attributes:**
-  - Focuses on infrastructure improvements to handle increased precipitation and associated risks.
-  - Aligns with goals for sustainable water management and environmental protection.
+### 4. **Expand City’s Green Infrastructure**
+- **Climate Threat Addressed:** Addresses vulnerabilities including water quality, aquatic system degradation, stormwater infrastructure damage, urban heat island effect, risk of property damage, and threats to native biodiversity (Risks 4, 6, 10, 11, 12, 17).
+- **Cost, Timeframe, and Location:**
+  - **Cost:** Estimated as high (`$$$`).
+  - **Responsible Party:** City of Gary.
+  - **Supporting Parties:** Property owners, residents, community partners.
+- **Other Attributes:**
+  - **Environmental Consideration:** Enhances urban greenery, promoting ecological health and biodiversity.
 
-#### 5. **Expand city’s green infrastructure**
-- **Climate Threat Addressed:** 
-  - Addresses Risks: 4 (Decline in water quality), 6 (Degradation of aquatic systems), 10 (Greater risk of property damage), 11 (Accelerated degradation of abandoned/vacant buildings), 12 (Damaged stormwater infrastructure), 17 (Threats to native biodiversity).
-- **Details:**
-  - **Cost:** High ($$$)
-  - **Timeframe and Location:** Not specifically detailed in terms of timeframe and location.
-- **Attributes:**
-  - Involves implementing the City’s Green Infrastructure Plan.
-  - Supports environmental health through increased biodiversity and improved stormwater management.
+### 5. **Assess Existing Infrastructure Needs for Unhoused Population During Extreme Weather Events**
+- **Climate Threat Addressed:** Directly related to risks faced by the unhoused population during extreme temperatures (Risk 9).
+- **Cost, Timeframe, and Location:** 
+  - **Responsible Entity:** City in partnership with organizations like the Red Cross.
+- **Other Attributes:**
+  - **Social Consideration:** Protects vulnerable groups by ensuring adequate shelter and resources during adverse conditions.
 
-These resilience options are part of a comprehensive effort to enhance the City's ability to withstand and adapt to various climate-related threats, emphasizing economic, environmental, and infrastructural considerations as key components of the strategies.
+### 6. **Prevent or Mitigate Flood Damage**
+- **Climate Threat Addressed:** Targets the broader prevention of flood-related property and infrastructural damages (Risks not specified but likely related to general flood risks).
+- **Cost, Timeframe, and Location:** 
+  - Actions are aimed at identifying, prioritizing floodprone areas, educating homeowners, and incentivizing practices.
+- **Other Attributes:**
+  - **Economic Consideration:** Reduces potential economic loss through prioritization and preparation.
+
+Each of these resilience options contributes to enhancing the community's adaptive capacity and infrastructure robustness against identified climate threats. They consider economic, environmental, and societal impacts while aiming to bolster both immediate and long-term resilience.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options. Here are the summarized details provided in the plan for each identified mitigation option:
+The plan identifies several mitigation options, which can be summarized as follows:
 
 1. **Increase Solar Adoption**
-   - **Cost:** Not directly specified, but includes setting aside funding for vulnerable communities.
+   - **Cost:** Not explicitly mentioned.
    - **Timing:** Not specified.
-   - **Location:** Community-wide with a focus on vulnerable communities.
-   - **Other Attributes:** Actions include connecting with local leaders to raise awareness and setting aside solar funding and implementation assistance for vulnerable communities. (*Appendix 5: Climate Resilience Strategies*)
+   - **Location:** Vulnerable communities.
+   - **Attributes:** 
+     - Actions include connecting with local leaders to raise awareness of community solar and setting aside solar funding and implementation assistance for vulnerable communities. (_Appendix 5: Climate Resilience Strategies_)
 
 2. **Improve Energy Efficiency of Existing Buildings**
-   - **Cost:** Not specified.
+   - **Cost:** 
+     - Publishing an inventory of programs is categorized as low cost.
+     - Offering program implementation support is categorized as medium cost. (_Appendix 5: Climate Resilience Strategies_)
    - **Timing:** Not specified.
-   - **Location:** Not specified.
-   - **Other Attributes:** Actions include creating and publishing an inventory of existing programs that support energy efficiency efforts and offering support for program implementation. (*Appendix 5: Climate Resilience Strategies*)
+   - **Location:** City of Gary.
+   - **Attributes:** 
+     - Actions involve creating and publishing an inventory of existing programs that support energy efficiency efforts and offering support for program implementation. (_Appendix 5: Climate Resilience Strategies_)
 
 3. **Increase Use of Green Infrastructure**
-   - **Cost:** High effectiveness and high cost for some actions.
+   - **Cost:** Medium ($$) for incentivizing creation in low-income areas.
    - **Timing:** Not specified.
-   - **Location:** City-wide with a focus on low-income areas.
-   - **Other Attributes:** Actions include implementing the existing green infrastructure plan and incentivizing the creation of green infrastructure in low-income areas. (*Appendix 5: Climate Resilience Strategies*)
+   - **Location:** Low-income areas.
+   - **Attributes:** 
+     - Implementing the city's green infrastructure plan and incentivizing the creation of green infrastructure (e.g., rain gardens, tree planting). (_Appendix 5: Climate Resilience Strategies_)
 
-4. **Reduce Heat Absorption in Most Concentrated Areas**
-   - **Cost:** Not specified.
+4. **Replace and Upgrade Roads**
+   - **Cost:** High ($$$) for completing targeted upgrades.
    - **Timing:** Not specified.
-   - **Location:** Most concentrated urban areas.
-   - **Other Attributes:** Actions include passing ordinances supporting green building upgrades and expanding tree canopy. (*Appendix 5: Climate Resilience Strategies*)
+   - **Location:** Vulnerable roads.
+   - **Attributes:** 
+     - Creating an inventory of vulnerable roads and establishing a program for targeted upgrades. (_Appendix 5: Climate Resilience Strategies_)
 
 5. **Increase Resilience in Local Power Distribution**
-   - **Cost:** High cost for installing underground electrical wiring.
+   - **Cost:** High ($$$) for installing underground electrical wiring; Medium for improving vegetation management.
    - **Timing:** Not specified.
-   - **Location:** City-wide.
-   - **Other Attributes:** Actions include installing underground electrical wiring and improving vegetation management near power lines. (*Appendix 5: Climate Resilience Strategies*)
+   - **Location:** Not specified.
+   - **Attributes:** 
+     - Actions include installing underground electrical wiring and improving vegetation management near power lines. (_Appendix 5: Climate Resilience Strategies_)
 
-6. **Replace and Upgrade Roads**
-   - **Cost:** High cost for targeted road and alley upgrades.
-   - **Timing:** Not specified.
-   - **Location:** Vulnerable roads and alleys.
-   - **Other Attributes:** Actions include creating an inventory of vulnerable roads and establishing a program to complete targeted road upgrades. (*Appendix 5: Climate Resilience Strategies*)
-
-Each of these options is aimed at reducing greenhouse gas emissions and improving the overall resilience of the community to climate impacts.
+These mitigation options focus on advancing community solar, enhancing building energy efficiency, promoting green infrastructure, upgrading critical infrastructure, and improving local power resilience, primarily targeting areas with a higher degree of vulnerability.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies the following mitigation options:
+The plan identifies several mitigation options, which include:
 
 1. **Increase Solar Adoption**
-   - **Actions:** 
-     - "Connect with local leaders to raise awareness of community solar."
-     - "Set aside solar funding & implementation assistance for vulnerable communities."
-   - **Cost:** Not specified.
-   - **Timeframe:** Not specified.
-   - **Location:** Not specified, but focuses on vulnerable communities.
-   - **Attributes:** Emphasis on community engagement and equity in solar energy access.
+   - **Action:** Connect with local leaders to raise awareness of community solar, and set aside solar funding and implementation assistance for vulnerable communities.
+   - **Attributes:**
+     - **Cost:** Not specified.
+     - **Timeframe:** Not specified.
+     - **Location:** Targeted towards vulnerable communities.
+     - **Other Attributes:** Focus on awareness and financial assistance to increase solar use.
 
 2. **Improve Energy Efficiency of Existing Buildings**
-   - **Actions:** 
-     - "Create & publish an inventory of existing programs that support energy efficiency efforts."
-     - "Offer support for program implementation."
-   - **Cost:** 
-     - Publishing inventory: Low.
-     - Support for implementation: Medium.
-   - **Timeframe:** Not specified.
-   - **Location:** City of Gary.
-   - **Attributes:** Collaboration with state & federal programs, NWICA, contractors, public & private partners.
+   - **Action:** Create and publish an inventory of existing programs that support energy efficiency efforts, and offer support for program implementation.
+   - **Attributes:**
+     - **Cost:** Program implementation support is of medium cost (Appendix 5: Climate Resilience Strategies 102 | Page).
+     - **Timeframe:** Not specified.
+     - **Location:** General application across the planning jurisdiction.
+     - **Other Attributes:** Collaboration with state and federal programs, NWICA, and various contractors and partners.
 
-3. **Expand City's Green Infrastructure**
-   - **Actions:** 
-     - "Implement City’s Green Infrastructure Plan."
-     - "Incentivize the creation of green infrastructure in low-income areas."
-   - **Cost:** 
-     - Implementation: High.
-     - Incentivizing: Medium.
-   - **Timeframe:** Not specified.
-   - **Location:** City of Gary, with a focus on low-income areas.
-   - **Attributes:** High effectiveness in addressing multiple risks (4, 6, 10, 11, 12, 17). Collaboration with property owners, residents, and community partners.
+3. **Expand Green Infrastructure**
+   - **Action:** Implement the city's Green Infrastructure Plan.
+   - **Attributes:**
+     - **Cost:** High cost (RI-2.1) (Appendix 5: Climate Resilience Strategies 102 | Page).
+     - **Timeframe:** Not specified.
+     - **Location:** General application across the city.
+     - **Other Attributes:** Supported by property owners, residents, and community partners.
 
-4. **Replace and Upgrade Roads**
-   - **Actions:** 
-     - "Create an inventory of vulnerable roads and alleys."
-     - "Establish a program to complete targeted road and alley upgrades."
-   - **Cost:** 
-     - Inventory creation: Low.
-     - Upgrades: High.
-   - **Timeframe:** Not specified.
-   - **Location:** City of Gary.
-   - **Attributes:** Addresses risks (8, 18). Involves collaboration with NIRPC, INDOT.
+4. **Reduce Pollution from Wastewater and Stormwater**
+   - **Action:** Improve wastewater and stormwater treatment, and separate storm and wastewater infrastructure.
+   - **Attributes:**
+     - **Cost:** Not specified, but involves infrastructural changes which might imply significant cost.
+     - **Timeframe:** Not specified.
+     - **Location:** General application across the planning jurisdiction.
+     - **Other Attributes:** Aims to improve wastewater and stormwater management.
 
-5. **Increase Resilience in Local Power Distribution**
-   - **Actions:** 
-     - "Install underground electrical wiring."
-     - "Improve vegetation management near power lines."
-   - **Cost:** 
-     - Underground wiring: High.
-     - Vegetation management: Medium.
-   - **Timeframe:** Not specified.
-   - **Location:** City of Gary.
-   - **Attributes:** High effectiveness in addressing risk (16). Collaboration with utility companies, contractors, property owners.
+5. **Improve Stormwater (Grey) Infrastructure**
+   - **Action:** Assess and upgrade the existing stormwater management system, and incentivize the creation of green infrastructure in low-income areas.
+   - **Attributes:**
+     - **Cost:** Medium cost for incentivizing green infrastructure in low-income areas (Appendix 5: Climate Resilience Strategies 103 | Page).
+     - **Timeframe:** Not specified.
+     - **Location:** Low-income areas.
+     - **Other Attributes:** Efforts directed towards enhancing infrastructure in vulnerable areas.
 
-These mitigation options focus on improving infrastructure, promoting energy efficiency and renewable energy, and enhancing resilience in the face of climate challenges. Specific costs and timeframes are often not detailed, but the emphasis is on strategic collaboration and targeting vulnerable communities.
+6. **Replace and Upgrade Roads**
+   - **Action:** Create an inventory of vulnerable roads, and establish a program to complete targeted road upgrades.
+   - **Attributes:**
+     - **Cost:** High cost for road and alley upgrades (RI-3.2) (Appendix 5: Climate Resilience Strategies 103 | Page).
+     - **Timeframe:** Not specified.
+     - **Location:** Vulnerable roads and alleys in the jurisdiction.
+     - **Other Attributes:** Insight on current vulnerabilities to guide upgrades.
+
+These mitigation options focus on improving infrastructure, increasing energy efficiency, and reducing pollution, all critical in reducing greenhouse gas emissions and decreasing the city's carbon footprint.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options, each addressing specific climate threats. Below is a summary of the identified adaptation options, including the climate threat they address and any information provided regarding cost, timeframe, location, and other important attributes:
+## Adaptation Options Identified in the Plan
 
-1. **Acquire urban spaces to restore native vegetation**
-   - **Climate Threat Addressed:** Degradation of natural systems.
-   - **Attributes:** No specific cost, timeframe, or location details provided.
+### 1. **Acquire Urban Spaces to Restore Native Vegetation**
+- **Climate Threat Addressed:** This adaptation option addresses the degradation of natural systems and loss of biological diversity.
+- **Attributes:** No specific cost, timeframe, or location information is provided in the excerpts.
 
-2. **Improve wastewater & stormwater treatment**
-   - **Climate Threat Addressed:** Pollution and flooding due to increased precipitation.
-   - **Attributes:** No specific cost, timeframe, or location details provided.
+### 2. **Improve Wastewater & Stormwater Treatment**
+- **Climate Threat Addressed:** This strategy addresses the decline in water quality due to increased flooding events and water pollution risk.
+- **Attributes:** No specific cost, timeframe, or location information is included in the excerpts.
 
-3. **Separate storm and wastewater infrastructure**
-   - **Climate Threat Addressed:** Risk of hazardous material exposure from flooding.
-   - **Attributes:** No specific cost, timeframe, or location details provided.
+### 3. **Increase Solar Adoption**
+- **Climate Threat Addressed:** Rising energy costs and promoting renewable energy to reduce greenhouse gas emissions.
+- **Attributes:** It includes actions to set aside funding and implementation assistance for vulnerable communities.
 
-4. **Increase solar adoption**
-   - **Climate Threat Addressed:** Higher residential energy costs and energy demand.
-   - **Attributes:** Includes connecting with local leaders and setting aside funds for vulnerable communities. No specific cost, timeframe, or location details provided.
+### 4. **Improve Energy Efficiency of Existing Buildings**
+- **Climate Threat Addressed:** Higher cost of doing business due to rising energy costs; impacts related to extreme temperatures.
+- **Attributes:** Actions include creating an inventory of existing programs that support energy efficiency efforts, though no specific cost or timeframe is detailed.
 
-5. **Improve energy efficiency of existing buildings**
-   - **Climate Threat Addressed:** Increased residential energy costs.
-   - **Attributes:** Includes creating an inventory of existing programs. No specific cost, timeframe, or location details provided.
+### 5. **Improve Stormwater (Grey) Infrastructure**
+- **Climate Threat Addressed:** Risk of collapsing stormwater infrastructure due to increased precipitation.
+- **Attributes:** The strategy involves assessing and upgrading existing systems and incentivizing green infrastructure in low-income areas.
 
-6. **Assess & upgrade stormwater management system**
-   - **Climate Threat Addressed:** Damaged stormwater infrastructure from increased precipitation.
-   - **Attributes:** No specific cost, timeframe, or location details provided.
+### 6. **Increase Use of Green Infrastructure**
+- **Climate Threat Addressed:** Urban heat island effect and water pollution.
+- **Attributes:** Implementation of an existing green infrastructure plan is identified, without specific cost or timeframe details.
 
-7. **Incentivize creation of green infrastructure in low-income areas**
-   - **Climate Threat Addressed:** Urban heat island effect and stormwater issues.
-   - **Attributes:** No specific cost, timeframe, or location details provided.
+### 7. **Replace and Upgrade Roads**
+- **Climate Threat Addressed:** Transport disruption due to extreme weather and damaged infrastructure.
+- **Attributes:** This includes creating an inventory of vulnerable roads and launching a program for targeted upgrades.
 
-8. **Increase use of green infrastructure**
-   - **Climate Threat Addressed:** Urban heat island effect and stormwater issues.
-   - **Attributes:** Implement existing green infrastructure plan. No specific cost, timeframe, or location details provided.
+### 8. **Increase Resiliency in Residential & Commercial Sectors**
+- **Climate Threat Addressed:** Higher vulnerability of older buildings to extreme weather and climate impacts.
+- **Attributes:** Strategies include retrofitting older buildings and establishing higher standards for new constructions.
 
-9. **Replace and upgrade roads**
-   - **Climate Threat Addressed:** Damaged roads due to extreme weather events.
-   - **Attributes:** Involves creating an inventory of vulnerable roads. No specific cost, timeframe, or location details provided.
+### 9. **Reduce Heat Absorption in Concentrated Areas**
+- **Climate Threat Addressed:** Urban heat island effect.
+- **Attributes:** Actions involve passing ordinances for green buildings, expanding tree canopies, and species diversification.
 
-10. **Increase resiliency in residential & commercial sectors**
-    - **Climate Threat Addressed:** Property damage from extreme precipitation, storms, and flooding.
-    - **Attributes:** Includes retrofitting older buildings and planting food forests. No specific cost, timeframe, or location details provided.
+### 10. **Improve Community Emergency Preparedness**
+- **Climate Threat Addressed:** Various climate impacts including extreme weather hazards.
+- **Attributes:** Focus on at-risk neighborhoods, providing resources like solar-powered generators, and educating the public.
 
-11. **Reduce heat absorption in concentrated areas**
-    - **Climate Threat Addressed:** Urban heat island effect.
-    - **Attributes:** Passing ordinances for green building upgrades and expanding tree canopy. No specific cost, timeframe, or location details provided.
+### 11. **Develop Alternative Plans for Outdoor Events**
+- **Climate Threat Addressed:** Risk to outdoor culture due to extreme heat and cold events.
+- **Attributes:** Preparation measures such as establishing cooling centers and water stations in parks.
 
-12. **Improve community emergency preparedness**
-    - **Climate Threat Addressed:** Risk to residents from extreme temperatures and weather events.
-    - **Attributes:** Includes providing solar-powered generators and educating the public. No specific cost, timeframe, or location details provided.
+### General Information on Cost and Effectiveness
+- The plan provides a matrix indicating the relative cost and effectiveness of strategies, but specific costs, timeframes, or locations for the adaptation options detailed above are not provided in the excerpts shared. 
 
-13. **Develop alternative plans for outdoor events**
-    - **Climate Threat Addressed:** Risk to outdoor culture from extreme heat and cold.
-    - **Attributes:** Preparing local parks for hot weather. No specific cost, timeframe, or location details provided.
-
-The plan provides a broad outline of adaptation options, but specific details regarding cost, timeframe, and location are not provided in the document excerpts.
+**Note:** Additional details, including cost, timeframe, and location, are likely covered in full versions of the plan not included in the excerpts provided.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice by addressing various climate threats and vulnerabilities. Here is a summary of those policies:
+The plan identifies several climate policies aimed at advancing climate justice. For each policy, here's a summary of the climate threat it addresses and the areas or populations with the most climate vulnerability:
 
-### **1. Improve community emergency preparedness with an emphasis on at-risk neighborhoods**
+1. **Policy: Increase Solar Adoption**
+   - **Climate Threat:** The policy does not specify a direct climate threat, but increasing solar adoption contributes to the reduction of greenhouse gas emissions, thereby addressing the overarching threat of climate change.
+   - **Vulnerable Populations:** "*Set aside solar funding & implementation assistance for vulnerable communities.*" This indicates a focus on supporting areas or populations with limited financial resources.
 
-- **Climate Threat Addressed:** This policy addresses the increased frequency and severity of natural disasters such as floods, tornadoes, hurricanes, and wildfires, which are exacerbated by climate change due to changes in weather patterns and increased evaporation rates leading to more intense rainfall and storms.
-  
-- **Vulnerable Areas/Populations:** This policy specifically targets at-risk neighborhoods that are more susceptible to these extreme weather events. These areas are often characterized by existing vulnerabilities such as aging infrastructure and socio-economic challenges.
+2. **Policy: Improve Energy Efficiency of Existing Buildings**
+   - **Climate Threat:** The policy indirectly addresses increased energy consumption and greenhouse gas emissions through improved energy efficiency.
+   - **Vulnerable Populations:** The policy highlights creating an inventory of existing programs and offering support for program implementation. Although specific populations are not mentioned, energy efficiency improvements often target low-income communities that struggle with high energy costs.
 
-### **2. Increase solar adoption**
+3. **Policy: Improve Stormwater (Grey) Infrastructure**
+   - **Climate Threat:** Addressing the risks of flooding and infrastructure collapse due to increased precipitation and extreme weather events.
+   - **Vulnerable Populations:** Focus on low-income areas—"*Incentivize the creation of green infrastructure (e.g., rain gardens, tree planting) in low-income areas.*"
 
-- **Climate Threat Addressed:** The policy aims to mitigate climate change by promoting the use of renewable energy sources, thereby reducing reliance on fossil fuels and lowering greenhouse gas emissions.
-  
-- **Vulnerable Areas/Populations:** The plan sets aside solar funding and implementation assistance specifically for vulnerable communities, which may include lower-income areas that face higher energy costs and have less access to renewable energy technologies.
+4. **Policy: Improve Community Emergency Preparedness**
+   - **Climate Threat:** Increasing frequency and severity of natural disasters, including floods, tornadoes, and hurricanes exacerbated by climate change.
+   - **Vulnerable Populations:** The emphasis is on "*at-risk neighborhoods*" which often include socioeconomically disadvantaged communities and those with limited adaptive capacity.
 
-### **3. Improve stormwater (grey) infrastructure**
+5. **Policy: Advancing Climate Equity**
+   - **Climate Threat:** Addressing the broad threat of climate inequities exacerbated by the differing impacts of climate change on various populations.
+   - **Vulnerable Populations:** Focuses extensively on disadvantaged groups in Gary, including those disadvantaged by lower income, race, language, gender, LGBTQ+ status, housing status, etc. It emphasizes empowering these groups and prioritizing investment to support those most at risk.
 
-- **Climate Threat Addressed:** This policy addresses issues related to increased precipitation and stormwater management, which are exacerbated by climate change and can lead to flooding and exposure to hazardous materials.
-  
-- **Vulnerable Areas/Populations:** The policy incentivizes the creation of green infrastructure, such as rain gardens and tree planting, particularly in low-income areas that are more likely to experience infrastructure deficiencies and greater exposure to climate impacts.
-
-### **4. Retrofit older buildings & require higher standards for new construction projects**
-
-- **Climate Threat Addressed:** This policy addresses the effects of extreme weather events and aging infrastructure, which are exacerbated by climate change and can lead to increased property damage and energy costs.
-  
-- **Vulnerable Areas/Populations:** The focus is on retrofitting older buildings and establishing higher standards for new construction to enhance resilience, particularly benefiting populations living in older, less resilient housing stock.
-
-### **5. Reduce heat absorption in most concentrated areas**
-
-- **Climate Threat Addressed:** This policy addresses the urban heat island effect, which is intensified by climate change and leads to higher temperatures in urban areas.
-  
-- **Vulnerable Areas/Populations:** The strategy involves expanding tree canopy and diversifying species in areas with high concentrations of heat-absorbing buildings and impervious surfaces, which are often in densely populated urban neighborhoods.
-
-### **6. Advancing Climate Equity**
-
-- **Climate Threat Addressed:** This overarching policy addresses the broader impacts of climate change that exacerbate social, political, and economic inequities, resulting in disproportionate impacts on vulnerable populations.
-  
-- **Vulnerable Areas/Populations:** It focuses on historically disadvantaged and/or marginalized groups, including those disadvantaged due to lower income, race, language, gender, LGBTQ+ status, mobility, disability, housing status, health condition, and age. The policy emphasizes empowering these communities and prioritizing investments to support those most at risk.
-
-**Citations:**  
-- "Appendix 3: Climate Vulnerability Assessment"  
-- "Appendix 5: Climate Resilience Strategies"  
-- "Advancing Climate Equity"  
-- "Strategies to Prepare for Change"
+These policies collectively work towards climate justice by acknowledging and addressing the unique vulnerabilities and needs of different populations, particularly those historically marginalized or disadvantaged.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-1. **Policy: Improve stormwater (grey) infrastructure**
+Here are some potential unforeseen maladaptive climate policies derived from the provided document:
 
-   - **Climate Threat Addressed:** Increased precipitation leading to stormwater infrastructure damage, collapse, flooding, and potential exposure to hazardous materials. (Appendix 5: Climate Resilience Strategies)
-   - **Option Proposed:** Assess and upgrade the existing stormwater management system. (Appendix 5: Climate Resilience Strategies)
-   - **Potential Maladaptation:** Upgrading grey infrastructure without considering green infrastructure alternatives may lead to increased runoff, reduced groundwater recharge, and potentially exacerbate flooding downstream. This can inadvertently increase vulnerability to flooding and affect water quality.
+1. **Policy: Acquisition of Urban Spaces to Restore Native Vegetation**
+   - **Climate Threat Addressed:** This policy aims to reduce pollution and restore native ecosystems, indirectly addressing threats such as air and water pollution, as well as habitat loss.
+   - **Option Proposed:** *Resilience Option* - "Continue to acquire urban spaces to restore native vegetation." (Appendix 5: Climate Resilience Strategies, Page 108)
+   - **Potential for Maladaptation:** While restoring native vegetation can enhance urban green spaces, it may overlook social dimensions such as housing needs or the displacement of lower-income groups. Acquisition of urban spaces without equitable considerations could exacerbate social inequities, potentially leading to gentrification or loss of housing.
 
-2. **Policy: Increase solar adoption**
+2. **Policy: Improve Community Emergency Preparedness**
+   - **Climate Threat Addressed:** Increased frequency and severity of natural disasters such as floods, heatwaves, and storms.
+   - **Option Proposed:** *Adaptation Option* - "Improve community emergency preparedness with an emphasis on at-risk neighborhoods." (Appendix 5: Climate Resilience Strategies, Page 109)
+   - **Potential for Maladaptation:** While enhancing emergency preparedness is critical, an overemphasis on disaster response might divert attention from long-term adaptation strategies like infrastructure resilience and sustainable urban planning, leading to reduced adaptability to long-term climate shifts.
 
-   - **Climate Threat Addressed:** General need for renewable energy sources to reduce dependency on fossil fuels and decrease GHG emissions.
-   - **Option Proposed:** Set aside solar funding and implementation assistance for vulnerable communities. (Appendix 5: Climate Resilience Strategies)
-   - **Potential Maladaptation:** If implemented without proper planning, solar installations could lead to land use changes that affect biodiversity and natural habitats. Improper siting could also reduce land available for other critical uses, such as agriculture or conservation, inadvertently increasing vulnerability in other areas.
+3. **Policy: Replace and Upgrade Roads**
+   - **Climate Threat Addressed:** Damaged roads due to extreme weather events such as extreme cold, heat waves, and flooding.
+   - **Option Proposed:** *Resilience Option* - "Replace and upgrade roads." (Appendix 5: Climate Resilience Strategies, Page 109)
+   - **Potential for Maladaptation:** Upgrading roads without considering future climate scenarios and environmental impacts might reinforce current vulnerabilities, such as increasing impermeable surfaces, which can exacerbate flooding and urban heat island effects.
 
-3. **Policy: Replace and upgrade roads**
-
-   - **Climate Threat Addressed:** Damaged roads due to extreme weather events like extreme cold, heat waves, and flooding. (Appendix 5: Climate Resilience Strategies)
-   - **Option Proposed:** Establish and launch a program to complete targeted road upgrades. (Appendix 5: Climate Resilience Strategies)
-   - **Potential Maladaptation:** Road upgrades might prioritize vehicle traffic over sustainable transport options, leading to increased emissions and reduced urban green spaces. This could inadvertently affect air quality and exacerbate urban heat island effects, increasing climate vulnerability.
-
-4. **Policy: Create a fire protection plan to reduce risk of wildfire**
-
-   - **Climate Threat Addressed:** Wildfires exacerbated by extreme heat and drought conditions. (Appendix 5: Climate Resilience Strategies)
-   - **Option Proposed:** Perform prescribed burns and educate residents on fire safety. (Appendix 5: Climate Resilience Strategies)
-   - **Potential Maladaptation:** Prescribed burns, if not carefully managed, could lead to uncontrolled wildfires, air quality issues, and habitat destruction. Additionally, an overemphasis on fire suppression might lead to fuel accumulation, increasing wildfire risks in the long term.
+4. **Policy: Separate Storm and Wastewater Infrastructure**
+   - **Climate Threat Addressed:** Pollution from wastewater and stormwater.
+   - **Option Proposed:** *Mitigation Option* - "Separate storm and wastewater infrastructure." (Appendix 5: Climate Resilience Strategies, Page 108)
+   - **Potential for Maladaptation:** While separating these systems can reduce pollution, it may result in unexpected high costs and resource allocations. This financial burden might limit funds available for other critical climate adaptation and resilience initiatives, possibly delaying comprehensive community-wide improvements.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The plan outlines the following ways to measure the success or failure of adaptation, resilience, and mitigation options:
+Based on the content provided from the "Climate Ready Gary" plan, the following metrics and evaluation measures are used to measure the success or failure of the adaptation, resilience, and mitigation options:
 
-- **Implementation and Evaluation:**
-  - The Implementation Task Force will use the information from the Vulnerability Assessment and Strategy Development workshops to build the evaluation framework and identify thresholds where corrective action may need to be taken. The Task Force will identify what to measure for each action and what defines success. They will also identify whether existing data collection efforts may be used and opportunities for community members to participate in data gathering. (*Implementation and Evaluation*)
+- **Implementation and Evaluation Metrics:**
+  - The **Implementation Task Force** is responsible for developing 1-year and 3-year implementation plans focusing on high priority actions. The task force will identify indicators and metrics for evaluating success. However, specific units or numerical targets are not mentioned in the provided excerpts.
 
-- **Evaluation Metrics:**
-  - For the strategy of expanding the city's green infrastructure, the evaluation metrics include:
-    - Number of CSO (Combined Sewer Overflow) occurrences.
-    - Number of completed Supplemental Environmental Projects (SEPs).
-    - Percentage of completed proposals. (*Strategies to Prepare for Change*)
+- **Green Infrastructure:**
+  - For the strategy of expanding the city's green infrastructure:
+    - **Evaluation Metrics** include the percentage of completed proposals (Appendix 4: Developing Climate Resilience Strategies).
 
-However, specific units or detailed numerical objectives are not explicitly mentioned in the excerpts provided. The plan does emphasize the importance of setting indicators and metrics for evaluating success but does not detail concrete goals, targets, or units for tracking outcomes in the provided sections.
+- **Resilient Infrastructure:**
+  - Under the theme of resilient infrastructure, specific metrics include:
+    - **Number of CSO (Combined Sewer Overflow) occurrences**
+    - **Number of completed Supplemental Environmental Projects (SEPs)** (Strategies to Prepare for Change 45 | Page).
+
+- **Healthy Residents:**
+  - Actions prioritize addressing vulnerabilities such as illegal dumping and air quality health impacts. Metrics for these actions include creating focused task forces and conducting studies, but specific quantifiable metrics are not provided in the excerpts.
+
+While the document outlines the establishment of metrics and thresholds for corrective action, it does not provide explicit numerical targets or units for specific adaptation, resilience, and mitigation outcomes. The Task Force is tasked with identifying what to measure and define success based on the vulnerabilities assessed during workshops (Implementation and Evaluation 53 | Page).
+
+**Concrete Goals or Targets:**
+- The plan mentions the creation of implementation plans and the assessment of progress and needed corrective actions at regular intervals, typically every 12 months.
+- The planning process involves identifying these metrics, but no specific goals, deadlines, or targets are detailed in the provided excerpts.
+
+The excerpts do not provide specific numerical objectives or units such as reductions in CO₂ emissions, improvements in air quality, or other quantifiable impacts with exact figures or deadlines. The development and tracking of these metrics and objectives appear to be part of the ongoing and iterative process led by the Implementation Task Force.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**          | **Details**                                                                                                                                                                                                                                               |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | City of Gary                                                                                                                                                                                                                                              |
-| **Population**       | - 2020: 75,486<br>- 2021: 69,739 (7.61% decrease)                                                                                                                                                                                                           |
-| **Threats Identified** | - Higher cost of doing business due to rising energy and insurance costs<br> - Overburdened healthcare system due to increasing mental and physical health challenges<br> - Worsening food insecurity due to disturbances in food production and supply chains<br> - Decline in water quality due to increased flooding events<br> - Increased risk of adverse health conditions due to air pollution<br> - Urban heat island effect from heat-absorbing buildings<br> - Continued transportation disruption due to extreme weather events<br> - Risk to unhoused population due to extreme temperatures<br> - Greater risk of property damage due to extreme precipitation, storms, and flooding events<br> - Damaged stormwater infrastructure due to increased precipitation<br> - Increased cost of residential energy<br> - Risk to outdoor culture due to extreme heat and cold events<br> - Risk to first responders, outdoor workers, and service industries<br> - Potential electrical outages due to extreme weather events<br> - Threats to native biodiversity<br> - Damaged roads due to extreme weather events<br> - Threats to urban tree canopy<br> - Loss of connectivity of natural areas<br> - Reduced carbon storage due to wildfires, extreme heat, and drought |
-| **Measures Identified** | - Address illegal dumping through city’s Illegal Dumping Taskforce<br> - Conduct air quality health impact study<br> - Increase the number of farmers markets<br> - Evaluate health services for extreme temperature events<br> - Update the Gary Urban Forest Management Plan<br> - Educate residents and municipal employees on wildfire/fire safety<br> - Establish a community working group for land use planning<br> - Launch an educational campaign for solar energy<br> - Assess existing stormwater and wastewater management system<br> - Continue development of Gary's Long Term Control Plan |
+| **Feature**               | **Description**                                                                                                                                                                                                                                                                             |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**    | City of Gary                                                                                                                                                                                                                                                                                 |
+| **Population**            | Between 2020 and 2021, the population declined from 75,486 to 69,739 (7.61% decrease). **78%** of residents identify as Black or African American (Non-Hispanic) and **10%** identify as white (non-Hispanic).                                                                                 |
+| **Threats Identified**    | - Higher cost of doing business due to rising energy and insurance costs and disaster losses. <br>- Overburdened healthcare system due to increasing mental and physical health challenges from worsening climate impacts. <br>- Worsening food insecurity due to disturbances in food production and supply chains. <br>- Decline in water quality due to increased flooding events. <br>- Increased risk of adverse health conditions due to air pollution. <br>- Urban heat island effect from heat-absorbing buildings. <br>- Continued transportation disruption due to extreme weather events. <br>- Risk to unhoused populations due to extreme temperatures. <br>- Greater risk of property damage due to extreme weather events. <br>- Potential electrical outages due to extreme weather events. <br>- Threats to native biodiversity from invasive species. <br>- Damaged roads due to extreme weather events. <br> - Threats to urban tree canopy from severe storms, drought, and heat. |
+| **Measures Identified**   | - Address illegal dumping through city's Illegal Dumping Taskforce.<br>- Conduct air quality health impact study.<br>- Increase the number of farmer's markets focusing on local food deserts.<br>- Expand local tree canopy in the Gary Urban Forest Management Plan.<br>- Coordinate with Gary Green Links Master Plan and Bicycle and Pedestrian Master Plan.<br>- Educate on wildfire/fire safety.<br>- Establish a community working group for land use planning.<br>- Launch an educational campaign on solar energy benefits.<br>- Publish inventory of programs/resources to advance solar adoption.<br>- Assess stormwater and wastewater management system.<br>- Develop and implement Gary's Long Term Control Plan.<br>- Improve wastewater & stormwater treatment.<br>- Update land use plan for aquatic protection and community engagement. |
 ```

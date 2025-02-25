@@ -1,328 +1,299 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction:** Chattanooga, Tennessee, USA
+**Chattanooga, Tennessee**
 
-**Physical Landscape:**
-- Chattanooga is located in the confluence of the Cumberland Plateau and Ridge and Valley physiographic regions, which contribute to the stability of terrestrial habitats. These regions help in rainfall runoff retention and filtration, creating wetland habitats and supporting aquatic conditions. (*Chattanooga Climate Action Plan42*)
-- The Tennessee Valley is a notable geographic feature, with scenic views such as from Sunset Rock on Lookout Mountain. (*Chattanooga Climate Action Plan4*)
+- **Location & Population**: The Chattanooga region continues to grow and has been attracting new residents and growing its economy.
 
-**Economic Landscape:**
-- Chattanooga is experiencing growth and is popular as a tourist destination. To meet demands from growth, the city focuses on creating new homes and economic opportunities while balancing natural resource integrity. (*Chattanooga Climate Action Plan37*)
-- The city has seen record low unemployment, job growth, and GDP growth. However, over 30% of Chattanooga's population remains in poverty, and over 40% are economically distressed. Economic disparities are present, attributed to limited access to education, capital, housing, transportation, healthcare, and employment. (*Chattanooga Climate Action Plan50*)
-- Chattanooga is recognized for its innovative fiber optic broadband network that supports accelerated manufacturing, business processes, and remote work opportunities. (*Chattanooga Climate Action Plan4*)
+- **Demographics & Income**: The details about specific demographics and average income are not explicitly provided. However, it mentions significant income disparities, with over 30% of Chattanooga within poverty conditions, and over 40% in economically distressed conditions (Chattanooga Climate Action Plan50).
 
-**Energy and Natural Resources:**
-- Chattanooga's GHG emissions have been reduced by over 25% due to efforts by the Tennessee Valley Authority (TVA), which has reduced its carbon footprint by over 70%, with a non-carbon generation portfolio approaching 60%. (*Chattanooga Climate Action Plan4*)
-- The city participates in TVA’s Green Invest Program to increase the percentage of renewable energy generation, focusing on new solar projects. (*Chattanooga Climate Action Plan29*)
+- **Geographic Features**: Chattanooga is located within the confluence of the Cumberland Plateau and Ridge and Valley physiographic regions (Chattanooga Climate Action Plan42).
 
-**Local Climate:**
-- Chattanooga has experienced a rapid increase in volatile and extreme weather events, including tornado outbreaks, droughts, wildfires, and record rainfall years. This has heightened the reality and impact of climate change in the region. (*Chattanooga Climate Action Plan4*)
+- **Infrastructure**: There is no specific mention of key infrastructure such as airports or seaports within the document provided.
 
-**Key Industries and Economic Drivers:**
-- Chattanooga's economy is driven by an abundance of natural resources and the presence of a robust fiber optic network that enables advanced manufacturing and business operations.
-- Efforts to develop a green economy focus on training the workforce in energy-efficient construction and maintenance practices, attracting top employers while growing the middle class and reducing poverty. (*Chattanooga Climate Action Plan50*)
+- **Local Climate**: Chattanooga has experienced an increase in extreme weather events, including historic tornadoes, droughts, wildfires, and record rainfall (Chattanooga Climate Action Plan4). This highlights the climate volatility faced by the region.
+
+- **Energy Production & Resources**: The Tennessee Valley Authority (TVA) plays a significant role in Chattanooga’s energy landscape, with more than 50% of energy generated from nuclear, hydro, wind, and solar sources. The city is involved in initiatives such as the TVA Green Invest Program to increase renewable energy sources (Chattanooga Climate Action Plan29). Additionally, Chattanooga provides abundant natural resources which includes an innovative fiber optic broadband network that supports manufacturing and business processes (Chattanooga Climate Action Plan4).
+
+- **Industries & Economic Drivers**: Chattanooga is experiencing economic growth, has record low unemployment, and record job and GDP growth. Significant focus is being placed on reducing carbon emissions, training the workforce in green technologies and construction practices, and building resilience to global uncertainties (Chattanooga Climate Action Plan50). This indicates an active transition towards green and sustainable industries as key economic drivers.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Resilience:**
+**Resilience**
 
-The plan addresses resilience by incorporating strategies to reduce disparities among socially and economically vulnerable communities and by emphasizing the need for community-wide implementation of the Climate Action Plan in areas of greatest health, income, and other disparities. It includes actions such as establishing community resilience hubs, community-wide emergency response plans, and evacuation routes for at-risk neighborhoods (Chattanooga Climate Action Plan, G1 Quick Reference Table). Additionally, the plan aligns with the Chattanooga Regional Resilience Report to prepare for challenges in the coming decades (Chattanooga Climate Action Plan, History | Major Milestones).
+The plan incorporates resilience as a key aspect to ensure that Chattanooga can withstand environmental, societal, and economic challenges. This is evidenced by:
 
-**Mitigation:**
+- **Goal:** “Chattanooga will reduce disparities among socially and economically vulnerable communities” by implementing strategies such as “Community Resilience & Response Plans for at-risk populations” (Chattanooga Climate Action Plan19, Plan).
+- The establishment of "Community Resilience Hubs in publicly accessible facilities" and "emergency response and communication plans" are direct actions focusing on resilience (Chattanooga Climate Action Plan19, Plan).
 
-Mitigation is addressed through the goal of becoming a net zero-carbon community. The plan outlines strategies and tactics specific to municipal operations and facilities to address municipal contributions to greenhouse gas emissions. This includes the development of a 4 megawatt solar array at the Moccasin Bend environmental campus (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will become a net zero-carbon community).
+**Mitigation**
 
-**Adaptation:**
+Mitigation efforts are central to the plan with goals set for substantial reductions in greenhouse gas emissions:
 
-Adaptation is addressed through the development and implementation of resilient and energy-efficient affordable housing plans, and by ensuring that new development standards include sustainable approaches as part of the zoning code update and the city’s development review process (Chattanooga Climate Action Plan, G4 Quick Reference Table). Additionally, the plan emphasizes the importance of building a more sustainable city through smart growth policies, transit-oriented development, and encouraging brownfield and greyfield development (Chattanooga Climate Action Plan, G4 Quick Reference Table).
+- **Goal:** “Chattanooga will become a net zero-carbon community,” which includes strategies and tactics to reduce carbon emissions from municipal operations and facilities (Chattanooga Climate Action Plan22, Plan).
+- The City’s commitment to the “USDOE’s Better Climate Challenge,” which involves reducing GHG emissions by 50% within 10 years, highlights mitigation efforts (Chattanooga Climate Action Plan12, History).
 
-**Classification:**
+**Adaptation**
 
-Based on the summary of how the plan addresses resilience, mitigation, and adaptation, the plan can be classified as an **equal mitigation and adaptation climate action plan**. It incorporates significant elements of both mitigation and adaptation/resilience, aiming to achieve a balance between reducing greenhouse gas emissions and enhancing the city's resilience to climate impacts.
+Adaptation is woven into the plan with strategic actions intended to adjust to expected climate changes:
+
+- The establishment of “Community Resilience Hubs” and adaptation of community planning to include evacuation routes, and water fountain stations in key areas are actions that align with adaptation initiatives (Chattanooga Climate Action Plan19, Plan).
+- The plan aims to develop a “resilient and energy-efficient affordable housing” plan (Chattanooga Climate Action Plan19, Plan).
+
+**Classification**
+
+The plan is best classified as an **equal mitigation and adaptation climate action plan**. It integrates extensive efforts towards both mitigating GHG emissions and adapting to the existing and anticipated impacts of climate change, alongside a strong focus on building community resilience.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that Chattanooga is facing. The plan highlights a "rapid increase in volatile and extreme weather events and patterns" since the city produced its first Climate Action Plan in 2009. Specific events mentioned include:
-
-- A historic tornado outbreak in 2011
-- Droughts and wildfires in 2017
-- Record rainfall years in 2018
-- Double the annual average of 90+ degree days and back-to-back 100-degree days in October 2019
-- The Easter tornado in 2020
-
-The plan states that "the reality and impact of a shifting climate where the extreme has become the norm is now more than evident" (Background, 1.2 State of Chattanooga’s Climate).
+Yes, the plan describes a scenario of climate change the planning jurisdiction will face. Over the past 14 years, Chattanooga has experienced "a rapid increase in volatile and extreme weather events and patterns" such as historic tornado outbreaks, droughts, wildfires, record rainfall years, and extreme temperature days. The plan acknowledges that these extreme climate events have become the norm, indicating a shifting climate reality (Chapter: Background, Section: State of Chattanooga’s Climate). Moreover, the plan mentions a "Regional Resilience" effort that was conducted to assess risks associated with increasing climate change and other hazards, emphasizing the need for critical services during more frequent, extreme, and concurrent stressor events (Chapter: History, Section: City of Chattanooga Regional Resilience Report).
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Extreme Weather Events**
+1. **Historic Tornado Outbreak (2011)**
+   - *Climate Hazard Description:* "An historic tornado outbreak."
+   - *Climate Risks:* Represents an increase in extreme weather events due to climate change.
+   - *Vulnerable Areas/Populations:* Not explicitly mentioned for this specific event.
 
-- **Description of the Climate Hazard:** The plan references a "rapid increase in volatile and extreme weather events and patterns" experienced by the region over the years. This includes historic tornado outbreaks, droughts, wildfires, record rainfall years, and increased occurrences of extremely hot days.
-  
-- **Climate Risks:** The shifting climate where extreme weather has become the norm poses risks to essential services, infrastructure, and the overall ability to support the community during such events. The plan emphasizes the increased necessity for the city to provide critical services during frequent and extreme stressor events.
+2. **Droughts and Wildfires (2017)**
+   - *Climate Hazard Description:* Experienced significant droughts and wildfires.
+   - *Climate Risks:* Highlights the volatility and extremity of weather patterns affecting the region.
+   - *Vulnerable Areas/Populations:* Not explicitly mentioned for this specific event.
 
-- **Areas or Populations with the Most Climate Vulnerability:** The plan mentions socially and economically vulnerable communities, who may lack resources and infrastructure to effectively respond to and recover from such events. The "two Chattanoogas" narrative highlights racial and income disparities, suggesting that lower-income and minority communities may be more susceptible.
+3. **Record Rainfall Years (2018)**
+   - *Climate Hazard Description:* Received record-breaking rainfall.
+   - *Climate Risks:* Demonstrates changing weather patterns and potential for increased flooding.
+   - *Vulnerable Areas/Populations:* Not explicitly mentioned for this specific event.
 
-**2. Heat Waves and High Temperatures**
+4. **Increased Temperature Days (2019)**
+   - *Climate Hazard Description:* Double the annual average of 90+ degree days and record 100-degree days in October.
+   - *Climate Risks:* Indicates warming climate and potential heat stress risks.
+   - *Vulnerable Areas/Populations:* Not explicitly mentioned for this specific event.
 
-- **Description of the Climate Hazard:** The plan notes a year in which Chattanooga saw "double the annual average of 90+ degree days and back-to-back 100-degree days in October," indicating increased frequency of heat waves and high temperatures.
+5. **Easter Tornado (2020)**
+   - *Climate Hazard Description:* The easter tornado event.
+   - *Climate Risks:* Continued threat of increased frequency and severity of tornadoes.
+   - *Vulnerable Areas/Populations:* Not explicitly mentioned for this specific event.
 
-- **Climate Risks:** Prolonged high temperatures can lead to health risks, especially for vulnerable populations, and strain energy resources due to increased cooling demands. The plan also highlights potential impacts on public health due to disparities in access to resources like air conditioning.
-
-- **Areas or Populations with the Most Climate Vulnerability:** Vulnerable populations, including those in economically disadvantaged areas and those with pre-existing health conditions, are at higher risk. The plan mentions the disparity in health outcomes, with Black Chattanoogans four times as likely to die from certain health conditions compared to their counterparts.
-
-**3. Droughts**
-
-- **Description of the Climate Hazard:** The plan refers to "droughts" as part of the extreme weather events impacting the region.
-
-- **Climate Risks:** Droughts can affect water supply, agriculture, and ecosystems. They pose risks to both urban and rural areas by impacting water availability and increasing the risk of wildfires.
-
-- **Areas or Populations with the Most Climate Vulnerability:** Those dependent on agriculture or residing in areas with limited water infrastructure may be more vulnerable to drought impacts. Economically disadvantaged communities may also face greater challenges in accessing alternative water sources during drought conditions.
-
-**4. Tornadoes**
-
-- **Description of the Climate Hazard:** The plan mentions an "historic tornado outbreak" and the "easter tornado in 2020" as part of the region's extreme weather events.
-
-- **Climate Risks:** Tornadoes pose significant risks to life and property, infrastructure, and can lead to prolonged recovery periods for affected areas.
-
-- **Areas or Populations with the Most Climate Vulnerability:** Vulnerable populations living in poorly constructed housing or without access to adequate storm shelters are at heightened risk. The plan implies that socially and economically disadvantaged communities may be more susceptible to the impacts of such events.
-
-**5. Wildfires**
-
-- **Description of the Climate Hazard:** The plan includes "wildfires" as one of the extreme weather events the region has experienced.
-
-- **Climate Risks:** Wildfires can lead to loss of life, property, and natural resources. They pose significant health risks due to smoke inhalation and can severely impact air quality.
-
-- **Areas or Populations with the Most Climate Vulnerability:** Communities located near forested or undeveloped areas may be more susceptible to wildfires. Additionally, those with limited resources for evacuation or rebuilding are more vulnerable. The plan highlights the importance of addressing disparities in resilience efforts, indicating that economically disadvantaged populations may face greater risks.
+These hazards indicate a trend of increasing extreme weather events that pose risks to the community’s infrastructure and potentially exacerbate existing disparities among vulnerable populations.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-The Chattanooga Climate Action Plan outlines several resilience options to address various climate threats. Below is a summary of the identified resilience options, including the specific climate threats they address, and other relevant details:
+### Resilience Options Identified in the Plan
 
-### Resilience Options
+1. **Implementation of the Chattanooga Regional Resilience Report**
+   - **Climate Threat Addressed:** The plan addresses risks associated with increasing climate change and other hazards, such as climate, seismic, and pandemic-driven threats. It emphasizes the ability to provide critical services to residents during more frequent and extreme events.
+   - **Details on Cost, Timeframe, and Location:** The plan states the city embarked on "Regional Resilience" planning in 2020, focusing on strategic capital commitments to prepare for future challenges (Chattanooga Climate Action Plan, History | Major Milestones).
+   - **Other Important Attributes:** This involves coordination with surrounding communities and stresses the importance of supporting surrounding areas in a coordinated manner (Chattanooga Climate Action Plan, History | Major Milestones).
 
-1. **Regional Resilience Planning Effort**
-   - **Specific Climate Threat Addressed:** This effort is aimed at assessing and addressing the region's risks associated with increasing climate change and other hazards, such as seismic and pandemic threats. (*City of Chattanooga Regional Resilience Report - in 2020, the city embarked on a “Regional Resilience” planning effort...*)
-   - **Cost, Timeframe, and Location:** The plan does not provide specific details on cost, timeframe, or location for this option.
-   - **Other Important Attributes:** The resilience report identifies numerous strategies to ensure essential functions can withstand stressor events, emphasizing the importance of coordinated support for surrounding communities. (*The resilience report identifies a large number of strategies to ensure essential functions can withstand the impacts of these stressor events.*)
+2. **Establishment of Community Resilience & Response Plans**
+   - **Climate Threat Addressed:** Plans aim to protect at-risk populations from various hazards.
+   - **Details on Cost, Timeframe, and Location:** Detailed tasks such as establishing Community Resilience Hubs, emergency response plans, and evacuation routes are outlined without specific costs or timeframes (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
+   - **Other Important Attributes:** Includes infrastructural considerations like public water fountain stations in key areas, enhancing infrastructure for safety and service continuity (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
 
-2. **Community Resilience & Response Plans for At-risk Populations**
-   - **Specific Climate Threat Addressed:** This option is designed to address vulnerabilities of at-risk populations to climate-related hazards. (*Develop and implement Community Resilience & Response Plans for at-risk populations...*)
-   - **Cost, Timeframe, and Location:** Specific details on cost, timeframe, and location are not provided.
-   - **Other Important Attributes:** The plan includes establishing Community Resilience Hubs, emergency response plans, evacuation routes, and public water stations in critical areas. These efforts aim to ensure safety and continuation of necessary services. (*establish Community Resilience Hubs in publicly accessible facilities... establish community-wide emergency response and communication plans...*)
+3. **Community Health and Resilience Assessments**
+   - **Climate Threat Addressed:** Focus on socially and economically vulnerable communities, addressing disparities that make them more susceptible to climate impacts.
+   - **Details on Cost, Timeframe, and Location:** The plan does not specify costs or a detailed timeline (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
+   - **Other Important Attributes:** Involves applying an equity lens across all strategies, which considers social and health factors (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
 
-3. **Implementation of Chattanooga Regional Resilience Report**
-   - **Specific Climate Threat Addressed:** This implementation is focused on preparing for challenges related to frequent, extreme, and concurrent stressor events. (*This Climate Action Plan includes implementation of the Chattanooga Regional Resilience Report to the greatest extent practicable...*)
-   - **Cost, Timeframe, and Location:** The plan does not specify cost, timeframe, or location for this implementation.
-   - **Other Important Attributes:** The strategic capital commitments identified aim to prepare for future challenges and ensure essential services and infrastructure resilience. (*strategic capital commitments can prepare for the challenges of the coming decades.*)
+4. **Resilient and Energy-Efficient Affordable Housing Plans**
+   - **Climate Threat Addressed:** Addresses housing quality, quantity, and affordability issues exacerbated by climate events.
+   - **Details on Cost, Timeframe, and Location:** Specific costs are not mentioned, but actions like annual housing reports and ensuring developments remain sustainable are part of the long-term plan (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
+   - **Other Important Attributes:** Focuses on integrative housing developments and ensuring long-term sustainability for affordable housing (Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
 
-Overall, the resilience options in the plan emphasize building the capacity of communities and infrastructure to withstand and adapt to climate-related stresses and hazards. However, specific details regarding cost, timeframe, and location are generally not provided in the excerpts from the plan.
+These options focus on creating a resilient infrastructure that accounts for social equity, community coordination, and strategic planning to mitigate risks associated with climate change.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-**Mitigation Options Identified in the Plan:**
+The plan identifies several mitigation options aimed at reducing greenhouse gas emissions and promoting sustainability. Below, each option is summarized in terms of cost, timing, location, and other relevant attributes based on the information provided in the plan:
 
-1. **Transition to USDOE’s Better Climate Challenge**
-   - **Summary:** The City plans to transition from the Better Buildings program to the USDOE’s Better Climate Challenge, requiring a commitment to reduce GHG emissions by 50% within 10 years.
-   - **Attributes:** This involves a time commitment of 10 years.
-   - **Citation:** _Chattanooga Climate Action Plan, History | Major Milestones_
+### **1. Energy-Efficiency Retrofits**
+- **Summary:** The plan emphasizes maximizing energy efficiency of all city-owned and operated facilities through retrofits.
+- **Cost:** The plan suggests leveraging federal funding opportunities such as the Bipartisan Infrastructure Law and Inflation Reduction Act but does not specify exact costs.
+- **Timing:** The action falls under ongoing strategies with goals by 2040.
+- **Location:** City-owned and operated facilities.
+- **Attributes:** The plan calls for an energy management team to oversee these improvements.
 
-2. **4 Megawatt Solar Array at the Moccasin Bend Environmental Campus**
-   - **Summary:** A 4 megawatt solar array is planned for the regional wastewater treatment plant.
-   - **Attributes:** This project is a part of the primary strategies to achieve the net zero carbon goal.
-   - **Citation:** _Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will become a net zero-carbon community_
+### **2. Host-Site Solar Capacity**
+- **Summary:** Conduct feasibility studies for on-site solar installation and implement photovoltaic solar installations.
+- **Cost:** Utilizes performance assessments to identify impactful projects, suggesting cost-effectiveness and the use of federal funding.
+- **Timing:** Ongoing, part of long-term goals like achieving net zero-carbon by 2040.
+- **Location:** City facilities in coordination with the Facilities Maintenance Plan.
+- **Attributes:** Includes solar capacity, exploring microgrids, and partnerships with EPB for grid resilience.
 
-3. **Energy-Efficiency and Host-Site Solar Feasibility Assessment**
-   - **Summary:** This project involves conducting an energy-efficiency assessment and determining the feasibility of solar installations at City facilities.
-   - **Attributes:** The plan emphasizes the importance of using external partners for this assessment, and it is linked with forthcoming federal funding opportunities.
-   - **Citation:** _Chattanooga Climate Action Plan, Goal: Chattanooga will become a net zero-carbon community | Plan_
+### **3. Green Invest Program with TVA**
+- **Summary:** Participation in TVA’s Green Invest Program to promote renewable energy projects.
+- **Cost:** The plan mentions feasibility factors including carbon offset scales, which imply varied costs based on project scope.
+- **Timing:** Continues through the planning horizon to support the net zero-carbon goal by 2040.
+- **Location:** Renewable energy projects within Chattanooga.
+- **Attributes:** The program increases renewable energy generation, with feasibility and commitment factors discussed in the plan.
 
-4. **Participating in TVA Green Invest Program**
-   - **Summary:** The City will explore participation in the TVA Green Invest Program to increase renewable energy generation.
-   - **Attributes:** This project involves collaboration with TVA and other entities to build renewable energy projects.
-   - **Citation:** _Chattanooga Climate Action Plan, Goal: Chattanooga will become a net zero-carbon community | Plan_
+### **4. Water Use Assessment (Energy-Water Nexus)**
+- **Summary:** Assess and establish water use intensity reduction goals in relation to energy consumption.
+- **Cost:** Emphasizes efficiency rather than explicit costs. Economic benefits from reduced water and associated energy use.
+- **Timing:** Baseline assessments to be established promptly with ongoing planning.
+- **Location:** City operations, primarily at the Moccasin Bend Environmental Campus.
+- **Attributes:** Focuses on operational efficiency, encourages regional resource cooperation.
 
-5. **GHG Inventory**
-   - **Summary:** Conducting a GHG inventory is identified as a crucial first step for implementing the Climate Action Plan.
-   - **Attributes:** The plan includes conducting a GHG inventory every two years, incorporating findings into a global recognized reporting framework.
-   - **Citation:** _Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will become a net zero-carbon community_
+### **5. Compressed Natural Gas/Renewable Natural Gas Fueling Station**
+- **Summary:** Support Moccasin Bend Campus in transitioning to self-powered operations.
+- **Cost:** Not directly specified but implies investment in facilities transition infrastructure.
+- **Timing:** Part of broader self-powering efforts with completion by 2040.
+- **Location:** Moccasin Bend Environmental Campus.
+- **Attributes:** Enhances sustainability, aims to eliminate gas flaring, supports distributed energy resources.
 
-6. **Commercial Vehicles and Rail**
-   - **Summary:** The plan includes strategies to encourage EV adoption, reduce vehicle trips, and increase rail yard operational resilience.
-   - **Attributes:** These actions are aimed at reducing emissions from transportation.
-   - **Citation:** _Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will become a net zero-carbon community_
-
-7. **Decarbonize Community-Scale Power Distribution and Supply**
-   - **Summary:** This involves identifying opportunities for distributed energy resources, encouraging solar installation, and participating in TVA Green Invest.
-   - **Attributes:** The plan focuses on increasing renewable energy usage within the community.
-   - **Citation:** _Chattanooga Climate Action Plan, Plan | Goal: Chattanooga will become a net zero-carbon community_
-
-8. **Energy Efficiency Projects in City Buildings**
-   - **Summary:** The plan emphasizes energy efficiency projects including solar panel installation and reducing diesel fleet size.
-   - **Attributes:** These projects are ongoing and part of the City's efforts to align with the Climate Action Plan goals.
-   - **Citation:** _Chattanooga Climate Action Plan, Next Steps_
-
-9. **Maximize Host-Site Solar Capacity at City Facilities**
-   - **Summary:** Conducting feasibility studies and implementing solar installations at City facilities.
-   - **Attributes:** It involves exploring partnerships and implementing photovoltaic solar installations.
-   - **Citation:** _Chattanooga Climate Action Plan, Goal: Chattanooga will become a net zero-carbon community_
-
-10. **Water Use Assessment**
-    - **Summary:** Addressing the energy-water nexus by assessing water use and related energy consumption and establishing reduction goals.
-    - **Attributes:** The plan emphasizes operating within a regional framework for water resource management.
-    - **Citation:** _Chattanooga Climate Action Plan, Goal: Chattanooga will become a net zero-carbon community | Plan_
-
-The plan provides a comprehensive approach to reducing carbon footprints through various strategies focusing on energy efficiency, renewable energy, and sustainable practices across different sectors.
+Each of these mitigation options is part of Chattanooga's strategic goal to become a net zero-carbon community by enhancing energy efficiency, incorporating renewable energy, and reducing GHG emissions throughout city operations.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options to address climate change. Below is a summary of the identified mitigation options along with their attributes:
+**Mitigation Options Identified in the Plan:**
 
-### 1. Transition to USDOE’s Better Climate Challenge
-- **Cost/Timeframe/Location/Attributes:** 
-  - The plan mentions a commitment to reduce GHG emissions by 50% within 10 years as part of transitioning to the USDOE’s Better Climate Challenge. However, specific cost, timeframe, and location details are not provided.  
-  - *"The City plans to transition from the Better Buildings program to the USDOE’s Better Climate Challenge, which will require a commitment to reduce GHG emissions by 50% within 10 years."* (History | Major Milestones)
-
-### 2. Net Zero-Carbon Community Goal
-- **Cost/Timeframe/Location/Attributes:** 
-  - This goal requires a whole-of-government and community effort with strategies specific to municipal operations and facilities. 
-  - The timeframe is to achieve a net zero-carbon municipal footprint by 2040.
-  - *"Chattanooga will become a net zero-carbon community... Accomplishing these challenging but imperative goals will require a whole-of-government, as well as whole-of-community effort."* (Plan | Goal: Chattanooga will become a net zero-carbon community)
-
-### 3. GHG Inventory
-- **Cost/Timeframe/Location/Attributes:** 
-  - A GHG inventory is essential to define carbon sources and identify impactful ways to reduce emissions.
-  - It will be updated every two years.
-  - *"The City will undertake a new GHG Inventory, with recurring updates every two years."* (Plan | Goal: Chattanooga will become a net zero-carbon community)
-
-### 4. Energy-Efficiency and Host-Site Solar Feasibility Assessment
-- **Cost/Timeframe/Location/Attributes:** 
-  - Energy efficiency is emphasized as a cost-effective way to reduce emissions.
-  - A feasibility study will identify impactful energy efficiency projects and solar installations.
-  - *"Energy-efficiency remains the most cost-effective way to reduce carbon emissions... The City will conduct an energy-efficiency assessment to inventory the existing condition of facilities and identify which energy-efficiency projects will be most impactful."* (Plan | Goal: Chattanooga will become a net zero-carbon community)
-
-### 5. TVA Green Invest Program
-- **Cost/Timeframe/Location/Attributes:** 
-  - This involves increasing renewable energy generation through participation in TVA’s Green Invest Program.
-  - Includes a feasibility study to determine the scale of carbon offset and location of new projects.
-  - *"The percentage of renewable energy generation can be increased by participating in TVA’s Green Invest Program... The City will convene a public- and private-sector group with TVA to determine the feasibility and potential scope of a Green Invest contract."* (Plan | Goal: Chattanooga will become a net zero-carbon community)
-
-### 6. Water Use Assessment
-- **Cost/Timeframe/Location/Attributes:** 
-  - Establishes a baseline of water consumption and correlating energy and GHG emissions with a plan to reduce water intensity.
-  - *"It is therefore essential that the City establish a baseline of portfolio-wide water consumption, determine the correlating energy consumption and GHG emissions, and establish a plan to meet an appropriate water-intensity reduction goal across all operations."* (Plan | Goal: Chattanooga will become a net zero-carbon community)
-
-The plan outlines these mitigation options but does not provide detailed information regarding specific costs or exact locations for each option.
+1. **Transitioning to the USDOE’s Better Climate Challenge:**
+   - **Summary:** The city plans to transition from the Better Buildings program to the USDOE’s Better Climate Challenge, aiming to reduce GHG emissions by 50% within 10 years.
+   - **Cost, Timeframe, Location, and Other Attributes:** 
+     - The timeframe mentioned is 10 years for achieving the emission reduction goal.
+     - The document doesn't specify costs or location details for this initiative.
+   
+2. **4 Megawatt Solar Array at the Moccasin Bend Environmental Campus:**
+   - **Summary:** Implementation of a solar array at the Moccasin Bend Regional Wastewater Treatment Plant.
+   - **Cost, Timeframe, Location, and Other Attributes:** 
+     - Location specified is the regional wastewater treatment plant.
+     - No specific cost or timeframe details provided.
+   
+3. **Energy-Efficiency Projects:**
+   - **Summary:** Implement energy-efficiency projects in city buildings, such as solar panel installations as part of roof replacements.
+   - **Cost, Timeframe, Location, and Other Attributes:** 
+     - A reduction in electric power consumption, resulting in over two million dollars in annual utility cost savings.
+     - Timeframe since 2012 noted for achieving a 25% reduction.
+   
+4. **Decarbonization of Community-Scale Power Distribution and Supply:**
+   - **Summary:** This includes promoting distributed energy resources and encouraging solar array installation.
+   - **Cost, Timeframe, Location, and Other Attributes:**
+     - No specific cost or timeframe details provided.
+   
+5. **TVA Green Invest Program:**
+   - **Summary:** Participation in the TVA Green Invest Program to increase renewable energy percentages.
+   - **Cost, Timeframe, Location, and Other Attributes:**
+     - Specific feasibility factors considered include scale of carbon offset, commitment length, and location of renewable projects.
+     - No direct cost or implementation timeframe provided.
+   
+6. **Energy Efficiency and Host-Site Solar Feasibility Assessment:**
+   - **Summary:** Conduct a city facility energy use assessment to identify opportunities for energy efficiency improvements and solar installations.
+   - **Cost, Timeframe, Location, and Other Attributes:**
+     - Reduction of energy utility costs by over two million dollars annually mentioned.
+     - Strategic facility improvements are ongoing, but no specific timeframe detailed.
+   
+7. **Water Use Assessment:**
+   - **Summary:** Conduct an assessment to understand water and energy usage related to the treatment process.
+   - **Cost, Timeframe, Location, and Other Attributes:** 
+     - No direct cost or timeframe provided.
+     - Location concerns include facilities and parks with emphasis on Moccasin Bend Environmental Campus.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Adaptation Options Identified in the Chattanooga Climate Action Plan:**
+Based on the Chattanooga Climate Action Plan, several adaptation options have been identified. Each option is detailed below with the corresponding climate threat and additional attributes:
 
-1. **Community Resilience & Response Plans for At-Risk Populations**
-   - **Climate Threat Addressed:** The plan aims to address vulnerabilities and disparities among socially and economically vulnerable communities, which are often more susceptible to climate impacts like extreme weather events.
-   - **Details:**
-     - **Cost, Timeframe, Location:** Specific information regarding cost, timeframe, and location is not detailed in the plan.
-     - **Attributes:**
-       - Establishing Community Resilience Hubs in publicly accessible facilities.
-       - Developing community-wide emergency response and communication plans.
-       - Establishing evacuation routes for at-risk neighborhoods and population centers.
-       - Installing public water fountain/bottle refill stations in key areas such as heat islands, parks, and unshaded streets (Chattanooga Climate Action Plan, Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
+1. **Community Resilience & Response Plans**
+   - **Climate Threat Addressed:** This option addresses threats to at-risk populations, including extreme weather events and emergencies.
+   - **Attributes:**
+     - **Location:** The plan mentions the establishment of Community Resilience Hubs in publicly accessible facilities to serve at-risk neighborhoods.
+     - **Important Attributes:** Key components include the establishment of emergency response and communication plans, evacuation routes, and public water fountain/bottle refill stations in areas like heat islands and unshaded streets. (_Chattanooga Climate Action Plan, Section G1_)
 
-2. **Energy-Efficient and Resilient Affordable Housing Plans**
-   - **Climate Threat Addressed:** This option addresses housing instability and the increased energy costs that can result from extreme weather events.
-   - **Details:**
-     - **Cost, Timeframe, Location:** Specific information regarding cost, timeframe, and location is not detailed in the plan.
-     - **Attributes:**
-       - Establishing a housing directory and annual report to provide insights into quality, quantity, and affordability.
-       - Siting and designing affordable housing developments within resilient, interconnected communities.
-       - Implementing programs to ensure affordable housing developments remain in perpetuity (Chattanooga Climate Action Plan, Goal: Chattanooga will reduce disparities among socially and economically vulnerable communities).
+2. **Equity Lens and Community Health and Resilience Assessments**
+   - **Climate Threat Addressed:** This aims to address socio-economic vulnerabilities exacerbated by climate impacts.
+   - **Attributes:**
+     - **Important Attributes:** Involves applying an equity lens across all strategies and establishing community health and resilience assessments. It includes a sustained public input process and a scoring matrix for projects based on social determinants of health. (_Chattanooga Climate Action Plan, Section G1_)
 
-3. **Chattanooga Regional Resilience Report Implementation**
-   - **Climate Threat Addressed:** The report assesses risks associated with increasing climate change and other hazards, such as seismic and pandemic-driven threats.
-   - **Details:**
-     - **Cost, Timeframe, Location:** The plan mentions strategic capital commitments but does not provide specific details regarding cost, timeframe, and location.
-     - **Attributes:**
-       - The report identifies strategies to ensure essential functions can withstand the impacts of stressor events.
-       - Implementation is included in the Climate Action Plan to prepare for the challenges of the coming decades (Chattanooga Climate Action Plan, City of Chattanooga Regional Resilience Report).
+3. **Affordable Housing Plans**
+   - **Climate Threat Addressed:** These plans aim to address housing vulnerabilities to climate impacts, especially in economically disadvantaged communities.
+   - **Attributes:**
+     - **Important Attributes:** The plans include developing resilient and energy-efficient affordable housing, maintaining affordable developments permanently, and ensuring housing is sited and designed within resilient communities. (_Chattanooga Climate Action Plan, Section G1_)
 
-4. **Community Engagement and Partnerships**
-   - **Climate Threat Addressed:** The plan recognizes that broad community involvement is necessary to tackle climate adaptation challenges.
-   - **Details:**
-     - **Cost, Timeframe, Location:** Not specified.
-     - **Attributes:**
-       - Convening a Chattanooga Climate, Sustainability, and Resilience (CSR) Committee to address ongoing challenges and marshal collective efforts.
-       - Establishing CSR Focus Groups tailored to address unique community needs and available skill sets (Chattanooga Climate Action Plan, Partnerships & Collaboration).
+The plan does not provide specific information regarding the cost, exact timeframe, or detailed location for the adaptation options beyond what is specified within the general goals and strategies. However, the emphasis is on comprehensive community engagement and incorporation of equity and resilience in all projects.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice:
+The plan outlines several climate policies aimed at advancing climate justice. Here are the identified policies with their summaries:
 
-1. **Equitable Implementation of the Climate Action Plan**
-   - **Climate Threat Addressed:** The overarching goal is to reduce disparities exacerbated by climate change, such as increased utility costs due to more hot days and cold nights, displacement due to extreme weather, and poor air quality worsening health outcomes.
-   - **Vulnerable Areas/Populations:** The plan specifically focuses on socially and economically vulnerable communities, acknowledging disparities based on race and income, as highlighted in the statement: "There are disparities that separate the lived experiences of Chattanoogans based on race and income" (Plan, Goal 3.1).
+1. **Equity Lens and Principles Application**  
+   - **Policy:** *"Apply equity lens and principles across all strategies and actions of the Climate Action Plan"*.  
+   - **Climate Threat:** General climate change impacts.  
+   - **Vulnerable Areas/Populations:** Socially and economically vulnerable communities in Chattanooga, acknowledging disparities in race and income ("there are still two Chattanoogas" separating lived experiences based on race and income) (*Chattanooga Climate Action Plan, 17*).
 
-2. **Community Resilience & Response Plans for At-risk Populations**
-   - **Climate Threat Addressed:** This policy addresses the need for safety, communication, and continuation of necessary services during extreme climate events.
-   - **Vulnerable Areas/Populations:** The plan aims to develop plans for at-risk neighborhoods, with specific actions such as establishing evacuation routes and public water stations in key areas like "heat islands, parks, unshaded streets and sidewalks" (Plan, Strategy 1.3).
+2. **Community-Wide Implementation in Areas of Greatest Disparity**  
+   - **Policy:** *"Focus community-wide implementation of the Climate Action Plan in areas of greatest health, income, and other disparities"*.  
+   - **Climate Threat:** Health and socioeconomic impacts from climate change.  
+   - **Vulnerable Areas/Populations:** Children in poverty, Black Chattanoogans experiencing higher mortality from certain diseases, and areas lacking affordable, healthy food access (e.g., Alton Park with health outcomes that are second worst in the state) (*Chattanooga Climate Action Plan, 17*).
 
-3. **Resilient and Energy-efficient Affordable Housing Plans**
-   - **Climate Threat Addressed:** This policy targets the affordability and energy efficiency of housing, which is critical as housing prices rise faster than incomes, leaving more residents "housing-burdened."
-   - **Vulnerable Areas/Populations:** The focus is on developing and maintaining affordable housing within resilient communities, aiming to "reduce disparities among socially and economically vulnerable communities" (Plan, Strategy 1.4).
+3. **Community Resilience & Response Plans for At-Risk Populations**  
+   - **Policy:** *"Develop and implement Community Resilience & Response Plans for at-risk populations"*.  
+   - **Climate Threat:** Extreme weather events, impacts on utilities and services.  
+   - **Vulnerable Areas/Populations:** Neighborhoods and population centers needing evacuation routes, areas heavily reliant on essential services (*Chattanooga Climate Action Plan, G1 Quick Reference Table*).
 
-4. **Process for Continual and Sustained Public Input and Engagement**
-   - **Climate Threat Addressed:** This policy seeks to address the lack of public engagement and input in climate-related planning, which can lead to policies that do not adequately reflect the needs of vulnerable populations.
-   - **Vulnerable Areas/Populations:** It emphasizes public input particularly from those communities most affected by climate change, as stated: "Their voices will shape the implementation of this plan so that the impacts are felt most directly by them" (Plan, Goal 3.1).
+4. **Resilient and Energy-Efficient Affordable Housing Plans**  
+   - **Policy:** *"Develop and implement resilient and energy-efficient affordable housing plans"*.  
+   - **Climate Threat:** Increasing housing costs, displacement from extreme weather, and heightened utility costs from temperature extremes.  
+   - **Vulnerable Areas/Populations:** Housing-burdened Chattanoogans, neighborhoods affected by increasing housing prices faster than median incomes (*Chattanooga Climate Action Plan, 17*).
 
-These policies collectively aim to ensure that the burdens and benefits of climate action are equitably shared, with a focus on those most vulnerable to climate impacts.
+These policies address both direct climate impacts and systemic inequities, aiming to improve resilience outcomes in the most affected communities.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based strictly on the content provided in the Chattanooga Climate Action Plan, there are no explicit mentions of potential unforeseen maladaptive climate policies. However, one could infer potential maladaptive aspects based on the general strategies and actions proposed:
+Based on the provided sections of the Chattanooga Climate Action Plan, there is no explicit mention of policies that are identified as potentially leading to maladaptation. However, potential maladaptive aspects can be considered by interpreting the policies and their potential unintended consequences. Below are hypothetical analyses based on typical challenges known in climate planning:
 
-1. **Policy: Development of Affordable Housing in Resilient Communities**
-   - **Climate Threat Addressed:** The policy aims to address housing affordability and resilience in the face of climate impacts such as extreme weather events.
-   - **Proposed Option:** "Site and design affordable housing developments within resilient, interconnected communities" (Goal 1.4.2).
-   - **Potential Maladaptation:** If these developments increase urban density without adequate infrastructure or if they are located in areas that are vulnerable to climate impacts (e.g., flood zones), this could inadvertently increase vulnerability rather than resilience.
+1. **Climate Policy**: Establish Community Resilience Hubs in publicly accessible facilities.
 
-2. **Policy: Transit Oriented Development (TOD)**
-   - **Climate Threat Addressed:** Emissions from transportation and urban sprawl.
-   - **Proposed Option:** "Establish Transit Oriented Development (TODs) in appropriate locations" (Goal 4.2.2).
-   - **Potential Maladaptation:** Without proper assessment and planning, TODs might lead to increased land values and displacement of low-income residents, undermining social equity goals and potentially increasing vulnerability for economically disadvantaged communities.
+   - **Climate Threat Addressed**: The policy aims to address community vulnerability to climate change-related impacts by enhancing local resilience and emergency response capacity.
+   
+   - **Option Proposed**: This is an adaptation option, focusing on the development of physical infrastructure to serve as resilience hubs.
+   
+   - **Reason for Potential Maladaptation**: If not properly sited or designed, resilience hubs may inadvertently increase vulnerability, e.g., by not being adequately equipped to handle the scale of expected climate impacts or by being located in areas still at risk from climate impacts (like flooding). This can lead to a false sense of security and lack of preparedness in surrounding areas.
 
-3. **Policy: Climate Resilience Hubs**
-   - **Climate Threat Addressed:** Increased frequency of extreme weather events and the need for emergency response and communication.
-   - **Proposed Option:** "Establish Community Resilience Hubs in publicly accessible facilities" (Goal 1.3.1).
-   - **Potential Maladaptation:** If these hubs are not equitably distributed or accessible to the most vulnerable communities, they may not effectively serve the populations most in need during climate events, potentially exacerbating existing inequalities.
+2. **Climate Policy**: Implement programs to ensure affordable housing developments remain in perpetuity.
 
-These inferences are based on the strategies and actions outlined in the plan and the potential for maladaptation arises from implementation challenges that are not explicitly addressed in the document.
+   - **Climate Threat Addressed**: This policy aims to ensure long-term housing stability amid potential housing shortages and increased costs due to climate impacts like heatwave-induced energy demands.
+   
+   - **Option Proposed**: This is both a resilience and adaptation option, aimed at securing affordable housing units to foster community stability.
+   
+   - **Reason for Potential Maladaptation**: If these housing programs do not integrate climate-responsive designs (e.g., adequate insulation, cooling systems, and flood defenses), they may inadvertently increase vulnerability. Residents may face heightened exposure to heat stress or flooding, which undermines the intention of stable, secure housing.
+
+To further determine potential maladaptive policies, a thorough review of the entire plan coupled with stakeholders' input and climate modeling is essential to anticipate indirect impacts.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The Chattanooga Climate Action Plan outlines several methods and metrics to measure the success of adaptation, resilience, and mitigation options:
+Based on the content provided from the Chattanooga Climate Action Plan, the following information describes how success or failure of adaptation, resilience, and mitigation options are measured, along with concrete goals or targets:
 
-1. **Greenhouse Gas (GHG) Inventory:**
-   - The plan stresses the importance of conducting a GHG inventory every two years to establish a baseline, measure, and report on progress towards a net zero-carbon municipal footprint by 2040. This inventory will define the sources of carbon emissions, including from electricity, gas utility use, transportation, landfill decomposition, and wastewater treatment. It will also establish benchmarks for ongoing reporting of progress towards carbon reduction goals. The GHG inventory is a priority project and is crucial for tracking reductions in carbon emissions (Chattanooga Climate Action Plan, Ongoing Reporting & Updating the Plan).
+### **Metrics and Tracking**
 
-2. **Energy Efficiency:**
-   - The plan includes strategies to maximize energy efficiency of all city-owned and operated facilities. Specific actions include investing in facility and energy management teams, conducting energy efficiency studies, and implementing energy efficiency retrofits. These efforts are aimed at reducing GHG emissions and improving energy efficiency but do not specify quantitative metrics in terms of units or percentages (Chattanooga Climate Action Plan, Plan).
+- **GHG Inventory:** 
+  - A GHG inventory is a **crucial first step** for implementing the Climate Action Plan. It helps in defining the sources of carbon from electricity, gas utility use, transportation, fleet-related emissions, landfill decomposition, wastewater treatment, and other sources. The GHG Inventory process establishes specific benchmarks for ongoing reporting of progress towards carbon reduction goals. The city commits to conducting a GHG inventory every two years. This inventory "will identify the most impactful ways to reduce carbon emissions and create specific benchmarks for ongoing reporting of progress towards the carbon reduction goals" (Chattanooga Climate Action Plan 26, 53).
 
-3. **Solar Capacity and Energy Projects:**
-   - The plan outlines efforts to maximize host-site solar capacity at city facilities and complete energy-efficiency projects at the Moccasin Bend Environmental Campus. This includes conducting feasibility studies for solar installations and implementing photovoltaic solar installations. However, specific numerical objectives or units are not mentioned (Chattanooga Climate Action Plan, Plan).
+- **Key Performance Metrics:**
+  - Key performance metrics are established and reported for all goals, strategies, and actions in the Plan. These metrics will be reported on the City’s website, to City Council, City employees, and through other methods. They are also incorporated in and used to inform future versions of the Plan. Emphasis will be placed on ensuring equity and community health are top priorities when determining these metrics (Chattanooga Climate Action Plan 54).
 
-4. **Water Use Intensity Reduction:**
-   - Establishing water use intensity reduction goals and implementation plans is included as a strategy, with actions like completing a baseline assessment of water use and determining energy and carbon intensity. The plan aims to develop infrastructure improvements to meet these goals, although specific metrics or units are not provided (Chattanooga Climate Action Plan, Plan).
+### **Concrete Goals or Targets**
 
-5. **Annual Reporting and Key Performance Metrics:**
-   - The plan emphasizes the establishment of key performance metrics and annual reporting of GHG inventories and waste audits. These metrics will be reported on the city’s website to ensure transparency and inform future versions of the plan. However, the specific metrics, units, or targets are not detailed in the provided sections (Chattanooga Climate Action Plan, Ongoing Reporting & Updating the Plan).
+- **Net Zero-Carbon Community:**
+  - Chattanooga aims to become a net zero-carbon community, with a concrete goal to achieve a net zero-carbon municipal footprint by 2040 (Chattanooga Climate Action Plan 23).
+  - Participation in the USDOE’s Better Climate Challenge, committing to "reduce GHG emissions by 50% within 10 years" (Chattanooga Climate Action Plan 12).
 
-Overall, while the plan sets out various strategies and actions for adaptation, resilience, and mitigation, specific metrics with exact units for tracking outcomes are not provided in the sections reviewed. The emphasis is on conducting inventories and assessments to establish baselines and track progress towards broader goals such as achieving a net zero-carbon community by 2040.
+- **Energy and Facility Management:**
+  - Increase energy efficiency across all city-owned and operated facilities by investing in the establishment and expansion of a robust facility and energy management team. This includes completing portfolio-wide energy efficiency and host-site solar feasibility studies and implementing energy efficiency retrofits (Chattanooga Climate Action Plan 23).
+
+- **Water Use Intensity Reduction:**
+  - Establish water use intensity reduction goals and implementation plans, including a baseline assessment of water use across all operations and the correlating energy and carbon intensity of treated water used (Chattanooga Climate Action Plan 23).
+
+- **Solar Capacity:**
+  - Maximize host-site solar capacity at City facilities through feasibility studies for on-site solar installation and implementing photovoltaic solar installations (Chattanooga Climate Action Plan 23).
+
+The plan places an emphasis on ongoing reporting and transparency, establishing a baseline, tracking progress, and adjusting strategies as necessary to achieve the envisioned goals.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature           | Description                                                                                                                                                                                                 |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Chattanooga                                                                                                                                                                                                |
-| **Population**    | The plan mentions that between 2008 and 2018, Chattanooga’s population grew by over 14%. However, the current population figure is not specified in the document.                                             |
-| **Threats Identified** | - Volatile and extreme weather events like tornadoes, droughts, wildfires, and record rainfall (Background)<br>- Health disparities among communities (Goal: Reduce disparities among socially and economically vulnerable communities) |
-| **Measures Identified** | - Transition to the USDOE’s Better Climate Challenge to reduce GHG emissions by 50% within 10 years (Major Milestones)<br>- Establish Community Resilience & Response Plans for at-risk populations (Goal: Reduce disparities among socially and economically vulnerable communities)<br>- Establish a tree canopy plan and biodiversity initiatives (Plan: Preserve and improve natural resources integrity) |
+| Feature                 | Details                                                                                                                                                                                                                       |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**  | Chattanooga                                                                                                                                                                                                                  |
+| **Population**          | Between 2008 and 2018, Chattanooga’s population grew by over 14% (exact population not stated in document, but indicates growth in population).                                                                              |
+| **Threats Identified**  | - Volatile and extreme weather events and patterns, including tornado outbreaks, droughts, wildfires, record rainfall, and heatwaves ("State of Chattanooga’s Climate").<br>- Pollution impacts on habitats and human health. |
+| **Measures Identified** | - Establish an equity lens and principles (1.1).<br>- Establish Community Resilience Hubs (1.3.1).<br>- Implement resilient and energy-efficient affordable housing (1.4).<br>- Preserve natural resources integrity (Section 5).   |
 ```

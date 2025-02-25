@@ -1,407 +1,306 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction:** City of Knoxville, Tennessee
+The plan focuses on the **City of Knoxville**, located in **East Tennessee**. The document does not specify the current population, demographics, or average income of Knoxville directly. However, it does mention that the population of Knox County has grown by more than 16% since the original emissions benchmark year of 2005.
 
-**Location:** 
-- East Tennessee
+### **Physical Landscape and Geographic Features:**
+- Knoxville is notable for its "beautiful and scenic open spaces," which have positioned it as a leader in **outdoor recreation and tourism**.
+- The city features lush **outdoor parks and trail systems** located near downtown, serving both as economic assets and tools to sequester carbon and reduce environmental issues like localized flooding and the urban heat island effect.
 
-**Population and Demographics:** 
-- Knox County's population has grown by more than 16% since 2005.
+### **Climate and Environmental Factors:**
+- **Climate Challenges:** In terms of climate-related challenges, the city is investing in infrastructure to handle increased localized flooding events (Resilient Communities, Overview Director’s Statement).
+- The plan does not explicitly address issues of aridity or water scarcity.
+
+### **Economic Landscape:**
+- **Energy:** A significant investment is being made in renewable energy at scale, including **community solar** and other renewable energy programs (Energy & Sustainability Work Plan). Approximately 60% of energy use in buildings is attributed to electricity, with emissions from buildings being more than 29% lower than in 2005 due to utility investments in lower carbon electricity (Buildings & Energy, Overview Director’s Statement).
   
-**Economic Landscape:**
-- Knoxville is described as a regional destination for new families, new businesses, and recreation.
+### **Economic Drivers:**
+- **Tourism and Recreation:** Knoxville has emerged as a hub for outdoor recreation and tourism, partly due to its geographic offerings.
+- **Transportation Emissions:** Transportation is highlighted as a significant economic sector, contributing approximately 59% of community emissions (Transportation, Overview Director’s Statement), with ongoing efforts to improve public transit, electric vehicle adoption, and alternative transportation infrastructure.
+- **Building and Construction:** Building efficiency and energy programs are identified as critical areas for reducing emissions and improving economic sustainability through reduced energy costs (Buildings & Energy, Overview Director’s Statement).
 
-**Major Geographic Features:**
-- Known for its "beautiful and scenic open spaces."
-- Proximity to outdoor parks and trail systems.
-- No specific mention of mountains, rivers, deserts, or coastline in the provided content.
-
-**Key Infrastructure:**
-- The plan does not specifically mention any airports or seaports.
-
-**Local Climate:**
-- Challenges include "localized flooding" and "urban heat island effect," indicating issues with water management and heat.
-
-**Energy Production and Natural Resources:**
-- The city emphasizes investments in lower carbon electricity and renewables.
-- Energy use in buildings is a significant focus, with efforts to promote clean energy investments.
-
-**Industries and Economic Drivers:**
-- Outdoor recreation and tourism are mentioned as economic assets.
-- The document does not provide detailed information on specific industries or average income.
-
-**Additional Context:**
-- The city's sustainability efforts include infrastructure improvements to handle increased localized flooding and promoting energy efficiency in buildings.
-
-The document does not provide specific data on demographics, average income, or detailed descriptions of natural resources and industries beyond those related to sustainability and energy efficiency initiatives.
+The plan does not provide explicit details about natural resources like oil, gas, or specific industries beyond those directly related to climate actions and sustainability efforts.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
 **Resilience:**
 
-The plan addresses resilience by emphasizing the importance of infrastructure improvements and low-impact design to manage increased localized flooding events. It highlights the role of green infrastructure projects, such as "wetland construction at Fountain City Lake" and "permeable parking lot at the City’s new Public Works Service Center," which are critical for mitigating stormwater damage and increasing resilience to high-intensity rainfall events. The plan also acknowledges the "Multi-Jurisdictional Hazard Mitigation Plan" that identifies environmental risks and incorporates changing climate impact severities, using technical expertise from Oak Ridge National Laboratory (Resilient Communities Overview).
+The plan addresses resilience by promoting "support for low-impact design and investing in infrastructure to handle the demands of increased localized flooding events." It mentions the Multi-Jurisdictional Hazard Mitigation Plan, which identifies and addresses the environmental risks impacting residents, including changing severity of climate impacts like extreme temperatures. Additionally, the plan acknowledges Knoxville's open spaces as not only economic assets but as tools to sequester carbon and reduce urban environmental problems, such as "localized flooding and urban heat island effect." *("Resilient Communities Overview")*
 
 **Mitigation:**
 
-Mitigation is a significant component of the plan. It outlines specific strategies to reduce greenhouse gas emissions, focusing on energy efficiency and renewable energy adoption. The plan includes efforts to "create voluntary large, commercial, and multi-family energy upgrade program(s)" and "amplify and opportunistically expand voluntary home energy upgrade program(s)" aiming for deep energy savings. It also emphasizes the development of "community solar and in-valley investments" and promoting electrification in existing buildings (Buildings & Energy Priorities). The plan sets ambitious emission reduction targets, such as the goal to reduce community emissions 80% by 2050 (Re-evaluating Priorities).
+The plan includes numerous mitigation strategies, focusing on reducing greenhouse gas emissions across different sectors such as buildings, energy, transportation, and waste management. It outlines specific measures like "creating voluntary large, commercial, and multi-family energy upgrade program(s)," "increasing community adoption of electric vehicles," and pursuing "food waste reduction and collection programs." These activities aim to drive down emissions and include the use of modeling tools to project potential emissions reductions. *("Buildings & Energy Priorities", "Transportation Priorities", "Waste Priorities")*
 
 **Adaptation:**
 
-Adaptation is addressed through strategies such as promoting sustainable landscapes and green infrastructure to cope with climate impacts like urban heat islands and flooding. The emphasis on "investing in infrastructure to handle the demands of increased localized flooding events" reflects an adaptive approach to expected climate changes (Resilient Communities Overview). However, specific adaptive measures beyond infrastructure are less detailed compared to mitigation efforts.
+Adaptation is addressed by incorporating forward-looking measures into plans and infrastructure to account for changing climate impacts, such as increased flooding events and extreme temperatures. The plan also emphasizes investing in green infrastructure projects, which aid in adapting to high-intensity rainfall events and stormwater management. *("Resilient Communities Overview", "Green Infrastructure")*
 
 **Classification:**
 
-The plan can be classified as an **equal mitigation and adaptation climate action plan**. It balances efforts to mitigate greenhouse gas emissions through various energy and transportation initiatives, while also incorporating resilience and adaptation strategies to manage and adapt to climate impacts.
+The plan can be classified as an **equal mitigation and adaptation climate action plan**. It places substantial emphasis on both reducing emissions and preparing for or adjusting to the impacts of climate change through resilience infrastructure and adaptive measures.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes scenarios of climate change that the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation. 
+Yes, the plan does describe scenarios related to climate change that the planning jurisdiction will face. It outlines projected growth such as population, energy use, waste generation, and transportation, and addresses the potential of various strategies to reduce greenhouse gas emissions. Specifically, it mentions:
 
-- The plan projects "estimated growth (e.g. population, energy use, waste generation, and transportation)" and the potential of various strategies to reduce greenhouse gas emissions, with a focus on community priorities to drive emissions down and evaluate long-term success. (*2021 Sustainability Work Plan*)
+- **Estimated Growth and Emissions Reductions:** The plan projects estimated growth and highlights the need for strategies to reduce greenhouse gas emissions. It mentions that the 2021 Sustainability Work Plan aims to refocus on community priorities to lower emissions and identify long-term success metrics. There is an emphasis on advancing climate goals while supporting the needs of the most vulnerable in the community.
 
-- The City of Knoxville has identified several climate impacts and risks, including "increased localized flooding events" and the "urban heat island effect," which are expected to be exacerbated by climate change. The Multi-Jurisdictional Hazard Mitigation Plan incorporates forward-looking changes in the severity of climate change impacts, including extreme temperatures. (*Resilient Communities Overview*)
+- **Potential Emission Reduction Strategies:** The plan acknowledges potential strategies to reduce emissions, involving scenarios such as "Business-as-usual," "Transportation only (High Adoption)," and "Comprehensive & Net Zero Carbon Electricity (High Adoption)." These scenarios project emissions levels for the years 2030 and 2050 under different adoption levels of strategies.
 
-- The plan includes an emissions reduction goal of 80% by 2050, with strategies to achieve this through a variety of measures such as transitioning to "electric vehicles," investing in "renewables at scale," and enhancing "bicycle and pedestrian facilities." (*Emission Reduction Goals, Transportation Priorities*)
+- **Resilience to Environmental Risks:** The plan highlights environmental risks such as localized flooding and the urban heat island effect. It mentions efforts to promote resilience through low-impact design and investing in infrastructure to handle increased localized flooding events. Interactive environmental planning through the Multi-Jurisdictional Hazard Mitigation Plan is also noted as part of the planning for resilience.
 
-- Various emission scenarios show the impact of strategies such as "Net Zero Carbon Electricity" adoption and comprehensive approaches on reducing emissions. (*2021 Sustainability Work Plan*)
+- **Climate Policy Goals:** There's a goal to reduce community emissions by 80% by 2050, with interim targets set for 2030. The need for leadership at local, regional, and national levels to achieve these emissions reductions is emphasized, pointing to the scale of change required beyond the City of Knoxville.
 
-These scenarios help guide the planning jurisdiction in aligning projects with climate goals while also considering equity outcomes.
+These aspects illustrate the city's approach to addressing climate change through carefully planned policies aimed at resilience, mitigation, and adaptation.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-1. **Localized Flooding**
-   - **Climate Hazard:** The plan describes localized flooding as an environmental problem that plagues urban environments, exacerbated by increased stormwater and high-intensity rainfall events.
-   - **Climate Risks:** Localized flooding presents risks such as infrastructure damage and potential displacement of residents.
-   - **Vulnerable Areas/Populations:** The plan highlights the need to invest in infrastructure to handle increased localized flooding events, suggesting that urban areas with poor drainage systems are particularly vulnerable.
+**Identified Climate Hazards and Associated Risks:**
 
-2. **Urban Heat Island Effect**
-   - **Climate Hazard:** The urban heat island effect is mentioned as one of the environmental problems affecting urban environments.
-   - **Climate Risks:** This effect can lead to increased temperatures in urban areas, potentially impacting health and energy consumption.
-   - **Vulnerable Areas/Populations:** Urban areas with less green infrastructure and tree canopy coverage are more susceptible to the urban heat island effect.
+1. **Increased Localized Flooding:**
+   - **Description:** The plan highlights increased localized flooding but does not describe the exact nature of the hazard in detail.
+   - **Climate Risks:** Increased localized flooding can lead to infrastructure damage and environmental problems within urban settings.
+   - **Climate Vulnerability:** The plan does not specify particular areas or populations that are most vulnerable to localized flooding, though it implies that urban areas may be at risk.
 
-3. **Extreme Temperatures**
-   - **Climate Hazard:** Extreme temperatures are identified as part of the changing severity of climate impacts.
-   - **Climate Risks:** Extreme temperatures can pose risks to human health, energy systems, and the natural environment.
-   - **Vulnerable Areas/Populations:** Areas with inadequate cooling infrastructure and vulnerable populations such as the elderly and low-income communities may be most affected by extreme temperatures. 
+2. **Extreme Temperatures:**
+   - **Description:** Extreme temperatures are identified as a changing severity of impacts due to climate change, as observed and supported by forward-looking technical expertise.
+   - **Climate Risks:** The plan suggests that extreme temperatures may exacerbate existing environmental and economic challenges but does not explicitly detail these risks.
+   - **Climate Vulnerability:** The plan does not specifically identify vulnerable areas or populations regarding extreme temperatures.
 
-The plan emphasizes the importance of addressing these hazards through various resilience and infrastructure improvements, drawing on technical expertise and community engagement to mitigate these risks.
+3. **Urban Heat Island Effect:**
+   - **Description:** The urban heat island effect is mentioned as an environmental problem prevalent in urban environments, worsened by decreased natural landscapes.
+   - **Climate Risks:** Risks here revolve around increased temperatures and reduced quality of life in urban settings, potentially affecting human health and energy demand.
+   - **Climate Vulnerability:** While not explicitly stated, urban areas lacking green spaces may be more vulnerable to the urban heat island effect.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+**Resilience Options Identified in the Plan**
 
 1. **Low-Impact Design and Infrastructure Investment**
    - **Climate Threat Addressed:** Increased localized flooding events.
-   - **Details on Cost, Timeframe, and Location:** The plan discusses investing in infrastructure to manage increased flooding but does not provide specific details on costs or timeframes. It mentions the broader area of East Tennessee and Knoxville's urban environment as the focus. (_"The City promotes resilience in the community by embedding support for low-impact design and investing in infrastructure to handle the demands of increased localized flooding events."_)
-   - **Other Important Attributes:** This approach also addresses urban heat island effects and sequesters carbon, contributing to environmental and economic benefits by reducing urban environmental problems. (_"These lush spaces are not only an economic asset but a tool to sequester carbon and reduce environmental problems that plague urban environments such as localized flooding and urban heat island effect."_)
-   
-2. **Urban Tree Canopy Maintenance and Expansion**
-   - **Climate Threat Addressed:** Urban heat island effect and stormwater runoff.
-   - **Details on Cost, Timeframe, and Location:** No specific costs or timeframes are mentioned, but the plan highlights Knoxville’s urban area as the location for maintaining and expanding tree coverage. (_"The City of Knoxville has approximately 24,252 acres of tree cover. Those trees store an estimated 760,000 tons of carbon and sequester 21,000 tons annually."_)
-   - **Other Important Attributes:** Trees provide economic benefits by reducing cooling costs, sequestering carbon, and mitigating stormwater runoff, enhancing environmental resilience. (_"Trees can reduce cooling costs by shading buildings, sequester carbon from the atmosphere, reduce stormwater runoff and help mitigate urban heat island effect."_)
-   
-3. **Green Infrastructure Projects**
-   - **Climate Threat Addressed:** Stormwater damage and high-intensity rainfall events.
-   - **Details on Cost, Timeframe, and Location:** The plan specifies projects like wetland construction at Fountain City Lake and permeable parking lots but does not provide specific cost or timeframe details. These projects are located throughout Knoxville on both public and private properties. (_"City of Knoxville Engineering oversees dozens of water quality and green infrastructure projects per year on both public and private property."_)
-   - **Other Important Attributes:** These projects are essential for mitigating stormwater damages, providing environmental benefits, and enhancing the city's infrastructure resilience. (_"Public projects like wetland construction at Fountain City Lake, the permeable parking lot at the City’s new Public Works Service Center, and infiltration islands on Dale Avenue are critical to mitigating the damages caused by stormwater and increasing high-intensity rainfall events."_)
+   - **Details on Cost, Timeframe, and Location:** The plan does not provide specific details on cost, timeframe, or location related to the investment in infrastructure for handling localized flooding events.
+   - **Other Important Attributes:** These investments aim to mitigate environmental problems in urban environments, particularly localized flooding and urban heat islands, by incorporating low-impact design strategies into community planning (*Resilient Communities Overview*).
 
-Each of these resilience options is designed to address specific climate-related threats while providing additional environmental and economic benefits to the community.
+2. **Water Quality and Green Infrastructure Projects**
+   - **Climate Threat Addressed:** Damage caused by stormwater and high-intensity rainfall events.
+   - **Details on Cost, Timeframe, and Location:** The City of Knoxville Engineering oversees numerous projects annually, including wetland construction at Fountain City Lake, a permeable parking lot at the Public Works Service Center, and infiltration islands on Dale Avenue. Specific cost, timeframe, or further location details are not provided.
+   - **Other Important Attributes:** These projects are crucial for mitigating the damages caused by increasing rainfall intensity and contribute to the city's resilience against stormwater damage (*Sustainable Landscapes*).
+
+3. **Urban Tree Canopy Management**
+   - **Climate Threat Addressed:** Urban heat island effect.
+   - **Details on Cost, Timeframe, and Location:** Approximately 38% of Knoxville's land is covered by urban tree canopy. The plan includes the preservation and potential expansion of the urban tree cover. Specific costs or timeframes are not mentioned.
+   - **Other Important Attributes:** Trees are considered a public asset that reduces cooling costs, sequesters carbon, reduces stormwater runoff, and mitigates the urban heat island effect. The maintenance and enhancement of the tree canopy contribute significantly to the city's environmental resilience (*Trees*).
+
+4. **Investment in Public Transit, Bicycle, and Pedestrian Infrastructure**
+   - **Climate Threat Addressed:** Not explicitly linked to a climate threat but addresses broader urban resilience and connectivity.
+   - **Details on Cost, Timeframe, and Location:** The plan emphasizes expanding and improving facilities and connectivity but does not provide specific cost or timeframe details.
+   - **Other Important Attributes:** These investments aim to increase trips by walking or biking, improve connectivity, and thereby enhance urban resilience by reducing reliance on fossil fuel transportation (*Transportation Priorities*).
+
+**Note:** The information provided is based directly on the excerpts from the plan, and specific numerical or financial details were not included in the provided content.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan outlines several mitigation options across different sectors. Below is a summary of the identified mitigation options, including information on cost, timing, location, and other important attributes as provided in the plan:
+The plan identifies several mitigation options aimed at reducing greenhouse gas emissions. Below is a summary of the identified mitigation options, along with relevant information regarding their cost, timing, location, and other important attributes as provided in the plan:
 
-### **Transportation Mitigation Options**
-- **Expand and improve bicycle and pedestrian facilities**
-  - **Attributes:** The plan emphasizes increasing the number of trips taken by walking or biking by improving connectivity, convenience, and safety.
-  - **Measuring success:** Miles of improvement, mapping corridors of connectivity, estimating pedestrian and bicycle trips.
-
+### 1. **Transportation Mitigation Options**
+- **Expand and improve bicycle and pedestrian facilities** 
+  - **Attributes**: The goal is to significantly increase the number of trips taken by walking or biking.
+  - **Measuring Success**: Miles of improvement, mapping corridors of connectivity, estimating pedestrian and bicycle trips.
+  
 - **Public transit investments**
-  - **Attributes:** Enhancements in coverage, service quality, frequency, and speed.
-  - **Measuring success:** Number of trips, average route frequency, number of bus stop improvements, Community VMT.
+  - **Attributes**: Investments to significantly enhance coverage, service quality, frequency, and/or speed.
+  - **Measuring Success**: Number of trips, average route frequency, number of bus stop improvements.
+  
+- **Accelerate community adoption of electric vehicles** 
+  - **Attributes**: Promote the adoption of electric vehicles.
+  - **Measuring Success**: Number of EV registrations, number of EV Supply Equipment (EVSE) by level of service, EVSE distribution.
+  
+- **Transition commercial fleets to electric vehicles**
+  - **Attributes**: Partner with local commercial fleet operators.
+  - **Measuring Success**: EVSE on commercial property, EV registrations.
 
-- **Accelerate community adoption of electric vehicles (EVs)**
-  - **Attributes:** Encourages the adoption of EVs through partnerships with local commercial fleet operators.
-  - **Measuring success:** Number of EV registrations, number of EVSE (Electric Vehicle Supply Equipment) by level of service, EVSE distribution.
+### 2. **Buildings & Energy Mitigation Options**
+- **Large commercial and multi-family energy upgrade programs**
+  - **Attributes**: Voluntary programs to achieve deep energy savings (~25%+) in ~20%+ of buildings.
+  - **Measuring Success**: Permits for improvements in commercial buildings, tracking average energy intensity, participation in incentive programs.
+  
+- **Home energy upgrade programs**
+  - **Attributes**: Voluntary programs to achieve deep energy savings (~25%+) in 20% of homes.
+  - **Measuring Success**: Participation in existing assistance programs, report on energy savings results relative to target.
+  
+- **Invest in renewable energy at scale**
+  - **Attributes**: Including community solar and in-valley investments.
+  - **Measuring Success**: Total solar generation, TVA energy mix, participants in community solar programs, participants in other renewables programs.
+  
+- **Promote opportunistic electrification in buildings**
+  - **Attributes**: Replace fossil fuel-fired furnaces with electric heat pump technologies.
+  - **Measuring Success**: Total energy share by fuel source, average use by service type.
 
-### **Buildings & Energy Mitigation Options**
-- **Energy upgrade programs for large, commercial, and multi-family buildings**
-  - **Attributes:** Programs aim to achieve deep energy savings (~25%+) in ~20%+ of buildings.
-  - **Measuring success:** Permits for improvements, tracking average energy intensity, participation in incentive programs.
-
-- **Voluntary home energy upgrade programs**
-  - **Attributes:** Target deep energy savings (~25%+) in 20% of homes.
-  - **Measuring success:** Participation in existing assistance programs, energy savings results relative to targets.
-
-- **Invest in renewables at scale**
-  - **Attributes:** Focus on community solar and in-valley investments.
-  - **Measuring success:** Total solar generation, TVA energy mix, participants in community solar programs, participants in other renewables programs.
-
-- **Opportunistic electrification**
-  - **Attributes:** Promote the replacement of fossil fuel-fired furnaces with electric heat pump technologies over time.
-  - **Measuring success:** Total energy share by fuel source, average use by service type.
-
-### **Waste Mitigation Options**
+### 3. **Waste Mitigation Options**
 - **Food waste reduction and collection programs**
-  - **Attributes:** Aim to capture ~80%+ of organic waste from high-volume locations.
-  - **Measuring success:** Number of private collection programs, number of participants, research audit of waste composition.
-
+  - **Attributes**: Capture ~80%+ of organic waste from high-volume locations.
+  - **Measuring Success**: Number of private collection programs, number of participants, research audit of waste composition.
+  
 - **Increase residential recycling**
-  - **Attributes:** Use community engagement and education strategies to enhance recycling participation.
-  - **Measuring success:** Participants, number of presentations, number of participating households.
-
+  - **Attributes**: Community engagement and education strategies.
+  - **Measuring Success**: Participants, number of presentations, number of participating households.
+  
 - **Promote consumption-reduction approaches**
-  - **Attributes:** Focus on sharing and re-use through education campaigns.
-  - **Measuring success:** Participants, number of presentations.
+  - **Attributes**: Sharing and re-use through education campaigns.
+  - **Measuring Success**: Participants, number of presentations.
 
-### **General Attributes Across Options**
-- **Cost and Timing:** The plan does not specify detailed costs or timelines for these mitigation options but emphasizes long-term, multi-year priorities.
-- **Location:** While specific locations are not detailed, the focus is on community-wide implementation in Knoxville.
-- **Community Benefit Potential:** Many strategies are noted to have potential community benefits, such as advancing equity outcomes and improving community health.
+- **Research pathways for organics collection**
+  - **Attributes**: For single-family and multi-family residential properties.
+  - **Measuring Success**: Number of private collection programs, number of participants, research audit of waste composition.
 
-These mitigation options are part of a broader strategy to reduce greenhouse gas emissions and align projects with community priorities, especially for the most vulnerable populations.
+These mitigation options are part of a broader strategy to drive down emissions, with an emphasis on aligning projects with community needs and advancing equity outcomes. The document does not provide specific information on cost or timing for each option.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, which are categorized under different focus areas such as transportation, buildings & energy, and waste. Here is a summary of each identified mitigation option along with any provided details regarding cost, timeframe, location, and other important attributes:
+The plan identifies several **mitigation options** aimed at reducing greenhouse gas emissions. Here is a summary of the options along with the information provided in the plan:
 
-### **Transportation Mitigation Options**
+### Transportation Sector
+- **Enhance Bicycle and Pedestrian Infrastructure:**
+  - **Attributes:** Significantly increase trips taken by walking or biking through improved facilities, connectivity, convenience, and safety.
+  - **Measuring success:** Miles of improvement, mapping corridors of connectivity, estimating pedestrian and bicycle trips.
 
-- **Expand and improve bicycle and pedestrian facilities:**
-  - **Attributes:** Aim to significantly increase trips by walking or biking.
-  - **Measuring Success:** Miles of improvement and mapping corridors of connectivity.
+- **Public Transit Investments:**
+  - **Attributes:** Significantly enhance coverage, service quality, frequency, and speed of public transit.
+  - **Measuring success:** Number of trips, average route frequency, number of bus stop improvements, Community VMT.
 
-- **Public transit investments:**
-  - **Attributes:** Enhance coverage, service quality, frequency, and speed.
-  - **Measuring Success:** Number of trips, average route frequency, and number of bus stop improvements.
+- **Electric Vehicle Adoption:**
+  - **Attributes:** Accelerate community adoption of electric vehicles and partner with commercial fleet operators.
+  - **Measuring success:** Number of EV registrations, number of EVSE by level of service, EVSE distribution, EVSE on commercial property.
 
-- **Accelerate electric vehicle adoption:**
-  - **Attributes:** Community adoption focus.
-  - **Measuring Success:** Number of EV registrations and EVSE distribution.
+### Buildings & Energy Sector
+- **Large Commercial and Multi-family Energy Upgrade Program:**
+  - **Attributes:** Create voluntary upgrade programs to achieve deep energy savings (~25%) in ~20% of buildings.
+  - **Measuring success:** Permits for improvements, tracking average energy intensity, participation in incentive programs.
 
-- **Transition commercial fleets to electric vehicles:**
-  - **Attributes:** Partner with local commercial fleet operators.
-  - **Measuring Success:** EVSE on commercial property and EV registrations.
+- **Home Energy Upgrade Program:**
+  - **Attributes:** Expand voluntary programs to achieve deep energy savings (~25%) in 20% of homes.
+  - **Measuring success:** Participation in existing assistance programs, report on energy savings results.
 
-### **Buildings & Energy Mitigation Options**
+- **Invest in Renewable Energy:**
+  - **Attributes:** Develop or amplify investment opportunities in renewables, including community solar.
+  - **Measuring success:** Total solar generation, TVA energy mix, participants in solar and other renewables programs.
 
-- **Voluntary energy upgrade programs for commercial and multi-family buildings:**
-  - **Attributes:** Achieve deep energy savings (~25%+) in ~20%+ of buildings.
-  - **Measuring Success:** Permits for improvements and participation in incentive programs.
+### Waste Sector
+- **Food Waste Reduction and Collection Programs:**
+  - **Attributes:** Capture ~80% of organic waste from high-volume locations like restaurants.
+  - **Measuring success:** Number of private collection programs, number of participants, waste composition audit.
 
-- **Voluntary home energy upgrade programs:**
-  - **Attributes:** Achieve deep energy savings (~25%+) in 20% of homes.
-  - **Measuring Success:** Participation in existing assistance programs and energy savings results.
+- **Residential Recycling Engagement:**
+  - **Attributes:** Increase recycling through community engagement and education.
+  - **Measuring success:** Participants, number of presentations, number of participating households.
 
-- **Invest in renewables at scale:**
-  - **Attributes:** Includes community solar and in-valley investments.
-  - **Measuring Success:** Total solar generation and participation in community solar programs.
+- **Organics Collection Research:**
+  - **Attributes:** Research pathways for organics collection for residential properties.
+  - **Measuring success:** Number of private collection programs, number of participants.
 
-- **Promote opportunistic electrification in buildings:**
-  - **Attributes:** Replacement of fossil fuel-fired furnaces with electric heat pump technologies.
-  - **Measuring Success:** Total energy share by fuel source.
-
-### **Waste Mitigation Options**
-
-- **Food waste reduction and collection programs:**
-  - **Attributes:** Capture ~80%+ of organic waste from high-volume locations.
-  - **Measuring Success:** Number of private collection programs and research audit of waste composition.
-
-- **Increase residential recycling:**
-  - **Attributes:** Through community engagement and education strategies.
-  - **Measuring Success:** Number of participants and presentations.
-
-- **Promote consumption-reduction approaches:**
-  - **Attributes:** Through education campaigns.
-  - **Measuring Success:** Number of participants and presentations.
-
-- **Research organics collection for residential properties:**
-  - **Attributes:** Explore pathways for single-family and multi-family properties.
-  - **Measuring Success:** Number of private collection programs and research audit of waste composition.
-
-The plan does not provide specific details regarding the cost and timeframe for these mitigation options but emphasizes the potential to advance community benefits and greenhouse gas emission reductions.
+The plan does not explicitly detail costs or specific timeframes for these mitigation options but outlines the measuring success criteria and emphasizes the importance of these initiatives in advancing community and environmental outcomes.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options to address various climate threats. Below are the summarized adaptation options, including the climate threats they address and additional information provided:
+Based on the plan, the following adaptation options are identified, along with their climate threats and important attributes:
 
-### **1. Low-Impact Design and Infrastructure Investment**
+1. **Low-Impact Design and Infrastructure Investment:**
+   - **Climate Threat:** The plan addresses increased localized flooding events and the urban heat island effect as climate threats that can be mitigated through low-impact design and infrastructure investment.
+   - **Attributes:** The City promotes resilience by supporting low-impact designs and investing in infrastructure to handle increased localized flooding events. This is part of the "Multi-Jurisdictional Hazard Mitigation Plan," which identifies various environmental risks and incorporates impacts of climate change, such as extreme temperatures, based on technical expertise from Oak Ridge National Laboratory. *("Resilient Communities Overview Director’s Statement")*
 
-- **Climate Threat Addressed:**
-  - This adaptation option addresses increased localized flooding events and urban heat island effects. The plan highlights the importance of managing environmental risks and mitigating climate impacts through forward-looking strategies.
+2. **Green Infrastructure Projects:**
+   - **Climate Threat:** These projects primarily address the threat of stormwater damage and increasing high-intensity rainfall events.
+   - **Attributes:** The City oversees several green infrastructure projects each year on both public and private property. Examples include wetland construction at Fountain City Lake, permeable parking lots at the City’s Public Works Service Center, and infiltration islands on Dale Avenue. These initiatives are aimed at mitigating stormwater damages. *("Sustainable Landscapes")*
 
-- **Information Provided:**
-  - **Location:** The plan specifies Knoxville and its surrounding areas, emphasizing the significance of these strategies for the entire region.
-  - **Attributes:** The adaptation strategy includes embedding support for low-impact designs and investing in infrastructure to handle the demands of increased localized flooding events. The plan states, "The City promotes resilience in the community by embedding support for low-impact design and investing in infrastructure to handle the demands of increased localized flooding events." (Resilient Communities Overview)
-
-### **2. Green Infrastructure Projects**
-
-- **Climate Threat Addressed:**
-  - This option is also aimed at mitigating damages caused by stormwater and increasing high-intensity rainfall events.
-
-- **Information Provided:**
-  - **Location:** Projects are overseen by the City of Knoxville Engineering on both public and private properties.
-  - **Attributes:** The plan mentions specific projects such as wetland construction at Fountain City Lake, a permeable parking lot at the City’s new Public Works Service Center, and infiltration islands on Dale Avenue. These projects are designed to manage stormwater and mitigate the impacts of high-intensity rainfall events. "Public projects like wetland construction at Fountain City Lake, the permeable parking lot at the City’s new Public Works Service Center, and infiltration islands on Dale Avenue are critical to mitigating the damages caused by stormwater and increasing high-intensity rainfall events." (Sustainable Landscapes Green Infrastructure)
-
-### **3. Multi-Jurisdictional Hazard Mitigation Plan**
-
-- **Climate Threat Addressed:**
-  - This plan addresses a range of environmental risks, including extreme temperatures and other changing climate impacts.
-
-- **Information Provided:**
-  - **Attributes:** The plan incorporates forward-looking considerations about the changing severity of climate impacts, leveraging technical expertise from Oak Ridge National Laboratory. "The Multi-Jurisdictional Hazard Mitigation Plan identifies the myriad environmental risks that face residents. In the most recently adopted edition from 2017, the document incorporated forward-looking changing severity of impacts of climate change, including extreme temperatures, leveraging technical expertise from Oak Ridge National Laboratory." (Resilient Communities Overview)
-
-The plan does not provide specific information regarding cost, timeframe, or detailed location for these adaptation options, focusing instead on the strategic goals and implementation mechanisms.
+The plan does not provide specific information regarding the cost, exact timeframe, or locations for some of these adaptation options, focusing instead on their general implementation and impact on resilience against identified climate threats.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies with an emphasis on advancing climate justice. These policies are designed to address specific climate threats and consider the most vulnerable areas or populations affected by these hazards:
+Based on the provided document, the plan identifies climate policies with a focus on advancing climate justice primarily through the efforts of the Climate Council’s Equity Working Group. The group prioritizes strategies based on their potential to advance equity outcomes.
 
-1. **Waste Management Policies**
-   - **Climate Threat Addressed:** Methane emissions resulting from the breakdown of organic materials in waste streams, including paper, cardboard, food waste, and yard waste. Methane is a potent greenhouse gas contributing to climate change.
-   - **Vulnerable Areas/Populations:** The plan does not specify particular areas or populations vulnerable to waste-related emissions. However, the focus on community engagement and education strategies suggests an emphasis on involving communities that generate significant organic waste or lack access to effective waste management systems. *"[The plan] highlighted opportunities to improve engagement as ways to improve services, better understand nuisances, and boost civic engagement."* (Waste Overview, Director’s Statement)
+### Climate Policies Advancing Climate Justice
 
-2. **Transportation Policies**
-   - **Climate Threat Addressed:** Greenhouse gas emissions from transportation, which constitute approximately 59% of the community emissions profile. This includes emissions from increased traffic volume and insufficient improvements in vehicle fuel economy.
-   - **Vulnerable Areas/Populations:** Populations relying heavily on public transit and those exposed to high levels of air pollution due to transportation emissions. The plan emphasizes vehicle electrification strategies that also benefit community health by reducing ground-level particulate matter and other pollutants. *"Vehicle electrification strategies also benefit community health by reducing ground-level particulate matter and other pollutants."* (Transportation Overview, Director’s Statement)
+1. **Greenhouse Gas Emissions Reduction Priorities**
+   - **Climate Threat Addressed:** The policy addresses the threat of increased greenhouse gas emissions, which contribute to climate change and its various impacts, including extreme weather events and deteriorating air quality.
+   - **Vulnerable Areas/Populations:** The plan emphasizes advancing equity outcomes by focusing on community priorities and addressing the needs of the most vulnerable. Although specific populations are not detailed, this likely includes marginalized communities that often face higher exposure to GHG emissions due to proximity to industrial areas and transportation networks.
 
-3. **Buildings & Energy Policies**
-   - **Climate Threat Addressed:** Emissions from energy use in buildings, which are approximately 37% of all community-wide emissions. These emissions arise from natural gas and electricity usage.
-   - **Vulnerable Areas/Populations:** Populations living in energy-inefficient homes that result in higher energy expenditures and potentially poorer indoor air quality. Investments in energy efficiency are linked to addressing housing affordability and reducing energy expenditures, benefiting low-income households. *"Investments in energy efficiency, especially in homes, is a valuable strategy to address housing affordability through lower energy expenditures."* (Buildings & Energy Overview, Director’s Statement)
+2. **Resilience Infrastructure Investments**
+   - **Climate Threat Addressed:** The policy targets the threats associated with extreme temperatures, localized flooding events, and urban heat island effects.
+   - **Vulnerable Areas/Populations:** The Multi-Jurisdictional Hazard Mitigation Plan identifies residents in areas prone to environmental risks such as localized flooding. The plan suggests embedding support for low-impact design and infrastructure to handle increased flooding events, which is crucial for protecting vulnerable communities living in flood-prone areas.
 
-4. **Resilient Communities Policies**
-   - **Climate Threat Addressed:** Increasing localized flooding and urban heat island effects that result from climate change. These are exacerbated by infrastructure unable to handle such demands.
-   - **Vulnerable Areas/Populations:** Residents in areas prone to localized flooding and urban environments suffering from heat island effects. Investments in low-impact design and infrastructure improvements are aimed at these vulnerabilities. *"The City promotes resilience in the community by embedding support for low-impact design and investing in infrastructure to handle the demands of increased localized flooding events."* (Resilient Communities Overview, Director’s Statement)
+3. **Transportation and Electrification Strategies**
+   - **Climate Threat Addressed:** The threat of high emissions from transportation, which constitutes a major part of community emissions, contributing significantly to air pollution and climate change.
+   - **Vulnerable Areas/Populations:** The policy refers to benefits for community health by reducing ground-level particulate matter and other pollutants, implicitly benefiting communities living near high traffic areas or those disproportionately affected by air pollution.
+
+4. **Waste Management Improvements**
+   - **Climate Threat Addressed:** The policy addresses methane emissions from organic waste decomposition in landfills, which contributes to GHG emissions.
+   - **Vulnerable Areas/Populations:** Strategies to reduce organic waste in the waste stream also emphasize improving community engagement and services, which can benefit lower-income areas that often lack access to adequate waste disposal and recycling services.
+
+The Climate Council’s Equity Working Group utilizes subject matter expertise and community input to ensure these policies also focus on equity, helping to address the needs of vulnerable populations while advancing broader climate goals.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-**1. Potential Maladaptive Climate Policy:**
-
-- **Climate Policy:** Promote consumption-reduction approaches such as sharing and re-use through education campaigns.
-
-  - **Climate Threat Addressed:** The policy addresses the threat of waste and emissions from the breakdown of organic materials in waste streams, which contribute to methane emissions. ("Emissions from Knoxville’s waste stream make up approximately 4% of all local emissions. Most emissions in our waste stream come from methane that results from the breakdown of organic materials in wastewater treatment and our solid waste stream." - Waste Overview)
-
-  - **Resilience, Mitigation, or Adaptation Option:** This is primarily a mitigation option aimed at reducing waste generation and indirectly reducing GHG emissions by minimizing the amount of waste that needs to be processed or disposed of. ("Strategies prioritized for addressing waste emissions are highlighted for their potential to directly reduce greenhouse gas emissions in addition their community benefits." - Waste Overview)
-
-  - **Potential Maladaptation:** While the policy aims to reduce waste and emissions, the effectiveness of education campaigns highly depends on community engagement and behavior change, which can be unpredictable. If not effectively implemented or if community interest wanes, the policy may not achieve significant waste reduction. Additionally, if the focus on education campaigns diverts resources or attention from more direct waste reduction technologies or infrastructure improvements, it could result in an inadequate response to the waste management challenges, thus inadvertently increasing vulnerability to waste-related environmental impacts.
+Based on the content provided in the plan, there are no specific mentions or identifications of potential unforeseen maladaptive climate policies. Each of the policies described in the document appears to be focused on enhancing resilience, mitigation efforts, adaptation strategies, and equitable engagement without indicating any inadvertent maladaptation risks. Nevertheless, ensuring that all policies are regularly assessed to avoid maladaptive outcomes is crucial, although specific examples are not mentioned in this plan.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-### **Transportation Priorities**
+Based on the provided plan document, the success or failure of adaptation, resilience, and mitigation options are measured using specific metrics and targets. Here are the specifics mentioned in the plan:
 
-- **Expand and Improve Bicycle and Pedestrian Facilities:**
-  - *Metrics for Success:* 
-    - Miles of improvement
-    - Mapping corridors of connectivity
-    - Estimating pedestrian and bicycle trips
-  - *Goals/Targets:* Not specifically mentioned.
+### **Transportation Priorities:**
 
+- **Bicycle and Pedestrian Facilities:**
+  - *Metrics:* Miles of improvement, mapping corridors of connectivity, estimating pedestrian and bicycle trips.
 - **Public Transit Investments:**
-  - *Metrics for Success:* 
-    - Number of trips
-    - Average route frequency
-    - Number of bus stop improvements
-    - Community Vehicle Miles Traveled (VMT)
-  - *Goals/Targets:* Not specifically mentioned.
+  - *Metrics:* Number of trips, average route frequency, number of bus stop improvements, Community VMT.
+- **Electric Vehicles Adoption:**
+  - *Metrics:* Number of EV registrations, number of EVSE (Electric Vehicle Supply Equipment) by level of service, EVSE distribution.
 
-- **Community Adoption of Electric Vehicles:**
-  - *Metrics for Success:*
-    - Number of electric vehicle (EV) registrations
-    - Number of Electric Vehicle Supply Equipment (EVSE) by level of service
-    - EVSE distribution
-  - *Goals/Targets:* Not specifically mentioned.
+### **Waste Priorities:**
 
-- **Partner with Local Commercial Fleet Operators:**
-  - *Metrics for Success:*
-    - EVSE on commercial property
-    - EV registrations
-  - *Goals/Targets:* Not specifically mentioned.
+- **Food Waste Reduction:**
+  - *Metrics:* Number of private collection programs, number of participants, research audit of waste composition.
+- **Residential Recycling:**
+  - *Metrics:* Participants, number of presentations, number of participating households.
+- **Consumption-Reduction:**
+  - *Metrics:* Participants, number of presentations.
 
-### **Waste Priorities**
+### **Buildings & Energy Priorities:**
 
-- **Food Waste Reduction and Collection Programs:**
-  - *Metrics for Success:*
-    - Number of private collection programs
-    - Number of participants
-    - Research audit of waste composition
-  - *Goals/Targets:* Capture ~80%+ of organic waste from all high-volume locations.
-
-- **Increase Residential Recycling:**
-  - *Metrics for Success:*
-    - Number of participants
-    - Number of presentations
-    - Number of participating households
-  - *Goals/Targets:* Not specifically mentioned.
-
-- **Consumption-Reduction Approaches:**
-  - *Metrics for Success:*
-    - Number of participants
-    - Number of presentations
-  - *Goals/Targets:* Not specifically mentioned.
-
-- **Organics Collection for Residential Properties:**
-  - *Metrics for Success:*
-    - Number of private collection programs
-    - Number of participants
-    - Research audit of waste composition
-  - *Goals/Targets:* Not specifically mentioned.
-
-### **Buildings & Energy Priorities**
-
-- **Large, Commercial, and Multi-Family Energy Upgrade Programs:**
-  - *Metrics for Success:*
-    - Permits for improvements in commercial buildings
-    - Tracking average energy intensity
-    - Participation in incentive programs
-  - *Goals/Targets:* Achieve deep energy savings (~25%+) in ~20%+ of buildings.
-
+- **Energy Upgrade Programs:**
+  - *Metric:* Permits for improvements in commercial buildings, tracking average energy intensity, participation in incentive programs.
 - **Home Energy Upgrade Programs:**
-  - *Metrics for Success:*
-    - Participation in existing assistance programs
-    - Report on energy savings results of programs relative to target
-  - *Goals/Targets:* Achieve deep energy savings (~25%+) in 20% of homes.
+  - *Metric:* Participation in existing assistance programs, report on energy savings results of programs relative to target.
+- **Investments in Renewables:**
+  - *Metric:* Total solar generation, TVA (Tennessee Valley Authority) energy mix, participants in community solar programs, participants in other renewables programs.
 
-- **Invest in Renewables at Scale:**
-  - *Metrics for Success:*
-    - Total solar generation
-    - TVA energy mix
-    - Participants in community solar programs
-    - Participants in other renewables programs
-  - *Goals/Targets:* Not specifically mentioned.
+### **Concrete Goals and Targets:**
 
-- **Opportunistic Electrification in Existing Buildings:**
-  - *Metrics for Success:*
-    - Total energy share by fuel source
-    - Average use by service type
-  - *Goals/Targets:* Not specifically mentioned.
+- The City of Knoxville set a goal to reduce greenhouse gas emissions by:
+  - **20% by 2020 relative to 2005 levels** for both municipal operations and the community. (*Section: History*)
+  - **50% by 2030 for City operations**.
+  - **80% reduction by 2050 for community emissions**. (*Section: History*)
 
-### **Overall Emission Reduction Goals**
+- **Community Emissions Profile (2019):** Emissions from transportation make up approximately **59%** of community emissions.
 
-- *City Government:* 
-  - Goal to reduce emissions by 50% by 2030 relative to 2005 levels.
-- *Knoxville Community:* 
-  - Goal to reduce emissions by 80% by 2050 relative to 2005 levels.
-
-The plan includes various metrics to measure success, such as the number of EV registrations, number of participants in programs, and total solar generation. However, specific units such as tons, percentages, or index values are not detailed in the provided text.
+These metrics and goals help the City of Knoxville track the progress of their climate action plans and adjust as necessary to meet their stated objectives.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature             | Details                                                                                                                                                       |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Knoxville, Tennessee                                                                                                                                         |
-| **Population**         | The document mentions population growth, with Knox County's population having grown by more than 16% since 2005.                                              |
-| **Threats Identified** | - Climate change impacts such as extreme temperatures and increased localized flooding (Multi-Jurisdictional Hazard Mitigation Plan).                           |
-|                       | - Environmental problems including localized flooding and urban heat island effect.                                                                            |
-| **Measures Identified**| - Pursue food waste reduction and collection programs (Waste Priorities).                                                                                     |
-|                       | - Increase residential recycling through community engagement and education strategies (Waste Priorities).                                                     |
-|                       | - Promote consumption-reduction approaches such as sharing and re-use (Waste Priorities).                                                                      |
-|                       | - Create voluntary large, commercial, and multi-family energy upgrade programs (Buildings & Energy Priorities).                                                |
-|                       | - Develop or amplify opportunities to invest in renewables at scale (Buildings & Energy Priorities).                                                           |
-|                       | - Expand and improve bicycle and pedestrian facilities (Transportation Priorities).                                                                            |
-|                       | - Make public transit investments to enhance coverage, service quality, frequency, and speed (Transportation Priorities).                                       |
-|                       | - Significantly accelerate community adoption of electric vehicles (Transportation Priorities).                                                                 |
-|                       | - Partner with major local commercial fleet operators to transition to electric vehicles (Transportation Priorities).                                           |
-|                       | - Embed support for low-impact design and invest in infrastructure to handle increased localized flooding events (Resilient Communities Overview).              |
-|                       | - Public projects like wetland construction and permeable parking lots to mitigate stormwater damage (Sustainable Landscapes).                                  |
+| Feature             | Description                                                                                                                                                            |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**   | City of Knoxville                                                                                                                                                       |
+| **Population**       | Knox County's population has grown by more than 16% since 2005.                                                                                                         |
+| **Threats Identified**   | - Localized flooding                                                                                                                                                   |
+|                     | - Urban heat island effect                                                                                                                                              |
+|                     | - Extreme temperatures                                                                                                                                                  |
+|                     | - Greenhouse gas emissions                                                                                                                                                |
+| **Measures Identified** | - Developing and amplifying voluntary home energy upgrade programs                                                                                                       |
+|                     | - Researching pathways for organics collection for residential properties                                                                                               |
+|                     | - Making public transit investments to enhance coverage, service quality, frequency, and speed                                                                          |
+|                     | - Expanding and improving bicycle and pedestrian infrastructure                                                                                                         |
+|                     | - Partnering with major local commercial fleet operators to transition to electric vehicles                                                                             |
+|                     | - Pursuing food waste reduction and collection programs                                                                                                                 |
+|                     | - Promoting consumption-reduction approaches such as sharing and re-use                                                                                                 |
+|                     | - Amplifying opportunities to invest in renewables at scale                                                                                                              |
 ```
+

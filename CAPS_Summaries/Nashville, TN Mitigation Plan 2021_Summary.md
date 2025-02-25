@@ -1,378 +1,356 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The plan does not provide specific information about the physical and economic landscape of the planning jurisdiction, including its name, location, population, demographics, or average income. There is no mention of major geographic features such as mountains, rivers, deserts, coastline, or key infrastructure like airports or seaports.
+The plan is about **Nashville, Tennessee**, specifically within the **Metropolitan Nashville and Davidson County** area.
 
-However, the plan does mention **Nashville**, and provides some insights into the local climate and energy production:
+### Location and Population
+- **Jurisdiction**: Nashville, Tennessee
+- **Population and Demographics**: The plan does not provide specific numbers regarding the population, demographics, or average income within the jurisdiction.
 
-- **Climate and Energy**: The plan indicates a focus on "transitioning to a clean economy through green jobs and training, renewable power, and energy efficiency" (Climate and Energy Subcommittee Recommendations). It mentions efforts to increase renewable energy, such as deploying solar power on Metro buildings and encouraging agencies to do the same.
+### Geographic Features
+- **Rivers**: The **Cumberland River** is mentioned particularly in relation to flood mitigation strategies and public open space creation.
+- **Geographic Challenges**: There are references to flood mitigation and the need for multifunctional public open spaces along the east bank of the Cumberland River, indicating some water-related challenges.
 
-- **Natural Resources and Land Use**: The plan includes recommendations for restoring natural functions of the landscape, such as developing the PSC Metals property into a public park for flood mitigation and downtown open space (Natural Resources Subcommittee Recommendations).
+### Infrastructure
+- **Notable Infrastructure**:
+  - **Transportation**: There are discussions about making transportation more sustainable, including references to transit-oriented and pedestrian-friendly development.
+  - **Energy Infrastructure**: **Nashville Electric Service (NES)** plays a significant role, particularly in terms of collaboration toward energy efficiency and renewables deployment.
 
-- **Energy Production**: The plan outlines a goal to "achieve 80% reduction in community-wide greenhouse gas emissions and 80% reduction in Metro greenhouse gas emissions by 2050" (Climate and Energy Subcommittee Recommendations).
+### Local Climate
+- **Climate-related Notes**: The plan highlights climate change impacts and emphasizes the importance of actions to mitigate emissions and adapt to climate changes. There's a focus on sustainability and mitigating water-related issues like flooding.
 
-There is no specific information provided about aridity, water challenges, oil, gas, or other natural resources. Similarly, the plan does not detail industries or economic drivers crucial to the region.
+### Energy Production and Natural Resources
+- **Energy**: The plan emphasizes increasing the use of renewables, specifically solar power, and aims for significant reductions in greenhouse gas emissions ("reduce greenhouse gas emissions by 80%"). The plan also mentions encouraging NES to pursue large-scale solar arrays.
+- **Natural Resources**: Strategies include restoring natural functions of landscapes, the development of public parks for flood mitigation, and maintaining open spaces for recreational purposes.
+
+### Economic Drivers
+- **Industries**:
+  - **Hospitality**: The plan references efforts to reduce emissions within the hospitality industry by working with visitors' bureaus, hotels, and event spaces.
+  - **Green Jobs**: There is an emphasis on developing a green jobs initiative that includes job training in sectors like energy efficiency and solar power.
+
+The document does not explicitly mention other economic drivers, average income, or detailed demographic statistics beyond outlining key focus areas for economic development in relation to climate actions.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
 **Resilience:**
 
-- The plan emphasizes enhancing resilience to climate impacts, focusing on natural resources and infrastructure. The Natural Resources Subcommittee highlights the need to protect and expand green infrastructure, such as tree canopies and floodplains, to absorb rainwater and reduce flooding risks. It aims to "increase Nashville's resilience to a changing climate and mitigate heat and flood risks, especially in vulnerable populations" (Natural Resources Subcommittee).
+The plan addresses resilience through actions aimed at enhancing Nashville's ability to withstand climate impacts. The Natural Resources Subcommittee emphasizes the importance of *"protecting and expanding the City’s tree canopy, floodplains, stream channels and open space as the City grows and storms become more extreme"*. It also highlights the need *"to build a City that protects its water and air"*, indicating a focus on environmental resilience (Natural Resources Subcommittee).
 
 **Mitigation:**
 
-- Mitigation is a significant component of the plan, with a focus on reducing greenhouse gas emissions. The Committee recommends an "80% reduction in annual greenhouse gas emissions from 2014 levels by 2050" (Recommended Targets). The plan includes strategies like decarbonizing the electrical grid, electrifying vehicles, and buildings. These efforts aim to "dramatically accelerate the adoption of renewable energy through a multifaceted approach" (Key Mitigation Strategies).
+The plan places a significant focus on mitigation, particularly in reducing greenhouse gas emissions. It sets forth a target of an *"80% reduction in annual greenhouse gas emissions from 2014 levels by 2050"*, aligning with international standards (Recommended Targets). Key mitigation strategies include *"decarbonizing the electrical grid, electrifying vehicles, and electrifying buildings"* (Key Mitigation Strategies). The plan also discusses the importance of *"reducing the City’s carbon footprint"* and lists various co-benefits associated with mitigation actions (Co-Benefits).
 
 **Adaptation:**
 
-- While the plan includes adaptation components, particularly within the Natural Resources Subcommittee's recommendations, its primary focus remains on mitigation. The adaptation efforts focus on "restoring the landscape's natural functions" and using open spaces to improve residents' lives (Natural Resources Subcommittee).
+Adaptation is addressed through strategies intended to protect the vulnerable populations and natural landscapes from the adverse effects of climate change. The plan highlights the *"need to increase Nashville’s resilience to a changing climate and mitigate heat and flood risks, especially in vulnerable populations”* (Targets, Natural Resources Subcommittee). Adaptation actions also include retrofitting impervious surfaces to improve water quality and resilience to flooding (Policy Focus and Priority Actions).
 
 **Classification:**
 
-- The plan can be classified as a **mitigation primary climate action plan**. Although it addresses resilience and adaptation, the emphasis is on mitigation strategies aimed at reducing greenhouse gas emissions and achieving significant emission reduction targets.
+Based on the content provided, the plan can be classified as a **mitigation primary climate action plan**. While it includes components of resilience and adaptation, a considerable amount of the document's focus, recommendations, and targets are directed towards mitigation efforts, such as reducing greenhouse gas emissions and transitioning to renewable energy.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-**Scenario of Climate Change in Nashville**
+Yes, the plan describes a scenario of climate change that Nashville and Davidson County will face. It is estimated that between 2025 and 2035, Nashville will face numerous climate risks, including:
 
-The plan outlines a future scenario in which Nashville and Davidson County face significant climate risks, particularly between 2025 and 2035. These include:
+- **"Increased number of intense storms and tornadoes."**
+- **"More frequent flooding and extreme heat days per year."**
 
-- **Increased Number of Intense Storms and Tornadoes:** The planning jurisdiction anticipates experiencing a higher frequency of severe weather events.
-- **More Frequent Flooding and Extreme Heat Days:** There is an expectation of increased flooding incidents and a rise in the number of extremely hot days per year.
-- **Economic and Social Disruptions:** Nashville is expected to be adversely affected by disruptions arising from climate change impacts occurring elsewhere in the United States and globally. These disruptions could affect the local economy and social fabric.
-
-The plan emphasizes the critical role of cities like Nashville in addressing both climate change mitigation and adaptation, given their substantial energy consumption and greenhouse gas emissions. It also highlights the pressing need for Nashville to implement climate policies to reduce its contributions to climate change while ensuring a resilient future. 
-
-*“It is estimated that between 2025 and 2035, the Metropolitan Government of Nashville and Davidson County...will face myriad climate risks, including an increased number of intense storms and tornadoes and more frequent flooding and extreme heat days per year.”* (Introduction)
+Additionally, Nashville will be "adversely affected by the economic and social disruptions arising from climate change elsewhere in the United States and around the globe" (Introduction). The plan outlines policies for resilience, mitigation, and adaptation in response to these threats.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
 **1. Intense Storms and Tornadoes**
 
-- **Climate Hazard:** The plan anticipates "an increased number of intense storms and tornadoes" (Introduction).
-- **Climate Risks:** These events are expected to present climate risks through potential damage to infrastructure and property, as well as disruptions to daily life and economic activities.
-- **Climate Vulnerability:** The plan does not specify particular areas or populations with the most vulnerability to this hazard.
+- **Climate Hazard:** "Nashville will face an increased number of intense storms and tornadoes" (Introduction).
+- **Climate Risks:** These events present threats to infrastructure and can cause significant disruptions.
+- **Vulnerable Areas/Populations:** Specific areas or populations are not directly mentioned, but such events typically affect areas with inadequate storm-resistant infrastructure.
 
 **2. Flooding**
 
-- **Climate Hazard:** The plan identifies "more frequent flooding" as a climate risk (Introduction).
-- **Climate Risks:** Flooding poses risks of property damage, infrastructure failure, and potential loss of life. It also threatens economic stability and can lead to long-term displacement of residents.
-- **Climate Vulnerability:** The plan mentions that the City’s floodplains and stream channels must be protected to accommodate streams spilling out of their banks during heavy rains (Natural Resources Subcommittee). Vulnerable populations are not specifically detailed.
+- **Climate Hazard:** More frequent flooding is projected (Introduction).
+- **Climate Risks:** Flooding can lead to property damage, economic loss, and disruption of services.
+- **Vulnerable Areas/Populations:** The plan notes a focus on "vulnerable populations" when addressing flooding and other risks, implying that communities already facing socioeconomic struggles may be at higher risk (Targets).
 
 **3. Extreme Heat Days**
 
-- **Climate Hazard:** "Extreme heat days" are anticipated to increase in frequency (Introduction).
-- **Climate Risks:** Extreme heat can lead to health issues, strain on energy resources, and increased demand for cooling, which may impact vulnerable populations and sectors heavily reliant on outdoor activities.
-- **Climate Vulnerability:** The plan does not specify particular areas or populations with the most vulnerability to this hazard.
+- **Climate Hazard:** The plan anticipates an increase in extreme heat days (Introduction).
+- **Climate Risks:** Extreme heat can impact public health, strain energy resources, and cause heat-related illnesses.
+- **Vulnerable Areas/Populations:** Although specific groups are not detailed, typical vulnerable populations include the elderly, children, and those without access to air conditioning or living in areas with high urban heat islands effects.
 
-**4. Economic and Social Disruptions from Climate Change Elsewhere**
-
-- **Climate Hazard:** Economic and social disruptions arising from climate change impacts elsewhere in the United States and globally are recognized as potential risks (Introduction).
-- **Climate Risks:** These disruptions may lead to indirect impacts such as migration into Nashville, increased pressure on resources, and economic instability.
-- **Climate Vulnerability:** The plan notes that Nashville’s population is estimated to increase due to migration caused by sea level rise elsewhere, implying that infrastructure and services may be stressed by an influx of new residents (Introduction). Vulnerable populations are not specifically detailed.
+The plan outlines these hazards as part of its broader effort to understand and mitigate climate risks in Nashville, reflecting concerns about infrastructure resilience and public health.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-Based on the content provided, the plan identifies several resilience options. Below is the summarized information for each option:
+Based on the provided excerpts from the plan, here are the identified resilience options along with their specific attributes:
 
-### **Resilience Option 1: Retrofit Metro’s Impervious Surfaces**
+### **Resilience Options Identified in the Plan:**
 
-1. **Specific Climate Threat Addressed:**
-   - This option addresses flood risks by restoring natural functions of the landscape to improve water quality and resilience to storms.
+1. **Restoration of Natural Functions of the Landscape:**
 
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Not explicitly mentioned, but it is part of ongoing efforts.
-   - **Location:** Specifically mentions "aisles of the parking lots surrounding Nissan Stadium" as a target for "depaving" and retrofitting.
+   - **Specific Climate Threat Addressed:**
+     - This option addresses climate threats related to increased storm intensity and flooding. The restoration involves creating landscapes that can absorb and clean rainwater to accommodate streams during heavy rainfalls without damage to life or property.
+   
+   - **Details on Cost, Timeframe, and Location:**
+     - The plan calls for retrofitting "10% of Metro’s impervious surfaces," specifically mentioning locations like the parking lots surrounding Nissan Stadium ("Natural Resources Subcommittee’s recommendations").
+     - Timeframe and specific costs are not directly mentioned for this specific option, but the overall goal is to increase resilience to heat and flood risks, especially in vulnerable populations.
 
-3. **Other Important Attributes:**
-   - **Economic Considerations:** Aimed at saving money by reducing impervious cover and associated stormwater management costs.
-   - **Environmental Considerations:** Enhances water quality and resilience by creating a spongy landscape that absorbs and cleans rainwater.
-   - **Infrastructural Considerations:** Involves structural changes to existing parking lots and surfaces.
+   - **Other Important Attributes:**
+     - Economic considerations include saving money by improving water quality and resilience. This strategy also sees potential to improve residents’ lives through community gardens and other community engagement activities.
 
-### **Resilience Option 2: Protect and Expand Green Infrastructure**
+2. **Increase Nashville's Resilience to a Changing Climate:**
 
-1. **Specific Climate Threat Addressed:**
-   - This option addresses the threat of increased storm intensity and urban heat by enhancing the city’s green infrastructure like tree canopies, floodplains, and open spaces.
+   - **Specific Climate Threat Addressed:**
+     - The overarching threat addressed is that of climate change impacts leading to increased heat and flood risks, especially impacting vulnerable populations.
+     
+   - **Details on Cost, Timeframe, and Location:**
+     - Specific timeframes and detailed costs for this general resilience option are not directly mentioned in the provided text, but the focus is on long-term sustainability projects.
 
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** The plan emphasizes immediate action, as stated, "Now is the time to acquire land and preserve open space."
-   - **Location:** Focus is city-wide, particularly areas prone to flooding and with existing or potential green infrastructure.
+   - **Other Important Attributes:**
+     - The strategy emphasizes environmental, economic, and community well-being benefits, equating resilience with enhancing the well-being of residents and reducing infrastructure costs associated with flooding and pollution.
 
-3. **Other Important Attributes:**
-   - **Economic Considerations:** Potential savings by reducing costs associated with flooding, piping, and cleaning polluted air and water.
-   - **Environmental Considerations:** Recognizes the "immeasurable value of ecosystem services" and aims to maintain biodiversity.
-   - **Infrastructural Considerations:** Involves maintaining and expanding natural landscapes and ecosystems.
+3. **Conservation and Sustainable Management of Public and Private Lands:**
 
-### **Resilience Option 3: Use Open Space for Community Benefits**
+   - **Specific Climate Threat Addressed:**
+     - This measure focuses on threats from urbanization and climate-induced stress on ecosystems, aiming to protect water, air, and diverse wildlife.
+   
+   - **Details on Cost, Timeframe, and Location:**
+     - Timeframe and specific financial costs are not explicitly outlined, but this is intended as an ongoing priority.
+     - There is a call to "acquire land and preserve open space," suggesting targeted areas for conservation efforts.
+   
+   - **Other Important Attributes:**
+     - Economically, this option emphasizes passing forward a "great treasure" of natural resources, suggesting a long-term investment in ecological health that might lead to reduced costs from environmental degradation.
 
-1. **Specific Climate Threat Addressed:**
-   - Addresses threats related to urbanization and loss of natural habitats, indirectly impacting climate resilience.
-
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Ongoing, with an emphasis on community engagement and utilization.
-   - **Location:** Utilization of open spaces throughout the city for community gardens, historical grassland restoration, and park networks.
-
-3. **Other Important Attributes:**
-   - **Economic Considerations:** Supports economic development through community engagement and potential agricultural activities.
-   - **Environmental Considerations:** Enhances biodiversity by restoring historical grasslands and maintaining urban ecosystems.
-   - **Infrastructural Considerations:** Relies on existing open spaces and park networks as critical community infrastructure.
-
-### **Resilience Option 4: Build a City That Protects Water and Air**
-
-1. **Specific Climate Threat Addressed:**
-   - Addresses threats related to water scarcity and pollution, as well as air quality degradation.
-
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Emphasizes the urgency with "Now is the time" to take action.
-   - **Location:** City-wide focus, particularly areas with water bodies and air quality issues.
-
-3. **Other Important Attributes:**
-   - **Economic Considerations:** Long-term economic benefits from sustainable management of resources.
-   - **Environmental Considerations:** Aims for conservation and sustainable management of public and private lands to protect water and air.
-   - **Infrastructural Considerations:** Involves initiatives to enhance the sustainability of urban infrastructure and resource management systems.
-
-These resilience options collectively aim to enhance Nashville's ability to cope with climate-related hazards by improving natural landscapes, infrastructure, and community engagement.
+The excerpts provided do not contain specific tables, charts, or images detailing cost and timeframe, but they highlight the importance of coordinated planning and investment in natural and urban ecosystems to improve resilience.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, each with various attributes related to cost, timing, location, and more. Below is a summary based on the provided content:
+### **Mitigation Options Identified in the Plan**
 
-### **1. Decarbonization of the Electrical Grid**
-- **Description:** To reach targets, the City aims to accelerate the adoption of renewable energy.
-- **Actions:**
-  - Install on-site, behind-the-meter solar.
-  - Set a goal of 100% carbon-free electricity by a date certain (e.g., 2041).
-  - Encourage retail net-metering and negotiation with TVA for renewable energy cap increases.
-  - Streamline processes for installing renewable electricity.
-- **Cost/Timing/Location:** Not explicitly detailed.
+The plan identifies several key mitigation options with varying attributes. Here is a summary of each identified mitigation option, including information on cost, timing, location, and other relevant attributes:
 
-### **2. Electrification of Vehicles and Buildings**
-- **Description:** Coordination of electrifying vehicles and buildings with decarbonizing the grid.
-- **Actions:** Not specifically detailed beyond the need for coordination.
-- **Cost/Timing/Location:** Not explicitly detailed.
+---
 
-### **3. Green Infrastructure**
-- **Description:** Increase green infrastructure to reduce runoff and improve water quality.
-- **Actions:**
-  - Treat impervious surfaces with green infrastructure.
-  - Develop strategies to mitigate climate change impacts in vulnerable communities.
-- **Cost:** Ranges from minimal (<$100k) to substantial (>$1M).
-- **Location:** Focus on Metro properties and vulnerable communities.
+#### **1. Decarbonization of the Electrical Grid**
+- **Cost:** Not specified
+- **Timing:** Set a community-wide goal of 100% carbon-free electricity by a specific date (e.g., 2041).
+- **Location:** Citywide, with Metro and community involvement.
+- **Attributes:** Involves installing solar, setting goals akin to BL-1600 ordinance, encouraging net-metering, and negotiating renewable energy agreements. (_Chapter: Key Mitigation Strategies_)
 
-### **4. Renewable Energy Initiatives**
-- **Actions:**
-  - Ordinance for solar installation on new buildings.
-  - Support Music City Solar project.
-  - Engage universities in clean energy research.
-- **Cost:** Minimal (<$100k) to moderate ($100k - $1M).
-- **Location:** Citywide with emphasis on new constructions and educational institutions.
+---
 
-### **5. Energy Efficiency and Resource Use Reduction**
-- **Description:** Encourage efficiency upgrades and reduce resource use.
-- **Actions:**
-  - Incentives for HVAC and equipment upgrades.
-  - Pricing strategies to discourage nonrenewable use.
-- **Cost:** Moderate ($100k - $1M).
-- **Location:** Citywide.
+#### **2. Electrification of Vehicles and Buildings**
+- **Cost:** Not specified
+- **Timing:** Progressive as technology advances and infrastructure develops.
+- **Location:** Government and community motor vehicle fleets, and buildings citywide.
+- **Attributes:** Coordination between electrifying vehicles and buildings to maximize impact. (_Exhibit I: Additional Subcommittee Mitigation Action_)
 
-### **6. Financing Mechanisms**
-- **Description:** Explore green finance options to support climate action.
-- **Options:**
-  - Green Bonds: Earmarked for projects with environmental impacts.
-- **Pros/Cons:**
-  - **Pros:** Marketing tool, appealing to investors.
-  - **Cons:** Additional paperwork, independent review costs.
-- **Cost:** Additional city staff work for labeling and reporting.
+---
 
-These mitigation options involve a combination of policy actions, infrastructure improvements, and financial strategies aimed at reducing greenhouse gas emissions and increasing the city's resilience to climate impacts.
+#### **3. Improved Energy Efficiency in Buildings**
+- **Cost:** Not specified
+- **Timing:** Continuous improvements alongside regular updates of energy codes.
+- **Location:** All types of buildings and facilities.
+- **Attributes:** Includes regular updates on energy building codes and incentives for upgrading HVAC and electrical equipment. (_Exhibit I: Additional Subcommittee Mitigation Action_)
+
+---
+
+#### **4. Renewable Energy Initiatives**
+- **Cost:** Ranges from minimal (<$100k) to moderate ($100k - $1M).
+- **Timing:** Incremental, with ongoing projects and new ordinances.
+- **Location:** Varied locations, including new constructions and existing projects like Music City Solar.
+- **Attributes:** Fast-tracking solar installations, developing community solar projects, and engaging universities. (_Mayor's Sustainability Advisory Committee Proposed Action Tracker_)
+
+---
+
+#### **5. Waste Reduction and Recycling Enhancements**
+- **Cost:** Not specified
+- **Timing:** Continuous, with a focus on diverting more waste from landfills.
+- **Location:** Citywide, targeting residential and commercial waste.
+- **Attributes:** Includes reducing food waste in landfills and increasing paper and cardboard recyclables diversion. (_Chapter: Key Mitigation Strategies_)
+
+---
+
+#### **6. Economic and Equity-Focused Initiatives**
+- **Cost:** Ranges from minimal to substantial (>$1M).
+- **Timing:** Immediate to long-term projects, including post-disaster rebuilds.
+- **Location:** Targeted at low-income and historically underserved neighborhoods.
+- **Attributes:** Focus on providing renewable energy opportunities to low-income residents and rebuilding neighborhoods with an emphasis on climate equity. (_Mayor's Sustainability Advisory Committee Proposed Action Tracker_)
+
+---
+
+#### **7. Financial Mechanisms for Mitigation Projects**
+- **Cost:** Involves potential high costs in establishing a green finance task force.
+- **Timing:** Continuous adaptation to funding availability.
+- **Location:** Citywide initiatives, leveraging external funding.
+- **Attributes:** Utilizes innovative funding options such as Green Bonds, which provide both advantages and challenges, including additional paperwork and independent review costs. (_Chapter: Exhibit IV: Potential Funding and Financing Options for Sustainability_)
+
+---
+
+These mitigation options highlight the city's multi-faceted approach to reducing greenhouse gas emissions through various sectors and strategies, emphasizing renewable energy adoption, efficiency improvements, economic inclusivity, and innovative financial mechanisms.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Mitigation Options Identified in the Plan:**
+The plan identifies several **mitigation options**, under which various **strategies and actions** are categorized. Below is a summary of each identified mitigation option with relevant details regarding cost, timeframe, location, and other important attributes, as provided in the plan:
 
-1. **Decarbonization of the Electrical Grid**
-   - **Cost**: Not specified.
-   - **Timeframe**: Set a community-wide goal of 100% carbon-free electricity by a date certain (e.g., 2041).
-   - **Location**: City-wide initiative.
-   - **Attributes**: Actions include installing on-site solar, encouraging NES to offer net-metering, negotiating with TVA to increase renewables cap, and streamlining the process for solar installations. (*Chapter: Decarbonization of the electrical grid*)
+### **1. Decarbonization of the Electrical Grid**
+- **Cost:** Not specifically provided.
+- **Timeframe:** Aim for 100% carbon-free electricity by a certain date (e.g., 2041).
+- **Location:** City-wide, specifically involving NES and TVA.
+- **Important Attributes:**
+  - Emphasizes the installation of on-site solar systems.
+  - Goals for solar deployment, e.g., 20% by 2035.
+  - Encourages modification of TVA/NES contract to increase renewable capacity (Chapter: "Decarbonization of the electrical grid").
 
-2. **Electrification of Vehicles**
-   - **Cost**: Minimal for specific actions (e.g., requiring fast-charge stations).
-   - **Timeframe**: By 2025, require all gas stations to have fast-charge stations; start EV parking requirements at 5%, increasing by 1% annually.
-   - **Location**: City-wide, focusing on gas stations and parking facilities.
-   - **Attributes**: Encourages EV adoption and reduces greenhouse gas emissions. (*Chapter: Green Building*)
+### **2. Electrification of Vehicles**
+- **Cost:** Not specifically provided.
+- **Timeframe:** By 2025, install fast-charge stations.
+- **Location:** Gas stations and parking for new buildings.
+- **Important Attributes:**
+  - Encourage electrification of government and community motor vehicle fleets.
+  - Installation of fast-charge stations for EVs.
 
-3. **Electrification of Buildings**
-   - **Cost**: Substantial for net-zero buildings (more than $1M); minimal to moderate for energy efficiency improvements.
-   - **Timeframe**: Net zero new buildings required beginning in 2030.
-   - **Location**: New and renovated buildings throughout the city.
-   - **Attributes**: Focuses on improving energy efficiency, electrifying buildings, and adopting performance-based codes. (*Chapter: Green Building*)
+### **3. Electrification of Buildings**
+- **Cost:** Substantial capital costs (over $1 million) for new requirements.
+- **Timeframe:** Net-zero new buildings required by 2030.
+- **Location:** Applies to new and renovated buildings city-wide.
+- **Important Attributes:**
+  - Emphasis on improving energy efficiency and mandatory benchmarking.
+  - Requires parking for new buildings to have a proportion of EV charging (Chapter: "Improve Energy Efficiency in Commercial and Institutional Buildings").
 
-4. **Decreased Vehicle Miles Traveled**
-   - **Cost**: Not specified.
-   - **Timeframe**: Not specified.
-   - **Location**: Community-wide transportation initiatives.
-   - **Attributes**: Aims to reduce emissions from transportation. (*Chapter: Mitigation Strategies*)
+### **4. Increased Energy Efficiency in Buildings and Facilities**
+- **Cost:** Substantial (> $1M) for some strategies; minimal (< $100k) for others.
+- **Timeframe:** Ongoing updates; long-term goals.
+- **Location:** Commercial and institutional buildings throughout the city.
+- **Important Attributes:**
+  - Includes the requirement of performance-based codes.
+  - Establish green permitting to incentivize higher performance buildings.
 
-5. **Improved Energy Efficiency in Buildings**
-   - **Cost**: Varies from minimal to moderate depending on the action.
-   - **Timeframe**: Establish performance targets after benchmarking in place.
-   - **Location**: Commercial, institutional, and residential buildings.
-   - **Attributes**: Includes voluntary and mandatory benchmarking programs, performance-based codes, and green permitting to incentivize efficiency. (*Chapter: Green Building*)
+### **5. Reduced Disposal of Food Waste in Landfills**
+- **Cost:** Not specifically provided.
+- **Timeframe:** Not specifically provided.
+- **Location:** City-wide initiatives.
+- **Important Attributes:**
+  - Increase diversion of paper and cardboard recyclables.
 
-6. **Reduced Disposal of Food Waste in Landfills**
-   - **Cost**: Not specified.
-   - **Timeframe**: Not specified.
-   - **Location**: City-wide waste management.
-   - **Attributes**: Focused on increasing diversion of recyclables and reducing landfill waste. (*Chapter: Mitigation Strategies*)
+### **Funding and Financing Options**
+The plan also outlines potential funding mechanisms to support these mitigation efforts:
+- **Green Bonds:** Identified as a mechanism with pros and cons related to raising funds and labeling costs (Chapter: "Potential Funding and Financing Options for Sustainability").
 
-7. **Increased Diversion of Paper and Cardboard Recyclables**
-   - **Cost**: Not specified.
-   - **Timeframe**: Not specified.
-   - **Location**: Community-wide recycling efforts.
-   - **Attributes**: Part of broader waste reduction strategies. (*Chapter: Mitigation Strategies*)
-
-8. **Increase Green Infrastructure**
-   - **Cost**: Ranges from minimal to substantial depending on the project.
-   - **Timeframe**: Specific projects planned for the next five years.
-   - **Location**: Metro projects, with a focus on historically underserved neighborhoods.
-   - **Attributes**: Aims to improve water quality, save money, and enhance resiliency. (*Chapter: Natural Resources*)
-
-**Additional Notes:**
-- The plan emphasizes the importance of coordination among initiatives like decarbonizing the grid, electrifying vehicles, and buildings as they amplify each other's impact.
-- Leadership initiatives are crucial for engaging businesses and other stakeholders in implementation efforts.
-- Economic development and equity considerations are integral to the recommended actions, aiming to foster job creation and address disproportionate burdens on low-income households.
+These mitigation options provide a wide-ranging approach to reducing the city's carbon footprint through coordinated efforts spanning technology adoption, regulatory updates, and community engagement.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options, particularly in relation to natural resources and infrastructure improvements. Here is a summary of the adaptation options identified:
+Based on the provided excerpts from the plan, the adaptation options identified are as follows:
 
-### **1. Natural Resources Adaptation:**
+1. **Restoring the Natural Functions of the Landscape**  
+   - **Climate Threat Addressed:** This adaptation option addresses the threat of increased flooding and the impacts of extreme storms.
+   - **Plan Details:** 
+     - *Objective:* "Restore natural functions of the landscape to improve water quality, save money and improve resiliency."
+     - *Specific Actions:* Retrofit 10% of Metro's impervious surfaces that were built before storm water regulations were in place (e.g., depaving parking lots).
+     - *Attributes:* The plan emphasizes the importance of building a "spongy landscape" that can absorb and clean rainwater before it hits the streams, ultimately accommodating streams spilling out during heavy rains without causing damage (see Natural Resources Subcommittee).
 
-**Climate Threat Addressed:**
-- The adaptation options in the natural resources section primarily address climate threats related to increased flooding and extreme weather events, which are expected to become more frequent and severe due to climate change.
+2. **Preservation and Expansion of Green Infrastructure**  
+   - **Climate Threat Addressed:** Increased intensity of storms and subsequent flooding events.
+   - **Plan Details:**
+     - *Recommendations:* Protect and expand the City’s tree canopy, floodplains, stream channels, and open space. 
+     - *Attributes:* The Subcommittee stresses the need to enhance the environmental health of the city as a priority, stating, "This green infrastructure must be protected and expanded as the City grows and storms become more extreme" (see Natural Resources Subcommittee).
 
-**Information Provided:**
-- **Cost:** The plan does not provide specific cost estimates for the adaptation measures related to natural resources.
-- **Timeframe:** No specific timeframe is outlined in the plan for the implementation of these adaptation measures.
-- **Location:** The adaptation measures are city-wide, focusing on areas prone to flooding and those with significant impervious surfaces.
-- **Other Important Attributes:**
-  - The plan emphasizes restoring natural functions of the landscape to improve water quality and resilience. For example, recommendations include retrofitting 10% of Metro’s impervious surfaces that were built before stormwater regulations were in place, specifically targeting areas like the parking lots surrounding Nissan Stadium.
+3. **Open Space Utilization**  
+   - **Climate Threat Addressed:** Urban heat and increased storm frequency and intensity.
+   - **Plan Details:**
+     - *Recommendations:* Leverage open spaces for community benefits, such as engaging in community gardens and restoring historic grasslands.
+     - *Attributes:* There is a vision for Nashville to harmonize with its environment by providing community and wildlife benefits through its open space network, promoting both physical and mental well-being for residents (see Natural Resources Subcommittee).
 
-### **2. Resilience to Heat and Flood Risks:**
-
-**Climate Threat Addressed:**
-- The plan addresses the threat of increased heat and flood risks, which are particularly concerning for vulnerable populations.
-
-**Information Provided:**
-- **Cost:** The plan does not specify costs for increasing resilience to heat and flood risks.
-- **Timeframe:** There is no specific timeframe mentioned for increasing resilience to these climate threats.
-- **Location:** These measures are focused especially on areas where vulnerable populations reside, although specific locations are not detailed.
-- **Other Important Attributes:**
-  - The plan highlights the importance of increasing Nashville’s resilience to a changing climate and emphasizes mitigating heat and flood risks, particularly in vulnerable populations.
-
-These adaptation options aim to enhance the city's resilience to climate threats, though detailed plans regarding cost, timeframe, and specific locations are not extensively discussed in the document.
+The plan emphasizes the integration of these adaptation measures to not only address specific climate threats but also to improve the overall resilience of Nashville’s natural and urban systems. The descriptions focus more on strategic actions and impacts rather than specific cost, timeframe, or location for each option.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice, with a focus on addressing specific climate threats and the vulnerable populations most affected by these threats:
+The plan identifies several climate policies aimed at advancing climate justice by addressing specific climate threats and focusing on vulnerable populations. Below are the summarized policies, threats, and vulnerable populations:
 
 1. **Environmental Equity Task Force**
-   - **Climate Threat:** This policy addresses the broad climate threats of environmental and climate inequities, including impacts from air pollution and the exacerbation of health conditions such as asthma, hypertension, diabetes, and obesity.
-   - **Vulnerable Populations:** The policy is aimed at communities of color who are disproportionately impacted by these threats. These communities experience higher rates of health issues and are more affected by pollution due to the historical siting of landfills and industrial uses in their areas. The task force aims for procedural, distributional, and structural equity in decision-making and resource allocation. (_Environmental Equity Section_)
+   - **Climate Threat Addressed:** This policy does not address a specific climate threat directly but rather focuses on the overarching inequities that exacerbate climate vulnerabilities, particularly in marginalized communities.
+   - **Vulnerable Populations:** "Communities of color" who are disproportionately affected by environmental and climate inequities, such as higher rates of asthma, hypertension, diabetes, and obesity. These communities also experience significant energy burdens and health disparities. The plan specifically mentions that Black children are hospitalized for asthma attacks at twice the rate of white children (Environmental Equity section).
 
 2. **Green Jobs Initiative**
-   - **Climate Threat:** The focus is on the economic impacts of climate change, specifically the need for economic inclusion and job creation in the face of climate change.
-   - **Vulnerable Populations:** The initiative targets low-income communities and communities of color, providing job training in sectors like energy conservation and solar power projects to ensure these populations are included in the transition to a clean economy. (_Environmental Equity Section_)
+   - **Climate Threat Addressed:** This policy indirectly addresses employment-related impacts of climate change by providing sustainable economic opportunities, which is part of resilience-building efforts.
+   - **Vulnerable Populations:** Low-income communities and communities of color who face socio-economic vulnerabilities. The initiative includes job training components aimed at preparing these populations for careers in sectors like energy conservation, solar power, and landscaping (Environmental Equity section).
 
-3. **Energy Efficiency for Low-Income Households**
-   - **Climate Threat:** This policy addresses the threat of energy burden, which is the high cost of heating and cooling that contributes to poor health outcomes.
-   - **Vulnerable Populations:** The primary focus is on low-income and minority households who face significant hardships due to high energy costs. Improving energy efficiency in these households is seen as an opportunity to address both greenhouse gas emissions and social justice. (_Environmental Equity Section_)
+3. **Increase Energy Efficiency in Low-Income and Minority Households**
+   - **Climate Threat Addressed:** Economic vulnerability due to high energy burdens and the associated health impacts of inefficient housing.
+   - **Vulnerable Populations:** Low-income and minority households face significant energy burdens, leading to health issues. By improving energy efficiency, this policy aims to reduce GHG emissions while addressing social justice (Environmental Equity section).
 
-4. **Equity Screening Tool**
-   - **Climate Threat:** The tool is designed to evaluate whether climate change mitigation strategies support equity goals, addressing the threat of inequitable climate action that does not consider the needs of vulnerable populations.
-   - **Vulnerable Populations:** The tool will focus on communities disproportionately burdened by pollution and vulnerable to multiple sources of pollution, ensuring that climate actions advance equity. (_Environmental Equity Section_)
+4. **Equity Considerations in Climate Action Plan**
+   - **Climate Threat Addressed:** The plan addresses structural inequities that amplify climate vulnerabilities, such as through residential redlining and industrial siting.
+   - **Vulnerable Populations:** Communities of color and low-income communities who have historically been marginalized and economically disadvantaged due to systemic social inequities. The policy focuses on distributional and structural equity to ensure these populations are actively involved in decision-making processes (Environmental Equity section).
 
-These policies are designed to engage vulnerable populations in decision-making processes and ensure that the benefits of climate action are distributed fairly.
+5. **Equity Screening Tool**
+   - **Climate Threat Addressed:** Potential maladaptation or inequitable implementation of climate mitigation strategies.
+   - **Vulnerable Populations:** The screening tool is designed to ensure that climate actions support equity goals by evaluating their impacts on vulnerable populations, especially communities burdened by multiple sources of pollution and exposure (Environmental Equity section).
+
+These policies collectively intend to integrate equity into climate action, ensuring that the burdens and benefits of addressing climate change are distributed fairly across all communities.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, here are potential unforeseen maladaptive climate policies:
+Based on the content provided, the plan does not explicitly identify any specific policies as potentially maladaptive. However, the following considerations could suggest areas where maladaptation could arise, though they are hypothetical and may not be directly referenced as such in the text:
 
----
+1. **Land Use Policies**
 
-**Policy:** Land Use Policies
+   - **Climate Threat Addressed:**
+     - Greenhouse gas emissions from urban sprawl and transportation.
+   
+   - **Resilience, Mitigation, or Adaptation Option:**
+     - The plan proposes encouraging smart and compact development to "protect open space for parks, farmland and trees," and promote "transit-oriented, pedestrian-friendly development" to reduce reliance on single-occupancy vehicles (Chapter on Land Use).
+   
+   - **Potential for Maladaptation:**
+     - Compact development can lead to increased density without adequate infrastructure upgrades, which might result in increased urban heat island effects or water runoff issues. If not carefully managed, it could exacerbate vulnerabilities rather than ameliorate them.
 
-1. **Climate Threat Addressed:**
-   - Addressing greenhouse gas emissions and promoting sustainable development. "Land use policies are critically important to reducing greenhouse gas emissions." (*Land Use*)
+2. **Decarbonization of the Electrical Grid**
 
-2. **Resilience, Mitigation, or Adaptation Option:**
-   - Mitigation through smart and compact development to protect open spaces and promote sustainable transportation. "Smart and compact development serves to protect open space for parks, farmland and trees —all of which act as carbon sinks." (*Land Use*)
+   - **Climate Threat Addressed:**
+     - High greenhouse gas emissions from fossil fuel-based electricity.
+   
+   - **Resilience, Mitigation, or Adaptation Option:**
+     - The plan suggests accelerating adoption of renewable energy, setting a community-wide goal of 100% carbon-free electricity, and implementing solar deployment initiatives (Section on Key Mitigation Strategies).
+   
+   - **Potential for Maladaptation:**
+     - Rapid transition to renewables like solar without proper grid management may lead to energy reliability issues. Furthermore, improper disposal or recycling of solar panels can create waste management challenges.
 
-3. **Inadvertent Maladaptation:**
-   - Existing state laws impede compact development, leading to potentially increased emissions and environmental harm due to incentivized greenfield and suburban development. "Existing state laws impede Nashville’s ability to pursue compact development... thereby incentivizing shortsighted greenfield and suburban development." (*Land Use*)
+3. **Retrofitting Impervious Surfaces**
 
----
+   - **Climate Threat Addressed:**
+     - Urban flooding due to stormwater runoff.
+   
+   - **Resilience, Mitigation, or Adaptation Option:**
+     - Retrofitting 10% of Metro’s impervious surfaces, particularly in parking lots, to manage stormwater better (Natural Resources Subcommittee Recommendations).
+   
+   - **Potential for Maladaptation:**
+     - If retrofitting is insufficiently coordinated with larger watershed management efforts, it might simply redirect water to other vulnerable areas, potentially exacerbating flooding in those regions.
 
-**Policy:** Decarbonization of the Electrical Grid
-
-1. **Climate Threat Addressed:**
-   - Reducing greenhouse gas emissions from energy use. "The City needs to dramatically accelerate the adoption of renewable energy through a multifaceted approach." (*Key Mitigation Strategies*)
-
-2. **Resilience, Mitigation, or Adaptation Option:**
-   - Mitigation through increasing renewable energy adoption, including solar power. "Install on-site, behind-the-meter solar that offers cost savings to meet Metro and community goals." (*Key Mitigation Strategies*)
-
-3. **Inadvertent Maladaptation:**
-   - Without careful planning and infrastructure adjustments, rapid increases in solar adoption may lead to grid instability or increased reliance on non-renewable backup sources. "Coordination among the three major initiatives (decarbonizing the electrical grid, electrifying vehicles and electrifying buildings) is important because progress in each of these initiatives will amplify the impact of others." (*Key Mitigation Strategies*)
-
----
-
-These policies highlight the importance of considering broader systemic impacts and potential unintended consequences while designing climate strategies.
+While these do not explicitly label the policies as maladaptive in the document, they suggest areas where maladaptation risk should be evaluated to ensure that well-intentioned policies do not lead to adverse outcomes.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-**Mitigation Targets and Metrics:**
+The document describes several metrics and targets to measure the success of climate mitigation efforts:
 
-- The plan sets a **target of 80% reduction in annual greenhouse gas emissions from 2014 levels by 2050**. This is a specific numerical objective aligned with international targets (Chapter 7 RECOMMENDED TARGETS).
+- **Greenhouse Gas Emissions Reduction Targets:**
+  - The plan recommends a "Metro government and community-wide target of 80% reduction in annual greenhouse gas emissions from 2014 levels by 2050" (Section: Recommended Targets).
+  
+- **Air Quality and Health Benefits:**
+  - The introduction of renewable energy and reduction in vehicle use is linked to health benefits with studies estimating "air quality and health benefits valued at $77–$298 billion" through increased solar energy (Section: Health Benefits).
+  - "Average health co-benefits of $148 per ton of carbon dioxide equivalent due to reduced particulate matter and ground-level ozone" are reported when carbon emissions are reduced by 14% (Section: Health Benefits).
 
-**Co-Benefits and Quantifiable Impacts:**
+- **Electricity and Transportation:**
+  - Recommendations include actions such as requiring "gas stations to have fast-charge (400V) stations for electric vehicles (EVs)" by 2025 (Section: Green Building - Improve Energy Efficiency).
+  - By 2025, parking for new buildings must have a certain proportion of EV charging stations, starting at 5% and increasing by 1% per year (Section: Green Building - Improve Energy Efficiency).
 
-- **Health Benefits:** The plan references studies that estimate air quality and health benefits valued at $77–$298 billion by increasing solar energy in the U.S. by 27% by 2050 (CO-BENEFITS, Health Benefits). Another study cited suggests that reducing carbon emissions by 14% could lead to health co-benefits of $148 per ton of CO₂ equivalent due to reduced particulate matter and ground-level ozone (CO-BENEFITS, Health Benefits).
+- **Energy Efficiency in Buildings:**
+  - Goals include improving energy efficiency and electrifying new and renovated buildings, with longer-term targets for net zero new buildings by 2030 (Section: Green Building - Improve Energy Efficiency).
 
-- **Multimodal Transportation:** A study indicates eliminating vehicle round trips of ≤ 5 miles in certain metropolitan areas could result in net health benefits of $4.94 billion per year (CO-BENEFITS, Health Benefits).
-
-**Specific Goals and Deadlines:**
-
-- By **2030**, achieve standards that result in average health co-benefits of $148 per ton of CO₂ equivalent (CO-BENEFITS, Health Benefits).
-
-- **Renewable Energy Goals:** The plan mentions the importance of increasing renewable energy capacity to make Nashville more attractive to companies with GHG reduction commitments (Economic Development).
-
-**Economic Development Metrics:**
-
-- The availability of renewable energy is noted as a factor influencing business location decisions, with close to half of Fortune 500 companies setting carbon reduction targets (Economic Development).
-
-**Equity and Energy Efficiency:**
-
-- The plan includes recommendations to assist low-income households with weatherization, projected to reduce the City’s carbon footprint and address energy burdens (Equity).
-
-**Leadership and Implementation:**
-
-- The plan emphasizes the role of leadership initiatives in achieving carbon reductions and implementing climate action plans, although specific metrics for this are not detailed (LEADERSHIP INITIATIVES).
-
-**Forks in the Road/Lock-In Effects:**
-
-- The plan stresses the need to avoid decisions that preclude achieving long-range targets, such as failing to update energy building codes or purchasing new diesel bus fleets, but does not specify metrics for success (FORKS IN THE ROAD/LOCK-IN EFFECTS).
-
-Overall, the plan sets specific numerical targets for emissions reductions and provides examples of potential economic and health benefits, but it does not detail specific units or metrics for all adaptation, resilience, and mitigation options.
+These elements offer a blend of specific targets, such as percentage reductions in emissions, alongside financial and health-related benchmarks used for evaluating the success of implemented measures.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Location/City Name | Population | Threats Identified                                                                                                   | Measures Identified                                                                                                                                                                                                                                                                                                                                                   |
-|--------------------|------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nashville          | Not specified in the document | - Increased number of intense storms and tornadoes<br>- More frequent flooding<br>- Extreme heat days<br>- Economic and social disruptions due to climate change elsewhere | - Retrofit 10% of Metro’s impervious surfaces built before stormwater regulations<br>- Convert 500 acres of turf to historic grasslands<br>- Cap I-40 for connectivity and green space<br>- Reimagine flood mitigation strategies on the east bank of Cumberland River<br>- Conserve and sustainably manage lands throughout Davidson County |
+| Location/City Name | Population | Threats Identified                                                                                     | Measures Identified                                                                                                                                                                                                                                                                       |
+|--------------------|------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nashville, TN      | Not specified in the document | - Increased number of intense storms and tornadoes<br>- More frequent flooding<br>- Extreme heat | - Restore natural functions of the landscape<br>- Retrofit 10% of Metro’s impervious surfaces<br>- Increase green infrastructure on Metro projects<br>- Develop green infrastructure strategy<br>- Use native species and natural landscapes for climate resiliency<br>- Create dedicated funding streams for conservation |
 ```
-

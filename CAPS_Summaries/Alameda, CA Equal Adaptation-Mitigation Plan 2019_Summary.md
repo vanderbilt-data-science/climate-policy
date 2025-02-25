@@ -1,431 +1,403 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-Based on the provided excerpts from the plan, here is the information describing the physical and economic landscape of the planning jurisdiction:
+**Planning Jurisdiction: City of Alameda**
 
-### Planning Jurisdiction Overview
+- **Location:** Alameda is located in the San Francisco Bay Area. It is described as a low-lying island city, indicating a location adjacent to water bodies, specifically the San Francisco Bay.
+  
+- **Population & Demographics:** The plan mentions a significant population of households that speak English less than very well, with almost half of these households primarily speaking Chinese. It also highlights a high rate of transit dependence among low-income households within 14 of the most vulnerable block groups.
+  
+- **Average Income:** The average income is not explicitly mentioned, but the plan refers to a large proportion of low-income households indicating economic diversity or challenges.
 
-- **Name and Location:** The plan pertains to the City of Alameda, located in the San Francisco Bay Area, California.
-- **Geographic Features:** Alameda is characterized by its location as a low-lying island city in the San Francisco Bay. Major geographic features include the shoreline, which is crucial as the city is vulnerable to sea level rise and flooding. There is no mention of mountains, rivers, or deserts within the provided excerpts.
-- **Key Infrastructure:** The city is impacted by infrastructure such as the Oakland Airport, which is nearby, and transportation corridors like Doolittle Drive. The Port of Oakland is also mentioned as a key infrastructure component affecting Alameda.
+- **Major Geographic Features:** 
+  - Alameda is described as a low-lying island city, indicating proximity to water and potential vulnerability to sea level rise. 
+  - The northern waterfront of Alameda is characterized by remnants of a naval and industrial waterfront past, and there are undeveloped areas concentrated at Alameda Point and the northern waterfront.
 
-### Demographics and Economy
+- **Key Infrastructure:** 
+  - The plan mentions the **Oakland Airport** as part of the complexities of flood risks in Alameda.
+  - The **Port of Oakland** is a crucial part of the regional infrastructure affecting Alameda’s planning and adaptation efforts.
+  
+- **Local Climate & Water Challenges:**
+  - Alameda is preparing for climate change impacts such as increased flooding, drought, heat waves, and unhealthy air quality. 
+  - Specific concerns include sea level rise and storm-event flooding, indicating challenges related to water and climate.
 
-- **Population and Demographics:** Specific population statistics and demographic details are not provided in the excerpts.
-- **Economic Landscape:** The City of Alameda aims to evolve into a thriving and resilient economy with a commitment to environmental sustainability, climate action, social equity, and fiscal health. The city targets sectors like Clean Tech, Green Tech, and Blue Tech as important components for growth and economic performance.
-- **Average Income:** The excerpts do not specify the average income of the city's residents.
+- **Energy Production & Natural Resources:** 
+  - The plan does not provide details about energy production like oil, gas, or renewables specific to Alameda. However, it mentions a focus on making sustainability improvements to reduce GHG emissions, implying efforts towards greener, renewable energy solutions.
+  
+- **Industries and Economic Drivers:**
+  - The plan highlights economic sectors targeted for growth, including **Clean Tech, Green Tech, and Blue Tech**. 
+  - Alameda is characterized as evolving into a thriving and resilient economy with commitments to environmental sustainability, climate action, social equity, and fiscal health.
+  - The plan indicates commitments to align economic growth with climate action through sectors integral to sustainability and resilience.
+  - The **Economic Development Strategic Plan** includes creating sufficient transportation choices and housing as part of an economic strategy emphasizing sustainability.
 
-### Climate and Environmental Challenges
-
-- **Climate:** Alameda faces challenges related to its climate, including vulnerability to extreme heat, wildfires, and sea level rise. The plan addresses issues such as reducing the heat island effect and protecting public health from smoke impacts during wildfire events.
-- **Water Challenges:** The plan mentions stormwater system vulnerabilities due to sea level rise, which indicates water management as a significant challenge.
-
-### Energy Production and Natural Resources
-
-- **Energy Production:** The plan does not detail specific energy production methods such as oil, gas, or renewables within the city.
-- **Natural Resources:** There is a focus on environmental sustainability, with an emphasis on reducing GHG emissions and environmental impacts.
-
-### Industries and Economic Drivers
-
-- **Key Industries:** Targeted industries include Clean Tech, Green Tech, and Blue Tech. The Economic Development Strategic Plan aligns with the Climate Action Plan to support these sectors and ensure economic growth while maintaining environmental sustainability.
-
-### Summary
-
-The City of Alameda is a coastal city with significant infrastructure and economic ties to the San Francisco Bay Area. It faces environmental challenges related to climate change, including sea level rise and air quality issues from wildfires. The city's economic strategy focuses on sustainable development and the growth of technology sectors that align with climate action goals.
+The information provided suggests a jurisdiction that is integrating climate resilience and adaptation with economic development, sustainability, and infrastructure planning, while responsive to its unique geographic vulnerabilities and diverse community needs.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-The plan addresses resilience, mitigation, and adaptation through a comprehensive approach that combines these elements to tackle climate change in Alameda. Below is a summary of how the plan addresses each component:
-
 **Resilience:**
-- The plan emphasizes building resilience to climate change as crucial for ensuring the long-term viability of Alameda and the health of its residents. It outlines strategies for building climate resilience and supporting community health and safety. Specific goals include protecting assets from sea level rise, increasing stormwater system resilience, and protecting public health from extreme heat and wildfire smoke impacts. The plan states: "Building resilience to climate change in Alameda is crucial for ensuring the long-term viability of our city and the health of our residents." (Chapter 4, "Adapting to Climate Change")
+
+The plan emphasizes the importance of building resilience to climate change, particularly due to Alameda's setting as a low-lying island city. It addresses resilience by focusing on specific climate impacts such as sea level rise, inland flooding, drought, extreme heat, wildfires, and earthquakes, ensuring that measures are in place to protect public health, infrastructure, and vulnerable populations. For example, one of its goals is to "Protect assets from sea level rise and storm surges, plan future land use to avoid impacts, and enhance natural shoreline habitat to mitigate impacts" (Chapter 1).
 
 **Mitigation:**
-- The plan includes ambitious goals for reducing GHG emissions, aiming to reduce emissions to 50% below 2005 levels by 2030 and achieve net zero emissions as soon as possible. Mitigation strategies focus on transportation, building management, waste management, and carbon sequestration. The plan mentions: "Alameda is reducing GHG emissions by making sustainability improvements to the city’s buildings, transportation, waste management, and trees and parks." (Chapter 1, "Background")
+
+The plan includes ambitious goals for greenhouse gas (GHG) reduction, aiming to reduce emissions to 50 percent below 2005 levels by 2030 and achieve net zero emissions as soon as possible. Mitigation efforts are seen through strategies in transportation, building management, waste management, and carbon sequestration. For example, "Alameda is reducing GHG emissions by making sustainability improvements to the city’s buildings, transportation, waste management, and trees and parks" (Chapter 1).
 
 **Adaptation:**
-- Adaptation is addressed through strategies to minimize harm and exploit opportunities from climate impacts, such as sea level rise, flooding, drought, and extreme heat. The plan presents a framework for preparing for an uncertain future and identifies specific adaptation-focused components that are revisited as conditions change. The plan states: "To systematically tackle an issue as complex as climate change, each major climate impact (e.g., flooding, extreme heat) is considered in turn, as is each major sector of the built environment." (Chapter 4, "Adapting to Climate Change")
+
+The plan outlines short- and long-term strategies for addressing climate impacts. Adaptation is addressed through actions such as increasing the resiliency and capacity of the stormwater system to prevent flooding, reducing water consumption, and implementing drought-resistant landscaping. The plan recognizes the unforeseeable future and emphasizes "a framework that allows Alameda to prepare for an uncertain, longer-term future while making wise use of current resources" (Chapter 4).
 
 **Classification:**
-Based on the comprehensive approach to both reducing GHG emissions and preparing for climate impacts, the plan can be classified as an **equal mitigation and adaptation climate action plan**. It integrates both mitigation and adaptation strategies to enhance Alameda's resilience and sustainability in the face of climate change.
+
+Based on the summary provided, the plan can be classified as an **equal mitigation and adaptation climate action plan**. It places a significant emphasis on both reducing GHG emissions and addressing existing and future climate impacts through adaptive resilience strategies.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes various scenarios of climate change that the planning jurisdiction, Alameda, will face, and for which it is planning climate policies for resilience, mitigation, and adaptation.
+Yes, the plan describes various scenarios of climate change that Alameda is preparing for, focusing on sea level rise and storm surge impacts. It includes specific projections for sea level rise and corresponding flood risks. 
 
-**Scenarios of Climate Change:**
+### **Sea Level Rise Projections:**
 
-- **Sea Level Rise and Flooding:** The plan discusses scenarios of permanent sea level rise and temporary flooding due to storm surge events. The scenarios include projections such as a "MHHW + approximately 24 inches of sea level rise by 2050; and MHHW + 71 inches to 83 inches of sea level rise by 2100" (Chapter 4, Adapting to Climate Change | 72).
+- **By 2050:** 
+  - "MHHW + approximately 24 inches of sea level rise" (Chapter 4).
 
-- **Extreme Weather Events:** The region is planning for increased flooding, drought, heat waves, and unhealthy air quality (Chapter 1, Background | 3).
+- **By 2100:** 
+  - "MHHW + 71 inches to 83 inches of sea level rise" with consideration for storm surge (Chapter 4).
 
-- **Wildfires:** Scenarios also include the impact of smoke from wildfires, especially affecting vulnerable populations (Chapter 4, Adapting to Climate Change | 44).
+### **Flooding Scenarios:**
 
-- **Liquefaction and Earthquakes:** The plan anticipates the need to ensure building and infrastructure retrofit to consider both seismic risk and sea level rise impacts (Chapter 4, Adapting to Climate Change | 44).
+- **50-year storm with 6” SLR + 25-year storm, 12” SLR + 5-year storm, up to 36” SLR Immediate (storm risk) before 2030**: 
+  - Planning for temporary and long-term flooding impacts (Chapter 4).
 
-These scenarios guide the development of climate policies for resilience, mitigation, and adaptation as part of Alameda's comprehensive planning approach to address climate change impacts.
+- **100-year storm with 42” SLR Immediate (storm risk) by 2070+**:
+  - Planning and adaptations are aligned with state guidance, focusing on medium-high risk aversion and high emissions scenarios (Chapter 4).
+
+Alameda is also considering projections "aligned with the California OPC’s sea level rise guidance, giving more weight to the 'medium-high risk aversion' scenario and higher GHG emissions scenarios" (Chapter 4).
+
+These scenarios are used to guide specific adaptations and resilience strategies, such as protecting assets from sea level rise, enhancing natural shoreline habitat, and planning for infrastructure retrofits considering both seismic risk and sea level rise impacts (Chapter 4).
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Sea Level Rise and Storm Surge**  
-   - **Climate Hazard:** The plan highlights sea level rise and storm surge as a critical concern due to Alameda's setting as a low-lying island city.  
-   - **Climate Risks:** It poses risks to assets and infrastructure, necessitating the protection of assets, future land use planning to avoid impacts, and enhancement of natural shoreline habitat to mitigate impacts (Chapter 4 Adapting to Climate Change | 44).  
-   - **Vulnerable Areas/Populations:** Areas with location-based priority flooding have high exposure to projected sea level rise and experience substantial consequences from impacts (Chapter 4 Adapting to Climate Change | 57).
+**1. Sea Level Rise and Storm Surge**
 
-**2. Inland Flooding**  
-   - **Climate Hazard:** Inland flooding is associated with extreme precipitation events that challenge the stormwater system's capacity.  
-   - **Climate Risks:** This hazard increases the risk of flooding of assets, preventing access to safety or healthcare facilities due to flooded roads or public transit routes (Chapter 4 Adapting to Climate Change | 70).  
-   - **Vulnerable Areas/Populations:** Vulnerable block groups with high transit dependence and low-income households are particularly at risk (Chapter 4 Adapting to Climate Change | 65).
+- **Climate Hazard:** The plan identifies sea level rise and storm surge as significant concerns for Alameda, especially given its setting as a low-lying island city.
+ 
+- **Climate Risks:** The potential impacts include flooding of assets and infrastructure, with significant challenges arising from rising sea levels and storm surges that can flood the shoreline areas.
+ 
+- **Areas or Populations with Most Climate Vulnerability:** Communities and infrastructure located near the shoreline are particularly vulnerable, with detailed assessments provided during the vulnerability assessment process to identify high-risk locations (Chapter 4).
 
-**3. Drought**  
-   - **Climate Hazard:** Drought conditions lead to water scarcity and stress on water resources.  
-   - **Climate Risks:** The plan notes the need to reduce water consumption and increase drought-resistant landscaping to mitigate impacts (Chapter 4 Adapting to Climate Change | 44).  
-   - **Vulnerable Areas/Populations:** Populations relying on current water systems without drought-resistant measures are more vulnerable.
+**2. Inland Flooding**
 
-**4. Extreme Heat**  
-   - **Climate Hazard:** Extreme heat events are becoming more frequent and severe.  
-   - **Climate Risks:** Vulnerable populations, including the elderly and those with limited access to air conditioning, face heat exhaustion, stroke, and difficulty breathing. Heat combined with air pollution exacerbates the impacts (Chapter 4 Adapting to Climate Change | 70).  
-   - **Vulnerable Areas/Populations:** Vulnerable populations include the elderly, infants, those with existing health conditions, and those with limited resources to purchase air conditioning (Chapter 4 Adapting to Climate Change | 70).
+- **Climate Hazard:** Inland flooding primarily results from extreme precipitation events that can exceed the capacity of the stormwater system.
+  
+- **Climate Risks:** This could lead to asset flooding, impacting safety and health, as well as preventing access to healthcare facilities due to flooded roads or public transit routes.
 
-**5. Wildfires**  
-   - **Climate Hazard:** Wildfire smoke poses significant health risks.  
-   - **Climate Risks:** The plan highlights the need to protect public health from smoke impacts during wildfire events, especially for vulnerable populations (Chapter 1 Background | 6).  
-   - **Vulnerable Areas/Populations:** Vulnerable populations include those with existing health conditions and those without adequate resources to mitigate smoke impacts (Chapter 4 Adapting to Climate Change | 70).
+- **Areas or Populations with Most Climate Vulnerability:** Populations relying on the existing stormwater infrastructure and residing in low-lying areas are particularly vulnerable (Chapter 4).
 
-**6. Liquefaction/Earthquakes**  
-   - **Climate Hazard:** Liquefaction and earthquakes pose a combined risk, especially in areas with high seismic activity.  
-   - **Climate Risks:** Ensuring building and infrastructure retrofits consider both seismic risk and sea level rise impacts is crucial (Chapter 1 Background | 6).  
-   - **Vulnerable Areas/Populations:** Areas at high risk of liquefaction are particularly vulnerable to the combined impacts of seismic activity and sea level rise (Chapter 4 Adapting to Climate Change | 44).
+**3. Drought**
+
+- **Climate Hazard:** Drought is identified as a climate hazard due to reduced precipitation.
+  
+- **Climate Risks:** It poses the risk of water shortages and increases the necessity for water-efficient practices.
+  
+- **Areas or Populations with Most Climate Vulnerability:** Populations and sectors that are highly dependent on consistent water availability, including those with drought-sensitive landscaping, are vulnerable (Chapter 4).
+
+**4. Extreme Heat**
+
+- **Climate Hazard:** More extreme heat events are anticipated, representing a major public health risk.
+  
+- **Climate Risks:** Risks include heat exhaustion, stroke, and death, particularly impacting vulnerable populations without adequate shade or air conditioning.
+
+- **Areas or Populations with Most Climate Vulnerability:** Vulnerable populations include the elderly, infants, those with preexisting health conditions, and those with limited resources to purchase air conditioning (Chapter 4).
+
+**5. Wildfires**
+
+- **Climate Hazard:** Wildfires and associated smoke pose significant health risks.
+  
+- **Climate Risks:** Public health is at risk from smoke impacts, particularly among populations with respiratory illnesses or vulnerabilities.
+
+- **Areas or Populations with Most Climate Vulnerability:** Vulnerable populations include those with respiratory issues and low-income communities who may have limited shelter options (Chapter 4).
+
+**6. Liquefaction/Earthquakes**
+
+- **Climate Hazard:** Liquefaction in the event of earthquakes is a significant risk.
+  
+- **Climate Risks:** Infrastructure and buildings may be damaged, posing safety risks.
+
+- **Areas or Populations with Most Climate Vulnerability:** Locations with high seismic and liquefaction risks, particularly those at risk of combined impacts of sea level rise and liquefaction during quakes, are most vulnerable (Chapter 4).
+  
+Each of these hazards has been highlighted in the plan with specific strategies and goals to effectively address and manage these risks (Chapter 4).
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+### Resilience Options Identified in the Plan
 
-1. **Condition Building in High-Risk Zones to Incorporate Adaptive Strategies**
+#### 1. Increasing Land Use Resiliency
+- **Climate Threat Addressed:** Sea Level Rise
+- **Details:**
+  - **Cost:** Medium ($$)
+  - **Timeframe:** Medium (< 10 years)
+  - **Location & Details:** Update master plans and City ordinances to incorporate adaptation strategies (Chapter 4, Table 4-20).
+- **Attributes:**
+  - Economic consideration of zoning overlays for property development (Chapter 4, Table 4-20).
 
-   - **Climate Threat Addressed:** *Sea level rise and storm surge.*
-   - **Cost, Timeframe, and Location:** 
-     - *Relative Cost:* $$ 
-     - *Timeline:* Medium 
-     - *Responsible Entity:* City of Alameda
-     - *Location Reference:* Update all master plans and City ordinances governing land use to incorporate adaptation strategies outlined in the CARP. (Chapter 4, Table 4-20)
-   - **Other Important Attributes:** Emphasizes updating city planning and ordinances to adapt to climate threats.
+#### 2. Limiting Building and Encouraging Open Space in Risk Zones
+- **Climate Threat Addressed:** Sea Level Rise
+- **Details:**
+  - **Cost:** Low ($)
+  - **Timeframe:** Short (< 5 years) to Medium (5-10 years)
+  - **Location & Details:** Prioritize open-space protection; develop strategic open-space planning in near-shore areas (Chapter 4, Table 4-20).
+- **Attributes:**
+  - Focuses on maintaining open spaces, and economic aspects via zoning and development rights (Chapter 4, Table 4-20).
 
-2. **Limit Building and Encourage Open Space in Risk Zones**
+#### 3. Encouraging Development in Lower-Risk Areas
+- **Climate Threat Addressed:** General Climate Risks
+- **Details:**
+  - **Cost:** Medium ($$)
+  - **Timeframe:** Medium (5-10 years)
+  - **Location & Details:** Develop incentives like density bonuses and reduced impact fees for cluster development (Chapter 4, Table 4-20).
+- **Attributes:**
+  - Economic incentives for development in lower-risk areas (Chapter 4, Table 4-20).
 
-   - **Climate Threat Addressed:** *Sea level rise.*
-   - **Cost, Timeframe, and Location:**
-     - *Relative Cost:* $ 
-     - *Timeline:* Short 
-     - *Responsible Entity:* City of Alameda and EBRPD
-     - *Location Reference:* Develop and implement policies for open-space protection and restoration. (Chapter 4, Table 4-20)
-   - **Other Important Attributes:** Encourages strategic planning for inundation and containment areas in near-shore green spaces.
+#### 4. Shoreline, Natural, and Recreation Area Resilience
+- **Climate Threat Addressed:** Flooding, Sea Level Rise
+- **Details:**
+  - **Cost:** Varied ($ to $$$)
+  - **Timeframe:** Short- to Long-Term
+  - **Location & Details:** Conduct shoreline assessments; focus on deferred maintenance (Chapter 4, Table 4-21).
+- **Attributes:**
+  - Environmental focus on maintaining shoreline structures and collaborative processes (Chapter 4, Table 4-21).
 
-3. **Encourage Development in Lower-Risk Areas**
+#### 5. Collaborative Shoreline Decision-Making
+- **Climate Threat Addressed:** Flooding, Sea Level Rise
+- **Details:**
+  - **Cost:** Low ($)
+  - **Timeframe:** Short (< 5 years)
+  - **Location & Details:** Involve in BCDC's Bay Fill Policy, collaborate with Port of Oakland and Caltrans (Chapter 4, Table 4-21).
+- **Attributes:**
+  - Collaboration with various stakeholders, emphasizing socio-economic and environmental benefits (Chapter 4, Table 4-21).
 
-   - **Climate Threat Addressed:** *General climate resilience.*
-   - **Cost, Timeframe, and Location:**
-     - *Relative Cost:* $$ 
-     - *Timeline:* Medium 
-     - *Responsible Entity:* City of Alameda
-     - *Location Reference:* Develop incentives for cluster development in low-risk areas. (Chapter 4, Table 4-20)
-   - **Other Important Attributes:** Economic incentives like density bonuses and tax incentives are considered to promote safer development.
-
-4. **Disclose Shoreline Risks**
-
-   - **Climate Threat Addressed:** *Sea level rise and flood risk awareness.*
-   - **Cost, Timeframe, and Location:**
-     - *Relative Cost:* $ 
-     - *Timeline:* Short 
-     - *Responsible Entity:* City of Alameda
-     - *Location Reference:* Facilitate disclosure requirements for real estate regarding future flood and groundwater exposure. (Chapter 4, Table 4-20)
-   - **Other Important Attributes:** Aims to increase transparency and awareness among property owners and potential buyers.
-
-5. **Maintain, Repair, and Raise Shoreline Structures**
-
-   - **Climate Threat Addressed:** *Flooding and sea level rise.*
-   - **Cost, Timeframe, and Location:**
-     - *Relative Cost:* $ to $$$ (long-term management plan; cost varies over time)
-     - *Timeline:* Short-term initiation 
-     - *Responsible Entity:* City of Alameda
-     - *Location Reference:* Conduct comprehensive assessment and implement maintenance plans for shoreline structures. (Chapter 4, Table 4-21)
-   - **Other Important Attributes:** Focuses on infrastructure resilience and reducing deferred maintenance to prevent overtopping and inundation.
-
-6. **Develop Processes for Collaborative Shoreline Decision-Making**
-
-   - **Climate Threat Addressed:** *Flooding and sea level rise.*
-   - **Cost, Timeframe, and Location:**
-     - *Relative Cost:* $ 
-     - *Timeline:* Short 
-     - *Responsible Entity:* City of Alameda and EBRPD
-     - *Location Reference:* Collaborate with various stakeholders for shared decision-making and management. (Chapter 4, Table 4-21)
-   - **Other Important Attributes:** Encourages cooperative management and considers sustainability through societal, economic, environmental, and governance lenses.
-
-These resilience options highlight the planning jurisdiction's proactive approach to addressing the specific threats posed by climate change, particularly concerning sea level rise and flooding, through strategic planning, policy updates, and collaborative efforts.
+These strategies highlight a comprehensive approach towards enhancing resilience by integrating economic, environmental, and social factors into the planning and decision-making process for the City of Alameda.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options and provides the following details:
+**Mitigation Options Identified in the Plan:**
 
-### **1. Encourage Installation of Solar Panels and Storage**
-- **Description:** Incentivize installation of solar panels on existing rooftops and solar canopies over parking lots, in conjunction with changing parking surfaces to water-permeable materials to lessen stormwater runoff.
-- **Relative Cost:** $$ (Medium cost)
-- **Responsible Entity:** City of Alameda
-- **Timeline:** Medium (Five to 10 years)
-- **Location:** Existing rooftops and parking lots
-- **Other Attributes:** This measure aims to promote renewable energy and reduce stormwater runoff through infrastructure modifications. (Chapter 4, Adapting to Climate Change | 90)
+1. **Encourage Installation of Solar Panels and Storage**
 
-### **2. Modify Building Codes to Encourage Implementation of Heat Reduction Techniques**
-- **Description:** Review building codes and identify provisions for encouraging/requiring the installation of cool roofs, green roofs, and/or other energy-efficient cool building methods.
-- **Relative Cost:** $$ (Medium cost)
-- **Responsible Entity:** City of Alameda
-- **Timeline:** Short (< Five years)
-- **Location:** New development and substantial redevelopment projects
-- **Other Attributes:** These methods mitigate heat impacts and reduce runoff, particularly in heat island areas. Prioritization and incentives for cool/green roofs are considered. (Chapter 4, Adapting to Climate Change | 90)
+   - **Action(s):** "Incentivize installation of solar panels on existing rooftops and solar canopies over parking lots (in conjunction with changing parking surfaces to water-permeable materials to lessen stormwater runoff)." 
+   - **Relative Cost:** $$ (medium cost)
+   - **Responsible Entity:** City of Alameda
+   - **Timeline:** Medium
+   - **Other Attributes:** This action is likely intended to reduce reliance on non-renewable energy sources and promote sustainable energy utilization.
 
-### **3. Use Open Space for Flood Control**
-- **Description:** Explore opportunities to collaborate with the golf course on flood control measures.
-- **Relative Cost:** $$ (Medium cost)
-- **Responsible Entity:** City of Alameda
-- **Timeline:** Long (> 10 years)
-- **Location:** Golf course area
-- **Other Attributes:** This option considers using open space strategically for flood mitigation purposes. (Chapter 4, Adapting to Climate Change | 98)
+2. **Modify Building Codes to Encourage Implementation of Heat Reduction Techniques**
 
-These mitigation options are part of the broader strategies to address climate change impacts and build resilience within the planning jurisdiction.
+   - **Action(s):** "Review building codes and identify provisions for encouraging/requiring the installation of cool roofs, green roofs, and/or other energy-efficient cool building methods."
+   - **Relative Cost:** $$ (medium cost)
+   - **Responsible Entity:** City of Alameda
+   - **Timeline:** Short
+   - **Other Attributes:** The methods will mitigate heat impacts and reduce runoff (green roofs) for new development and substantial redevelopment involving roof repair/replacement, prioritizing and incentivizing these techniques in heat island areas. 
+
+These options are designed to incentivize and enforce practices that reduce greenhouse gas emissions, enhance energy efficiency, and support heat management in the built environment.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, each with specific attributes such as cost, timeframe, and responsible entities. Below is a summary of the provided information for each identified mitigation option:
+The plan identifies several mitigation options, each with different attributes. Below is a summary of the relevant information for each option:
 
-### Mitigation Options
+**1. Installation of Solar Panels and Storage**
 
-1. **Encourage installation of solar panels and storage**
-   - **Cost:** $$ (medium cost)
-   - **Timeframe:** Medium
-   - **Location:** Existing rooftops and parking lots
-   - **Attributes:** The plan suggests incentivizing the installation of solar panels on existing rooftops and solar canopies over parking lots. This initiative is in conjunction with changing parking surfaces to water-permeable materials to lessen stormwater runoff.
-   - **Responsible Entity:** City of Alameda
-   - **Citation:** (Chapter 4, Adapting to Climate Change | 90)
+- **Action(s):** Incentivize the installation of solar panels on existing rooftops and solar canopies over parking lots.
+- **Cost:** $$ (medium cost)
+- **Timeframe:** Medium term
+- **Responsible Entity:** City of Alameda
+- **Location:** Not specified, applicable citywide.
 
-2. **Modify building codes to encourage implementation of heat reduction techniques**
-   - **Cost:** $$ (medium cost)
-   - **Timeframe:** Short
-   - **Location:** Applicable to new development and substantial redevelopment involving roof repair/replacement.
-   - **Attributes:** The plan recommends reviewing building codes to encourage or require the installation of cool roofs, green roofs, and other energy-efficient cool building methods. These methods aim to mitigate heat impacts and reduce runoff, particularly prioritizing heat island areas.
-   - **Responsible Entity:** City of Alameda
-   - **Citation:** (Chapter 4, Adapting to Climate Change | 90)
+**2. Encourage Retrofit Efforts to Reduce the Impact of Earthquakes and Liquefaction**
 
-3. **Engage the community in climate adaptation efforts and build grassroots support**
-   - **Cost:** $ (low cost)
-   - **Timeframe:** Short
-   - **Location:** Community-wide, with a focus on vulnerable neighborhoods and underserved populations.
-   - **Attributes:** The plan suggests encouraging urban farming and Climate Victory Gardens as a means of sequestration and resilience. It includes creating rooftop and vertical gardens, converting vacant lots to community gardens, and fostering partnerships with community-based gardening organizations.
-   - **Responsible Entity:** City of Alameda
-   - **Citation:** (Chapter 4, Adapting to Climate Change | 98)
+- **Action(s):** Explore incorporation of new requirements for development permits to increase building resilience to liquefaction; expand existing retrofit programs.
+- **Cost:** $$$ (high cost)
+- **Timeframe:** Medium term
+- **Responsible Entity:** City of Alameda
+- **Location:** Specifically areas built on fill and more susceptible to liquefaction, such as Alameda Point.
 
-4. **Engage the community in climate adaptation efforts and build grassroots support (Pilot Projects)**
-   - **Cost:** $ (low cost)
-   - **Timeframe:** Short
-   - **Location:** Neighborhood-based
-   - **Attributes:** The plan encourages launching neighborhood-based pilot projects to test new ideas, foster creativity and ownership, and combine multiple strategies across vulnerabilities such as heat, drought, and flooding.
-   - **Responsible Entity:** City of Alameda
-   - **Citation:** (Chapter 4, Adapting to Climate Change | 98)
+**3. Modification of Building Codes to Encourage Heat Reduction Techniques**
 
-These mitigation options are designed to reduce greenhouse gas emissions and promote sustainable practices within the community. The plan outlines these strategies with considerations for cost-effectiveness, community involvement, and integration with existing infrastructure and planning efforts.
+- **Action(s):** Review building codes to encourage/requiring cool/green roofs and other energy-efficient techniques.
+- **Cost:** $$ (medium cost)
+- **Timeframe:** Short term
+- **Responsible Entity:** City of Alameda
+- **Location:** Prioritize heat island areas.
+
+**4. Use of Open Space for Flood Control**
+
+- **Action(s):** Collaborate with the golf course on flood control; develop a nature reserve at Alameda Point.
+- **Cost:** $$ (long term for golf course collaboration), $$ (short to long term for nature reserve)
+- **Responsible Entity:** City of Alameda (and partners such as VA, US Fish and Wildlife Service)
+- **Location:** Alameda Point
+
+**5. Mandate Flood-Resilient Development for High-Risk Areas**
+
+- **Action(s):** Condition new development in flood-prone areas to provide protection against projected sea level rise and storm impacts.
+- **Cost:** $$$ (high cost)
+- **Timeframe:** Medium term
+- **Responsible Entity:** City of Alameda
+- **Location:** High-risk flood zones with projected sea level rise.
+
+**6. Encourage Development in Lower-Risk Areas**
+
+- **Action(s):** Develop incentives for clustered development in low-risk areas.
+- **Cost:** $$ (medium cost)
+- **Timeframe:** Medium term
+- **Responsible Entity:** City of Alameda
+- **Location:** Low-risk areas
+
+Each option includes strategies intended to mitigate climate impacts through adaptation and resilience planning with defined responsibilities and estimated costs.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-Based on the provided document, the following adaptation options are identified in the plan:
+The plan identifies several adaptation options, each addressing specific climate threats. Below is a summary of these options, including the climate threats they address and pertinent information regarding cost, timeframe, location, and other attributes:
 
-### 1. Use Open Space for Flood Control
-- **Climate Threat:** Flooding
+### 1. Use open space for flood control
+- **Climate threat addressed:** Flooding
 - **Information:**
-  - **Cost:** Medium ($$)
-  - **Timeframe:** Long
-  - **Location:** Collaboration with the golf course
-  - **Responsible Entity:** City of Alameda
-  - **Important Attributes:** Exploring opportunities for flood control measures in open spaces.
+  - **Relative Cost:** Medium ($$)
+  - **Timeframe:** Long Term
+  - **Location/Entities Involved:** Collaboration with the golf course; U.S. Department of Veterans Affairs, U.S. Fish and Wildlife Service
+  - **Other Attributes:** Development of a nature reserve at Alameda Point is a part of this strategy (Chapter 4, Adapting to Climate Change | 98).
 
-### 2. Support Development of a Nature Reserve at Alameda Point
-- **Climate Threat:** Flooding
+### 2. Mandate flood-resilient development for high-risk areas
+- **Climate threat addressed:** Flooding
 - **Information:**
-  - **Cost:** Medium ($$)
-  - **Timeframe:** Short to Long
-  - **Location:** Alameda Point
-  - **Responsible Entity:** U.S. Department of Veterans Affairs (VA), U.S. Fish and Wildlife Service, and City of Alameda
-  - **Important Attributes:** Developing a nature reserve to aid in flood control.
+  - **Relative Cost:** High ($$$)
+  - **Timeframe:** Medium Term
+  - **Location/Entities Involved:** City of Alameda
+  - **Other Attributes:** Requires new development within projected flood zones to adhere to FEMA and additional local requirements for flood protection (Chapter 4, Adapting to Climate Change | 98).
 
-### 3. Mandate Flood-Resilient Development for High-Risk Areas
-- **Climate Threat:** Sea level rise and storm surge
+### 3. Engage the community in climate adaptation efforts and build grassroots support
+- **Climate threat addressed:** General climate threats such as heat, drought, and flooding
 - **Information:**
-  - **Cost:** High ($$$)
-  - **Timeframe:** Medium
-  - **Location:** High-risk areas within the flood extent of a projected 36” of sea-level rise plus 100-year storm
-  - **Responsible Entity:** City of Alameda
-  - **Important Attributes:** Implementing FEMA special flood zone requirements and conditioning new development.
+  - **Relative Cost:** Low ($)
+  - **Timeframe:** Short Term
+  - **Location/Entities Involved:** City of Alameda, community-based organizations
+  - **Other Attributes:** Includes initiatives such as urban farming, Climate Victory Gardens, and neighborhood-based pilot projects (Chapter 4, Adapting to Climate Change | 98).
 
-### 4. Encourage Urban Farming and Climate Victory Gardens
-- **Climate Threat:** General resilience, sequestration
-- **Information:**
-  - **Cost:** Low ($)
-  - **Timeframe:** Short
-  - **Location:** Citywide
-  - **Responsible Entity:** City of Alameda
-  - **Important Attributes:** Engaging the community in climate adaptation efforts and building grassroots support through urban farming and gardening.
+### Additional Notes:
+The plan emphasizes strategies that integrate social vulnerability to ensure equitable implementation. Recommendations for applying these social vulnerability findings are further detailed in Chapter 6 ("From Plan to Action") (Chapter 4, Adapting to Climate Change | 86). 
 
-### 5. Launch Neighborhood-Based Pilot Projects
-- **Climate Threat:** Heat, drought, flooding
-- **Information:**
-  - **Cost:** Low ($)
-  - **Timeframe:** Short
-  - **Location:** Vulnerable neighborhoods and underserved populations
-  - **Responsible Entity:** City of Alameda
-  - **Important Attributes:** Testing new ideas, fostering creativity, and ownership through projects like adopt-a-swale, de-paving, and community gardens.
-
-These adaptation options address multiple climate threats, including flooding, sea-level rise, and general resilience, with varying costs, timeframes, and locations. They involve collaboration with different entities and emphasize community engagement and support.
+Strategies are categorized to address specific asset categories like buildings, critical services, and natural areas while considering social vulnerability throughout (Chapter 4, Adapting to Climate Change | 86). The consideration of co-benefits between climate mitigation and adaptation is also stressed in developing these strategies (Chapter 4, Adapting to Climate Change | 73).
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-**Climate Policies for Advancing Climate Justice**
+The plan identifies several climate policies aimed at advancing climate justice by addressing various climate threats and targeting vulnerable areas or populations. Below are the policies summarized:
 
-The plan identifies several climate policies aimed at advancing climate justice, focusing on equitable mitigation and adaptation strategies to ensure long-term success. Here are some key policies along with the threats they address and the vulnerable populations:
+### **1. Sea Level Rise and Storm Surge**
+**Climate Policy:** Protect assets from sea level rise and storm surge, plan future land use to avoid impacts, and enhance natural shoreline habitat to mitigate impacts.  
+- **Climate Threat Addressed:** Sea level rise and storm surge.
+- **Vulnerable Areas/Populations:** The plan gives primary attention to issues of sea level rise and flooding, especially with Alameda being a low-lying island city. Vulnerable populations and critical assets located near the shoreline are particularly at risk. Areas with transit-dependent and low-income residents are mentioned as having high rates of vulnerability (Chapter 4, Adapting to Climate Change, p. 65).
 
-1. **Policy: Equitable Mitigation and Adaptation Strategies**
-   - **Climate Threat Addressed:** General climate change impacts including extreme weather events and hazards.
-   - **Vulnerable Areas/Populations:** Socioeconomically disadvantaged populations, particularly households without access to cars or savings, which face challenges evacuating during extreme weather (Chapter 2, "Committing to Equity").
+### **2. Inland Flooding**
+**Climate Policy:** Increase resiliency and capacity of the stormwater system to prevent flooding of assets during extreme precipitation events.  
+- **Climate Threat Addressed:** Inland flooding due to extreme precipitation.
+- **Vulnerable Areas/Populations:** Critical attention is required for the stormwater system, which is identified as one of the priority assets. Vulnerable groups include transit-dependent populations and areas with potential infrastructure damage affecting critical services (Chapter 4, Adapting to Climate Change, pp. 69-70).
 
-2. **Policy: Climate Change Adaptation Workshops**
-   - **Climate Threat Addressed:** Specific local impacts like wildfire smoke.
-   - **Vulnerable Areas/Populations:** Vulnerable, socioeconomically disadvantaged populations that may experience disproportionate climate impacts (Chapter 2, "Supporting County Targets").
+### **3. Drought**
+**Climate Policy:** Reduce water consumption and increase drought-resistant landscaping.  
+- **Climate Threat Addressed:** Drought conditions leading to water scarcity.
+- **Vulnerable Areas/Populations:** Although not explicitly detailed, areas with limited access to water resources and socioeconomically disadvantaged communities that rely on local water supplies are implied to be vulnerable due to higher difficulty in adapting (Executive Summary, p. xii).
 
-3. **Policy: Language and Accessibility for Programs and Services**
-   - **Climate Threat Addressed:** Wildfire smoke and other climate-related health risks.
-   - **Vulnerable Areas/Populations:** Residents who speak English "less than very well," particularly Chinese-speaking households. Ensuring communication is available in multiple languages and accessible formats is crucial for these populations (Chapter 4, "Climate Risk Vulnerabilities Across Alameda").
+### **4. Extreme Heat**
+**Climate Policy:** Reduce heat island effect and protect vulnerable populations from heat impacts during heat waves.  
+- **Climate Threat Addressed:** Extreme heat events impacting public health.
+- **Vulnerable Areas/Populations:** Vulnerable populations include the elderly, infants, those with existing health conditions, and those living without adequate shade or air conditioning. Areas with higher air pollution levels also exacerbate heat impacts (Chapter 4, Adapting to Climate Change, p. 70).
 
-4. **Policy: Addressing Vulnerabilities in Critical Sectors**
-   - **Climate Threat Addressed:** Flooding, extreme heat, and other climate impacts.
-   - **Vulnerable Areas/Populations:** Low-income residents, transit-dependent populations, and communities located near contaminated lands or with socioeconomic challenges (Chapter 4, "Climate Risk Vulnerabilities Across Alameda").
+### **5. Wildfires**
+**Climate Policy:** Protect public health from smoke impacts during wildfire events, especially among vulnerable populations.
+- **Climate Threat Addressed:** Smoke from wildfires affecting air quality and health.
+- **Vulnerable Areas/Populations:** Vulnerable populations include those without access to clean air facilities and those with existing respiratory issues. The plan highlights the necessity of communications in multiple languages for effective wildfire smoke response (Chapter 4, Adapting to Climate Change, pp. 65, 70).
+
+### **6. Earthquakes/Liquefaction**
+**Climate Policy:** Ensure building and infrastructure retrofits and new design standards in areas at high risk of liquefaction consider both seismic risk and sea level rise impacts.
+- **Climate Threat Addressed:** Seismic activity potentially exacerbated by increased groundwater and sea level rise.
+- **Vulnerable Areas/Populations:** Areas identified with high rates of liquefaction risk, with attention to critical services and infrastructure serving transit-dependent, low-income, elderly, and infirm communities (Chapter 4, Adapting to Climate Change, p. 69).
+
+By targeting these climate threats and focusing on vulnerable populations, the plan aims to mitigate disproportionate impacts and promote climate justice.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, there are no explicit mentions of maladaptive climate policies. The plan focuses on integrating adaptation and mitigation strategies to enhance resilience and minimize harm from climate change impacts. However, potential unforeseen maladaptations could stem from the following considerations:
+The document does not explicitly list climate policies with potential unforeseen maladaptive outcomes. However, based on the general themes and strategies mentioned, some potential maladaptive outcomes may be inferred. Below are construed summaries:
 
-1. **Increased Energy Use for Air Conditioning**
-   - **Climate Threat Addressed:** Extreme heat events.
-   - **Resilience, Mitigation, or Adaptation Option:** The plan mentions that increased energy use for air conditioning is a response to extreme heat events, especially for those lacking adequate preparation or resources to purchase air conditioning. 
-   - **Potential Maladaptation:** Increased energy use for air conditioning could inadvertently lead to higher GHG emissions, exacerbating climate change instead of mitigating it. This reliance on air conditioning may also disproportionately affect those with limited resources due to increased energy costs, potentially leading to greater climate vulnerability among economically disadvantaged groups. (Chapter 4, Adapting to Climate Change)
+- **Increased Air Conditioning Use**
+  1. **Climate Threat:** Extreme heat events.
+  2. **Adaptation Option:** The use of air conditioning to protect vulnerable populations from heat impacts.
+  3. **Why It May Cause Inadvertent Maladaptation:** Increased energy use for air conditioning results in higher costs, which further affects those with limited resources. It also increases GHG emissions, exacerbating climate change and its associated impacts. (_Chapter 4 Adapting to Climate Change | 70_)
 
-2. **Development of Shoreline Strategies Not Built to End-of-Century Water Levels**
-   - **Climate Threat Addressed:** Sea level rise and storm surge.
-   - **Resilience, Mitigation, or Adaptation Option:** The plan advises developing adaptation pathways that allow for the adjustment or replacement of existing strategies under changing conditions, rather than building shoreline defenses to accommodate end-of-century water levels today.
-   - **Potential Maladaptation:** Not building to end-of-century projections might result in insufficient protection if sea level rises faster than anticipated. This could lead to increased vulnerability and potential damage in the future, as initial measures may not provide adequate long-term protection, necessitating more frequent and costly upgrades. (Chapter 4, Adapting to Climate Change)
+- **Immediate Shoreline Protection Strategies**
+  1. **Climate Threat:** Sea level rise and storm surges.
+  2. **Adaptation Option:** Building shoreline protections to safeguard against immediate flooding risks.
+  3. **Why It May Cause Inadvertent Maladaptation:** Focusing on immediate protections without consideration for end-of-century water levels can lead to repetitive, costly updates to infrastructure as sea levels continue to rise. The emphasis should be on adaptive pathways and triggers for long-term adjustments. (_Chapter 4 Adapting to Climate Change | 71_)
 
-These potential maladaptations highlight the importance of continually assessing and updating climate policies to ensure they do not inadvertently increase vulnerability or undermine long-term resilience goals.
+These summaries identify how adaptation actions intended to address immediate climate impacts might result in increased vulnerabilities or challenges in the future if not properly managed.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-**Metrics for Measuring Success or Failure:**
+**The plan outlines a comprehensive set of metrics to measure the success of adaptation, resilience, and mitigation options. The key metrics, goals, and targets include:**
 
-- **GHG Reduction:**
-  - *Metrics:*
-    - Number of employee workdays spent telecommuting (631,800 employee workdays).
-    - Miles of new bike lanes (10.44 miles).
-    - Number of traffic signals synchronized (25 signals).
-    - Number of EasyPasses distributed to Alameda residents (5,000 passes).
-    - Number of electric leaf blowers purchased to replace gas-powered equipment (2,327 leaf blowers).
-    - Number of new permitted EV chargers/charging points (2,061 chargers).
-    - Number of new LEVs and ZEVs registered (1,950 vehicles).
-    - Number of EVs registered (821) based on AMP’s program, and number of rebates issued by fleet dealers (1,047 rebates).
-    - Number of workplace/retail chargers installed per year (260 chargers).
-    - Number of light-duty EVs purchased for the City fleet (208 EVs).
-    - Percent reduction in natural gas consumption (12%).
-    - Number of residences built as all-electric (2,727 residences).
-    - Number of rebates issued for natural gas-to-electric clothes dryers and heat pump water heaters (3,819 clothes dryers and 382 heat pump water heaters).
-    - Number of residences and commercial properties installing green roofs (1,909 residences and 25 commercial buildings).
-    - Tons of diverted organic waste converted to compost and applied to parks/open areas (66,190 tons).
-    - Number of new trees planted each year (1,500 trees).  
-  - *Goals:*
-    - Reduce GHG emissions to 50 percent below 2005 levels by 2030 and achieve net zero emissions as soon as possible.
+### **Mitigation: Greenhouse Gas (GHG) Reduction**
+- **Goal:** Reduce GHG emissions to 50% below 2005 levels by 2030 and achieve net zero emissions as soon as possible.
+- **Metrics:**
+  - **Number of employee workdays spent telecommuting:** 631,800 employee workdays (Chapter 6 | Table 6-1).
+  - **Miles of new bike lanes:** 10.44 miles (Chapter 6 | Table 6-1).
+  - **Number of traffic signals synchronized:** 25 signals (Chapter 6 | Table 6-1).
+  - **Number of EasyPasses distributed:** 5,000 passes (Chapter 6 | Table 6-1).
+  - **Number of electric leaf blowers purchased:** 2,327 leaf blowers (Chapter 6 | Table 6-1).
+  - **Number of new permitted EV chargers:** 2,061 chargers (Chapter 6 | Table 6-1).
+  - **Number of new LEVs and ZEVs registered:** 1,950 vehicles (Chapter 6 | Table 6-1).
+  - **Number of EVs registered:** 821 vehicles based on AMP’s program (Chapter 6 | Table 6-1).
+  - **Percent reduction in natural gas consumption:** 12% (Chapter 6 | Table 6-1).
+  - **Number of residences built as all-electric:** 2,727 residences (Chapter 6 | Table 6-1).
 
-- **Sea Level Rise and Storm Surge Flooding:**
-  - *Metrics:*
-    - Percentage of residential parcels in existing, unprotected, coastal flood-prone areas and within 66” total water level.
-    - Number of times the emergency operations center is triggered for weather-related events and percentage of community reached during each event.
-    - Total losses incurred by the City due to coastal flooding.
-    - Percentage of residences or businesses in the FEMA flood zone with flood insurance.
-    - Number of shoreline homeowners and businesses who submit flood insurance claims.
-    - Percent of sand loss (annually) at Crown Beach.
+### **Adaptation: Resilience Goals**
+- **Sea Level Rise and Storm Surge Flooding**
+  - **Metrics:**
+    - Percentage of residential parcels at risk and within 66” total water level (Chapter 6 | Table 6-1).
+    
+- **Inland Flooding**
+  - **Metrics:**
+    - Number of times the emergency operations center is triggered for flood events (Chapter 6 | Table 6-1).
+    
+- **Drought**
+  - **Metrics:**
+    - Gallons per capita per day of water use (Chapter 6 | 139).
+    - Percentage of city land with drought-resistant landscaping (Chapter 6 | 139).
 
-- **Inland Flooding:**
-  - *Metrics:*
-    - Number of times the emergency operations center is triggered for flood events.
+### **Resilience: Protecting Public Health and Infrastructure**
+- **Extreme Heat**
+  - **Metrics:**
+    - Number of people using cooling centers (Chapter 6 | 139).
+    - Number of heat-related hospitalizations and mortalities (Chapter 6 | 139).
 
-- **Drought:**
-  - *Metrics:*
-    - Gallons per capita per day of water use.
-    - Percentage of population or businesses participating in water conservation programs offered by the City or EBMUD.
-    - Percentage of city land incorporating drought-resistant landscaping practices.
+- **Wildfires**
+  - **Metrics:**
+    - Number of masks distributed during wildfire events (Chapter 6 | 139).
+    - Number of smoke-related hospitalizations and mortalities (Chapter 6 | 139).
 
-- **Extreme Heat:**
-  - *Metrics:*
-    - Number of times the emergency operations center is triggered for extreme heat events and percentage of community reached during each event.
-    - Number of people using cooling centers.
-    - Acres of roof, parking lot, and roads where heat island adaptation measures are implemented.
-    - Total number of street trees and new trees planted.
-    - Number of heat-related hospitalizations and mortalities.
+- **Earthquakes/Liquefaction**
+  - **Metrics:**
+    - Percentage of buildings and utilities designed to address liquefaction risk (Chapter 6 | 139).
 
-- **Wildfires:**
-  - *Metrics:*
-    - Number of times the emergency operations center is triggered for wildfire smoke-related events and percentage of community reached during each event.
-    - Number of days air quality index reaches hazardous levels.
-    - Number of masks distributed during wildfire smoke events.
-    - Number of smoke-related hospitalizations and mortalities.
+### **Capacity Building and Implementation**
+- **Metrics:**
+  - Amount of funding secured for implementation (Chapter 6 | 139).
+  - Number of City staff trained (Chapter 6 | 139).
+  - Change in community awareness of climate risks and actions (Chapter 6 | 139).
 
-- **Earthquakes/Liquefaction:**
-  - *Metrics:*
-    - Percentage of buildings and utility infrastructure designed to address liquefaction risk.
-
-- **City Effective Implementation of CARP and Capacity-Building:**
-  - *Metrics:*
-    - Amount of funding secured for implementation.
-    - Number of City staff trained (full- and part-time).
-    - Number of other plans aligned with the CARP.
-    - Change in community awareness of climate risks and actions to take (e.g., through annual surveys).
-
-**Concrete Goals or Targets:**
-
-- **GHG Reduction:**
-  - Achieve a 50% reduction in GHG emissions below 2005 levels by 2030.
-  - Achieve net zero emissions as soon as possible.
-
-- **Sea Level Rise and Storm Surge Flooding:**
-  - Protect assets from sea level rise and storm surges and plan future land use to avoid impacts.
-
-- **Inland Flooding:**
-  - Increase the resiliency and capacity of the stormwater system to prevent flooding of assets during extreme precipitation events.
-
-- **Drought:**
-  - Reduce water consumption and increase drought-resistant landscaping.
-
-- **Extreme Heat:**
-  - Reduce heat island effect and protect vulnerable populations from heat impacts during heat waves.
-
-- **Wildfires:**
-  - Protect public health from smoke impacts during wildfire events, especially vulnerable populations.
-
-- **Earthquakes/Liquefaction:**
-  - Ensure building and infrastructure retrofit and new design standards in areas at high risk of liquefaction consider both seismic risk and sea level rise impacts.
-
-- **City Effective Implementation of CARP and Capacity-Building:**
-  - Develop financial and human resources and increase transparency, community engagement, social resilience, and support for effective CARP implementation.
+These metrics serve as a basis for effectively tracking progress towards adaptation, resilience, and mitigation goals, enabling the planning jurisdiction to evaluate the efficacy of its strategies and actions.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**              | **Details**                                                                                                                                                                                                                                             |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name**   | Alameda                                                                                                                                                                                                                                                |
-| **Population**           | Not explicitly mentioned in the provided document.                                                                                                                                                                                                      |
-| **Threats Identified**   | - Flooding from storm drains during storm events and rising sea and groundwater levels. <br> - Extreme heat, wildfire smoke, and droughts. <br> - Significant overtopping of shoreline protection structures. <br> - Vulnerabilities in critical infrastructure. |
-| **Measures Identified**  | - Prioritizing adaptation strategies to protect transit-dependent neighborhoods from flood risk. <br> - Social vulnerability assessment to identify vulnerable neighborhoods. <br> - Stormwater system upgrades. <br> - Community engagement and capacity building for effective CARP implementation. |
+| **Feature**      | **Details**                                                                                                                                                                                                                                                                              |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | Alameda                                                                                                                                                                                                                                                                             |
+| **Population**   | Not explicitly stated in the provided document.                                                                                                                                                                                                                                         |
+| **Threats Identified** | - Flooding: "the impact of most immediate concern is flooding." (Executive Summary) <br> - Extreme Heat <br> - Wildfire Smoke <br> - Droughts (Executive Summary)                                                                                                                            |
+| **Measures Identified** | - Prioritizing adaptation strategies for vulnerable areas. "Prioritizing adaptation strategies to protect bus lines serving transit-dependent neighborhoods from overland flood risk." (Executive Summary) <br> - "Adaptation strategies and actions for heat and drought." (Table of Contents)<br> - "Adaptation strategies and actions for wildfire smoke." (Table of Contents) <br> - Increasing resilience through planning and infrastructure improvements. (Table of Contents) |
 ```
-
