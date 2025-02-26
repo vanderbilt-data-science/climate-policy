@@ -217,129 +217,118 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
     """
     Merge the NRI Future Risk Index data with the state and county GeoDataFrames.
     """
-    nri_df = pd.read_excel("data/NRI Future Risk Index.xlsx")
-    nri_df = nri_df[["STATEABBRV", "STATE", "COUNTY", "STCOFIPS", 
-                     "CFLD_MID_HIGHER_PRISKS", "CFLD_LATE_HIGHER_PRISKS",
-                     "CFLD_MID_HIGHER_HM", "CFLD_LATE_HIGHER_HM",
-                     "WFIR_MID_HIGHER_PRISKS", "WFIR_LATE_HIGHER_PRISKS",
-                     "WFIR_MID_HIGHER_HM", "WFIR_LATE_HIGHER_HM",
-                     "DRGT_MID_HIGHER_PRISKS", "DRGT_LATE_HIGHER_PRISKS",
-                     "DRGT_MID_HIGHER_HM", "DRGT_LATE_HIGHER_HM",
-                     "HRCN_MID_HIGHER_PRISKS", "HRCN_LATE_HIGHER_PRISKS",
-                     "HRCN_MID_HIGHER_HM", "HRCN_LATE_HIGHER_HM", 
-                     "EXHT_L95_MID_HIGHER_PRISKS", "EXHT_L95_LATE_HIGHER_PRISKS",
-                     "EXHT_L95_MID_HIGHER_HM", "EXHT_L95_LATE_HIGHER_HM"]].round(2)
+    # Read in and select only the relevant columns, rounding numeric values
+    nri_cols = [
+        "STATEABBRV", "STATE", "COUNTY", "STCOFIPS", 
+        "CFLD_MID_HIGHER_PRISKS", "CFLD_LATE_HIGHER_PRISKS",
+        "CFLD_MID_HIGHER_HM", "CFLD_LATE_HIGHER_HM",
+        "WFIR_MID_HIGHER_PRISKS", "WFIR_LATE_HIGHER_PRISKS",
+        "WFIR_MID_HIGHER_HM", "WFIR_LATE_HIGHER_HM",
+        "DRGT_MID_HIGHER_PRISKS", "DRGT_LATE_HIGHER_PRISKS",
+        "DRGT_MID_HIGHER_HM", "DRGT_LATE_HIGHER_HM",
+        "HRCN_MID_HIGHER_PRISKS", "HRCN_LATE_HIGHER_PRISKS",
+        "HRCN_MID_HIGHER_HM", "HRCN_LATE_HIGHER_HM", 
+        "EXHT_L95_MID_HIGHER_PRISKS", "EXHT_L95_LATE_HIGHER_PRISKS",
+        "EXHT_L95_MID_HIGHER_HM", "EXHT_L95_LATE_HIGHER_HM"
+    ]
+    nri_df = pd.read_excel("data/NRI Future Risk Index.xlsx")[nri_cols].round(2)
+
+    # List the risk columns (all the ones we wish to average)
+    risk_cols = [
+        "CFLD_MID_HIGHER_PRISKS", "CFLD_LATE_HIGHER_PRISKS",
+        "CFLD_MID_HIGHER_HM", "CFLD_LATE_HIGHER_HM",
+        "WFIR_MID_HIGHER_PRISKS", "WFIR_LATE_HIGHER_PRISKS",
+        "WFIR_MID_HIGHER_HM", "WFIR_LATE_HIGHER_HM",
+        "DRGT_MID_HIGHER_PRISKS", "DRGT_LATE_HIGHER_PRISKS",
+        "DRGT_MID_HIGHER_HM", "DRGT_LATE_HIGHER_HM",
+        "HRCN_MID_HIGHER_PRISKS", "HRCN_LATE_HIGHER_PRISKS",
+        "HRCN_MID_HIGHER_HM", "HRCN_LATE_HIGHER_HM",
+        "EXHT_L95_MID_HIGHER_PRISKS", "EXHT_L95_LATE_HIGHER_PRISKS",
+        "EXHT_L95_MID_HIGHER_HM", "EXHT_L95_LATE_HIGHER_HM"
+    ]
     
-    grouped_states = nri_df.groupby("STATE").agg(
-        CFLD_MID_HIGHER_PRISKS=("CFLD_MID_HIGHER_PRISKS", "mean"),
-        CFLD_LATE_HIGHER_PRISKS=("CFLD_LATE_HIGHER_PRISKS", "mean"),
-        CFLD_MID_HIGHER_HM=("CFLD_MID_HIGHER_HM", "mean"),
-        CFLD_LATE_HIGHER_HM=("CFLD_LATE_HIGHER_HM", "mean"),
-        WFIR_MID_HIGHER_PRISKS=("WFIR_MID_HIGHER_PRISKS", "mean"),
-        WFIR_LATE_HIGHER_PRISKS=("WFIR_LATE_HIGHER_PRISKS", "mean"),
-        WFIR_MID_HIGHER_HM=("WFIR_MID_HIGHER_HM", "mean"),
-        WFIR_LATE_HIGHER_HM=("WFIR_LATE_HIGHER_HM", "mean"),
-        DRGT_MID_HIGHER_PRISKS=("DRGT_MID_HIGHER_PRISKS", "mean"),
-        DRGT_LATE_HIGHER_PRISKS=("DRGT_LATE_HIGHER_PRISKS", "mean"),
-        DRGT_MID_HIGHER_HM=("DRGT_MID_HIGHER_HM", "mean"),
-        DRGT_LATE_HIGHER_HM=("DRGT_LATE_HIGHER_HM", "mean"),
-        HRCN_MID_HIGHER_PRISKS=("HRCN_MID_HIGHER_PRISKS", "mean"),
-        HRCN_LATE_HIGHER_PRISKS=("HRCN_LATE_HIGHER_PRISKS", "mean"),
-        HRCN_MID_HIGHER_HM=("HRCN_MID_HIGHER_HM", "mean"),
-        HRCN_LATE_HIGHER_HM=("HRCN_LATE_HIGHER_HM", "mean"),
-        EXHT_L95_MID_HIGHER_PRISKS=("EXHT_L95_MID_HIGHER_PRISKS", "mean"),
-        EXHT_L95_LATE_HIGHER_PRISKS=("EXHT_L95_LATE_HIGHER_PRISKS", "mean"),
-        EXHT_L95_MID_HIGHER_HM=("EXHT_L95_MID_HIGHER_HM", "mean"),
-        EXHT_L95_LATE_HIGHER_HM=("EXHT_L95_LATE_HIGHER_HM", "mean"),
-    ).round(2)
-    
+    # Compute the state-level means on the risk columns
+    grouped_states = nri_df.groupby("STATE")[risk_cols].mean().round(2)
+
+    # Convert FIPS codes to numeric to ensure proper merging
     counties_gdf_caps['FIPS'] = pd.to_numeric(counties_gdf_caps['FIPS'], errors='coerce').fillna(0).astype(int)
     nri_df['STCOFIPS'] = pd.to_numeric(nri_df['STCOFIPS'], errors='coerce').fillna(0).astype(int)
 
-    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="NAME", right_on="STATE", how="left")
+    # Merge the aggregated state data with the states GeoDataFrame
+    # Here, grouped_states is indexed by state name so we merge using the index.
+    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="NAME", right_index=True, how="left")
+    
+    # Merge the original NRI data with the counties GeoDataFrame on the FIPS codes
     merged_counties_gdf = counties_gdf_caps.merge(nri_df, left_on="FIPS", right_on="STCOFIPS", how="left")
+    
     return merged_states_gdf, merged_counties_gdf
+
 
 def merge_fema_data(states_gdf_caps, counties_gdf_caps):
     """
     Merge the FEMA data with the state and county GeoDataFrames.
     """
     fema_df = pd.read_csv("data/fema_data.csv")
-
-    grouped_counties = fema_df.groupby("STCOFIPS").agg(
-        RISK_SCORE=("RISK_SCORE", "mean"),
-        RISK_SPCTL=("RISK_SPCTL", "mean"),
-        EAL_VALT=("EAL_VALT", "mean"),
-        SOVI_SCORE=("SOVI_SCORE", "mean"),
-        RESL_SCORE=("RESL_SCORE", "mean"),
-        AVLN_EALS=("AVLN_EALS", "mean"),
-        AVLN_EALT=("AVLN_EALT", "mean"),
-        CFLD_EALS=("CFLD_EALS", "mean"),
-        CFLD_EALT=("CFLD_EALT", "mean"),
-        CWAV_EALS=("CWAV_EALS", "mean"),
-        CWAV_EALT=("CWAV_EALT", "mean"),
-        DRGT_EALS=("DRGT_EALS", "mean"),
-        DRGT_EALT=("DRGT_EALT", "mean"),
-        HAIL_EALS=("HAIL_EALS", "mean"),
-        HAIL_EALT=("HAIL_EALT", "mean"),
-        HWAV_EALS=("HWAV_EALS", "mean"),
-        HWAV_EALT=("HWAV_EALT", "mean"),
-        HRCN_EALS=("HRCN_EALS", "mean"),
-        HRCN_EALT=("HRCN_EALT", "mean"),
-        IST_EALS=("ISTM_EALS", "mean"),
-        IST_EALT=("ISTM_EALT", "mean"),
-        LNDS_EALS=("LNDS_EALS", "mean"),
-        LNDS_EALT=("LNDS_EALT", "mean"),
-        RFLD_EALS=("RFLD_EALS", "mean"),
-        RFLD_EALT=("RFLD_EALT", "mean"),
-        SWND_EALS=("SWND_EALS", "mean"),
-        SWND_EALT=("SWND_EALT", "mean"),
-        TRND_EALS=("TRND_EALS", "mean"),
-        TRND_EALT=("TRND_EALT", "mean"),
-        WFIR_EALS=("WFIR_EALS", "mean"),
-        WFIR_EALT=("WFIR_EALT", "mean"),
-        WNTW_EALS=("WNTW_EALS", "mean"),
-        WNTW_EALT=("WNTW_EALT", "mean")
-        ).round(2)
-
-    grouped_states = fema_df.groupby("STATEABBRV").agg(
-        RISK_SCORE=("RISK_SCORE", "mean"),
-        RISK_SPCTL=("RISK_SPCTL", "mean"),
-        EAL_VALT=("EAL_VALT", "mean"),
-        SOVI_SCORE=("SOVI_SCORE", "mean"),
-        RESL_SCORE=("RESL_SCORE", "mean"),
-        AVLN_EALS=("AVLN_EALS", "mean"),
-        AVLN_EALT=("AVLN_EALT", "mean"),
-        CFLD_EALS=("CFLD_EALS", "mean"),
-        CFLD_EALT=("CFLD_EALT", "mean"),
-        CWAV_EALS=("CWAV_EALS", "mean"),
-        CWAV_EALT=("CWAV_EALT", "mean"),
-        DRGT_EALS=("DRGT_EALS", "mean"),
-        DRGT_EALT=("DRGT_EALT", "mean"),
-        HAIL_EALS=("HAIL_EALS", "mean"),
-        HAIL_EALT=("HAIL_EALT", "mean"),
-        HWAV_EALS=("HWAV_EALS", "mean"),
-        HWAV_EALT=("HWAV_EALT", "mean"),
-        HRCN_EALS=("HRCN_EALS", "mean"),
-        HRCN_EALT=("HRCN_EALT", "mean"),
-        IST_EALS=("ISTM_EALS", "mean"),
-        IST_EALT=("ISTM_EALT", "mean"),
-        LNDS_EALS=("LNDS_EALS", "mean"),
-        LNDS_EALT=("LNDS_EALT", "mean"),
-        RFLD_EALS=("RFLD_EALS", "mean"),
-        RFLD_EALT=("RFLD_EALT", "mean"),
-        SWND_EALS=("SWND_EALS", "mean"),
-        SWND_EALT=("SWND_EALT", "mean"),
-        TRND_EALS=("TRND_EALS", "mean"),
-        TRND_EALT=("TRND_EALT", "mean"),
-        WFIR_EALS=("WFIR_EALS", "mean"),
-        WFIR_EALT=("WFIR_EALT", "mean"),
-        WNTW_EALS=("WNTW_EALS", "mean"),
-        WNTW_EALT=("WNTW_EALT", "mean")
-        ).round(2)
     
-    merged_counties_gdf = counties_gdf_caps.merge(grouped_counties, left_on="FIPS", right_on="STCOFIPS", how="left")
-    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="STATE_ABBR", right_on="STATEABBRV", how="left")
+    # List the FEMA numeric columns to average.
+    # Note: The ISTM columns are kept with their original names.
+    fema_cols = [
+        "RISK_SCORE", "RISK_SPCTL", "EAL_VALT", "SOVI_SCORE", "RESL_SCORE",
+        "AVLN_EALS", "AVLN_EALT", "CFLD_EALS", "CFLD_EALT", "CWAV_EALS", "CWAV_EALT",
+        "DRGT_EALS", "DRGT_EALT", "HAIL_EALS", "HAIL_EALT", "HWAV_EALS", "HWAV_EALT",
+        "HRCN_EALS", "HRCN_EALT", "ISTM_EALS", "ISTM_EALT", "LNDS_EALS", "LNDS_EALT",
+        "RFLD_EALS", "RFLD_EALT", "SWND_EALS", "SWND_EALT", "TRND_EALS", "TRND_EALT",
+        "WFIR_EALS", "WFIR_EALT", "WNTW_EALS", "WNTW_EALT"
+    ]
+    
+    # Compute the county-level means using the numeric columns
+    grouped_counties = fema_df.groupby("STCOFIPS")[fema_cols].mean().round(2)
+
+    # Similarly, compute state-level means using the same set of columns
+    grouped_states = fema_df.groupby("STATEABBRV")[fema_cols].mean().round(2)
+    
+    # Merge the aggregated county data with the counties GeoDataFrame
+    # Here, grouped_counties is indexed by STCOFIPS so we merge on the index.
+    merged_counties_gdf = counties_gdf_caps.merge(grouped_counties, left_on="FIPS", right_index=True, how="left")
+    
+    # Merge the aggregated state data with the states GeoDataFrame
+    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="STATE_ABBR", right_index=True, how="left")
+
+    return merged_states_gdf, merged_counties_gdf
+
+def merge_cejst_data(states_gdf_caps, counties_gdf_caps):
+    """
+    Merge the CEJST data with the state and county GeoDataFrames.
+    """
+    cejst_df = pd.read_csv("data/cejst.csv")
+    # Ensure cejst only contains the desired columns
+    cejst = cejst_df[['County Name',
+               'State/Territory',
+               'Share of properties at risk of flood in 30 years (percentile)',
+               'Share of properties at risk of flood in 30 years',
+               'Share of properties at risk of fire in 30 years (percentile)',
+               'Share of properties at risk of fire in 30 years',
+               'Energy burden (percentile)',
+               'PM2.5 in the air (percentile)',
+               'PM2.5 in the air',
+               "Share of the tract's land area that is covered by impervious surface or cropland as a percent",
+               'Current asthma among adults aged greater than or equal to 18 years']].round(2)
+
+    numeric_cols = cejst.select_dtypes(include=['number']).columns
+    # Group by county and state (county-state combination) and calculate the mean of all numeric columns.
+    county_state_means = cejst.groupby(['County Name', 'State/Territory'])[numeric_cols].mean().round(2).reset_index()
+
+    # Group by state only and calculate the mean of all numeric columns.
+    state_means = cejst.groupby('State/Territory')[numeric_cols].mean().round(2).reset_index()
+
+    # Create a new column in county_state_means that matches the format of NAME in county_data
+    county_state_means["NAME"] = county_state_means["County Name"] + ", " + county_state_means["State/Territory"]
+
+    # Perform the merge using the newly created NAME column
+    merged_counties_gdf = counties_gdf_caps.merge(county_state_means, on="NAME", how="left")
+
+    # Merge the aggregated state data with the states GeoDataFrame
+    merged_states_gdf = states_gdf_caps.merge(state_means, left_on="NAME", right_on="State/Territory", how="left")
 
     return merged_states_gdf, merged_counties_gdf
 
@@ -357,6 +346,8 @@ if __name__ == "__main__":
     states_gdf_caps, counties_gdf_caps = merge_nri_data(states_gdf_caps, counties_gdf_caps)
 
     states_gdf_caps, counties_gdf_caps = merge_fema_data(states_gdf_caps, counties_gdf_caps)
+
+    states_gdf_caps, counties_gdf_caps = merge_cejst_data(states_gdf_caps, counties_gdf_caps)
 
     city_mapping_df = load_city_mapping()
     city_plans_df = load_city_plans()

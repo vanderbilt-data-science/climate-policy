@@ -306,7 +306,18 @@ with tab_state:
                 st.write("**Annual Tornado Loss (Percentile):**", props.get("TRND_EALS", "N/A"))
                 st.write("**Annual Winter Weather Loss ($/year):**", props.get("WNTW_EALT", "N/A"))
                 st.write("**Annual Winter Weather Loss (Percentile):**", props.get("WNTW_EALS", "N/A"))
-                
+
+            with st.expander("CEJST Data:"):
+                st.write("**Share of properties at risk of flood in 30 years (percentile):**", props.get("Share of properties at risk of flood in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of flood in 30 years:**", props.get("Share of properties at risk of flood in 30 years", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years (percentile):**", props.get("Share of properties at risk of fire in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years:**", props.get("Share of properties at risk of fire in 30 years", "N/A"))
+                st.write("**Energy burden (percentile):**", props.get("Energy burden (percentile)", "N/A"))
+                st.write("**PM2.5 (percentile):**", props.get("PM2.5 in the air (percentile)", "N/A"))
+                st.write("**PM2.5 (Volume):**", props.get("PM2.5 in the air", "N/A"))
+                st.write("**Impervious surface or cropland:**", props.get("Share of the tract's land area that is covered by impervious surface or cropland as a percent", "N/A"))
+                st.write("**Asthma Prevalence (Percentile):**", props.get("Current asthma among adults aged greater than or equal to 18 years", "N/A"))
+                       
             # Build extra context for the QA chain
             extra_context = (
                 f"State: {state_name}\n"
@@ -365,6 +376,16 @@ with tab_state:
                 f"Annual Tornado Loss (Percentile): {props.get('TRND_EALS', 'N/A')}\n"
                 f"Annual Winter Weather Loss ($/year): {props.get('WNTW_EALT', 'N/A')}\n"
                 f"Annual Winter Weather Loss (Percentile): {props.get('WNTW_EALS', 'N/A')}\n"
+                f"CEJST Data:\n"
+                f"Share of properties at risk of flood in 30 years (percentile): {props.get('Share of properties at risk of flood in 30 years (percentile)', 'N/A')}\n"
+                f"Share of properties at risk of flood in 30 years: {props.get('Share of properties at risk of flood in 30 years', 'N/A')}\n"
+                f"Share of properties at risk of fire in 30 years (percentile): {props.get('Share of properties at risk of fire in 30 years (percentile)', 'N/A')}\n"
+                f"Share of properties at risk of fire in 30 years: {props.get('Share of properties at risk of fire in 30 years', 'N/A')}\n"
+                f"Energy burden (percentile): {props.get('Energy burden (percentile)', 'N/A')}\n"
+                f"PM2.5 (percentile): {props.get('PM2.5 in the air (percentile)', 'N/A')}\n"
+                f"PM2.5 (Volume): {props.get('PM2.5 in the air', 'N/A')}\n"
+                f"Impervious surface or cropland: {props.get('Share of the tract\'s land area that is covered by impervious surface or cropland as a percent', 'N/A')}\n"
+                f"Asthma Prevalence (Percentile): {props.get('Current asthma among adults aged greater than or equal to 18 years', 'N/A')}\n"
             )
 
             api_key_input = st.text_input("Enter your OpenAI API key:", type="password")
@@ -507,8 +528,18 @@ with tab_county:
                 st.write("**Annual Tornado Loss (Percentile):**", props.get("TRND_EALS", "N/A"))
                 st.write("**Annual Winter Weather Loss ($/year):**", props.get("WNTW_EALT", "N/A"))
                 st.write("**Annual Winter Weather Loss (Percentile):**", props.get("WNTW_EALS", "N/A"))
-                        
 
+            with st.expander("#### CEJST Data:"):
+                st.write("**Share of properties at risk of flood in 30 years (percentile):**", props.get("Share of properties at risk of flood in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of flood in 30 years:**", props.get("Share of properties at risk of flood in 30 years", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years (percentile):**", props.get("Share of properties at risk of fire in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years:**", props.get("Share of properties at risk of fire in 30 years", "N/A"))
+                st.write("**Energy burden (percentile):**", props.get("Energy burden (percentile)", "N/A"))
+                st.write("**PM2.5 (percentile):**", props.get("PM2.5 in the air (percentile)", "N/A"))
+                st.write("**PM2.5 (Volume):**", props.get("PM2.5 in the air", "N/A"))
+                st.write("**Impervious surface or cropland:**", props.get("Share of the tract's land area that is covered by impervious surface or cropland as a percent", "N/A"))
+                st.write("**Asthma Prevalence (Percentile):**", props.get("Current asthma among adults aged greater than or equal to 18 years", "N/A"))
+                        
             # Build extra context for the QA chain
             extra_context = (
                 f"County: {county_name}\n"
@@ -568,6 +599,16 @@ with tab_county:
                 f"Annual Tornado Loss (Percentile): {props.get('TRND_EALS', 'N/A')}\n"
                 f"Annual Winter Weather Loss ($/year): {props.get('WNTW_EALT', 'N/A')}\n"
                 f"Annual Winter Weather Loss (Percentile): {props.get('WNTW_EALS', 'N/A')}\n"
+                f"CEJST Data:\n"
+                f"Share of properties at risk of flood in 30 years (percentile): {props.get('Share of properties at risk of flood in 30 years (percentile)', 'N/A')}\n"
+                f"Share of properties at risk of flood in 30 years: {props.get('Share of properties at risk of flood in 30 years', 'N/A')}\n"
+                f"Share of properties at risk of fire in 30 years (percentile): {props.get('Share of properties at risk of fire in 30 years (percentile)', 'N/A')}\n"
+                f"Share of properties at risk of fire in 30 years: {props.get('Share of properties at risk of fire in 30 years', 'N/A')}\n"
+                f"Energy burden (percentile): {props.get('Energy burden (percentile)', 'N/A')}\n"
+                f"PM2.5 (percentile): {props.get('PM2.5 in the air (percentile)', 'N/A')}\n"
+                f"PM2.5 (Volume): {props.get('PM2.5 in the air', 'N/A')}\n"
+                f"Impervious surface or cropland: {props.get('Share of the tract\'s land area that is covered by impervious surface or cropland as a percent', 'N/A')}\n"
+                f"Asthma Prevalence (Percentile): {props.get('Current asthma among adults aged greater than or equal to 18 years', 'N/A')}\n"
             )
 
             api_key_input = st.text_input("Enter your OpenAI API key:", type="password", key="county_api_key")
