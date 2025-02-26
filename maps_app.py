@@ -274,7 +274,39 @@ with tab_state:
                 st.write("**Late-Century Extreme Heat Risk (Percentile):**", props.get("EXHT_L95_LATE_HIGHER_PRISKS", "N/A"))
                 st.write("**Mid-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
                 st.write("**Late-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
-            
+
+            with st.expander("FEMA Risk Scores:"):
+                st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
+                st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
+                st.write("**Social Vulnerability (Percentile):**", props.get("SOVI_SCORE", "N/A"))
+                st.write("**Community Resilience (Percentile):**", props.get("RESL_SCORE", "N/A"))
+                st.write("**Annual Avalanche Loss ($/year):**", props.get("AVLN_EALT", "N/A"))
+                st.write("**Annual Avalanche Loss (Percentile):**", props.get("AVLN_EALS", "N/A"))
+                st.write("**Annual Coastal Flooding Loss ($/year):**", props.get("CFLD_EALT", "N/A"))
+                st.write("**Annual Coastal Flooding Loss (Percentile):**", props.get("CFLD_EALS", "N/A"))
+                st.write("**Annual Cold Wave Loss ($/year):**", props.get("CWAV_EALT", "N/A"))
+                st.write("**Annual Cold Wave Loss (Percentile):**", props.get("CWAV_EALS", "N/A"))
+                st.write("**Annual Drought Loss ($/year):**", props.get("DRGT_EALT", "N/A"))
+                st.write("**Annual Drought Loss (Percentile):**", props.get("DRGT_EALS", "N/A"))
+                st.write("**Annual Hail Loss ($/year):**", props.get("HAIL_EALT", "N/A"))
+                st.write("**Annual Hail Loss (Percentile):**", props.get("HAIL_EALS", "N/A"))
+                st.write("**Annual Heat Wave Loss ($/year):**", props.get("HWAV_EALT", "N/A"))
+                st.write("**Annual Heat Wave Loss (Percentile):**", props.get("HWAV_EALS", "N/A"))
+                st.write("**Annual Hurricane Loss ($/year):**", props.get("HRCN_EALT", "N/A"))
+                st.write("**Annual Hurricane Loss (Percentile):**", props.get("HRCN_EALS", "N/A"))
+                st.write("**Annual Ice Storm Loss ($/year):**", props.get("ISTM_EALT", "N/A"))
+                st.write("**Annual Ice Storm Loss (Percentile):**", props.get("ISTM_EALS", "N/A"))
+                st.write("**Annual Landslide Loss ($/year):**", props.get("LNDS_EALT", "N/A"))
+                st.write("**Annual Landslide Loss (Percentile):**", props.get("LNDS_EALS", "N/A"))
+                st.write("**Annual River Flooding Loss ($/year):**", props.get("RFLD_EALT", "N/A"))
+                st.write("**Annual River Flooding Loss (Percentile):**", props.get("RFLD_EALS", "N/A"))
+                st.write("**Annual Wind Loss ($/year):**", props.get("SWND_EALT", "N/A"))
+                st.write("**Annual Wind Loss (Percentile):**", props.get("SWND_EALS", "N/A"))
+                st.write("**Annual Tornado Loss ($/year):**", props.get("TRND_EALT", "N/A"))
+                st.write("**Annual Tornado Loss (Percentile):**", props.get("TRND_EALS", "N/A"))
+                st.write("**Annual Winter Weather Loss ($/year):**", props.get("WNTW_EALT", "N/A"))
+                st.write("**Annual Winter Weather Loss (Percentile):**", props.get("WNTW_EALS", "N/A"))
+                
             # Build extra context for the QA chain
             extra_context = (
                 f"State: {state_name}\n"
@@ -302,6 +334,37 @@ with tab_state:
                 f"Late-Century Extreme Heat Risk (Percentile): {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
                 f"Mid-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
                 f"Late-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
+                f"FEMA Risk Scores:\n"
+                f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
+                f"Disaster Loss ($/year): {props.get('EAL_VALT', 'N/A')}\n"
+                f"Social Vulnerability (Percentile): {props.get('SOVI_SCORE', 'N/A')}\n"
+                f"Community Resilience (Percentile): {props.get('RESL_SCORE', 'N/A')}\n"
+                f"Annual Avalanche Loss ($/year): {props.get('AVLN_EALT', 'N/A')}\n"
+                f"Annual Avalanche Loss (Percentile): {props.get('AVLN_EALS', 'N/A')}\n"
+                f"Annual Coastal Flooding Loss ($/year): {props.get('CFLD_EALT', 'N/A')}\n"
+                f"Annual Coastal Flooding Loss (Percentile): {props.get('CFLD_EALS', 'N/A')}\n"
+                f"Annual Cold Wave Loss ($/year): {props.get('CWAV_EALT', 'N/A')}\n"
+                f"Annual Cold Wave Loss (Percentile): {props.get('CWAV_EALS', 'N/A')}\n"
+                f"Annual Drought Loss ($/year): {props.get('DRGT_EALT', 'N/A')}\n"
+                f"Annual Drought Loss (Percentile): {props.get('DRGT_EALS', 'N/A')}\n"
+                f"Annual Hail Loss ($/year): {props.get('HAIL_EALT', 'N/A')}\n"
+                f"Annual Hail Loss (Percentile): {props.get('HAIL_EALS', 'N/A')}\n"
+                f"Annual Heat Wave Loss ($/year): {props.get('HWAV_EALT', 'N/A')}\n"
+                f"Annual Heat Wave Loss (Percentile): {props.get('HWAV_EALS', 'N/A')}\n"
+                f"Annual Hurricane Loss ($/year): {props.get('HRCN_EALT', 'N/A')}\n"
+                f"Annual Hurricane Loss (Percentile): {props.get('HRCN_EALS', 'N/A')}\n"
+                f"Annual Ice Storm Loss ($/year): {props.get('ISTM_EALT', 'N/A')}\n"
+                f"Annual Ice Storm Loss (Percentile): {props.get('ISTM_EALS', 'N/A')}\n"
+                f"Annual Landslide Loss ($/year): {props.get('LNDS_EALT', 'N/A')}\n"
+                f"Annual Landslide Loss (Percentile): {props.get('LNDS_EALS', 'N/A')}\n"
+                f"Annual River Flooding Loss ($/year): {props.get('RFLD_EALT', 'N/A')}\n"
+                f"Annual River Flooding Loss (Percentile): {props.get('RFLD_EALS', 'N/A')}\n"
+                f"Annual Wind Loss ($/year): {props.get('SWND_EALT', 'N/A')}\n"
+                f"Annual Wind Loss (Percentile): {props.get('SWND_EALS', 'N/A')}\n"
+                f"Annual Tornado Loss ($/year): {props.get('TRND_EALT', 'N/A')}\n"
+                f"Annual Tornado Loss (Percentile): {props.get('TRND_EALS', 'N/A')}\n"
+                f"Annual Winter Weather Loss ($/year): {props.get('WNTW_EALT', 'N/A')}\n"
+                f"Annual Winter Weather Loss (Percentile): {props.get('WNTW_EALS', 'N/A')}\n"
             )
 
             api_key_input = st.text_input("Enter your OpenAI API key:", type="password")
@@ -412,6 +475,40 @@ with tab_county:
                 st.write("**Extreme Heat Mid-Century Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
                 st.write("**Extreme Heat Late-Century Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
             
+            with st.expander("#### FEMA Risk Scores:"):
+                st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
+                st.write("**Disaster Risk (Percentile, relative to state):**", props.get("RISK_SPCTL", "N/A"))
+                st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
+                st.write("**Social Vulnerability (Percentile):**", props.get("SOVI_SCORE", "N/A"))
+                st.write("**Community Resilience (Percentile):**", props.get("RESL_SCORE", "N/A"))
+                st.write("**Annual Avalanche Loss ($/year):**", props.get("AVLN_EALT", "N/A"))
+                st.write("**Annual Avalanche Loss (Percentile):**", props.get("AVLN_EALS", "N/A"))
+                st.write("**Annual Coastal Flooding Loss ($/year):**", props.get("CFLD_EALT", "N/A"))
+                st.write("**Annual Coastal Flooding Loss (Percentile):**", props.get("CFLD_EALS", "N/A"))
+                st.write("**Annual Cold Wave Loss ($/year):**", props.get("CWAV_EALT", "N/A"))
+                st.write("**Annual Cold Wave Loss (Percentile):**", props.get("CWAV_EALS", "N/A"))
+                st.write("**Annual Drought Loss ($/year):**", props.get("DRGT_EALT", "N/A"))
+                st.write("**Annual Drought Loss (Percentile):**", props.get("DRGT_EALS", "N/A"))
+                st.write("**Annual Hail Loss ($/year):**", props.get("HAIL_EALT", "N/A"))
+                st.write("**Annual Hail Loss (Percentile):**", props.get("HAIL_EALS", "N/A"))
+                st.write("**Annual Heat Wave Loss ($/year):**", props.get("HWAV_EALT", "N/A"))
+                st.write("**Annual Heat Wave Loss (Percentile):**", props.get("HWAV_EALS", "N/A"))
+                st.write("**Annual Hurricane Loss ($/year):**", props.get("HRCN_EALT", "N/A"))
+                st.write("**Annual Hurricane Loss (Percentile):**", props.get("HRCN_EALS", "N/A"))
+                st.write("**Annual Ice Storm Loss ($/year):**", props.get("ISTM_EALT", "N/A"))
+                st.write("**Annual Ice Storm Loss (Percentile):**", props.get("ISTM_EALS", "N/A"))
+                st.write("**Annual Landslide Loss ($/year):**", props.get("LNDS_EALT", "N/A"))
+                st.write("**Annual Landslide Loss (Percentile):**", props.get("LNDS_EALS", "N/A"))
+                st.write("**Annual River Flooding Loss ($/year):**", props.get("RFLD_EALT", "N/A"))
+                st.write("**Annual River Flooding Loss (Percentile):**", props.get("RFLD_EALS", "N/A"))
+                st.write("**Annual Wind Loss ($/year):**", props.get("SWND_EALT", "N/A"))
+                st.write("**Annual Wind Loss (Percentile):**", props.get("SWND_EALS", "N/A"))
+                st.write("**Annual Tornado Loss ($/year):**", props.get("TRND_EALT", "N/A"))
+                st.write("**Annual Tornado Loss (Percentile):**", props.get("TRND_EALS", "N/A"))
+                st.write("**Annual Winter Weather Loss ($/year):**", props.get("WNTW_EALT", "N/A"))
+                st.write("**Annual Winter Weather Loss (Percentile):**", props.get("WNTW_EALS", "N/A"))
+                        
+
             # Build extra context for the QA chain
             extra_context = (
                 f"County: {county_name}\n"
@@ -439,6 +536,38 @@ with tab_county:
                 f"Extreme Heat Late-Century Projected Risk: {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
                 f"Extreme Heat Mid-Century Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
                 f"Extreme Heat Late-Century Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
+                f"FEMA Risk Scores:\n"
+                f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
+                f"Disaster Risk (Percentile, relative to state): {props.get('RISK_SPCTL', 'N/A')}\n"
+                f"Disaster Loss ($/year): {props.get('EAL_VALT', 'N/A')}\n"
+                f"Social Vulnerability (Percentile): {props.get('SOVI_SCORE', 'N/A')}\n"
+                f"Community Resilience (Percentile): {props.get('RESL_SCORE', 'N/A')}\n"
+                f"Annual Avalanche Loss ($/year): {props.get('AVLN_EALT', 'N/A')}\n"
+                f"Annual Avalanche Loss (Percentile): {props.get('AVLN_EALS', 'N/A')}\n"
+                f"Annual Coastal Flooding Loss ($/year): {props.get('CFLD_EALT', 'N/A')}\n"
+                f"Annual Coastal Flooding Loss (Percentile): {props.get('CFLD_EALS', 'N/A')}\n"
+                f"Annual Cold Wave Loss ($/year): {props.get('CWAV_EALT', 'N/A')}\n"
+                f"Annual Cold Wave Loss (Percentile): {props.get('CWAV_EALS', 'N/A')}\n"
+                f"Annual Drought Loss ($/year): {props.get('DRGT_EALT', 'N/A')}\n"
+                f"Annual Drought Loss (Percentile): {props.get('DRGT_EALS', 'N/A')}\n"
+                f"Annual Hail Loss ($/year): {props.get('HAIL_EALT', 'N/A')}\n"
+                f"Annual Hail Loss (Percentile): {props.get('HAIL_EALS', 'N/A')}\n"
+                f"Annual Heat Wave Loss ($/year): {props.get('HWAV_EALT', 'N/A')}\n"
+                f"Annual Heat Wave Loss (Percentile): {props.get('HWAV_EALS', 'N/A')}\n"
+                f"Annual Hurricane Loss ($/year): {props.get('HRCN_EALT', 'N/A')}\n"
+                f"Annual Hurricane Loss (Percentile): {props.get('HRCN_EALS', 'N/A')}\n"
+                f"Annual Ice Storm Loss ($/year): {props.get('ISTM_EALT', 'N/A')}\n"
+                f"Annual Ice Storm Loss (Percentile): {props.get('ISTM_EALS', 'N/A')}\n"
+                f"Annual Landslide Loss ($/year): {props.get('LNDS_EALT', 'N/A')}\n"
+                f"Annual Landslide Loss (Percentile): {props.get('LNDS_EALS', 'N/A')}\n"
+                f"Annual River Flooding Loss ($/year): {props.get('RFLD_EALT', 'N/A')}\n"
+                f"Annual River Flooding Loss (Percentile): {props.get('RFLD_EALS', 'N/A')}\n"   
+                f"Annual Wind Loss ($/year): {props.get('SWND_EALT', 'N/A')}\n"
+                f"Annual Wind Loss (Percentile): {props.get('SWND_EALS', 'N/A')}\n"
+                f"Annual Tornado Loss ($/year): {props.get('TRND_EALT', 'N/A')}\n"
+                f"Annual Tornado Loss (Percentile): {props.get('TRND_EALS', 'N/A')}\n"
+                f"Annual Winter Weather Loss ($/year): {props.get('WNTW_EALT', 'N/A')}\n"
+                f"Annual Winter Weather Loss (Percentile): {props.get('WNTW_EALS', 'N/A')}\n"
             )
 
             api_key_input = st.text_input("Enter your OpenAI API key:", type="password", key="county_api_key")

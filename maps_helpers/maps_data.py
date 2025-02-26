@@ -260,6 +260,89 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
     merged_counties_gdf = counties_gdf_caps.merge(nri_df, left_on="FIPS", right_on="STCOFIPS", how="left")
     return merged_states_gdf, merged_counties_gdf
 
+def merge_fema_data(states_gdf_caps, counties_gdf_caps):
+    """
+    Merge the FEMA data with the state and county GeoDataFrames.
+    """
+    fema_df = pd.read_csv("data/fema_data.csv")
+
+    grouped_counties = fema_df.groupby("STCOFIPS").agg(
+        RISK_SCORE=("RISK_SCORE", "mean"),
+        RISK_SPCTL=("RISK_SPCTL", "mean"),
+        EAL_VALT=("EAL_VALT", "mean"),
+        SOVI_SCORE=("SOVI_SCORE", "mean"),
+        RESL_SCORE=("RESL_SCORE", "mean"),
+        AVLN_EALS=("AVLN_EALS", "mean"),
+        AVLN_EALT=("AVLN_EALT", "mean"),
+        CFLD_EALS=("CFLD_EALS", "mean"),
+        CFLD_EALT=("CFLD_EALT", "mean"),
+        CWAV_EALS=("CWAV_EALS", "mean"),
+        CWAV_EALT=("CWAV_EALT", "mean"),
+        DRGT_EALS=("DRGT_EALS", "mean"),
+        DRGT_EALT=("DRGT_EALT", "mean"),
+        HAIL_EALS=("HAIL_EALS", "mean"),
+        HAIL_EALT=("HAIL_EALT", "mean"),
+        HWAV_EALS=("HWAV_EALS", "mean"),
+        HWAV_EALT=("HWAV_EALT", "mean"),
+        HRCN_EALS=("HRCN_EALS", "mean"),
+        HRCN_EALT=("HRCN_EALT", "mean"),
+        IST_EALS=("ISTM_EALS", "mean"),
+        IST_EALT=("ISTM_EALT", "mean"),
+        LNDS_EALS=("LNDS_EALS", "mean"),
+        LNDS_EALT=("LNDS_EALT", "mean"),
+        RFLD_EALS=("RFLD_EALS", "mean"),
+        RFLD_EALT=("RFLD_EALT", "mean"),
+        SWND_EALS=("SWND_EALS", "mean"),
+        SWND_EALT=("SWND_EALT", "mean"),
+        TRND_EALS=("TRND_EALS", "mean"),
+        TRND_EALT=("TRND_EALT", "mean"),
+        WFIR_EALS=("WFIR_EALS", "mean"),
+        WFIR_EALT=("WFIR_EALT", "mean"),
+        WNTW_EALS=("WNTW_EALS", "mean"),
+        WNTW_EALT=("WNTW_EALT", "mean")
+        ).round(2)
+
+    grouped_states = fema_df.groupby("STATEABBRV").agg(
+        RISK_SCORE=("RISK_SCORE", "mean"),
+        RISK_SPCTL=("RISK_SPCTL", "mean"),
+        EAL_VALT=("EAL_VALT", "mean"),
+        SOVI_SCORE=("SOVI_SCORE", "mean"),
+        RESL_SCORE=("RESL_SCORE", "mean"),
+        AVLN_EALS=("AVLN_EALS", "mean"),
+        AVLN_EALT=("AVLN_EALT", "mean"),
+        CFLD_EALS=("CFLD_EALS", "mean"),
+        CFLD_EALT=("CFLD_EALT", "mean"),
+        CWAV_EALS=("CWAV_EALS", "mean"),
+        CWAV_EALT=("CWAV_EALT", "mean"),
+        DRGT_EALS=("DRGT_EALS", "mean"),
+        DRGT_EALT=("DRGT_EALT", "mean"),
+        HAIL_EALS=("HAIL_EALS", "mean"),
+        HAIL_EALT=("HAIL_EALT", "mean"),
+        HWAV_EALS=("HWAV_EALS", "mean"),
+        HWAV_EALT=("HWAV_EALT", "mean"),
+        HRCN_EALS=("HRCN_EALS", "mean"),
+        HRCN_EALT=("HRCN_EALT", "mean"),
+        IST_EALS=("ISTM_EALS", "mean"),
+        IST_EALT=("ISTM_EALT", "mean"),
+        LNDS_EALS=("LNDS_EALS", "mean"),
+        LNDS_EALT=("LNDS_EALT", "mean"),
+        RFLD_EALS=("RFLD_EALS", "mean"),
+        RFLD_EALT=("RFLD_EALT", "mean"),
+        SWND_EALS=("SWND_EALS", "mean"),
+        SWND_EALT=("SWND_EALT", "mean"),
+        TRND_EALS=("TRND_EALS", "mean"),
+        TRND_EALT=("TRND_EALT", "mean"),
+        WFIR_EALS=("WFIR_EALS", "mean"),
+        WFIR_EALT=("WFIR_EALT", "mean"),
+        WNTW_EALS=("WNTW_EALS", "mean"),
+        WNTW_EALT=("WNTW_EALT", "mean")
+        ).round(2)
+    
+    merged_counties_gdf = counties_gdf_caps.merge(grouped_counties, left_on="FIPS", right_on="STCOFIPS", how="left")
+    merged_states_gdf = states_gdf_caps.merge(grouped_states, left_on="STATE_ABBR", right_on="STATEABBRV", how="left")
+
+    return merged_states_gdf, merged_counties_gdf
+
 if __name__ == "__main__":
     # Fetch and process Census data
     state_df = fetch_state_data()
@@ -272,6 +355,8 @@ if __name__ == "__main__":
     counties_gdf_caps = load_and_merge_caps_county(counties_gdf)
 
     states_gdf_caps, counties_gdf_caps = merge_nri_data(states_gdf_caps, counties_gdf_caps)
+
+    states_gdf_caps, counties_gdf_caps = merge_fema_data(states_gdf_caps, counties_gdf_caps)
 
     city_mapping_df = load_city_mapping()
     city_plans_df = load_city_plans()
