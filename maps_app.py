@@ -136,6 +136,21 @@ def answer_question_state(api_key, user_input, extra_context, plan_list, state_a
         retrieved_chunks = retriever.invoke(user_input)
         all_retrieved_chunks.extend(retrieved_chunks)
     
+    combined_vectorstore_path = "Combined_Summary_Vectorstore"
+    try:
+        embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+        combined_vector_store = FAISS.load_local(
+            combined_vectorstore_path,
+            embedding_model,
+            allow_dangerous_deserialization=True
+        )
+    except Exception as e:
+        st.error(f"Error loading combined vector store: {e}")
+
+    combined_retriever = combined_vector_store.as_retriever(search_kwargs={"k": 5})
+    combined_retrieved_chunks = combined_retriever.invoke(user_input)
+    all_retrieved_chunks.extend(combined_retrieved_chunks)
+
     # Wrap extra context as a Document and append.
     all_retrieved_chunks.append(Document(page_content=extra_context))
 
@@ -194,6 +209,21 @@ def answer_question_county(api_key, user_input, extra_context, plan_list, state_
         retrieved_chunks = retriever.invoke(user_input)
         all_retrieved_chunks.extend(retrieved_chunks)
     
+    combined_vectorstore_path = "Combined_Summary_Vectorstore"
+    try:
+        embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+        combined_vector_store = FAISS.load_local(
+            combined_vectorstore_path,
+            embedding_model,
+            allow_dangerous_deserialization=True
+        )
+    except Exception as e:
+        st.error(f"Error loading combined vector store: {e}")
+
+    combined_retriever = combined_vector_store.as_retriever(search_kwargs={"k": 5})
+    combined_retrieved_chunks = combined_retriever.invoke(user_input)
+    all_retrieved_chunks.extend(combined_retrieved_chunks)
+
     # Wrap extra context as a Document and append.
     all_retrieved_chunks.append(Document(page_content=extra_context))
 
