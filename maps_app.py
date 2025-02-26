@@ -275,7 +275,7 @@ with tab_state:
                 st.write("**Mid-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
                 st.write("**Late-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
 
-            with st.expander("FEMA Risk Scores:"):
+            with st.expander("FEMA Risk Profile:"):
                 st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
                 st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
                 st.write("**Social Vulnerability (Percentile):**", props.get("SOVI_SCORE", "N/A"))
@@ -334,7 +334,7 @@ with tab_state:
                 f"Late-Century Extreme Heat Risk (Percentile): {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
                 f"Mid-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
                 f"Late-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
-                f"FEMA Risk Scores:\n"
+                f"FEMA Risk Profile:\n"
                 f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
                 f"Disaster Loss ($/year): {props.get('EAL_VALT', 'N/A')}\n"
                 f"Social Vulnerability (Percentile): {props.get('SOVI_SCORE', 'N/A')}\n"
@@ -475,7 +475,7 @@ with tab_county:
                 st.write("**Extreme Heat Mid-Century Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
                 st.write("**Extreme Heat Late-Century Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
             
-            with st.expander("#### FEMA Risk Scores:"):
+            with st.expander("#### FEMA Risk Profile:"):
                 st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
                 st.write("**Disaster Risk (Percentile, relative to state):**", props.get("RISK_SPCTL", "N/A"))
                 st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
@@ -536,7 +536,7 @@ with tab_county:
                 f"Extreme Heat Late-Century Projected Risk: {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
                 f"Extreme Heat Mid-Century Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
                 f"Extreme Heat Late-Century Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
-                f"FEMA Risk Scores:\n"
+                f"FEMA Risk Profile:\n"
                 f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
                 f"Disaster Risk (Percentile, relative to state): {props.get('RISK_SPCTL', 'N/A')}\n"
                 f"Disaster Loss ($/year): {props.get('EAL_VALT', 'N/A')}\n"
