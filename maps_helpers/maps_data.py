@@ -226,7 +226,9 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
                      "DRGT_MID_HIGHER_PRISKS", "DRGT_LATE_HIGHER_PRISKS",
                      "DRGT_MID_HIGHER_HM", "DRGT_LATE_HIGHER_HM",
                      "HRCN_MID_HIGHER_PRISKS", "HRCN_LATE_HIGHER_PRISKS",
-                     "HRCN_MID_HIGHER_HM", "HRCN_LATE_HIGHER_HM"]].round(2)
+                     "HRCN_MID_HIGHER_HM", "HRCN_LATE_HIGHER_HM", 
+                     "EXHT_L95_MID_HIGHER_PRISKS", "EXHT_L95_LATE_HIGHER_PRISKS",
+                     "EXHT_L95_MID_HIGHER_HM", "EXHT_L95_LATE_HIGHER_HM"]].round(2)
     
     grouped_states = nri_df.groupby("STATE").agg(
         CFLD_MID_HIGHER_PRISKS=("CFLD_MID_HIGHER_PRISKS", "mean"),
@@ -245,6 +247,10 @@ def merge_nri_data(states_gdf_caps, counties_gdf_caps):
         HRCN_LATE_HIGHER_PRISKS=("HRCN_LATE_HIGHER_PRISKS", "mean"),
         HRCN_MID_HIGHER_HM=("HRCN_MID_HIGHER_HM", "mean"),
         HRCN_LATE_HIGHER_HM=("HRCN_LATE_HIGHER_HM", "mean"),
+        EXHT_L95_MID_HIGHER_PRISKS=("EXHT_L95_MID_HIGHER_PRISKS", "mean"),
+        EXHT_L95_LATE_HIGHER_PRISKS=("EXHT_L95_LATE_HIGHER_PRISKS", "mean"),
+        EXHT_L95_MID_HIGHER_HM=("EXHT_L95_MID_HIGHER_HM", "mean"),
+        EXHT_L95_LATE_HIGHER_HM=("EXHT_L95_LATE_HIGHER_HM", "mean"),
     ).round(2)
     
     counties_gdf_caps['FIPS'] = pd.to_numeric(counties_gdf_caps['FIPS'], errors='coerce').fillna(0).astype(int)
