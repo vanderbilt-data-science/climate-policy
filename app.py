@@ -12,6 +12,9 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain.chains import create_history_aware_retriever, create_retrieval_chain
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.messages import HumanMessage, AIMessage
 
 # Function to remove code block markers from the answer
 def remove_code_blocks(text):
@@ -465,12 +468,13 @@ st.title("Climate Policy Analysis Tool")
 api_key = st.text_input("Enter your OpenAI API key:", type="password", key="openai_key")
 
 # Create tabs
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "Summary Generation",
     "Multi-Plan QA (Shared Vectorstore)",
     "Multi-Plan QA (Multi-Vectorstore)",
     "Plan Comparison Tool",
-    "Plan Comparison with Long Context Model"
+    "Plan Comparison with Long Context Model", 
+    "Plan Analysis Chatbot with Conversation History"
 ])
 
 # First tab: Summary Generation
@@ -730,3 +734,164 @@ with tab5:
                     )
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
+
+
+
+
+
+
+
+
+
+# Sixth tab: Plan Analysis with Conversation History
+
+# Function to perform question and answering with a document
+def question_answer(api_key, focus_input, user_input):
+    """
+    Queries a single document (uploaded file or vector store) to answer a question.
+
+    Args:
+        api_key (str): OpenAI API key.
+        focus_input: Focus document (uploaded file or path to vector store).
+        user_input (str): The question to ask.
+
+    Returns:
+        str: The model's answer to the input question.
+    """
+    os.environ["OPENAI_API_KEY"] = api_key
+
+    # Create retriever
+    if isinstance(focus_input, st.runtime.uploaded_file_manager.UploadedFile):
+        docs = load_documents_from_pdf(focus_input)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
+        splits = text_splitter.split_documents(docs)
+        vector_store = FAISS.from_documents(splits, OpenAIEmbeddings(model="text-embedding-3-large"))
+    else:
+        vector_store = load_vector_store_from_path(focus_input)
+        retriever = vector_store.as_retriever(search_kwargs={"k": 5})
+        # Retrieve relevant chunks for the input text
+        retrieved_chunks = retriever.invoke(input_text)    
+
+    # Load system prompt
+    prompt_path = "Prompts/multi_document_qa_system_prompt.md"
+    if os.path.exists(prompt_path):
+        with open(prompt_path, "r") as file:
+            system_prompt = file.read()
+    else:
+        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
+
+    # Create conversation RAG chain
+    llm = ChatOpenAI(model="gpt-4o")
+
+    history_prompt = ChatPromptTemplate.from_messages([
+        ("system", system_prompt),
+        MessagesPlaceholder(variable_name="chat_history"),
+        ("human", "{input}")
+    ])
+
+    history_retriever_chain = create_history_aware_retriever(llm, retriever, history_prompt)
+
+    answer_prompt = ChatPromptTemplate.from_messages([
+        ("system", "Answer the user's questions based on the below context:\n\n{context}"),
+        MessagesPlaceholder(variable_name="chat_history"),
+        ("human", "{input}")
+    ])
+
+    document_chain = create_stuff_documents_chain(llm, answer_prompt)
+    conversation_rag_chain = create_retrieval_chain(history_retriever_chain, document_chain)
+
+    # Invoke the model
+    response = conversation_rag_chain.invoke({
+        "chat_history": st.session_state.get("chat_history", []),
+        "input": user_input,
+        "context": retrieved_chunks
+    })
+
+    return response["answer"]
+
+# Function to list vector store documents
+def list_vector_store_documents():
+    """
+    Lists available vector store documents.
+
+    Returns:
+        list: List of document names.
+    """
+    directory_path = "Individual_All_Vectorstores"
+    if not os.path.exists(directory_path):
+        raise FileNotFoundError(
+            f"The directory '{directory_path}' does not exist. "
+            "Run `create_and_save_individual_vector_stores()` to create it."
+        )
+    documents = [
+        f.replace("_vectorstore", "").replace("_", " ")
+        for f in os.listdir(directory_path)
+        if f.endswith("_vectorstore")
+    ]
+    return documents
+
+# Sixth Tab: Plan Analysis with Conversation History
+with tab6:
+    st.header("Document Q&A Tool")
+
+    # List of documents from vector stores
+    vectorstore_documents = list_vector_store_documents()
+
+    # Option to upload a new plan or select from existing vector stores
+    focus_option = st.radio(
+        "Choose a focus plan:",
+        ("Select from existing vector stores", "Upload a new plan"),
+        key="focus_option_qa"
+    )
+
+    if focus_option == "Upload a new plan":
+        focus_uploaded_file = st.file_uploader(
+            "Upload a Climate Action Plan to compare",
+            type="pdf",
+            key="focus_upload_qa"
+        )
+        focus_input = focus_uploaded_file if focus_uploaded_file else None
+    else:
+        selected_focus_plan = st.selectbox(
+            "Select a focus plan:",
+            vectorstore_documents,
+            key="select_focus_plan_qa"
+        )
+        focus_input = os.path.join(
+            "Individual_All_Vectorstores",
+            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
+        )
+
+
+    
+    #Display previous questions and inputs
+    if "chat_history" in st.session_state:
+        for message in st.session_state.chat_history:
+            role = "assistant" if isinstance(message, AIMessage) else "user"
+            st.chat_message(role).markdown(message.content)
+
+    user_input = st.chat_input("Ask a question") 
+    
+    # Chat input for new question
+    if user_input:
+        if "chat_history" not in st.session_state:
+            st.session_state.chat_history = []
+            
+        if api_key and focus_input:
+            st.session_state.chat_history.append(HumanMessage(content=user_input))  # User input
+            st.chat_message("user").markdown(user_input) #display User input first
+            
+            with st.spinner("Processing..."):
+                #generating response with AI
+                answer = question_answer(api_key, focus_input, user_input)
+
+                # Display the new AI response
+                st.session_state.chat_history.append(AIMessage(content=answer))
+                # Append AI response to chat history
+                st.chat_message("assistant").markdown(answer)
+     
+        else:
+            st.warning("Please provide your OpenAI API key and select a focus plan.")
+
+
+    
