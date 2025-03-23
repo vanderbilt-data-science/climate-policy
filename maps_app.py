@@ -3,6 +3,8 @@ import streamlit as st
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
+import base64
+import streamlit.components.v1 as components
 
 from langchain.docstore.document import Document
 from langchain_core.prompts import ChatPromptTemplate
@@ -249,7 +251,30 @@ with tab_state:
             with st.expander("Cities with Climate Action Plans:"):
                 if plan_list:
                     for plan in plan_list:
-                        st.write(plan)
+                        # Extract city, year, and plan type from the plan string
+                        parts = plan.split(", ")
+                        if len(parts) == 3:
+                            city, year, plan_type = parts
+                            # Construct the PDF filename
+                            pdf_filename = f"{city}, {state_abbr} {plan_type} {year}.pdf"
+                            pdf_path = os.path.join("CAPS", pdf_filename)
+                            
+                            # Create a row with the plan name and button
+                            col1, col2 = st.columns([4, 1])
+                            with col1:
+                                st.write(plan)
+                            with col2:
+                                if os.path.exists(pdf_path):
+                                    with open(pdf_path, "rb") as pdf_file:
+                                        pdf_bytes = pdf_file.read()
+                                    st.download_button(
+                                        label="Open",
+                                        data=pdf_bytes,
+                                        file_name=pdf_filename,
+                                        mime="application/pdf"
+                                    )
+                                else:
+                                    st.button("Open", disabled=True, help="PDF not available")
                 else:
                     st.write("None")
             
@@ -470,7 +495,30 @@ with tab_county:
             with st.expander("#### Cities with Climate Action Plans:"):
                 if plan_list:
                     for plan in plan_list:
-                        st.write(plan)
+                        # Extract city, year, and plan type from the plan string
+                        parts = plan.split(", ")
+                        if len(parts) == 3:
+                            city, year, plan_type = parts
+                            # Construct the PDF filename
+                            pdf_filename = f"{city}, {state_abbr} {plan_type} {year}.pdf"
+                            pdf_path = os.path.join("CAPS", pdf_filename)
+                            
+                            # Create a row with the plan name and button
+                            col1, col2 = st.columns([4, 1])
+                            with col1:
+                                st.write(plan)
+                            with col2:
+                                if os.path.exists(pdf_path):
+                                    with open(pdf_path, "rb") as pdf_file:
+                                        pdf_bytes = pdf_file.read()
+                                    st.download_button(
+                                        label="Open",
+                                        data=pdf_bytes,
+                                        file_name=pdf_filename,
+                                        mime="application/pdf"
+                                    )
+                                else:
+                                    st.button("Open", disabled=True, help="PDF not available")
                 else:
                     st.write("None")
             
