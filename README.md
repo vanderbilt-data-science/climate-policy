@@ -33,18 +33,17 @@ Fall 2024 (September through December 2024 intially)
 This repository contains code for three main components: 
 
 1. Data ingestion and processing portal
-2. Climate Action Plan QA Tool
-3. Climate Action Plan Maps Tool
+2. Climate Action Plan Tracker
 
-Both the QA and Maps tools are hosted on Streamlit Cloud as well as HuggingFace Spaces. They may also be run locally. The data ingestion and processing portal is designed to be run locally. 
+The Climate Action Plan Tracker is hosted on Streamlit Cloud as well as HuggingFace Spaces. It may also be run locally. The data ingestion and processing portal is designed to be run locally only. 
+
+The repository also contains batch scripts. Run these scripts in the scenario where no data (Climate Action Plan Summaries, Vectorstores, and Dataset).
 
 Users can run the tools using the following commands:
 
 ```streamlit run data_ingestion_app.py``` to run the data ingestion and processing portal
 
-```streamlit run app.py``` to run the QA tool
-
-```streamlit run maps_app.py``` to run the maps tool
+```streamlit run app.py``` to run the tool
 
 #### ```/data``` contains all the externald data sources used in the maps tool
 
@@ -56,7 +55,7 @@ Users can run the tools using the following commands:
 4. Creates the vector stores of the Climate Action Plan used in the QA tool (Individual, Summary and Combined Vector Stores)
 5. Queries an LLM to update the climate actions plans dataset in climate_actions_plans.csv
 6. Updates the CAPS plans list in caps_plans.csv
-7. Re-runs the maps_data.py script to update the data powering the maps tool
+7. Re-runs the maps_data.py script to update the data powering the maps part of the tool
 
 #### ```/batch_scripts``` contains scripts that can be run to batch process CAPs. 
 

@@ -1,495 +1,96 @@
 import os
 import re
-import streamlit as st
 from tempfile import NamedTemporaryFile
+
+import streamlit as st
+import pandas as pd
+import folium
+from streamlit_folium import st_folium
 import anthropic
 
-# Import necessary modules from LangChain
-from langchain.chains import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from langchain_community.vectorstores import FAISS
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain.chains import create_history_aware_retriever, create_retrieval_chain
+# Import all helper functions from app_helpers.py
+from app_helpers import *
+
+# Import necessary modules from LangChain and its community extensions
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
-
-# Function to remove code block markers from the answer
-def remove_code_blocks(text):
-    """
-    Removes code block markers from the answer text.
-
-    Args:
-        text (str): The text from which code block markers should be removed.
-
-    Returns:
-        str: The text without code block markers.
-    """
-    code_block_pattern = r"^```(?:\w+)?\n(.*?)\n```$"
-    match = re.match(code_block_pattern, text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    else:
-        return text
-
-# Function to process PDF, run Q&A, and return results
-def process_pdf(api_key, uploaded_file, questions_path, prompt_path, display_placeholder):
-    """
-    Processes a PDF file, runs Q&A, and returns the results.
-
-    Args:
-        api_key (str): OpenAI API key.
-        uploaded_file: Uploaded PDF file.
-        questions_path (str): Path to the questions file.
-        prompt_path (str): Path to the system prompt file.
-        display_placeholder: Streamlit placeholder for displaying results.
-
-    Returns:
-        list: List of QA results.
-    """
-    # Set the OpenAI API key
-    os.environ["OPENAI_API_KEY"] = api_key
-
-    # Save the uploaded PDF to a temporary file
-    with NamedTemporaryFile(delete=False, suffix=".pdf") as temp_pdf:
-        temp_pdf.write(uploaded_file.read())
-        temp_pdf_path = temp_pdf.name
-
-    # Load and split the PDF into documents
-    loader = PyPDFLoader(temp_pdf_path)
-    docs = loader.load()
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
-    splits = text_splitter.split_documents(docs)
-
-    # Create a vector store from the documents
-    vectorstore = FAISS.from_documents(
-        documents=splits,
-        embedding=OpenAIEmbeddings(model="text-embedding-3-large")
-    )
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
-
-    # Load the system prompt
-    if os.path.exists(prompt_path):
-        with open(prompt_path, "r") as file:
-            system_prompt = file.read()
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
-
-    # Create the prompt template
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            ("system", system_prompt),
-            ("human", "{input}"),
-        ]
-    )
-
-    # Initialize the language model
-    llm = ChatOpenAI(model="gpt-4o")
-
-    # Create the question-answering chain
-    question_answer_chain = create_stuff_documents_chain(
-        llm, prompt, document_variable_name="context"
-    )
-    rag_chain = create_retrieval_chain(retriever, question_answer_chain)
-
-    # Load the questions
-    if os.path.exists(questions_path):
-        with open(questions_path, "r") as file:
-            questions = [line.strip() for line in file.readlines() if line.strip()]
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {questions_path}")
-
-    # Process each question
-    qa_results = []
-    for question in questions:
-        result = rag_chain.invoke({"input": question})
-        answer = result["answer"]
-
-        # Remove code block markers
-        answer = remove_code_blocks(answer)
-
-        qa_text = f"### Question: {question}\n**Answer:**\n{answer}\n"
-        qa_results.append(qa_text)
-        display_placeholder.markdown("\n".join(qa_results), unsafe_allow_html=True)
-
-    # Clean up temporary PDF file
-    os.remove(temp_pdf_path)
-
-    return qa_results
-
-# Function to perform multi-plan QA using an existing vector store
-def process_multi_plan_qa(api_key, input_text, display_placeholder):
-    """
-    Performs multi-plan QA using an existing shared vector store.
-
-    Args:
-        api_key (str): OpenAI API key.
-        input_text (str): The question to ask.
-        display_placeholder: Streamlit placeholder for displaying results.
-    """
-    # Set the OpenAI API key
-    os.environ["OPENAI_API_KEY"] = api_key
-
-    # Load the existing vector store
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-    vector_store = FAISS.load_local(
-        "Combined_Summary_Vectorstore",
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
-
-    # Convert the vector store to a retriever
-    retriever = vector_store.as_retriever(search_kwargs={"k": 50})
-
-    # Read the system prompt for multi-document QA
-    prompt_path = "Prompts/multi_document_qa_system_prompt.md"
-    if os.path.exists(prompt_path):
-        with open(prompt_path, "r") as file:
-            system_prompt = file.read()
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
-
-    # Create the prompt template
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            ("system", system_prompt),
-            ("human", "{input}"),
-        ]
-    )
-
-    # Create the question-answering chain
-    llm = ChatOpenAI(model="gpt-4o")
-    question_answer_chain = create_stuff_documents_chain(
-        llm, prompt, document_variable_name="context"
-    )
-    rag_chain = create_retrieval_chain(retriever, question_answer_chain)
-
-    # Process the input text
-    result = rag_chain.invoke({"input": input_text})
-    answer = result["answer"]
-
-    # Display the answer
-    display_placeholder.markdown(f"**Answer:**\n{answer}")
-
-# Function to perform multi-plan QA using multiple individual vector stores
-def process_multi_plan_qa_multi_vectorstore(api_key, input_text, display_placeholder):
-    """
-    Performs multi-plan QA using multiple individual vector stores.
-
-    Args:
-        api_key (str): OpenAI API key.
-        input_text (str): The question to ask.
-        display_placeholder: Streamlit placeholder for displaying results.
-    """
-    # Set the OpenAI API key
-    os.environ["OPENAI_API_KEY"] = api_key
-
-    # Directory containing individual vector stores
-    vectorstore_directory = "Individual_Summary_Vectorstores"
-
-    # List all vector store directories
-    vectorstore_names = [
-        d for d in os.listdir(vectorstore_directory)
-        if os.path.isdir(os.path.join(vectorstore_directory, d))
-    ]
-
-    # Initialize a list to collect all retrieved chunks
-    all_retrieved_chunks = []
-
-    # Process each vector store
-    for vectorstore_name in vectorstore_names:
-        vectorstore_path = os.path.join(vectorstore_directory, vectorstore_name)
-
-        # Load the vector store
-        embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-        vector_store = FAISS.load_local(
-            vectorstore_path,
-            embeddings,
-            allow_dangerous_deserialization=True
-        )
-
-        # Convert the vector store to a retriever
-        retriever = vector_store.as_retriever(search_kwargs={"k": 2})
-
-        # Retrieve relevant chunks for the input text
-        retrieved_chunks = retriever.invoke(input_text)
-        all_retrieved_chunks.extend(retrieved_chunks)
-
-    # Read the system prompt for multi-document QA
-    prompt_path = "Prompts/multi_document_qa_system_prompt.md"
-    if os.path.exists(prompt_path):
-        with open(prompt_path, "r") as file:
-            system_prompt = file.read()
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
-
-    # Create the prompt template
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            ("system", system_prompt),
-            ("human", "{input}"),
-        ]
-    )
-
-    # Create the question-answering chain
-    llm = ChatOpenAI(model="gpt-4o")
-    question_answer_chain = create_stuff_documents_chain(
-        llm, prompt, document_variable_name="context"
-    )
-
-    # Process the combined context
-    result = question_answer_chain.invoke({
-        "input": input_text,
-        "context": all_retrieved_chunks
-    })
-
-    # Display the answer
-    answer = result["answer"] if "answer" in result else result
-    display_placeholder.markdown(f"**Answer:**\n{answer}")
-
-def load_documents_from_pdf(file):
-    """
-    Loads documents from a PDF file.
-
-    Args:
-        file: Uploaded PDF file.
-
-    Returns:
-        list: List of documents.
-    """
-    # Check if the file is a PDF
-    if not file.name.endswith('.pdf'):
-        raise ValueError("The uploaded file is not a PDF. Please upload a PDF file.")
-
-    with NamedTemporaryFile(delete=False, suffix=".pdf") as temp_pdf:
-        temp_pdf.write(file.read())
-        temp_pdf_path = temp_pdf.name
-
-    loader = PyPDFLoader(temp_pdf_path)
-    docs = loader.load()
-    os.remove(temp_pdf_path)
-    return docs
-
-def load_vector_store_from_path(path):
-    """
-    Loads a vector store from a given path.
-
-    Args:
-        path (str): Path to the vector store.
-
-    Returns:
-        FAISS: Loaded vector store.
-    """
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-    return FAISS.load_local(
-        path,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
-
-# Function to compare documents via one-to-many query approach
-def process_one_to_many_query(api_key, focus_input, comparison_inputs, input_text, display_placeholder):
-    """
-    Compares a focus document against multiple comparison documents using a one-to-many query approach.
-
-    Args:
-        api_key (str): OpenAI API key.
-        focus_input: Focus document (uploaded file or path to vector store).
-        comparison_inputs: List of comparison documents (uploaded files or paths to vector stores).
-        input_text (str): The comparison question to ask.
-        display_placeholder: Streamlit placeholder for displaying results.
-    """
-    # Set the OpenAI API key
-    os.environ["OPENAI_API_KEY"] = api_key
-    print(comparison_inputs)
-    # Load focus documents or vector store
-    if isinstance(focus_input, st.runtime.uploaded_file_manager.UploadedFile):
-        # If focus_input is an uploaded PDF file
-        focus_docs = load_documents_from_pdf(focus_input)
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
-        focus_splits = text_splitter.split_documents(focus_docs)
-        focus_vector_store = FAISS.from_documents(
-            focus_splits,
-            OpenAIEmbeddings(model="text-embedding-3-large")
-        )
-        focus_retriever = focus_vector_store.as_retriever(search_kwargs={"k": 5})
-    elif isinstance(focus_input, str) and os.path.isdir(focus_input):
-        # If focus_input is a path to a vector store
-        focus_vector_store = load_vector_store_from_path(focus_input)
-        focus_retriever = focus_vector_store.as_retriever(search_kwargs={"k": 5})
-    else:
-        raise ValueError("Invalid focus input type. Must be a PDF file or a path to a vector store.")
-
-    # Retrieve relevant chunks from the focus document
-    focus_docs = focus_retriever.invoke(input_text)
-
-    # Initialize list to collect comparison chunks
-    comparison_chunks = []
-    for comparison_input in comparison_inputs:
-        if isinstance(comparison_input, st.runtime.uploaded_file_manager.UploadedFile):
-            # If comparison_input is an uploaded PDF file
-            comparison_docs = load_documents_from_pdf(comparison_input)
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=500)
-            comparison_splits = text_splitter.split_documents(comparison_docs)
-            comparison_vector_store = FAISS.from_documents(
-                comparison_splits,
-                OpenAIEmbeddings(model="text-embedding-3-large")
-            )
-            comparison_retriever = comparison_vector_store.as_retriever(search_kwargs={"k": 5})
-        elif isinstance(comparison_input, str) and os.path.isdir(comparison_input):
-            # If comparison_input is a path to a vector store
-            comparison_vector_store = load_vector_store_from_path(comparison_input)
-            comparison_retriever = comparison_vector_store.as_retriever(search_kwargs={"k": 5})
-        else:
-            raise ValueError("Invalid comparison input type. Must be a PDF file or a path to a vector store.")
-
-        # Retrieve relevant chunks from the comparison document
-        comparison_docs = comparison_retriever.invoke(input_text)
-        comparison_chunks.extend(comparison_docs)
-
-    # Construct the combined context
-    combined_context = focus_docs + comparison_chunks
-
-    # Read the system prompt
-    prompt_path = "Prompts/comparison_prompt.md"
-    if os.path.exists(prompt_path):
-        with open(prompt_path, "r") as file:
-            system_prompt = file.read()
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
-
-    # Create the prompt template
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            ("system", system_prompt),
-            ("human", "{input}")
-        ]
-    )
-
-    # Create the question-answering chain
-    llm = ChatOpenAI(model="gpt-4o")
-    question_answer_chain = create_stuff_documents_chain(
-        llm,
-        prompt,
-        document_variable_name="context"
-    )
-
-    # Process the combined context
-    result = question_answer_chain.invoke({
-        "context": combined_context,
-        "input": input_text
-    })
-
-    # Display the answer
-    answer = result["answer"] if "answer" in result else result
-    display_placeholder.markdown(f"**Answer:**\n{answer}")
-
-# Function to list vector store documents
-def list_vector_store_documents():
-    """
-    Lists available vector store documents.
-
-    Returns:
-        list: List of document names.
-    """
-    # Assuming documents are stored in the "Individual_All_Vectorstores" directory
-    directory_path = "Individual_All_Vectorstores"
-    if not os.path.exists(directory_path):
-        raise FileNotFoundError(
-            f"The directory '{directory_path}' does not exist. "
-            "Run `create_and_save_individual_vector_stores()` to create it."
-        )
-    # List all available vector stores by document name
-    documents = [
-        f.replace("_vectorstore", "").replace("_", " ")
-        for f in os.listdir(directory_path)
-        if f.endswith("_vectorstore")
-    ]
-    return documents
-
-# Function to compare plans using a long context model
-def compare_with_long_context(api_key, anthropic_api_key, input_text, focus_plan_path, selected_summaries, display_placeholder):
-    """
-    Compares plans using a long context model.
-
-    Args:
-        api_key (str): OpenAI API key.
-        anthropic_api_key (str): Anthropic API key.
-        input_text (str): The comparison question to ask.
-        focus_plan_path: Path to the focus plan or uploaded file.
-        selected_summaries (list): List of selected summary documents.
-        display_placeholder: Streamlit placeholder for displaying results.
-    """
-    # Set the API keys
-    os.environ["OPENAI_API_KEY"] = api_key
-    os.environ["ANTHROPIC_API_KEY"] = anthropic_api_key
-
-    # Load focus documents
-    if isinstance(focus_plan_path, st.runtime.uploaded_file_manager.UploadedFile):
-        # If focus_plan_path is an uploaded file
-        focus_docs = load_documents_from_pdf(focus_plan_path)
-    elif isinstance(focus_plan_path, str):
-        # If focus_plan_path is a file path
-        focus_loader = PyPDFLoader(focus_plan_path)
-        focus_docs = focus_loader.load()
-    else:
-        raise ValueError("Invalid focus plan input type. Must be an uploaded file or a file path.")
-
-    # Concatenate selected summary documents
-    summaries_directory = "CAPS_Summaries"
-    summaries_content = ""
-    for filename in selected_summaries:
-        # Fix the filename by replacing ' Summary' with '_Summary'
-        summary_filename = f"{filename.replace(' Summary', '_Summary')}.md"
-        with open(os.path.join(summaries_directory, summary_filename), 'r') as file:
-            summaries_content += file.read() + "\n\n"
-
-    # Prepare the context
-    focus_context = "\n\n".join([doc.page_content for doc in focus_docs])
-
-    # Create the client and message
-    client = anthropic.Anthropic(api_key=anthropic_api_key)
-    response = client.completions.create(
-        model="claude-2",
-        max_tokens_to_sample=1024,
-        prompt=f"{input_text}\n\nFocus Document:\n{focus_context}\n\nSummaries:\n{summaries_content}"
-    )
-
-    # Display the answer
-    answer = response.completion
-    display_placeholder.markdown(f"**Answer:**\n{answer}", unsafe_allow_html=True)
-
-# Streamlit app layout with tabs
-st.title("Climate Policy Analysis Tool")
-
-# API Key Input
-api_key = st.text_input("Enter your OpenAI API key:", type="password", key="openai_key")
-
-# Create tabs
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain.chains import create_history_aware_retriever, create_retrieval_chain
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain.docstore.document import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
+from langchain_community.vectorstores import FAISS
+
+# ------------------------------------------------------------------------------
+# PAGE CONFIGURATION
+# ------------------------------------------------------------------------------
+st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
+
+# ------------------------------------------------------------------------------
+# LOAD DATA FILES
+# ------------------------------------------------------------------------------
+state_df = load_pickle_data("./maps_helpers/state_df.pkl")
+county_df = load_pickle_data("./maps_helpers/county_df.pkl")
+states_gdf = load_pickle_data("./maps_helpers/states_gdf_caps.pkl")
+counties_gdf = load_pickle_data("./maps_helpers/counties_gdf_caps.pkl")
+city_mapping_df = load_pickle_data("./maps_helpers/city_mapping_df.pkl")
+city_plans_df = load_pickle_data("./maps_helpers/city_plans_df.pkl")
+
+# ------------------------------------------------------------------------------
+# CONSTANTS & CONFIGURATIONS
+# ------------------------------------------------------------------------------
+REGION_COLORS = {
+    1: "#e41a1c",
+    2: "#377eb8",
+    3: "#4daf4a",
+    4: "#984ea3",
+    5: "#ff7f00",
+    6: "#ffff33",
+    7: "#a65628",
+    8: "#f781bf",
+    9: "#999999",
+    10: "#66c2a5"
+}
+
+st.title("Climate Policy Tracker")
+
+# ------------------------------------------------------------------------------
+# API KEYS INPUT
+# ------------------------------------------------------------------------------
+openai_api_key = st.text_input("OpenAI API Key", type="password")
+anthropic_api_key = st.text_input("Anthropic API Key", type="password")
+
+# ------------------------------------------------------------------------------
+# TABS SETUP
+# ------------------------------------------------------------------------------
+(summary_tab, multi_plan_qa_tab, document_qa_tab, plan_comparison_tab, 
+ state_tab, county_tab) = st.tabs([
     "Summary Generation",
-    "Multi-Plan QA (Shared Vectorstore)",
-    "Multi-Plan QA (Multi-Vectorstore)",
+    "Multi-Plan Q&A",
+    "Document Q&A Tool",
     "Plan Comparison Tool",
-    "Plan Comparison with Long Context Model", 
-    "Plan Analysis Chatbot with Conversation History"
+    "State-Level Policy Tracker",
+    "County-Level Policy Tracker",
 ])
 
-# First tab: Summary Generation
-with tab1:
+# ------------------------------------------------------------------------------
+# TAB 1: SUMMARY GENERATION
+# ------------------------------------------------------------------------------
+with summary_tab:
+    st.header("Summary Generation")
     uploaded_file = st.file_uploader(
         "Upload a Climate Action Plan in PDF format",
         type="pdf",
         key="upload_file"
     )
 
+    # Set file paths for prompt and questions
     prompt_file_path = "Prompts/summary_tool_system_prompt.md"
     questions_file_path = "Prompts/summary_tool_questions.md"
 
     if st.button("Generate", key="generate_button"):
-        if not api_key:
+        if not openai_api_key:
             st.warning("Please provide your OpenAI API key.")
         elif not uploaded_file:
             st.warning("Please upload a PDF file.")
@@ -497,8 +98,9 @@ with tab1:
             display_placeholder = st.empty()
             with st.spinner("Processing..."):
                 try:
-                    results = process_pdf(
-                        api_key,
+                    # Call the new summary_generation function
+                    results = summary_generation(
+                        openai_api_key,
                         uploaded_file,
                         questions_file_path,
                         prompt_file_path,
@@ -506,7 +108,7 @@ with tab1:
                     )
                     markdown_text = "\n".join(results)
 
-                    # Use the uploaded file's name for the download file
+                    # Use the uploaded file's base name for the download file
                     base_name = os.path.splitext(uploaded_file.name)[0]
                     download_file_name = f"{base_name}_Summary.md"
 
@@ -520,11 +122,25 @@ with tab1:
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
 
-# Second tab: Multi-Plan QA (Shared Vectorstore)
-with tab2:
+# ------------------------------------------------------------------------------
+# TAB 2: MULTI-PLAN Q&A
+# ------------------------------------------------------------------------------
+with multi_plan_qa_tab:
+    st.header("Multi-Plan Q&A")
+    st.markdown(
+        "This tool answers questions using information from all plans in the database. "
+        "Use it to answer general questions about the plans and their strategies. "
+        "For questions about a specific plan, use the Document Q&A Tool."
+    )
     input_text = st.text_input("Ask a question:", key="multi_plan_input")
+    st.markdown("### Search Method")
+    st.markdown(
+        "The **Efficient** method uses a single shared vector store across all plans. "
+        "The **Greedy** method uses multiple vector stores to retrieve the most relevant chunks for each plan."
+    )
+    search_method = st.radio("Select a search method: ", ["Efficient", "Greedy"])
     if st.button("Ask", key="multi_plan_qa_button"):
-        if not api_key:
+        if not openai_api_key:
             st.warning("Please provide your OpenAI API key.")
         elif not input_text:
             st.warning("Please enter a question.")
@@ -532,61 +148,101 @@ with tab2:
             display_placeholder2 = st.empty()
             with st.spinner("Processing..."):
                 try:
-                    process_multi_plan_qa(
-                        api_key,
-                        input_text,
-                        display_placeholder2
-                    )
+                    if search_method == "Efficient":
+                        # Call multi_plan_qa for the efficient (single vector store) method
+                        multi_plan_qa(
+                            openai_api_key,
+                            input_text,
+                            display_placeholder2
+                        )
+                    elif search_method == "Greedy":
+                        # Call multi_plan_qa_multi_vectorstore for the greedy (multiple vector stores) method
+                        multi_plan_qa_multi_vectorstore(
+                            openai_api_key,
+                            input_text,
+                            display_placeholder2
+                        )
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
 
-# Third tab: Multi-Plan QA (Multi-Vectorstore)
-with tab3:
-    user_input = st.text_input("Ask a question:", key="multi_vectorstore_input")
-    if st.button("Ask", key="multi_vectorstore_qa_button"):
-        if not api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not user_input:
-            st.warning("Please enter a question.")
-        else:
-            display_placeholder3 = st.empty()
-            with st.spinner("Processing..."):
-                try:
-                    process_multi_plan_qa_multi_vectorstore(
-                        api_key,
-                        user_input,
-                        display_placeholder3
-                    )
-                except Exception as e:
-                    st.error(f"An error occurred: {e}")
+# ------------------------------------------------------------------------------
+# TAB 3: DOCUMENT Q&A TOOL
+# ------------------------------------------------------------------------------
+with document_qa_tab:
+    st.header("Document Q&A Tool")
 
-# Fourth tab: Plan Comparison Tool
-with tab4:
-    st.header("Plan Comparison Tool")
-
-    # List of documents from vector stores
+    # Get list of existing vector store documents
     vectorstore_documents = list_vector_store_documents()
 
     # Option to upload a new plan or select from existing vector stores
     focus_option = st.radio(
         "Choose a focus plan:",
         ("Select from existing vector stores", "Upload a new plan"),
-        key="focus_option"
+        key="focus_option_qa"
     )
 
+    if focus_option == "Upload a new plan":
+        focus_uploaded_file = st.file_uploader(
+            "Upload a Climate Action Plan",
+            type="pdf",
+            key="focus_upload_qa"
+        )
+        focus_input = focus_uploaded_file if focus_uploaded_file else None
+    else:
+        selected_focus_plan = st.selectbox(
+            "Select a focus plan:",
+            vectorstore_documents,
+            key="select_focus_plan_qa"
+        )
+        focus_input = os.path.join(
+            "Individual_All_Vectorstores",
+            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
+        )
+
+    # Display previous conversation messages
+    if "chat_history" in st.session_state:
+        for message in st.session_state.chat_history:
+            role = "assistant" if isinstance(message, AIMessage) else "user"
+            st.chat_message(role).markdown(message.content)
+
+    user_input = st.chat_input("Ask a question")
+    if user_input:
+        if "chat_history" not in st.session_state:
+            st.session_state.chat_history = []
+        if openai_api_key and focus_input:
+            st.session_state.chat_history.append(HumanMessage(content=user_input))
+            st.chat_message("user").markdown(user_input)
+            with st.spinner("Processing..."):
+                # Call the new document_qa function
+                answer = document_qa(openai_api_key, focus_input, user_input)
+                st.session_state.chat_history.append(AIMessage(content=answer))
+                st.chat_message("assistant").markdown(answer)
+        else:
+            st.warning("Please provide your OpenAI API key and select a focus plan.")
+
+# ------------------------------------------------------------------------------
+# TAB 4: PLAN COMPARISON TOOL
+# ------------------------------------------------------------------------------
+with plan_comparison_tab:
+    st.header("Plan Comparison Tool")
+
+    # Get list of existing vector store documents for plans
+    vectorstore_documents = list_vector_store_documents()
+
+    # Option to upload a new plan or select from existing vector stores for focus
+    focus_option = st.radio(
+        "Choose a focus plan:",
+        ("Select from existing vector stores", "Upload a new plan"),
+        key="focus_option"
+    )
     if focus_option == "Upload a new plan":
         focus_uploaded_file = st.file_uploader(
             "Upload a Climate Action Plan to compare",
             type="pdf",
             key="focus_upload"
         )
-        if focus_uploaded_file is not None:
-            # Directly use the uploaded file
-            focus_input = focus_uploaded_file
-        else:
-            focus_input = None
+        focus_input = focus_uploaded_file if focus_uploaded_file is not None else None
     else:
-        # Select a focus plan from existing vector stores
         selected_focus_plan = st.selectbox(
             "Select a focus plan:",
             vectorstore_documents,
@@ -603,7 +259,6 @@ with tab4:
         ("Select from existing vector stores", "Upload new documents"),
         key="comparison_option"
     )
-
     if comparison_option == "Upload new documents":
         comparison_files = st.file_uploader(
             "Upload comparison documents",
@@ -613,7 +268,6 @@ with tab4:
         )
         comparison_inputs = comparison_files
     else:
-        # Select comparison documents from existing vector stores
         selected_comparison_plans = st.multiselect(
             "Select comparison documents:",
             vectorstore_documents,
@@ -626,13 +280,16 @@ with tab4:
             ) for doc in selected_comparison_plans
         ]
 
-    input_text = st.text_input(
-        "Ask a comparison question:",
-        key="comparison_input"
-    )
+    input_text = st.text_input("Ask a comparison question:", key="comparison_input")
 
+    st.markdown("### Model")
+    st.markdown(
+        "The **Standard (OpenAI)** model uses GPT-4o with RAG to answer questions. "
+        "The **Long Context Model (Anthropic)** uses Claude for answering questions without RAG."
+    )
+    search_method = st.radio("Select an approach: ", ["Standard (OpenAI)", "Long Context Model (Anthropic)"])
     if st.button("Compare", key="compare_button"):
-        if not api_key:
+        if not openai_api_key:
             st.warning("Please provide your OpenAI API key.")
         elif not input_text:
             st.warning("Please enter a comparison question.")
@@ -641,257 +298,300 @@ with tab4:
         elif not comparison_inputs:
             st.warning("Please provide comparison documents.")
         else:
-            display_placeholder4 = st.empty()
+            display_placeholder3 = st.empty()
             with st.spinner("Processing..."):
                 try:
-                    # Call the process_one_to_many_query function
-                    process_one_to_many_query(
-                        api_key,
-                        focus_input,
-                        comparison_inputs,
-                        input_text,
-                        display_placeholder4
-                    )
+                    if search_method == "Standard (OpenAI)":
+                        # Call the new comparison_qa function (formerly process_one_to_many_query)
+                        comparison_qa(
+                            openai_api_key,
+                            focus_input,
+                            comparison_inputs,
+                            input_text,
+                            display_placeholder3
+                        )
+                    elif search_method == "Long Context Model (Anthropic)":
+                        # For long-context, pass the focus plan and comparison inputs as selected summaries
+                        comparison_qa_long_context(
+                            openai_api_key,
+                            anthropic_api_key,
+                            input_text,
+                            focus_input,
+                            comparison_inputs,
+                            display_placeholder3
+                        )
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
 
-# Fifth tab: Plan Comparison with Long Context Model
-with tab5:
-    st.header("Plan Comparison with Long Context Model")
+# ------------------------------------------------------------------------------
+# TAB 5: STATE-LEVEL POLICY TRACKER
+# ------------------------------------------------------------------------------
+with state_tab:
+    st.subheader("State Map")
+    # Initialize state map with no default tiles; add an OpenStreetMap layer.
+    m_state = folium.Map(location=[35.3, -97.6], zoom_start=4, tiles=None)
+    folium.TileLayer("OpenStreetMap", control=False).add_to(m_state)
 
-    # Anthropics API Key Input
-    anthropic_api_key = st.text_input(
-        "Enter your Anthropic API key:",
-        type="password",
-        key="anthropic_key"
+    # Add state boundaries with tooltips.
+    state_boundaries = folium.FeatureGroup(name="State Boundaries", control=False)
+    tooltip_state = folium.GeoJsonTooltip(
+        fields=["NAME", "POP_TT", "EPA_REGION"],
+        aliases=["State:", "Population:", "EPA Region:"],
+        localize=True,
+        sticky=False,
+        labels=True,
+        style="""
+            background-color: #F0EFEF;
+            border: 2px solid black;
+            border-radius: 3px;
+            box-shadow: 3px;
+        """,
+        max_width=800,
     )
+    folium.GeoJson(
+        states_gdf,
+        style_function=lambda x: {
+            "fillColor": REGION_COLORS.get(x["properties"].get("EPA_REGION"), "transparent"),
+            "color": "black",
+            "fillOpacity": 0.4,
+            "weight": 1
+        },
+        tooltip=tooltip_state,
+        highlight_function=lambda x: {"weight": 2, "color": "blue"}
+    ).add_to(state_boundaries)
+    state_boundaries.add_to(m_state)
 
-    # Option to upload a new plan or select from a list
-    focus_option = st.radio(
-        "Choose a focus plan:",
-        ("Select from existing plans", "Upload a new plan"),
-        key="focus_option_long_context"
-    )
+    # Add city markers to the map.
+    add_city_markers(m_state)
+    folium.LayerControl(collapsed=False).add_to(m_state)
 
-    if focus_option == "Upload a new plan":
-        focus_uploaded_file = st.file_uploader(
-            "Upload a Climate Action Plan to compare",
-            type="pdf",
-            key="focus_upload_long_context"
-        )
-        if focus_uploaded_file is not None:
-            # Directly use the uploaded file
-            focus_plan_path = focus_uploaded_file
-        else:
-            focus_plan_path = None
-    else:
-        # List of existing plans in CAPS
-        plan_list = [f.replace(".pdf", "") for f in os.listdir("CAPS") if f.endswith('.pdf')]
-        selected_focus_plan = st.selectbox(
-            "Select a focus plan:",
-            plan_list,
-            key="select_focus_plan_long_context"
-        )
-        focus_plan_path = os.path.join("CAPS", f"{selected_focus_plan}.pdf")
-
-    # List available summary documents for selection
-    summaries_directory = "CAPS_Summaries"
-    summary_files = [
-        f.replace(".md", "").replace("_", " ")
-        for f in os.listdir(summaries_directory) if f.endswith('.md')
-    ]
-    selected_summaries = st.multiselect(
-        "Select summary documents for comparison:",
-        summary_files,
-        key="selected_summaries"
-    )
-
-    input_text = st.text_input(
-        "Ask a comparison question:",
-        key="comparison_input_long_context"
-    )
-
-    if st.button("Compare with Long Context", key="compare_button_long_context"):
-        if not api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not anthropic_api_key:
-            st.warning("Please provide your Anthropic API key.")
-        elif not input_text:
-            st.warning("Please enter a comparison question.")
-        elif not focus_plan_path:
-            st.warning("Please provide a focus plan.")
-        else:
-            display_placeholder = st.empty()
-            with st.spinner("Processing..."):
-                try:
-                    compare_with_long_context(
-                        api_key,
-                        anthropic_api_key,
-                        input_text,
-                        focus_plan_path,
-                        selected_summaries,
-                        display_placeholder
-                    )
-                except Exception as e:
-                    st.error(f"An error occurred: {e}")
-
-
-
-
-
-
-
-
-
-# Sixth tab: Plan Analysis with Conversation History
-
-# Function to perform question and answering with a document
-def question_answer(api_key, focus_input, user_input):
-    """
-    Queries a single document (uploaded file or vector store) to answer a question.
-
-    Args:
-        api_key (str): OpenAI API key.
-        focus_input: Focus document (uploaded file or path to vector store).
-        user_input (str): The question to ask.
-
-    Returns:
-        str: The model's answer to the input question.
-    """
-    os.environ["OPENAI_API_KEY"] = api_key
-
-    # Create retriever
-    if isinstance(focus_input, st.runtime.uploaded_file_manager.UploadedFile):
-        docs = load_documents_from_pdf(focus_input)
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=500)
-        splits = text_splitter.split_documents(docs)
-        vector_store = FAISS.from_documents(splits, OpenAIEmbeddings(model="text-embedding-3-large"))
-    else:
-        vector_store = load_vector_store_from_path(focus_input)
-        retriever = vector_store.as_retriever(search_kwargs={"k": 5})
-        # Retrieve relevant chunks for the input text
-        retrieved_chunks = retriever.invoke(input_text)    
-
-    # Load system prompt
-    prompt_path = "Prompts/multi_document_qa_system_prompt.md"
-    if os.path.exists(prompt_path):
-        with open(prompt_path, "r") as file:
-            system_prompt = file.read()
-    else:
-        raise FileNotFoundError(f"The specified file was not found: {prompt_path}")
-
-    # Create conversation RAG chain
-    llm = ChatOpenAI(model="gpt-4o")
-
-    history_prompt = ChatPromptTemplate.from_messages([
-        ("system", system_prompt),
-        MessagesPlaceholder(variable_name="chat_history"),
-        ("human", "{input}")
-    ])
-
-    history_retriever_chain = create_history_aware_retriever(llm, retriever, history_prompt)
-
-    answer_prompt = ChatPromptTemplate.from_messages([
-        ("system", "Answer the user's questions based on the below context:\n\n{context}"),
-        MessagesPlaceholder(variable_name="chat_history"),
-        ("human", "{input}")
-    ])
-
-    document_chain = create_stuff_documents_chain(llm, answer_prompt)
-    conversation_rag_chain = create_retrieval_chain(history_retriever_chain, document_chain)
-
-    # Invoke the model
-    response = conversation_rag_chain.invoke({
-        "chat_history": st.session_state.get("chat_history", []),
-        "input": user_input,
-        "context": retrieved_chunks
-    })
-
-    return response["answer"]
-
-# Function to list vector store documents
-def list_vector_store_documents():
-    """
-    Lists available vector store documents.
-
-    Returns:
-        list: List of document names.
-    """
-    directory_path = "Individual_All_Vectorstores"
-    if not os.path.exists(directory_path):
-        raise FileNotFoundError(
-            f"The directory '{directory_path}' does not exist. "
-            "Run `create_and_save_individual_vector_stores()` to create it."
-        )
-    documents = [
-        f.replace("_vectorstore", "").replace("_", " ")
-        for f in os.listdir(directory_path)
-        if f.endswith("_vectorstore")
-    ]
-    return documents
-
-# Sixth Tab: Plan Analysis with Conversation History
-with tab6:
-    st.header("Document Q&A Tool")
-
-    # List of documents from vector stores
-    vectorstore_documents = list_vector_store_documents()
-
-    # Option to upload a new plan or select from existing vector stores
-    focus_option = st.radio(
-        "Choose a focus plan:",
-        ("Select from existing vector stores", "Upload a new plan"),
-        key="focus_option_qa"
-    )
-
-    if focus_option == "Upload a new plan":
-        focus_uploaded_file = st.file_uploader(
-            "Upload a Climate Action Plan to compare",
-            type="pdf",
-            key="focus_upload_qa"
-        )
-        focus_input = focus_uploaded_file if focus_uploaded_file else None
-    else:
-        selected_focus_plan = st.selectbox(
-            "Select a focus plan:",
-            vectorstore_documents,
-            key="select_focus_plan_qa"
-        )
-        focus_input = os.path.join(
-            "Individual_All_Vectorstores",
-            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
-        )
-
-
+    # Define a three-column layout for additional info, the map, and the legend.
+    cols_state = st.columns([3, 6, 1])
+    with cols_state[1]:
+        st_data_state = st_folium(m_state, width=900, height=650)
     
-    #Display previous questions and inputs
-    if "chat_history" in st.session_state:
-        for message in st.session_state.chat_history:
-            role = "assistant" if isinstance(message, AIMessage) else "user"
-            st.chat_message(role).markdown(message.content)
-
-    user_input = st.chat_input("Ask a question") 
-    
-    # Chat input for new question
-    if user_input:
-        if "chat_history" not in st.session_state:
-            st.session_state.chat_history = []
+    with cols_state[0]:
+        st.markdown("### Additional Information")
+        if st_data_state.get("last_active_drawing"):
+            props = st_data_state["last_active_drawing"].get("properties", {})
+            state_name = props.get("NAME", "N/A")
+            population = props.get("POP_TT", "N/A")
+            fips = props.get("STATE_FIPS", "N/A")
+            state_abbr = props.get("STATE_ABBR", "N/A")
+            n_caps = props.get("n_caps", 0)
+            plan_list = props.get("plan_list", [])
             
-        if api_key and focus_input:
-            st.session_state.chat_history.append(HumanMessage(content=user_input))  # User input
-            st.chat_message("user").markdown(user_input) #display User input first
+            st.write("**State:**", state_name)
+            st.write("**Population:**", population)
+            st.write("**FIPS:**", fips)
+            st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
             
-            with st.spinner("Processing..."):
-                #generating response with AI
-                answer = question_answer(api_key, focus_input, user_input)
+            with st.expander("Cities with Climate Action Plans:"):
+                if plan_list:
+                    for plan in plan_list:
+                        st.write(plan)
+                else:
+                    st.write("None")
+            
+            # (Additional risk index and FEMA risk info displayed in expanders)
+            with st.expander("NRI Future Risk Index (Higher Warming Pathway):"):
+                st.write("**Mid-Century Coastal Flooding Risk (Percentile):**", props.get("CFLD_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Late-Century Coastal Flooding Risk (Percentile):**", props.get("CFLD_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Mid-Century Coastal Flooding Hazard Multiplier:**", props.get("CFLD_MID_HIGHER_HM", "N/A"))
+                st.write("**Late-Century Coastal Flooding Hazard Multiplier:**", props.get("CFLD_LATE_HIGHER_HM", "N/A"))
+                st.write("**Mid-Century Wildfire Risk (Percentile):**", props.get("WFIR_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Late-Century Wildfire Risk (Percentile):**", props.get("WFIR_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Mid-Century Wildfire Hazard Multiplier:**", props.get("WFIR_MID_HIGHER_HM", "N/A"))
+                st.write("**Late-Century Wildfire Hazard Multiplier:**", props.get("WFIR_LATE_HIGHER_HM", "N/A"))
+                st.write("**Mid-Century Drought Risk (Percentile):**", props.get("DRGT_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Late-Century Drought Risk (Percentile):**", props.get("DRGT_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Mid-Century Drought Hazard Multiplier:**", props.get("DRGT_MID_HIGHER_HM", "N/A"))
+                st.write("**Late-Century Drought Hazard Multiplier:**", props.get("DRGT_LATE_HIGHER_HM", "N/A"))
+                st.write("**Mid-Century Hurricane Risk (Percentile):**", props.get("HRCN_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Late-Century Hurricane Risk (Percentile):**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Mid-Century Hurricane Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
+                st.write("**Late-Century Hurricane Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+                st.write("**Mid-Century Extreme Heat Risk (Percentile):**", props.get("EXHT_L95_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Late-Century Extreme Heat Risk (Percentile):**", props.get("EXHT_L95_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Mid-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
+                st.write("**Late-Century Extreme Heat Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
 
-                # Display the new AI response
-                st.session_state.chat_history.append(AIMessage(content=answer))
-                # Append AI response to chat history
-                st.chat_message("assistant").markdown(answer)
-     
+            with st.expander("FEMA Risk Profile:"):
+                st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
+                st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
+                st.write("**Social Vulnerability (Percentile):**", props.get("SOVI_SCORE", "N/A"))
+                st.write("**Community Resilience (Percentile):**", props.get("RESL_SCORE", "N/A"))
+                # (Additional FEMA risk metrics can be added similarly)
+            
+            with st.expander("CEJST Data:"):
+                st.write("**Share of properties at risk of flood in 30 years (percentile):**", props.get("Share of properties at risk of flood in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of flood in 30 years:**", props.get("Share of properties at risk of flood in 30 years", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years (percentile):**", props.get("Share of properties at risk of fire in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years:**", props.get("Share of properties at risk of fire in 30 years", "N/A"))
+                st.write("**Energy burden (percentile):**", props.get("Energy burden (percentile)", "N/A"))
+                st.write("**PM2.5 (percentile):**", props.get("PM2.5 in the air (percentile)", "N/A"))
+                st.write("**PM2.5 (Volume):**", props.get("PM2.5 in the air", "N/A"))
+                st.write("**Impervious surface or cropland:**", props.get("Share of the tract's land area that is covered by impervious surface or cropland as a percent", "N/A"))
+                st.write("**Asthma Prevalence (Percentile):**", props.get("Current asthma among adults aged greater than or equal to 18 years", "N/A"))
+            
+            # Build extra context for the maps QA chain
+            extra_context = (
+                f"State: {state_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+                # Additional risk details can be appended here...
+            )
+
+            api_key_input = st.text_input("Enter your OpenAI API key:", type="password")
+            user_question = st.text_input("Ask a Question about the selected State:", key="state_question")
+            if st.button("Submit State Query", key="state_submit"):
+                if api_key_input and user_question:
+                    # Call the new maps_qa function (formerly answer_question)
+                    result = maps_qa(api_key_input, user_question, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
         else:
-            st.warning("Please provide your OpenAI API key and select a focus plan.")
-
-
+            st.info("Click on a state to view details.")
     
+    with cols_state[2]:
+        legend_html = generate_legend_html(REGION_COLORS)
+        st.markdown(legend_html, unsafe_allow_html=True)
+
+# ------------------------------------------------------------------------------
+# TAB 6: COUNTY-LEVEL POLICY TRACKER
+# ------------------------------------------------------------------------------
+with county_tab:
+    st.subheader("County Map")
+    # Initialize county map with no default tiles; add an OpenStreetMap layer.
+    m_county = folium.Map(location=[35.3, -97.6], zoom_start=4, tiles=None)
+    folium.TileLayer("OpenStreetMap", control=False).add_to(m_county)
+
+    # Add county boundaries with tooltips.
+    county_boundaries = folium.FeatureGroup(name="County Boundaries", control=False)
+    tooltip_county = folium.GeoJsonTooltip(
+        fields=["NAME", "POP_TT", "FIPS_TT", "EPA_REGION"],
+        aliases=["County:", "Population:", "FIPS:", "EPA Region:"],
+        localize=True,
+        sticky=False,
+        labels=True,
+        style="""
+            background-color: #F0EFEF;
+            border: 2px solid black;
+            border-radius: 3px;
+            box-shadow: 3px;
+        """,
+        max_width=800,
+    )
+    folium.GeoJson(
+        counties_gdf,
+        style_function=lambda x: {
+            "fillColor": REGION_COLORS.get(x["properties"].get("EPA_REGION"), "transparent"),
+            "color": "black",
+            "fillOpacity": 0.4,
+            "weight": 1
+        },
+        tooltip=tooltip_county,
+        highlight_function=lambda x: {"weight": 2, "color": "blue"}
+    ).add_to(county_boundaries)
+    county_boundaries.add_to(m_county)
+
+    # Add city markers.
+    add_city_markers(m_county)
+    folium.LayerControl(collapsed=False).add_to(m_county)
+
+    # Define a three-column layout for county info, map, and legend.
+    cols_county = st.columns([3, 6, 1])
+    with cols_county[1]:
+        st_data_county = st_folium(m_county, width=900, height=650)
+    
+    with cols_county[0]:
+        st.markdown("### Additional Information")
+        if st_data_county.get("last_active_drawing"):
+            props = st_data_county["last_active_drawing"].get("properties", {})
+            county_name = props.get("NAME", "N/A")
+            population = props.get("POP_TT", "N/A")
+            fips = props.get("FIPS_TT", "N/A")
+            n_caps = props.get("n_caps", 0)
+            state_abbr = props.get("STATE_ABBR", "N/A")
+            plan_list = props.get("plan_list", [])
+            
+            st.write("**County:**", county_name)
+            st.write("**Population:**", population)
+            st.write("**FIPS:**", fips)
+            st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
+            
+            with st.expander("Cities with Climate Action Plans:"):
+                if plan_list:
+                    for plan in plan_list:
+                        st.write(plan)
+                else:
+                    st.write("None")
+            
+            # Display additional risk information in expanders (NRI, FEMA, CEJST, etc.)
+            with st.expander("NRI Future Risk Index (Higher Warming Pathway):"):
+                st.write("**Coastal Flooding Mid-Century Projected Risk:**", props.get("CFLD_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Late-Century Projected Risk:**", props.get("CFLD_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Coastal Flooding Mid-Century Hazard Multiplier:**", props.get("CFLD_MID_HIGHER_HM", "N/A"))
+                st.write("**Coastal Flooding Late-Century Hazard Multiplier:**", props.get("CFLD_LATE_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Mid-Century Projected Risk:**", props.get("WFIR_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Late-Century Projected Risk:**", props.get("WFIR_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Wildfire Mid-Century Hazard Multiplier:**", props.get("WFIR_MID_HIGHER_HM", "N/A"))
+                st.write("**Wildfire Late-Century Hazard Multiplier:**", props.get("WFIR_LATE_HIGHER_HM", "N/A"))
+                st.write("**Drought Mid-Century Projected Risk:**", props.get("DRGT_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Late-Century Projected Risk:**", props.get("DRGT_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Drought Mid-Century Hazard Multiplier:**", props.get("DRGT_MID_HIGHER_HM", "N/A"))
+                st.write("**Drought Late-Century Hazard Multiplier:**", props.get("DRGT_LATE_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Mid-Century Projected Risk:**", props.get("HRCN_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Late-Century Projected Risk:**", props.get("HRCN_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Hurricane Mid-Century Hazard Multiplier:**", props.get("HRCN_MID_HIGHER_HM", "N/A"))
+                st.write("**Hurricane Late-Century Hazard Multiplier:**", props.get("HRCN_LATE_HIGHER_HM", "N/A"))
+                st.write("**Extreme Heat Mid-Century Projected Risk:**", props.get("EXHT_L95_MID_HIGHER_PRISKS", "N/A"))
+                st.write("**Extreme Heat Late-Century Projected Risk:**", props.get("EXHT_L95_LATE_HIGHER_PRISKS", "N/A"))
+                st.write("**Extreme Heat Mid-Century Hazard Multiplier:**", props.get("EXHT_L95_MID_HIGHER_HM", "N/A"))
+                st.write("**Extreme Heat Late-Century Hazard Multiplier:**", props.get("EXHT_L95_LATE_HIGHER_HM", "N/A"))
+            
+            with st.expander("FEMA Risk Profile:"):
+                st.write("**Disaster Risk (Percentile):**", props.get("RISK_SCORE", "N/A"))
+                st.write("**Disaster Risk (Percentile, relative to state):**", props.get("RISK_SPCTL", "N/A"))
+                st.write("**Disaster Loss ($/year):**", props.get("EAL_VALT", "N/A"))
+                st.write("**Social Vulnerability (Percentile):**", props.get("SOVI_SCORE", "N/A"))
+                st.write("**Community Resilience (Percentile):**", props.get("RESL_SCORE", "N/A"))
+                # (Additional FEMA metrics as needed)
+            
+            with st.expander("CEJST Data:"):
+                st.write("**Share of properties at risk of flood in 30 years (percentile):**", props.get("Share of properties at risk of flood in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of flood in 30 years:**", props.get("Share of properties at risk of flood in 30 years", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years (percentile):**", props.get("Share of properties at risk of fire in 30 years (percentile)", "N/A"))
+                st.write("**Share of properties at risk of fire in 30 years:**", props.get("Share of properties at risk of fire in 30 years", "N/A"))
+                st.write("**Energy burden (percentile):**", props.get("Energy burden (percentile)", "N/A"))
+                st.write("**PM2.5 (percentile):**", props.get("PM2.5 in the air (percentile)", "N/A"))
+                st.write("**PM2.5 (Volume):**", props.get("PM2.5 in the air", "N/A"))
+                st.write("**Impervious surface or cropland:**", props.get("Share of the tract's land area that is covered by impervious surface or cropland as a percent", "N/A"))
+                st.write("**Asthma Prevalence (Percentile):**", props.get("Current asthma among adults aged greater than or equal to 18 years", "N/A"))
+            
+            # Build extra context for the maps QA chain
+            extra_context = (
+                f"County: {county_name}\n"
+                f"Population: {population}\n"
+                f"FIPS: {fips}\n"
+                f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
+                # Additional details can be appended here...
+            )
+
+            api_key_input = st.text_input("Enter your OpenAI API key:", type="password", key="county_api_key")
+            user_question = st.text_input("Ask a Question about the selected County:", key="county_question")
+            if st.button("Submit County Query", key="county_submit"):
+                if api_key_input and user_question:
+                    # Call the new maps_qa function for counties
+                    result = maps_qa(api_key_input, user_question, extra_context, plan_list, state_abbr)
+                    st.write(result)
+                else:
+                    st.write("Please provide both an API key and a question.")
+        else:
+            st.info("Click on a county to view details.")
+    
+    with cols_county[2]:
+        legend_html = generate_legend_html(REGION_COLORS)
+        st.markdown(legend_html, unsafe_allow_html=True)
