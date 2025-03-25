@@ -19,7 +19,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 
-
 # =============================================================================
 # DATA LOADING UTILITIES
 # =============================================================================
@@ -514,9 +513,9 @@ def add_city_markers(map_object):
         map_object (folium.Map): The Folium map to add markers to.
     """
     city_markers = folium.FeatureGroup(name="City Markers", show=False)
-    for _, row in city_mapping_df[['CityName', 'StateName', 'Latitude', 'Longitude']].drop_duplicates().iterrows():
+    for _, row in city_mapping_df[['City', 'State', 'Latitude', 'Longitude']].drop_duplicates().iterrows():
         lat, lon = row["Latitude"], row["Longitude"]
-        city, state = row["CityName"], row["StateName"]
+        city, state = row["City"], row["State"]
         plans_row = city_plans_df[(city_plans_df["City"] == city) & (city_plans_df["State"] == state)]
         if not plans_row.empty:
             plan_list = plans_row.iloc[0]["plan_list"]
@@ -527,7 +526,7 @@ def add_city_markers(map_object):
         popup = folium.Popup(popup_html, max_width=500)
         folium.CircleMarker(
             location=[lat, lon],
-            radius=6,
+            radius=3,
             color="darkgreen",
             fill=True,
             fill_color="darkgreen",

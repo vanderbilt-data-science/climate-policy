@@ -1,301 +1,313 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The plan focuses on **Lexington, Kentucky**, often referred to as the "Horse Capital of the World." It is noted for its unique blend of sharply defined urban boundaries and rural landscapes, including tree-lined roads, horse farms, other crop and livestock farms, palisades, and stone fences, which create a community setting unlike any other (Letter to the Lexington Community).
+The plan does not provide extensive detail about the physical and economic landscape of Lexington, but it does highlight some key features:
 
-There is no specific mention of Lexington's population, demographics, or average income within the provided excerpts from the plan. Furthermore, major geographic features such as mountains, rivers, deserts, coastline, airports, or seaports are not detailed in the plan content provided.
+### **Planning Jurisdiction:**
+- **Name:** Lexington
+- **Location:** Referred to as the "Horse Capital of the World," which implies a location known for its horse farms, likely in the state of Kentucky.
 
-The **local climate** and any specific challenges related to aridity or water are not directly addressed in the information supplied. However, the plan emphasizes the need for the community to improve energy efficiency and sustainability to ensure a cleaner environment, which includes air and potentially water quality enhancements (Letter to the Lexington Community).
+### **Physical Landscape:**
+- **Geographic Features:** 
+  - It is described as having "sharply defined urban boundaries, tree-lined rural roads, horse farms, other crop and livestock farms, palisades, and stone fences," suggesting a primarily rural and agrarian area with well-preserved natural and historical landscapes.
+  
+### **Economic Landscape:**
+- **Economic Initiatives:**
+  - The community aims to become more "sustainable and resilient" by becoming more energy-efficient, as stated within the **Empower Lexington plan**.
+  - The thrust towards sustainability is expected to "save the community money, create jobs by keeping more money in the local economy, position us to be more competitive economically," emphasizing economic benefits through energy efficiency.
 
-When it comes to **energy production and natural resources**, the plan highlights the necessity for Lexington to become more energy-efficient, which involves a reliance on voluntary measures and public-private partnerships to reduce energy use. It emphasizes improving energy conservation and efficiency but does not specify whether Lexington produces oil, gas, or utilizes renewable energy sources (Page 3, EMPOWER LEXINGTON PLAN).
+### **Energy Production and Use:**
+- **Energy Efficiency:**
+  - The plan discusses the necessity of improving energy efficiency, which is a significant goal due to the high per capita energy use in Kentucky. According to the document, "total energy usage in Kentucky was the sixth highest per capita in the United States" in 2005.
+- **Reduction Targets:**
+  - The plan aims for an annual "1% reduction in our community’s energy use," leveraging measures that focus on energy conservation and efficiency.
 
-Key **economic drivers** and industries are not specifically mentioned. However, the plan focuses on the goal of reducing energy use as a means to stimulate the local economy by creating jobs, keeping more money in the local economy, and making the area more competitive economically (Page 3, EMPOWER LEXINGTON PLAN).
+### **Infrastructure and Industries:**
+- **Major Industries and Economic Drivers:**
+  - The region is characterized by substantial involvement in agriculture, particularly horse farming, as indicated by the repeated reference to Lexington being the "Horse Capital of the World."
+  
+### **Climate and Environmental Notes:**
+- **Environmental and Climate Goals:**
+  - The plan aims to form a sustainable and energy-efficient community as a response to environmental challenges, but specific climate descriptions like aridity or water challenges are not provided directly.
 
-In summary, while the plan provides a vision for preservation and sustainability, it does not detail specific physical or economic statistics or features of Lexington, such as population, average income, or specific industries, within the provided sections.
+This summary encapsulates the plan's focus on energy efficiency and sustainable development as economic strategies without delving into specific statistical data on demographics or income, which are not covered in the provided excerpts.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Summary of Plan's Approach to Resilience, Mitigation, and Adaptation:**
+**Resilience:**
 
-- **Resilience:**
-  - The plan emphasizes building a sustainable community by using resources efficiently and retaining a locally-based economy: _"These communities value healthy ecosystems, use resources efficiently, and actively seek to retain and enhance a locally-based economy"_. (EMPOWER LEXINGTON PLAN, Page 4)
-  - The plan includes recommendations on land preservation to enhance environmental quality and provide additional benefits such as alternative transportation opportunities: _"protecting farmland from commercial development will enhance environmental quality and will reduce anthropogenic causes of climate change."_ (EMPOWER LEXINGTON PLAN, Page 20)
+- The plan addresses resilience by emphasizing the importance of building a sustainable and energy-efficient community. The Empower Lexington plan outlines strategies that are intended to maintain essential functions, adapt to energy cost changes, and preserve the quality of life in Lexington, such as implementing energy-efficient practices and expanding farmland protection programs. It notes, "These communities value healthy ecosystems, use resources efficiently, and actively seek to retain and enhance a locally-based economy" (Page 4). The strategy of infill development is promoted to accommodate growth while preserving greenspace, which enhances urban resilience (Page 20).
 
-- **Mitigation:**
-  - There is a clear focus on reducing greenhouse gas emissions through improved energy efficiency and reduced energy use: _"to reduce Lexington’s energy use and associated greenhouse gas emissions."_ (EXECUTIVE SUMMARY, Page 8)
-  - Specific targets for emissions and energy use reduction are set to ensure progress: _"a minimum of 1% per year."_ (EMPOWER LEXINGTON PLAN, Page 5)
-  
-- **Adaptation:**
-  - There are strategies related to agricultural practices and land use planning that focus on maintaining viable agricultural lands and promoting best management practices: _"Promote best management practices for agricultural, residential, and commercial areas that maintain vegetation that sequesters carbon dioxide, preserves soil, and reduces surface water runoff."_ (EMPOWER LEXINGTON PLAN, Page 20)
+**Mitigation:**
 
-**Classification of the Plan:**
+- The plan has a strong focus on mitigation by presenting various strategies to reduce greenhouse gas emissions through energy efficiency and conservation measures. It includes actions such as promoting best management practices, encouraging land preservation, and implementing infill development to curb greenhouse gas emissions: "Empower Lexington is a common sense plan for Lexington that relies largely on voluntary measures and public-private partnerships to reduce our energy use" (Page 4). The plan aims at a "minimum of 1% per year" reduction in energy use to meet mitigation goals (Page 5).
 
-The Empower Lexington plan can be classified as an **equal mitigation and adaptation climate action plan**. This classification is based on the plan's balanced focus on both reducing greenhouse gas emissions through energy efficiency and setting up resilient and adaptive practices across various sectors, including land use and agriculture.
+**Adaptation:**
+
+- Adaptation is less explicitly emphasized compared to resilience and mitigation, but it is evident in the intent to adjust systems to energy and environmental changes. The plan's adaptation efforts are seen in land use strategies that include protecting agricultural land and managing urban growth, which can buffer against climate impacts and help the community adapt to changing environmental conditions. The plan states, "Protecting farmland from commercial development will enhance environmental quality and will reduce anthropogenic causes of climate change" (Page 20).
+
+**Classification:**
+
+The plan can be classified as an **equal mitigation and adaptation climate action plan**. It focuses significantly on mitigation strategies to reduce GHG emissions and achieve energy efficiency, while also supporting resilience and adaptation through sustainable land use policies and community planning efforts to adapt to and withstand climate changes. The mix of voluntary energy reduction targets, emphasis on community involvement, and integration of best management practices reflect a balanced approach.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-The plan does not explicitly describe a scenario of climate change that the planning jurisdiction will face. However, it does provide a forecast of future energy use and emissions under a “business as usual” scenario based on projected population growth. The plan mentions that "Lexington's emissions are projected to be almost 7 million metric tons for 2015 and approximately 7,600,000 metric tons for 2025" without any action to reduce emissions (EMPOWER LEXINGTON PLAN, Page 40). This implies that the plan is creating strategies to address future energy demands and associated emissions growth in the context of anticipated population increases. The focus is on taking proactive steps to reduce these projected emissions and improve energy efficiency, which are key components of the planning jurisdiction's approach to climate policies for resilience, mitigation, and adaptation.
+The plan does not explicitly describe a specific scenario of climate change that the planning jurisdiction will face. Instead, it focuses on the projected increase in energy use and the subsequent rise in greenhouse gas emissions if no action is taken. The plan states that "Kentucky’s energy use is projected to grow by slightly more than 40 percent between now and 2025 under a Business-As-Usual scenario," highlighting the need for the community to become more energy efficient to avoid increased energy costs and environmental impact (Executive Summary). Additionally, it estimates future emissions by forecasting emissions for years 2015 and 2025 using projected population growth and previous emissions data, but this serves as a baseline for action rather than a detailed climate change scenario (Page 40). The focus of the plan is to take proactive measures to reduce emissions and improve energy efficiency to address the anticipated growth in energy use.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-Based on the provided content, the Empower Lexington plan does not explicitly identify specific climate hazards or describe the associated climate risks and vulnerabilities in a detailed manner. The document focuses on emissions reduction, land use practices, and energy efficiency measures, but it does not outline specific climate hazards or assess related risks and vulnerabilities. Therefore, a numbered list of climate hazards is not available from the provided excerpts.
+Based strictly on the content provided, the plan does not explicitly identify specific climate hazards or provide detailed descriptions regarding the climate risks these hazards might pose to the planning jurisdiction. Additionally, it does not specify areas or populations with significant climate vulnerability to these hazards within the document excerpts provided. Therefore, I am unable to generate a numbered list of climate hazards and their associated risks or vulnerabilities as per the request.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-The provided excerpts from the Empower Lexington plan outline several resilience options. Here's a summary based on the available content:
+Based strictly on the document provided, the following resilience options are identified in the plan:
 
-### Resilience Option: Smart Streetlights
+1. **Retrofitting Vehicles and Fleet Management**
+   - **Climate Threat Addressed:** Reduces greenhouse gas emissions from transportation.
+   - **Details on Cost, Timeframe, and Location:** 
+     - Retrofitting and repowering existing vehicles can be expensive, often pursued through normal operations and fleet turnover.
+     - No specific timeframe or location mentioned.
+   - **Other Important Attributes:** 
+     - Federal fuel economy standards are expected to reduce carbon pollution by 21% by 2030.
+     - Economic consideration involves cost savings through reduced fuel consumption and maintenance.
 
-1. **Specific Climate Threat Addressed:**
-   - This option addresses the threat of increased energy consumption and associated carbon dioxide emissions.
+2. **Smart Street Lighting and Energy Management**
+   - **Climate Threat Addressed:** Reduces energy consumption and associated carbon dioxide emissions.
+   - **Details on Cost, Timeframe, and Location:**
+     - LED streetlights use less energy and last longer but have higher upfront costs.
+     - Costs continue to decrease as more municipalities adopt LED technology. No specific timeframe or location mentioned.
+   - **Other Important Attributes:**
+     - Potential economic savings and reduced light pollution with smart lighting solutions.
+     - Public acceptance needed due to perceived safety concerns with lighting changes.
 
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost:** Replacing high pressure sodium (HPS) streetlights with LED technology could double current costs if utilities retain ownership, though costs are decreasing.
-   - **Timeframe:** The replacement is suggested as "conditions and resources allow."
-   - **Location:** Currently applicable to approximately 30,000 streetlights owned by utility companies in Lexington.
+3. **Farmland Protection and Land Use Planning**
+   - **Climate Threat Addressed:** Preserves land that sequesters carbon, thus reducing anthropogenic causes of climate change.
+   - **Details on Cost, Timeframe, and Location:** 
+     - Focuses on preserving unique bluegrass soils through comprehensive planning and zoning.
+     - No specific cost, timeframe, or location mentioned, although the plan encourages infill development.
+   - **Other Important Attributes:** 
+     - Protecting agricultural land and promoting efficient urban growth reduces overall emissions and supports local agriculture.
 
-3. **Other Important Attributes:**
-   - **Economic Considerations:** The potential exists to save money by transferring ownership of streetlights from utility companies to LFUCG, although this needs approval from all parties and the Public Service Commission.
-   - **Environmental Considerations:** This measure aims to reduce light pollution, light trespass, and wasted lighting.
+4. **Waste Management and Energy Recovery**
+   - **Climate Threat Addressed:** Reduces methane emissions from landfilled waste by converting waste to energy.
+   - **Details on Cost, Timeframe, and Location:** 
+     - Waste conversion could reduce CO2 emissions significantly if adopted.
+     - Evaluated through a request for proposals (RFP) process; no specifics provided on cost or timeframe.
+   - **Other Important Attributes:** 
+     - Aligns with zero waste goals and enhances waste as a resource.
+     - Potential for economic benefits through reduced energy costs and new revenue from waste energy conversion.
 
-### Resilience Option: Farmland Protection and Conservation
-
-1. **Specific Climate Threat Addressed:**
-   - Addresses the threat of urban sprawl and environmental degradation affecting agricultural lands.
-
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost and Timeframe:** Specific details not provided in the excerpts.
-   - **Location:** Focus on the unique bluegrass soils in Fayette County and promoting infill development within the Urban Services Area.
-
-3. **Other Important Attributes:**
-   - **Environmental Considerations:** Enhanced environmental quality by preserving green space, improving air quality, and reducing anthropogenic causes of climate change.
-   - **Infrastructural Considerations:** Encourages expansion of farmland protection programs and innovative land preservation concepts.
-   - **Economic Considerations:** Promotes a regional "Buy Bluegrass" campaign and agritourism to support local agriculture.
-
-### Resilience Option: Best Management Practices for Vegetation
-
-1. **Specific Climate Threat Addressed:**
-   - Addresses threats related to climate change impacts on soil and water resources.
-
-2. **Details on Cost, Timeframe, and Location:**
-   - **Cost and Timeframe:** Specific details not provided in the excerpts.
-   - **Location:** Applies to agricultural, residential, and commercial areas within Lexington.
-
-3. **Other Important Attributes:**
-   - **Environmental Considerations:** Promotes carbon sequestration through practices like tree planting, rotational grazing, and no-till planting to preserve soil and reduce surface water runoff.
-   - **Economic Considerations:** Recognized importance of preserving agricultural techniques to maintain economic viability and land productivity.
-
-These resilience options reflect the plan's broader goal of reducing emissions and fostering sustainable growth within the community. Further detailed information on costs and timelines would likely be found in the complete document or relevant tables and charts.
+5. **Vegetation Management and CO2 Sequestration**
+   - **Climate Threat Addressed:** Increases carbon sequestration, moderates temperature, and manages water.
+   - **Details on Cost, Timeframe, and Location:** 
+     - Involves best management practices such as tree planting and maintaining riparian buffers.
+     - No specific cost or timeframe mentioned.
+   - **Other Important Attributes:** 
+     - Environmental benefits through improved air quality, reduced water pollution, and enhanced biodiversity.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options to reduce greenhouse gas emissions and improve energy efficiency. Below are the summarized options mentioned in the plan:
+The plan "Empower Lexington" identifies several mitigation options. Here is a summary of the information provided for each option regarding cost, timing, location, and other important attributes:
 
-1. **Smart Street Lights:**
-   - **Cost:** Installing LED streetlights could double current costs if utilities retain ownership.
-   - **Timing:** Recommendations for changes as conditions and resources allow; consider turning streetlights off from midnight to 5 am.
-   - **Location:** Approximately 30,000 streetlights in Lexington, currently owned by utility companies.
-   - **Other Attributes:** Includes investigating transferring ownership of streetlights from utility companies to LFUCG and reducing light pollution. (*Chapter: Empower Lexington Plan*)
+1. **Smart Street Lighting and Streetlight Management**
+   - **Summary:** The plan suggests replacing high-pressure sodium (HPS) streetlights with LED technology to save energy and reduce carbon dioxide emissions. They also consider turning off streetlights from midnight to 5 am and removing midblock lights in specific areas.
+   - **Cost:** Replacing streetlights with LEDs may double the current costs if utility companies retain ownership.
+   - **Timing:** As conditions and resources allow.
+   - **Location:** Across the community in coordination with utility companies.
+   - **Other Attributes:** Requires public acceptance due to perceived safety concerns. (RECOMMENDATION #8)
 
-2. **Energy Efficient Vehicles:**
-   - **Cost:** Retrofitting and repowering existing vehicles can be expensive.
-   - **Timing:** Strategy pursued through normal operations and fleet turnover.
-   - **Location:** Applies to vehicles within the LFUCG fleet and other large fleets such as LexTran, UK, and Fayette County Schools.
-   - **Other Attributes:** Includes recommendations to replace, retrofit, repower, and right-size vehicles. (*Chapter: Empower Lexington Plan*)
+2. **Alternative Fuels and Infrastructure**
+   - **Summary:** Encourages the use of alternative fuels like biodiesel, propane, compressed natural gas (CNG), electric, and hybrids.
+   - **Cost & Timing:** No specific costs or timing details are provided, but fuel cost and infrastructure availability issues need to be addressed.
+   - **Location:** Not specified, generally applicable to areas with vehicle fleets.
+   - **Other Attributes:** Observes that large fleets often initiate alternative fuel use, and electric or fuel cell technologies are seen as promising for reducing reliance on imported petroleum and carbon emissions. (RECOMMENDATION #6)
 
-3. **Alternative Fuels:**
-   - **Cost:** Issues regarding fuel cost, availability, and infrastructure need to be addressed.
-   - **Location:** Specifically mentions LexTran, UK, Fayette County Schools, and the Bluegrass Airport.
-   - **Other Attributes:** Encourages the use of fuels like biodiesel, propane, compressed natural gas (CNG), and electric. Highlights long-term promise in electric or fuel cell technologies for reducing reliance on imported petroleum. (*Chapter: Empower Lexington Plan*)
+3. **Energy-Efficient Vehicles**
+   - **Summary:** Focuses on improving fleet vehicle efficiency by replacing conventional vehicles with alternatives, retrofitting, and repowering.
+   - **Cost:** Retrofitting and repowering can be expensive.
+   - **Timing:** Implemented through normal operations and fleet turnover.
+   - **Location:** Applicable to all fleet vehicles.
+   - **Other Attributes:** Encourages using technologies like diesel particulate filters and right-sizing vehicles. (RECOMMENDATION #7)
 
-4. **Traffic System Improvements:**
-   - **Timing:** Ongoing; includes current exploration of adaptive signal control technologies.
-   - **Location:** Lexington; includes innovative designs for intersections under review.
-   - **Other Attributes:** Focus on reducing congestion and delays to maximize system efficiency with current infrastructure through better traffic signal systems and highway designs. (*Chapter: Empower Lexington Plan*)
+4. **Landfill and Waste Management**
+   - **Summary:** Discusses utilizing waste to energy technologies and investigating landfill mining to recover resources and potentially create energy.
+   - **Cost:** Landfill mining can be expensive; specific costs for waste-to-energy technologies are not provided.
+   - **Timing:** No specific timing details.
+   - **Location:** Waste generated in Fayette County.
+   - **Other Attributes:** Potential benefits include generating or saving money, reducing CO2 emissions, and reducing reliance on foreign oil. (RECOMMENDATION #4)
 
-5. **Farmland Protection Programs:**
-   - **Cost:** Not explicitly mentioned, but promoting economic viability of agricultural uses involves strategic campaigns and potentially requires investment.
-   - **Location:** Bluegrass and Fayette County; focus on protection of unique bluegrass soils.
-   - **Other Attributes:** Strategies include developing Buy Bluegrass Campaigns and promoting agritourism to protect agricultural land from urbanization. (*Chapter: Empower Lexington Plan*)
+5. **Farmland and Vegetation Management**
+   - **Summary:** Recommends practices like rotational grazing, no-till planting, tree planting for carbon sequestration, and expanding farmland protection programs.
+   - **Cost:** Not specified in detail.
+   - **Timing:** Ongoing efforts with emphasis on sustainability.
+   - **Location:** Agricultural, residential, and commercial areas.
+   - **Other Attributes:** Enhances environmental quality, preserves soil, and sequesters carbon dioxide. (RECOMMENDATION #3) 
 
-6. **Waste and Energy Recovery:**
-   - **Cost:** Landfill mining can be expensive; feasibility currently under review.
-   - **Other Attributes:** Includes potential CO₂ emission reduction from combusting waste for energy recovery, regional partnerships, and yard waste energy projects. (*Chapter: Empower Lexington Plan*)
+6. **Highway Infrastructure and Traffic Management**
+   - **Summary:** Innovations in traffic management like adaptive signal control technology and roundabouts to improve efficiency and reduce emissions.
+   - **Cost:** May have higher initial costs but lead to long-term gains.
+   - **Timing:** No specific timeline.
+   - **Location:** Applies to intersections and highway infrastructure.
+   - **Other Attributes:** These measures are expected to reduce fuel consumption and delays, leading to cleaner air. 
 
-These options target various sectors, such as transportation, residential, agricultural, and waste management, with a focus on implementing practical solutions to achieve energy efficiency and emission reductions.
+These mitigation options are part of a broader strategy to ensure Lexington becomes more energy-efficient and reduces its greenhouse gas emissions.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, which are summarized below along with their relevant attributes:
+The plan identifies several mitigation options, providing details on cost, timeframe, location, and other important attributes for each option:
 
-1. **Smart Streetlights and Lighting Reductions**
-   - *Summary:* The plan proposes replacing high-pressure sodium (HPS) streetlights with LED technology as a means to save money and reduce energy consumption, thereby lowering CO₂ emissions. It also considers reducing street lighting hours as a cost-effective alternative to achieving similar energy savings.
-   - *Cost:* Installing LED streetlights could double costs compared to HPS if utility companies retain ownership; however, costs are decreasing.
-   - *Timeframe:* LED replacement as conditions and resources allow; turning off streetlights from midnight to 5 am provides a potential immediate solution.
-   - *Other Attributes:* Exploration of public acceptance is necessary due to perceived safety concerns associated with reduced lighting. Coordination with utility companies is also needed.
-   - *Citation:* (Empower Lexington Plan, [Recommendation #8](#recommendation-8))
+1. **Retrofitting and Repowering Vehicles:**
+   - **Cost:** "Retrofitting and repowering existing vehicles can be expensive so many fleets are pursuing this strategy through normal operations and fleet turnover."
+   - **Location and Timeframe:** This is a strategy teams are pursuing through strategies like normal operations and fleet turnover.
+   - **Other Important Attributes:** Involves "replacing older diesel engines with cleaner burning equipment; and/or right-sizing vehicles by matching duty requirements with appropriate vehicle class and size."
 
-2. **Energy Efficient Vehicles and Alternative Fuels**
-   - *Summary:* The plan encourages improving vehicle efficiency by replacing conventional vehicles with alternative fuel technologies, retrofitting existing vehicles, and exploring alternative fuels such as biodiesel, propane, compressed natural gas, and electric.
-   - *Cost:* Higher initial investment for technologies such as hybrid vehicles but potential long-term fuel savings.
-   - *Timeframe:* Ongoing implementation, supported by federal fuel economy standards aiming to reduce carbon pollution by 21% by 2030.
-   - *Location:* Applicable to all fleet and public transportation systems.
-   - *Other Attributes:* Focus on reducing dependency on petroleum and decreasing carbon emissions.
-   - *Citation:* (Empower Lexington Plan, [Recommendation #7](#recommendation-7) and #6)
+2. **Smart Streetlights and LED Technology:**
+   - **Cost:** "LED lights use less energy and last longer but are more expensive to purchase. However, costs continue to decrease as more municipalities switch."
+   - **Timeframe:** Implementation is recommended as "conditions and resources allow."
+   - **Location:** Lexington has approximately 30,000 streetlights managed by utility companies.
+   - **Other Important Attributes:** The plan suggests replacing "all high pressure sodium (HPS) streetlights with solid state lighting technologies (LED)."
 
-3. **Improved Traffic Systems**
-   - *Summary:* Maximizing system efficiency through coordinated traffic signal systems, adaptive signal control technology, and innovative intersection designs to reduce congestion and emissions.
-   - *Cost:* Potential higher initial costs, but long-term gains include reduced delays, fuel consumption, and cleaner air.
-   - *Timeframe:* Implementation is ongoing with adaptive signal control technology being developed.
-   - *Location:* City-wide traffic infrastructure.
-   - *Other Attributes:* Techniques include alternative fuel use in highway construction and increased use of warm mix asphalt to lower emissions.
-   - *Citation:* (Empower Lexington Plan, [Recommendation #6](#recommendation-6))
+3. **Energy from Waste:**
+   - **Cost:** The financial feasibility is being reviewed; the technology often requires "bundling of different materials to provide sufficient volumes and/or regional partnerships."
+   - **Location:** The plan references locations already pursuing this, such as Los Angeles and Palm Beach Co.
+   - **Other Important Attributes:** "Potential benefits include generating money and/or saving money, reducing dependence on foreign oil, and helping us reach zero waste goal."
 
-4. **Landfill Mining and Waste-to-Energy Projects**
-   - *Summary:* Various options including landfill mining to recover materials and creating energy from waste, as well as utilizing yard waste for biomass energy projects.
-   - *Cost:* Landfill mining can be expensive, but energy from waste has potential financial incentives.
-   - *Timeframe:* Investigations are ongoing, with the potential for long-term implementation.
-   - *Location:* Fayette County landfills and potentially new biomass facilities.
-   - *Other Attributes:* Potential benefits include reducing CO₂ emissions, generating or saving money, and reducing transportation emissions.
-   - *Citation:* (Empower Lexington Plan, [Recommendation #4](#recommendation-4) on landfill mining, page 37 on waste-to-energy)
+4. **Using Yard Waste to Produce Energy:**
+   - **Cost:** "Biomass to energy projects are receiving financial incentives."
+   - **Location and Timeframe:** Could be located close to downtown; "if successful this would result in reduced transportation emissions and creation of energy."
+   - **Other Important Attributes:** The goal is to "use all yard waste generated in the county to produce energy."
 
-5. **Tree Planting and Vegetation Management**
-   - *Summary:* Promotion of best practices for vegetation management that sequesters CO₂. Increasing tree canopy cover can lead to significant CO₂ sequestration.
-   - *Cost:* Not specifically detailed, but likely involves investment in planting and maintenance.
-   - *Timeframe:* Ongoing as trees mature.
-   - *Location:* Rural and urban areas, emphasizing strategic planting zones.
-   - *Other Attributes:* Provides improved temperature moderation and water management.
-   - *Citation:* (Empower Lexington Plan, [Recommendation #3](#recommendation-3))
+5. **Promote Energy Efficient Vehicles:**
+   - **Cost:** Not specified directly, but it suggests replacing, retrofitting, and repowering vehicles.
+   - **Timeframe:** Ongoing efforts with the inclusion of hybrid vehicles.
+   - **Location:** Implementation suggested for the community fleet (LexTran, LFUCG).
+   - **Other Important Attributes:** Includes promoting the use of alternative fuels such as biodiesel, propane, and electric/hybrids.
 
-These mitigation options are part of a broader strategy to reduce greenhouse gas emissions and enhance energy efficiency within the jurisdiction. Each option is evaluated for potential savings, energy reductions, and ancillary community benefits.
+6. **Alternative Fuel Infrastructure:**
+   - **Cost:** Issues of "fuel cost, availability, and infrastructure" are noted that may need to be addressed.
+   - **Location:** Focus on large fleets initially, such as LexTran, UK, Fayette County Schools.
+   - **Other Important Attributes:** Emphasis on electric or fuel cell technologies as "the most promising technologies for reducing reliance on imported petroleum and for reducing carbon emissions."
+
+Each mitigation option is thoughtfully considered, accounting for various practical variables, such as financial feasibility, implementation aspects, and potential long-term benefits to the community.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options aimed at addressing various climate-related threats. Below are the summarized details for each adaptation option:
+Based on the "Empower Lexington" plan, the adaptation options identified primarily focus on addressing environmental quality, land preservation, and efficient resource management. However, the plan does not explicitly categorize strategic actions under "adaptation" separate from resilience or mitigation, which makes it necessary to interpolate adaptation-related actions from broader strategies addressing climate resilience and environmental sustainability.
 
-### **1. Infill Development and Land Preservation**
-- **Climate Threat Addressed:** Anthropogenic causes of climate change and urban sprawl.
-- **Attributes:**
-  - **Cost:** Not explicitly mentioned, but incentives for developers could be financially supported.
-  - **Timeframe:** Potential redevelopment areas can accommodate up to 14,500 new residential units under current land-use plans, which aims to meet demands by 2030.
-  - **Location:** Inside the Urban Services Area and on the perimeter to preserve Bluegrass landscape.
-  - **Other:** Infill development allows for increased density and various mixed-use projects, aiming to curb greenhouse gas emissions through mass transportation and energy-efficient developments. (_Recommendation #2, Page 20_)
+### **Adaptation Options Identified in the Plan:**
 
-### **2. Agricultural and Land Management Practices**
-- **Climate Threat Addressed:** Loss of agricultural lands and climate change due to urbanization.
-- **Attributes:**
-  - **Cost:** Not detailed specifically.
-  - **Timeframe:** Ongoing, promoting continuous agricultural viability and carbon sequestration.
-  - **Location:** Bluegrass region and rural lands, focusing on farmland preservation.
-  - **Other:** Promotes rotational grazing, no-till planting, tree planting for CO₂ sequestration, and maintaining vegetated lands that sequester carbon and reduce runoff. (_Recommendation #3, Page 22_)
+1. **Farmland Protection and Land Preservation Programs**
+   - **Climate Threat Addressed:** This adaptation strategy addresses the threat of urbanization and its impact on agricultural land, which can contribute to climate risk by increasing urban heat and reducing carbon sequestration.
+   - **Attributes:**
+     - *Cost:* Specific costs are not mentioned, but the emphasis is on protection and incentives.
+     - *Timeframe:* Ongoing; involves planning and policy changes to implement preservation.
+     - *Location:* Focus on the unique bluegrass soils and farmland in Fayette County and surrounding areas.
+     - *Other Attributes:* The strategy aims to enhance environmental quality, reduce urban sprawl, and promote infill development. "We should focus on protection our bluegrass soils in planning and zoning, comprehensive planning, and in discussions relative to the expansion of the Urban Service Boundary." (Page 20)
 
-### **3. Tree Canopy Expansion**
-- **Climate Threat Addressed:** Carbon footprint and climate impacts stemming from reduced vegetation.
-- **Attributes:**
-  - **Cost:** Not specifically detailed, but cost savings and environmental benefits highlighted.
-  - **Timeframe:** Long-term; as trees mature, increasing sequestered CO₂.
-  - **Location:** Rural and urban areas, including stream buffers.
-  - **Other:** Increasing tree canopy by 10% could yield significant CO₂ sequestration benefits, also helps with temperature moderation and water management. (_Recommendation #3, Page 22_)
+2. **Best Management Practices for Vegetation and Water Management**
+   - **Climate Threat Addressed:** Addresses soil erosion, carbon sequestration loss, and surface water runoff.
+   - **Attributes:**
+     - *Cost and Timeframe:* Not explicitly detailed in the plan.
+     - *Location:* Applicable in agricultural, residential, and commercial areas.
+     - *Other Attributes:* Includes techniques like rotational grazing, no-till planting, and creating no-mow zones. Planting trees increases carbon sequestration and reduces water pollution. "Strategic planting of trees, including replacement of street trees, can provide improved temperature moderation, water management, and carbon sequestration." (Page 22)
 
-### **4. Retrofit and Lighting Technologies**
-- **Climate Threat Addressed:** Energy inefficiency and carbon emissions.
-- **Attributes:**
-  - **Cost:** Retrofitting and repowering vehicles can be expensive, and streetlight conversions could double current costs if utilities retain ownership.
-  - **Timeframe:** Implied gradual implementation as costs decrease over time and new standards by 2030.
-  - **Location:** Vehicles and streetlights in Lexington.
-  - **Other:** Promotes repowering and retrofitting vehicles, upgrading to LED streetlights, and reducing hours of operation to save energy and reduce emissions. (_Recommendation #8, Page 30_)
+3. **Smart Streetlights and Lighting Management**
+   - **Climate Threat Addressed:** Indirectly addresses energy consumption and light pollution, which can affect ecological systems and night-time temperature.
+   - **Attributes:**
+     - *Cost:* Installation of LED streetlights could potentially double costs if utility companies maintain ownership.
+     - *Timeframe:* Implementation as conditions and resources allow.
+     - *Location:* Community-wide, focusing on approximately 30,000 streetlights in Lexington.
+     - *Other Attributes:* Involves turning off streetlights during certain hours and evaluating ownership transfer for cost efficiency. "Turning streetlights off from midnight to 5 am would save almost as much energy as converting to LED lights so this option deserves consideration." (Page 30)
 
-### **5. Whole House Retrofit**
-- **Climate Threat Addressed:** High energy consumption in residential areas.
-- **Attributes:**
-  - **Cost:** Issues finding upfront costs, mitigated through innovative financing programs.
-  - **Timeframe:** Continuous, as programs like the KY Home Performance promote ongoing retrofits.
-  - **Location:** Residential properties across Lexington.
-  - **Other:** Encourages energy audits and upgrades such as insulation and HVAC improvements. Financing approaches like property-assessed clean energy (PACE) are recommended. (_Recommendation #2, Page 13_)
-
-These adaptation options focus on improving energy efficiency, preserving natural landscapes, and promoting sustainable development, contributing to both climate change mitigation and adaptation.
+Each adaptation option indirectly points to strategies that enhance resilience against climate threats like urban expansion, inefficient resource management, and ecological degradation, while promoting sustainable practices and policies.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-Based on the content provided from the "Empower Lexington Plan," there are no specific mentions of climate policies explicitly identified to advance climate justice. However, a broad interpretation might reflect an indirect focus on improving environmental quality, enhancing public health, and ensuring equitable resource access, which can touch on aspects of climate justice. Nevertheless, without explicit mention, no specific climate threat or particular vulnerable areas or populations concerning climate justice can be directly ascertained from the provided text. For a complete analysis, further details from the document would be required.
+Based strictly on the provided text from the plan, the document does not explicitly detail specific climate policies solely addressing climate justice or particular threats and populations with the most climate vulnerability in relation to climate justice. 
+
+However, the plan does refer to the development and implementation of the "Empower Lexington" plan which aims for a more sustainable, energy-efficient community. The plan involves various stakeholders and covers multiple sectors such as residential, transportation, land use, and agriculture with strategies that possibly touch on elements of climate justice implicitly by aiming to improve quality of life, reduce emissions, and increase energy efficiency across the community. There is also mention of promoting best management practices and preserving agricultural lands which could support equitable environmental benefits indirectly.
+
+Here's what is implicitly suggested regarding climate policies:
+
+### *General Policy Framework*
+- **Policy:** Development and implementation of the "Empower Lexington" plan.
+  - **Threat Addressed:** Broad energy inefficiency and high energy demands leading to increased greenhouse gas emissions.
+  - **Potential Vulnerable Areas/Populations:** While not explicitly stated, populations impacted could include low-income communities who may be more affected by rising energy costs and less able to transition to more energy-efficient practices without support.
+
+### *Specific Recommendations*
+- **Policy:** Preservation of agricultural lands within the Bluegrass region.
+  - **Threat Addressed:** Loss of agricultural land could increase carbon footprint and affect local food security.
+  - **Potential Vulnerable Areas/Populations:** Farmers and rural communities dependent on agriculture, potentially facing reduced livelihoods and food security due to urbanization.
+
+The plan emphasizes a collective community effort involving various stakeholders, suggesting a broad and inclusive approach, which can implicitly support climate justice by involving diverse community interests and potentially addressing vulnerabilities through participatory planning and implementation processes.
+
+For a detailed analysis specifically about climate justice policies, further detailed review of the complete document would be necessary if it includes more explicit discussion of these aspects in sections not provided here.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided content, there are no explicitly identified potential unforeseen maladaptive climate policies within the "EMPOWER LEXINGTON PLAN". However, general insights on why certain strategies could inadvertently lead to maladaptation can be extrapolated from the recommendations and actions described, even though they are not explicitly critiqued as maladaptive within the plan:
+Based on the content provided in the plan, here are potential unforeseen maladaptive climate policies identified:
 
-### Potential Areas of Maladaptation
+1. **Policy: Infill Development to Preserve Greenspace**
+   - **Climate Threat Addressed:** The policy aims to reduce urban sprawl and excessive greenhouse gas emissions while accommodating growth needs by using mass transportation, mixed-use, energy-efficient development, increased density, and preservation of greenspace. (*"The Brookings Institute, the Urban Land Institute, American Planning Association, and others promote this approach as a tool to effectively accommodate growth while curbing excessive greenhouse gas emissions…"*)
+   - **Resilience, Mitigation, or Adaptation Option:** Mitigation through increased urban density and reduced GHG emissions by promoting infill development.
+   - **Possible Inadvertent Maladaptation:** Increased density could potentially lead to insufficient infrastructure and service provision in redeveloped areas, or increased pollution and congestion within urban centers if not planned properly, thereby exacerbating vulnerabilities instead of enhancing resilience.
 
-1. **Policy: Encouraging Infill Development**
-   - **Climate Threat Addressed:** This strategy addresses urban sprawl and related GHG emissions from transportation.
-   - **Resilience, Mitigation, or Adaptation Option:** The plan suggests encouraging "increased density" and regional partnerships to accommodate growth demands while reducing emissions through "mass transportation, mixed-use and energy efficient development" and "preservation of greenspace." (RECOMMENDATION #2)
-   - **Inadvertent Maladaptation:** While aiming to reduce emissions, increased urban density without adequate infrastructure could lead to issues like increased local pollution, strain on public services, or urban heat island effects.
+2. **Policy: Promotion of Alternative Fuels and Infrastructure**
+   - **Climate Threat Addressed:** The policy seeks to reduce pollution and reliance on gasoline and diesel by encouraging the use of alternative fuels like biodiesel, propane, compressed natural gas (CNG), and electric vehicles. (*"This recommendation encourages the use of alternative fuels to power vehicles and equipment…"*)
+   - **Resilience, Mitigation, or Adaptation Option:** Mitigation by transitioning to low-carbon or alternative fuel vehicles.
+   - **Possible Inadvertent Maladaptation:** The production and supply chain of alternative fuels might result in new environmental impacts, or cultural and economic shifts could disadvantage communities without ready access to the technology or infrastructure changes, making them more vulnerable.
 
-2. **Policy: Replacing Streetlights with LED Technology**
-   - **Climate Threat Addressed:** This effort targets reducing energy consumption and associated carbon emissions.
-   - **Resilience, Mitigation, or Adaptation Option:** The recommendation is to replace high-pressure sodium streetlights with "solid-state lighting technologies (LED)." (RECOMMENDATION #8)
-   - **Inadvertent Maladaptation:** If implementation leads to excessive brightness or lighting, it could result in light pollution disrupting local ecosystems and affecting human circadian rhythms.
+3. **Policy: Replacement of Streetlights with LED Technology**
+   - **Climate Threat Addressed:** The goal is to reduce energy consumption and carbon dioxide emissions from streetlights. (*"It is recommended that all high pressure sodium (HPS) streetlights be replaced with solid state lighting technologies (LED) as conditions and resources allow…"*)
+   - **Resilience, Mitigation, or Adaptation Option:** Mitigation through the decrease of energy consumption by utilizing efficient lighting technologies.
+   - **Possible Inadvertent Maladaptation:** The higher upfront costs associated with LED technology might divert resources from other critical adaptation or resilience projects. Additionally, if street lighting reductions occur without public buy-in, it could lead to issues of public safety or perceptions of decreased safety.
 
-3. **Policy: Promote Agricultural Best Management Practices**
-   - **Climate Threat Addressed:** The strategy addresses carbon emissions and water management associated with farming.
-   - **Resilience, Mitigation, or Adaptation Option:** It includes practices like "rotational grazing, no-till planting, no-mow zones in riparian areas" to sequester carbon and reduce runoff. (RECOMMENDATION #3)
-   - **Inadvertent Maladaptation:** Implementation of certain practices without proper evaluation of local conditions could lead to unforeseen consequences such as soil degradation or loss of biodiversity.
-
-While these examples suggest potential maladaptive elements, it's important to note that the plan overall is proactive about considering multiple factors, aiming for holistic benefits across environmental, economic, and social dimensions.
+Each of these policies aims to address climate threats through potentially effective strategies. However, if not implemented with consideration of possible secondary impacts, they could inadvertently lead to maladaptive outcomes.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The plan outlines various metrics and targets to measure the success or failure of each adaptation, resilience, and mitigation option. Here are the specifics based on the document:
+**The plan outlines the following measures and metrics for monitoring the success of its adaptation, resilience, and mitigation options:**
 
-### **Metrics Used:**
+1. **Reduction Targets:**
+   - The plan sets **"an annual 1% reduction in our community's energy use"** as a target, compared to the amount of energy currently used by the community. This target is described as both ambitious and achievable and is deliberately chosen because it is easy to communicate. (*Page 43*)
 
-- **Energy Use Reduction:**
-  - *Annual Reduction Target:* "The reduction target chosen by the Team is an annual 1% reduction in our community’s energy use or more when compared to the amount of energy our community currently uses." *(Reduction Target - annual percentage reduction)*
-  
-- **Greenhouse Gas Inventory:**
-  - Regular emissions quantification through "a greenhouse gas inventory for Lexington-Fayette County will be completed for calendar year 2011 using Clean Air and Climate Protection software." *(Metric – scope and type of emissions)*
+2. **Greenhouse Gas Inventory:**
+   - A greenhouse gas (GHG) inventory for Lexington-Fayette County was completed for calendar year 2011 using Clean Air and Climate Protection software. This inventory acts as a baseline for measuring success and future emissions. (*Page 43*)
 
-- **Baseline Inventories and Forecasting:**
-  - Measurement of "metric tons of carbon dioxide equivalent per person per year" with units specified as "23.4 metric tons of carbon dioxide equivalent per person per year". *(Units – metric tons per person per year)*
+3. **Emission Metrics:**
+   - Emissions of specific greenhouse gases, including carbon dioxide (CO₂), methane (CH₄), nitrous oxide (N₂O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulfur hexafluoride (SF₆), are reported in metric tons of carbon equivalents (MTCE), which weights each gas by global warming potential (GWP). (*Page 38*)
 
-- **Sectoral Emissions Contributions:**
-  - The baseline data showed emissions contributions by sector:
-    - Residential: 28.4%
-    - Commercial: 35.3%
-    - Industrial: 10%
-    - Transportation: 23.3%
-    - Waste/Water: 2.9%
-  *(Percentage contribution by sectors)*
+4. **Energy Consumption:**
+   - The plan indicates tracking energy use per capita and community’s absolute energy use (not based on population) as methods for measuring whether the community is becoming more energy-efficient. (*Page 43*)
 
-- **Fuel and Vehicle Usage:**
-  - Amount of "electricity used by our community" expressed in kilowatt hours (kWh), specifically "4,612,819,373 kWh" accounting for 66.4% of emissions.
-  - "Petroleum approximately 92 million gallons" and "natural gas of 7,570,979 mcf" are also tracked. *(Units – kWh, gallons, thousand cubic feet (mcf))*
+5. **Projected Emissions:**
+   - The plan has forecasted emissions under a "business as usual" scenario for the years 2015 and 2025. For 2015, emissions were projected to be almost 7 million metric tons, and for 2025, approximately 7,600,000 metric tons based on population growth projections. (*Page 40*)
 
-- **Scope of Emissions:**
-  - Both Scope 1 (direct) and Scope 2 (indirect) emissions were accounted for using Clean Air and Climate Protection software. *(Type – Scope 1 and Scope 2 emissions)*
+6. **Sector-based Emissions:**
+   - Emissions are also measured in terms of percentages contributed by different sectors: 35.3% by the commercial sector, 28.4% by the residential sector, 23.3% by the transportation sector, 10% by the industrial sector, and 2.9% by the waste and wastewater sector. (*Page 39*)
 
-### **Goals and Targets:**
+7. **Electricity, Petroleum, and Natural Gas Usage:**
+   - Use of 4,612,819,373 kWh of electricity accounts for 66.4% of community emissions, 92 million gallons of petroleum for 23.3%, and 7,570,979 mcf (thousand cubic feet) of natural gas for 7.8%. (*Page 39*)
 
-- **Overall Reduction Goal:**
-  - Aimed for "a community of at least 1% per year, with calendar year 2011 chosen as our reference point (beginning point)." *(Reduction Target – annual percentage reduction with a starting year)*
+8. **Review and Monitoring:**
+   - Progress will be monitored through periodic reviews every two years by the stakeholder teams and other interested parties. Community-wide emissions will be quantified at least every five years using Clean Air and Climate Protection software. (*Page 43*)
 
-### **Monitoring and Implementation:**
+9. **Voluntary Reduction Target:**
+   - A voluntary energy reduction goal of at least 1% per year was developed, with calendar year 2011 chosen as the reference point. Progress toward this target will be measured on a per capita basis. (*Page 9*)
 
-- **Review Mechanisms:**
-  - Periodic reviews by "stakeholder teams as well as other interested parties" with a minimum of "every two years" for reviewing and communicating results.
-  - Quantifying emissions "a minimum of every 5 years using Clean Air and Climate Protection software."
+**Concrete Goals or Targets:**
+- **Annual 1% reduction in energy use.**
+- **Measurement of greenhouse gas inventory using a new baseline year of 2011.**
+- **Emissions targets for years 2015 and 2025 based on projected population growth.**
 
-### **Performance against Previous Years:**
-
-- Comparison is drawn to the past performance noted in the "2007 baseline year" and tracking will continue relative to the "2011 new baseline year".
-
-*(References and descriptions provided from the content were quoted and paraphrased to fit the context and summarize measurements, goals, and expectations as set by the Empower Lexington plan.)*
+The plan emphasizes the community-wide effort required to meet these goals and the need for periodic reviews to ensure successful implementation.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature             | Description                                                                                                                                                                                                                             |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name**   | Lexington, Kentucky                                                                                                                                                                                                                |
-| **Population**          | 278,287 (as of the baseline year 2007)                                                                                                                                                                                              |
-| **Threats Identified**      | - Rising energy costs ("rising energy co sts, which businesses and residents alike must pay.")<br>- Rapid energy demand growth ("Kentucky’s energy use is projected to grow by slightly more than 40 percent between now and 2025.")                   |
-| **Measures Identified**  | - Energy efficiency improvement ("Empower Lexington to reduce Lexington’s energy use and associated greenhouse gas emissions.")<br>- Adoption of emissions reduction target (annual 1% reduction in energy use per capita)         |
+| Feature                   | Description                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**    | Lexington, Kentucky                                                                                                                                                                                                                                                                                                                                                           |
+| **Population**            | 278,287 (as of 2007)                                                                                                                                                                                                                                                                                                                                                          |
+| **Threats Identified**    | - Rising energy costs due to increased demand and production costs.<br>- Projected increase in energy use by more than 40% between now and 2025 under a Business-As-Usual scenario.<br>- Risk of urbanization threatening agricultural lands if economic viability of agriculture declines.<br>- Largest carbon footprint per capita among 100 metropolitan areas (based on a 2005 report).  |
+| **Measures Identified**   | - Development of Empower Lexington plan to reduce energy use and GHG emissions.<br>- Voluntary energy reduction target of at least 1% per year on a per capita basis. <br>- Use of Clean Air and Climate Protection software for emissions inventory.<br>- Five subteams targeting Residential, Industrial/Commercial/Institutional, Land Use/Food/Agriculture, Transportation, and Waste.      |
 ```

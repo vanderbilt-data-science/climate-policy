@@ -1,286 +1,411 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The plan pertains to the **City of Atlanta**, Georgia, which is located in the southeastern United States. However, detailed demographic and economic statistics such as population, specific demographics, and average income are not provided within the content of the plan.
+The plan provided does not include detailed information about the physical and economic landscape of the planning jurisdiction, such as demographics, average income, specific geographic features, or key infrastructure. However, it does provide some high-level details regarding the jurisdiction's energy landscape and related aspects:
 
-**Geographic Features and Infrastructure:**
+- **Planning Jurisdiction**: City of Atlanta
+- **Location**: Atlanta, Georgia
 
-- The document does not specify major geographic features such as mountains, rivers, deserts, or coastline. However, it notes the presence of the **Hartsfield-Jackson Atlanta International Airport**, highlighting it as part of the extensive city operations infrastructure, indicating its importance to the city ("The City of Atlanta owns and operates a tremendous assortment of building types, including...Hartsfield-Jackson Atlanta International Airport" (Section: Leading By Example: Energy Efficiency, Renewable Energy, and Battery Storage)).
+### **Local Climate and Water Challenges**
+- The plan emphasizes energy-related challenges, particularly in relation to climate change and air quality issues due to the historical reliance on fossil fuels. "The mid-20th century saw tremendous population and economic growth...technology like air conditioning [...] created a need for increased electricity generation. That electricity [...] predominantly still is, produced by the burning of fossil fuels [...] which releases [...] carbon dioxide [...] and particulate matter (soot) into our airshed." (Chapter: Executive Summary)
+- *Water is a critical resource* in power generation, with the plan noting that "electricity generation requires a tremendous amount of water [...] used to cool power plants and to produce steam." In 2010, power generation was responsible for 40% of freshwater withdrawals in Georgia, which highlights water challenges in the region. (Chapter: Atlanta’s Energy Landscape)
 
-**Local Climate and Water Challenges:**
+### **Key Infrastructure**
+- "Hartsfield-Jackson Atlanta International Airport" is mentioned as part of the City's operations. (Chapter: Leading By Example)
 
-- Although the plan does not delve into the aridity specifically, it does highlight significant water usage in electricity generation: "Water is used to cool power plants and to produce steam...In 2010, power generation was responsible for 40 percent of freshwater withdrawals in Georgia" (Section: Atlanta’s Energy Landscape).
+### **Energy Landscape**
+- *Energy Production*: The plan acknowledges a transition from coal and natural gas towards "solar and nuclear energy sources." The business as usual projections include an increase in solar installations and two new planned nuclear generators in the early 2020s. (Chapter: Atlanta’s Energy Landscape)
+- An emphasis on increasing solar energy generation and energy efficiency is a focal part of Atlanta's clean energy transition. This transition includes "440 MW of power produced from onsite and community solar." (Chapter: Benefits)
 
-**Energy Production and Natural Resources:**
+### **Economic Drivers**
+- The plan highlights the "expansion of clean energy" as a crucial economic driver. This includes the promotion of new businesses, job creation in clean energy sectors like solar energy, and economic growth predicted to arise from the clean energy transition (expected "8,000 new jobs"). (Chapter: Executive Summary)
+- The plan also underscores the necessity of a sustainable, resilient, and equitable energy system for community benefits like "improved public health and more local, high-quality jobs." (Chapter: Executive Summary)
 
-- The energy landscape of Atlanta is shifting from reliance on traditional energy sources such as coal and natural gas to renewable sources like solar energy. "Electricity generated from coal and natural gas is projected to decrease while solar and nuclear energy sources are projected to increase" (Section: Atlanta’s Energy Landscape). Moreover, there is an emphasis on solar energy installations as a means to reduce reliance on nonrenewable energy and decrease greenhouse gas emissions.
+### **Industries and Economic Landscape**
+- The plan identifies clean energy as an economic stimulus, capable of reducing healthcare costs significantly (estimated "$545 million reduction in healthcare costs"). (Chapter: Benefits)
+- The strategy involves considering equity, local job creation, and cost-effectiveness as crucial aspects as Atlanta transitions to 100% clean energy. (Chapter: Findings)
 
-**Key Industries and Economic Drivers:**
-
-- Although specific industries are not detailed in the plan, there is a mention of the potential for job creation and economic benefits from clean energy investments: "investing in clean energy can create local benefits such as improved public health and job creation, which lead to a more sustainable, resilient, and equitable city for all" (Section: Effective Management and Challenges).
-  
-- The city's clean energy initiatives are projected to create "8,000 new jobs, and benefits to housing quality, health, and other cost reductions" (Executive Summary). These initiatives are intertwined with economic development in the clean energy sectors like energy efficiency and rooftop solar (Section: Pathways to 100 Percent Clean Energy).
-
-The plan outlines Atlanta's shift towards clean energy, focusing on renewable energy sources and emphasizing the economic and public health benefits of these changes. The transition to 100 percent clean energy by 2035 for the community is a central goal, reflecting both environmental concerns and socio-economic opportunities for the region.
+Unfortunately, the plan does not provide specific details about the broader economic landscape, demographics, or average income for the City of Atlanta.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Resilience:**
+**Summary of how the plan addresses each component:**
 
-The plan heavily emphasizes resilience through various strategies aimed at improving the city's ability to cope with the adverse effects of climate change. The document notes the symbolic significance of Atlanta being a city that has historically risen from challenges, expressing that this holds true for its climate change strategy as well. It recognizes cities as both part of the climate change problem and potential powerful agents of change. There is a focus on "equitable, affordable, and resilient future" decisions ("APPENDIX: RESILIENT ATLANTA") and the plan includes comprehensive stakeholder engagement for community buy-in ("Executive Summary Setting Achievable Goals").
+- **Resilience:**
+  - The plan places a strong emphasis on resilience, particularly by highlighting the importance of engaging diverse stakeholders and considering equity. The plan states, "The Mayor’s Office of Resilience and partners will move forward with the implementation of the strategic actions outlined within it" and focuses on an "equitable, cost-effective, and sustainable" pathway towards achieving 100 percent clean energy. Additionally, resilience is reflected in the community engagement process and the emphasis on ensuring that the transition to clean energy is equitable and beneficial for all Atlantans.
 
-**Mitigation:**
+- **Mitigation:**
+  - Mitigation is a primary focus of the plan, with specific goals and actions aimed at reducing greenhouse gas emissions and transitioning to clean energy. The plan includes ambitious targets for achieving a "100 percent clean energy transition for municipal operations by 2025 and community-wide by 2035." Key mitigation strategies include enhancing energy efficiency, expanding the use of renewable energy, and reducing carbon emissions, as shown by objectives such as "Reduction in # metric tons of carbon dioxide emissions."
 
-Mitigation is a central theme of the plan, with the strong focus on transitioning to 100 percent clean energy by specific target years ("Executive Summary Setting Achievable Goals"). It outlines reducing energy consumption, generating more clean energy, and purchasing renewable energy credits ("Achieving Clean Energy Community-Wide"). The plan's action summaries include milestones such as reducing carbon emissions and increasing the installation of renewable energy infrastructure ("ACTION 4.3.1: CREATE AND IMPLEMENT A STRATEGY FOR THE CITY TO USE 100% CLEAN ENERGY"). These efforts highlight the plan's prioritization of mitigation.
+- **Adaptation:**
+  - While the primary focus of the plan is on mitigation and resilience, it also addresses adaptation by considering the need to adjust strategies over time. The plan emphasizes a "living document" approach that will evolve with advancements in technology and changes in market conditions. The commitment to revisit and update the plan every three years ensures that adaptation to new circumstances and challenges is considered.
 
-**Adaptation:**
+**Classification of the plan as a whole:**
 
-Adaptation is addressed in terms of ensuring that the transition to clean energy remains equitable and inclusive, accounting for vulnerable populations and high energy burdens ("LETTER FROM AMOL S. NAIK, CHIEF RESILIENCE OFFICER"). The plan places a high emphasis on public engagement and ensuring that the community, particularly lower-income demographics, can adapt to these changes ("Stakeholder Engagement Process").
-
-**Classification:**
-
-Based on the contents of the plan, it can be characterized as an **equal mitigation and adaptation climate action plan**, as it balances strategies to mitigate climate change through clean energy with efforts to foster resilience and adaptation through community engagement and equity considerations.
+The plan can be classified as an **equal mitigation and adaptation climate action plan** because it highlights both mitigation strategies, such as transitioning to clean energy, and adaptation by focusing on resilience and the continuous evolution of the plan to address new challenges.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes several climate change scenarios that the planning jurisdiction, which is the City of Atlanta, will face. The plan outlines the following climate impacts and risks for which it is preparing policies for resilience, mitigation, and adaptation:
+Yes, the plan describes a scenario of climate change that Atlanta will face and is planning for through climate policies for resilience, mitigation, and adaptation. The scenario highlights several key climate impacts and risks:
 
-- **Extreme Heat Events:** "Extreme heat events are occurring more frequently in cities across the United States, but the rate of increase in Atlanta is particularly high, exposing vulnerable populations to life-threatening situations such as heat stroke. Atlanta ranks third nationally for increases in the urban heat island effect."
+- **Extreme Heat:** Atlanta, like other cities in the United States, is experiencing an increase in extreme heat events. The rate of increase in Atlanta is particularly high, contributing to the urban heat island effect, which poses life-threatening risks such as heat stroke, especially for vulnerable populations. The city ranks third nationally for increases in the urban heat island effect (Section on "exposing vulnerable populations").
 
-- **Health Risks from Disease:** "Health risks from disease are also increasing already, with the Atlanta-based Centers for Disease Control and Prevention reporting that diseases transmitted to people by mosquitoes, fleas, and ticks have more than tripled and nine new diseases have become a threat in the past twelve years alone."
+- **Health Risks from Disease:** There is an increase in health risks from diseases transmitted by mosquitoes, fleas, and ticks. The Centers for Disease Control and Prevention, based in Atlanta, reports that such diseases have more than tripled, with nine new diseases becoming threats in the past twelve years.
 
-- **Ecosystem Losses:** "Atlanta is experiencing major losses to its ecosystem too, ranking first for the likely impacts."
+- **Ecosystem Losses:** Atlanta is experiencing major losses to its ecosystem, with significant impacts on its tree canopy (section on "Atlanta is experiencing major losses").
 
-These scenarios illustrate some of the challenges that Atlanta anticipates, prompting the development of climate policies focusing on resilience, mitigation, and adaptation. These efforts aim to ensure a rapid and just transition to clean energy, improve public health, and enhance economic development while prioritizing equity. The plan underscores the need for a clean energy transition to mitigate these impacts and address vulnerabilities within the community.
+These climate-related hazards highlight the need for Atlanta's climate policies focusing on resilience, mitigation, and adaptation to address extreme heat, health risks, and ecosystem losses. The city's commitment to transitioning to 100% clean energy by 2035 is part of its strategy to mitigate climate change impacts and enhance resilience (Section on "Pathways to 100 Percent Clean Energy").
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Extreme Heat Events**  
-   - **Climate Hazard:** Extreme heat events occurring more frequently in cities across the United States, with the rate of increase in Atlanta particularly high.  
-   - **Climate Risks:** These events expose vulnerable populations to life-threatening situations such as heat stroke.  
-   - **Vulnerable Populations:** Health risks are acutely felt by vulnerable populations struggling with access to healthcare resources. *(Executive Summary)*
+**1. Extreme Heat Events**
 
-**2. Diseases Transmitted by Vectors**  
-   - **Climate Hazard:** Diseases transmitted to people by mosquitoes, fleas, and ticks have more than tripled, and nine new diseases have become threats in the past twelve years.  
-   - **Climate Risks:** Increased health risks from vector-borne diseases.  
-   - **Vulnerable Populations:** Vulnerable populations with less access to healthcare are more susceptible. *(Executive Summary)*
+- **Climate Hazard:** 
+  - "Extreme heat events are occurring more frequently in cities across the United States, but the rate of increase in Atlanta is particularly high." *(Executive Summary)*
 
-**3. Urban Heat Island Effect**  
-   - **Climate Hazard:** Atlanta ranks third nationally for increases in the urban heat island effect.  
-   - **Climate Risks:** Amplifies the effects of heat events and increases health risks.  
-   - **Vulnerable Populations:** Vulnerable populations are more exposed to the heat island effect, exacerbating health disparities. *(Executive Summary)*
+- **Climate Risks:** 
+  - "Exposing vulnerable populations to life-threatening situations such as heat stroke." *(Executive Summary)*
+  - "Atlanta ranks third nationally for increases in the urban heat island effect." *(Executive Summary)*
 
-The plan emphasizes the importance of equity in addressing these climate hazards, as it acknowledges the disparities in how different communities are affected by climate risks. *(Letter from Amol S. Naik, Chief Resilience Officer)*
+- **Climate Vulnerability:** 
+  - "The risk to health and wellbeing is acutely felt by vulnerable populations struggling with access to healthcare resources." *(Executive Summary)*
+
+**2. Vector-Borne Diseases**
+
+- **Climate Hazard:** 
+  - "Health risks from disease are also increasing already, with the Atlanta-based Centers for Disease Control and Prevention reporting that diseases transmitted to people by mosquitoes, fleas, and ticks have more than tripled and nine new diseases have become a threat in the past twelve years alone." *(Executive Summary)*
+
+- **Climate Risks:** 
+  - "The risk to health and wellbeing is acutely felt by vulnerable populations struggling with access to healthcare resources." *(Executive Summary)* 
+
+- **Climate Vulnerability:** 
+  - Vulnerable populations struggling with access to healthcare. *(Executive Summary)* 
+
+These climate hazards present significant risks to the City of Atlanta, particularly impacting the health and wellbeing of vulnerable populations within the city.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-The plan outlines several resilience options, primarily focused on energy efficiency, clean energy generation, and adaptation, although specific detailed climate threats are not always linked to each option. Here is a summary based on the information provided:
+Based strictly on the content provided, the following resilience options are identified in the plan:
 
-### **1. Energy Efficiency and Clean Energy Upgrades**
-   - **Climate Threat Addressed:** The plan broadly addresses the threat of fossil fuel reliance, which contributes to climate change through greenhouse gas emissions and results in poor air quality and public health issues.
-   - **Details on Cost, Timeframe, and Location:**
-     - "Energy efficiency upgrades to municipal building stock have saved millions of dollars in taxpayer money." These were identified as a cost-effective option, already implemented in various municipal buildings including "municipal office buildings, water and wastewater treatment plants, and airport sites." 
-     - The Plan lists financial targets for energy efficiency: "$ available for energy-efficiency improvements" (Action 4.3.1).
-     - Implementation began with prior municipal building upgrades, indicating ongoing efforts.
-     - The timeframe for these upgrades is aligned with the targets of 2025 for municipal operations and 2035 citywide.
-   - **Other Attributes:**
-     - Contributes to economic savings for taxpayers.
-     - Improves public health by reducing pollutants from power plants.
-     - Encourages local economic development in clean energy sectors, creating skilled jobs and increasing GDP.
+### Resilience Option 1: **Energy Efficiency Upgrades**
 
-### **2. Renewable Energy Deployment**
-   - **Climate Threat Addressed:** Addresses the dependency on non-renewable energy sources which exacerbate climate change.
-   - **Details on Cost, Timeframe, and Location:**
-     - Includes programs like the "first municipal Solar Energy Procurement Agreement in the State of Georgia" with a target of "1.5 megawatts (MW) of rooftop solar panels across 24 City-owned facilities."
-     - The timeframe for achieving a 100% clean energy transition is set for 2035 community-wide.
-   - **Other Attributes:**
-     - The solar energy program contributes to reducing the city's carbon footprint.
-     - Positively impacts public health by potentially improving air quality.
-     - Economic benefits through creation of local jobs linked to solar energy projects.
+1. **Specific climate threat it addresses:**
+   - This option addresses the threat of high energy consumption leading to increased greenhouse gas emissions, which contribute to climate change.
 
-### **3. Equitable Community Solar Program**
-   - **Climate Threat Addressed:** Supports energy diversification and climate justice by improving low-income community access to solar energy.
-   - **Details on Cost, Timeframe, and Location:**
-     - Payments for solar contributions to the grid are credited to low-income bills which helps alleviate cost burdens.
-     - Timeframe not directly specified, but aligns with the 2025 to 2035 transition goal.
-   - **Other Attributes:**
-     - Enhances economic equity by reducing energy burden disparities.
-     - Supports local renewable energy development.
+2. **Details on cost, timeframe, and location:**
+   - **Cost and timeframe:** The plan discusses the continuation and expansion of deep energy retrofits for municipal buildings as a long-term initiative beyond 2020 to "cost-effectively reduce energy waste." However, specific costs are not mentioned.
+   - **Location:** This option is applied to municipal buildings within Atlanta.
 
-### **4. Round-It-Up Energy Efficiency Program**
-   - **Climate Threat Addressed:** Reduced energy demand addresses both consumption patterns and high energy costs which impact climate resilience.
-   - **Details on Cost, Timeframe, and Location:**
-     - Program rounds participant electricity bills to the nearest dollar to finance energy efficiency efforts in low-income communities.
-     - This will likely be a long-term initiative beyond 2020 and ongoing evaluation with stakeholders.
-   - **Other Attributes:**
-     - Aims at economic relief by reducing the electricity burden on low-income families.
-     - Encourages participation from local energy providers like Georgia Power.
+3. **Other important attributes:**
+   - **Economic consideration:** Investing in energy efficiency creates skilled jobs in clean energy sectors, as stated, resulting in "higher incomes and increased gross domestic product (GDP) in Atlanta."
+   - **Environmental consideration:** Reduction in energy waste also contributes to better public health outcomes by reducing emissions from fossil-fueled power plants.
 
-The plan aims to integrate resilience with equity, economic development, and environmental stewardship, creating overlaps between proposed resilience options and broader goals such as public health improvement, economic opportunities, and environmental protection.
+### Resilience Option 2: **Round-it-up Energy Efficiency Program**
+
+1. **Specific climate threat it addresses:**
+   - The threat of unequal access to energy efficiency benefits and clean energy, particularly for low-income communities.
+
+2. **Details on cost, timeframe, and location:**
+   - **Cost and timeframe:** The plan suggests working with Georgia Power on a program that would "round up participant electricity bills to the nearest dollar to fund low-income energy efficiency initiatives." No specific timeframe or cost details are provided.
+   - **Location:** This program targets low-income communities within Atlanta.
+
+3. **Other important attributes:**
+   - **Economic consideration:** Provides financial support for energy efficiency improvements in low-income communities, helping to reduce electricity bills.
+   - **Equity consideration:** The program emphasizes equitable distribution of clean energy benefits.
+
+### Resilience Option 3: **Equitable Community Solar Program**
+
+1. **Specific climate threat it addresses:**
+   - It addresses threats related to energy inequity by providing access to solar energy for low-income residents.
+
+2. **Details on cost, timeframe, and location:**
+   - **Cost and timeframe:** The plan details a long-term exploration "in partnership with stakeholders" to develop this solar program beyond 2020. Specific costs are not provided.
+   - **Location:** Applicable to communities in Atlanta, emphasizing low-income areas.
+
+3. **Other important attributes:**
+   - **Economic consideration:** Payments for solar energy provided to the grid are "credited to low-income bills," potentially reducing financial burdens.
+   - **Environmental consideration:** Promotes the use of solar energy, thus reducing reliance on fossil fuels and reducing emissions.
+
+### Resilience Option 4: **Expand Combined Heat and Power (CHP) at Wastewater Treatment Plants**
+
+1. **Specific climate threat it addresses:**
+   - This option addresses threats related to inefficient energy use and high dependency on non-renewable energy sources.
+
+2. **Details on cost, timeframe, and location:**
+   - **Cost and timeframe:** No specific cost details are provided, but it is part of a long-term Capital Improvement Plan. 
+   - **Location:** Implemented at the City’s wastewater treatment facilities.
+
+3. **Other important attributes:**
+   - **Infrastructural consideration:** Utilizes existing facilities to generate energy more efficiently.
+   - **Environmental consideration:** Contributes to reduced emissions through more efficient energy use.
+
+**Note:** The document does not provide a comprehensive table, chart, or image explicitly outlining cost, timeframe, and location for these resilience options. The information provided is based on excerpts from the document.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options aimed at reducing greenhouse gas emissions and transitioning to a clean energy environment. Below are the mitigation options along with their cost, timing, location, and other important attributes as outlined in the plan:
+The plan identifies several mitigation options, each with specific attributes related to cost, timing, location, and other important elements. These options are designed to reduce or prevent emissions of greenhouse gases (GHGs) and include:
 
-1. **Energy Efficiency**
-   - **Cost and Return:** The plan emphasizes energy efficiency as a cost-effective measure, noting "energy efficiency, especially in the residential sector," as providing significant returns, such as "every dollar spent returning roughly $11 in Atlanta-based benefits" (Section: Achieving 50% of Atlanta's Local Clean Energy Potential Scenario).
-   - **Timing:** Energy efficiency efforts are ongoing, with the plan recommending continued exploration beyond 2020 and immediate actions to reduce energy waste.
-   - **Location:** Focus is particularly on municipal buildings but extends city-wide.
-   - **Other Attributes:** Includes deep energy retrofits, energy savings performance contracting, and programs like "Round-it-up Energy Efficiency Program" to assist low-income communities (Section: Long-Term).
+1. **Energy Efficiency Initiatives:**
+   - **Cost Attributes:** There is a focus on cost-effectively reducing energy waste across municipal buildings. "Continue to look for opportunities to cost-effectively reduce energy waste" (Long-Term).
+   - **Timing:** Long-term approach beginning beyond 2020.
+   - **Location:** Municipal buildings.
+   - **Other Attributes:** Emphasis on reducing waste; initiatives include expanding deep energy retrofits. (Section: Energy Efficiency)
 
-2. **Renewable Energy Deployment**
-   - **Cost and Return:** The plan includes options like "Net-Zero Energy Code" and "Equitable Community Solar Program" which provide credit to low-income bills (Section: Renewable Energy Deployment).
-   - **Timing:** Near-term options to be explored beyond 2020, with ongoing projects such as "the integration of renewable energy credits" to align with a 100% clean energy target by 2035.
-   - **Location:** Community-wide deployment, focusing particularly on expanding projects like "Combined Heat and Power (CHP) at Wastewater Treatment Plants" (Section: Energy Efficiency and Renewable Energy Deployment).
-   - **Other Attributes:** The plan targets diverse settings from urban households to municipal facilities.
+2. **Round-It-Up Energy Efficiency Program:**
+   - **Cost Attributes:** Funded by rounding up electricity bills to the nearest dollar, specifically targeting low-income communities.
+   - **Timing:** Implementation details are not specified, but it involves ongoing collaboration.
+   - **Location:** Community-wide.
+   - **Other Attributes:** Collaboration with Georgia Power, aimed at benefiting low-income households. (Long-Term)
 
-3. **Electric Vehicle Integration**
-   - **Cost and Return:** Connections with technology pilots and existing utility programs are expected to boost capacity and provide grid services.
-   - **Timing:** Planning for the pilot begins immediately with ongoing development.
-   - **Location:** Collaboration with "EV Manufacturers and Georgia Power" suggests a widespread implementation over the city.
-   - **Other Attributes:** Focus on vehicle-grid interconnectivity to enhance grid reliance (Section: Electric Vehicle Integration).
+3. **Net-Zero Energy Code:**
+   - **Cost Attributes:** Implementation cost is implied in the development of the code.
+   - **Timing:** Feasibility and phasing plan need exploration.
+   - **Location:** Community-wide, involving new building constructions.
+   - **Other Attributes:** The measure requires buildings to generate as much energy as they consume. (Long-Term)
 
-4. **Energy Storage**
-   - **Cost and Return:** Reusing "Used EV Batteries" could offer resilience value for the grid.
-   - **Timing:** Immediate consideration with educational opportunities being explored.
-   - **Other Attributes:** Establish strategic avenues for educating stakeholders about storage opportunities (Section: Energy Storage).
+4. **Pay As You Save Program:**
+   - **Cost Attributes:** Allows financing energy efficiency projects via electricity bills.
+   - **Timing:** Duration and initiation not specified.
+   - **Location:** Community-wide.
+   - **Other Attributes:** Partnership with Georgia Power, geared towards homeowners. (Long-Term)
 
-This plan is a living document, allowing for periodic updates to incorporate new technologies and market conditions, ensuring the continued evolution of these mitigation strategies (Section: Clean Energy Atlanta as a Living Document).
+5. **Electric Vehicle (EV) Integration:**
+   - **Cost Attributes:** Cost can vary based on pilot program findings.
+   - **Timing:** Exploratory phase for pilot programs.
+   - **Location:** Community-wide with specific focus potentially on public and private sectors.
+   - **Other Attributes:** Engaging with EV manufacturers and utility companies could expand grid capacity. (Long-Term)
+
+6. **Renewable Energy Deployment:**
+   - **Cost Attributes:** Implied cost in infrastructure and program development, like the Equitable Community Solar Program.
+   - **Timing:** Indefinite, part of a broader campaign for clean energy adoption.
+   - **Location:** Community-wide and municipal facilities.
+   - **Other Attributes:** Includes programs like retail net metering, expanding combined heat and power at wastewater plants, and creating a green tariff with Georgia Power. Focus on diverse clean energy sources including solar, hydroelectric, and more. (Renewable Energy Deployment)
+
+7. **Renewable Energy Credit Procurement:**
+   - **Cost Attributes:** Potential costs associated with purchasing credits.
+   - **Timing:** Long-term, phased with broader clean energy adoption.
+   - **Location:** Community-wide.
+   - **Other Attributes:** Collaborations with partners for organized bulk credit purchases. (Renewable Energy Deployment)
+
+Each of these options emerges from a strategic emphasis on building a robust clean energy infrastructure that prioritizes equity, cost-effectiveness, and innovative collaborations with local partners and stakeholders.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies multiple mitigation options aimed at achieving clean energy community-wide. Below are the summarized mitigation options along with their attributes as outlined in the plan:
+Below are the mitigation options identified in the plan, along with summaries of information regarding cost, timeframe, location, and other important attributes:
 
-1. **Energy Efficiency:**
-   - **Continuation and Expansion of Deep Energy Retrofits:** This program focuses on municipal buildings to cost-effectively reduce energy waste. The timeframe extends beyond 2020. It is designed to achieve long-term cost-effectiveness and economic benefits. *(Source: Energy Efficiency Section)*
-   
-2. **Round-It-Up Energy Efficiency Program:**
-   - Partners with Georgia Power to round up participant electricity bills, with the difference funding low-income energy efficiency initiatives. This is designed to address equity and is aimed at low-income communities. *(Source: Energy Efficiency Section)*
+### **1. Clean Energy Transition**
 
-3. **Net-Zero Energy Code:**
-   - Explore the feasibility of implementing an energy code that requires buildings to generate as much energy as they consume. The focus is on new and existing building compliance to reduce overall energy consumption. *(Source: Energy Efficiency Section)*
+- **Cost:**
+  - The "Achieving 50% of Atlanta’s Local Clean Energy Potential" scenario is deemed the most cost-effective, returning "roughly $11 in Atlanta-based benefits for every dollar spent" with "more than 90 percent of these benefits coming from energy savings through energy efficiency" (Section: Pathways to 100 Percent Clean Energy).
 
-4. **Pay As You Save Program:**
-   - Implemented with Georgia Power to allow homeowners to finance energy efficiency projects through monthly electricity bill payments. This targets increased participation in energy-saving projects across differing income levels. *(Source: Energy Efficiency Section)*
+- **Timeframe:**
+  - Municipal operations are targeted for a 100% clean energy transition by 2035, aligning with the community-wide goal of 2050 (Section: Achieving Clean Energy Community-Wide).
 
-5. **Electric Vehicle Integration:**
-   - Explore technology pilots with EV manufacturers and Georgia Power to increase grid reliability and capacity, supporting the adoption of electric vehicles. *(Source: Electric Vehicle Integration Section)*
+- **Location:**
+  - The plan discusses implementations within municipal buildings and community-wide initiatives, emphasizing projects such as rooftop solar and energy efficiency (Section: Leading By Example).
 
-6. **Equitable Community Solar Program:**
-   - Develop credits to low-income bills for solar energy provided to the grid, focusing on community solar involvement and reducing energy costs for underprivileged residents. *(Source: Renewable Energy Deployment Section)*
+- **Other Attributes:**
+  - Engagement with Georgia Power for renewable energy credits and facilitating clean energy generation through rooftop solar, energy-efficient technologies, and other local clean energy sources are highlighted (Section: Pathways to 100 Percent Clean Energy).
 
-7. **Retail Net Metering:**
-   - Allow building owners to sell excess solar-generated electricity back to the utility at retail prices. This aims to incentivize the installation of renewable energy sources on private properties. *(Source: Renewable Energy Deployment Section)*
+### **2. Renewable Energy Credits (RECs)**
 
-8. **Expand Combined Heat and Power (CHP) at Wastewater Treatment Plants:**
-   - Incorporate the expansion of CHP facilities as part of the long-term Capital Improvement Plan, focusing on reducing energy waste in water treatment processes. *(Source: Renewable Energy Deployment Section)*
+- **Cost:**
+  - Although direct cost data is not provided, it is implied that purchasing RECs would be part of a strategy to achieve cost-effective clean energy targets (Section: Pathways to 100 Percent Clean Energy).
 
-9. **Green Tariff:**
-   - Establish a special renewable electricity rate with Georgia Power to incentivize clean energy usage. *(Source: Renewable Energy Deployment Section)*
+- **Timeframe:**
+  - Integrated into the long-term goal of transitioning to 100% clean energy by 2035 for both municipal operations and community-wide (Section: Achieving Clean Energy Community-Wide).
 
-10. **Renewable Energy Credit Procurement:**
-    - Plan organized bulk purchases of credits for locally-generated renewable energy to support local economic development and cost-efficiency. *(Source: Renewable Energy Deployment Section)*
+- **Location:**
+  - RECs are meant to be purchased in case local renewable energy generation does not suffice (Section: Pathways to 100 Percent Clean Energy).
 
-11. **EV Battery Reuse and Education on Storage Opportunities:**
-    - Promote reuse for grid services and conduct educational sessions on energy storage value, improving grid resilience and efficiency. *(Source: Energy Storage Section)*
+### **3. Energy Efficiency Programs**
 
-Each option focuses on reducing greenhouse gas emissions by decreasing energy consumption, promoting clean energy use, and integrating innovative energy technologies. Strategies are tailored to decrease financial burdens and to include low-income communities in the transition to clean energy, emphasizing long-term impact and cost-effectiveness. *(Source: Various Sections as Cited)*
+- **Cost:**
+  - Energy efficiency improvements have historically saved "millions of dollars in taxpayer money" and are expected to provide $11 in benefits for every dollar invested (Section: APPENDIX: RESILIENT ATLANTA).
+
+- **Timeframe:**
+  - Immediate actions include forming an advisory board within 90 days of the plan's adoption. Longer-term efforts like "consuming less electricity through investing in energy efficiency" are part of the overarching strategy to achieve the 2035 clean energy goal (Section: Pathways to 100 Percent Clean Energy).
+
+- **Location:**
+  - Focus is widespread including municipal buildings and community engagement (Section: Leading By Example).
+
+- **Other Attributes:**
+  - Programs like "Round-it-up Energy Efficiency Program" and "Pay As You Save Program" target low-income communities by funding energy efficiency efforts (Section: Long-Term).
+
+### **4. Solar Energy Deployment**
+
+- **Cost:**
+  - Cost mechanisms such as retail net metering provide financial incentives as building owners can sell excess electricity back to the utility (Section: Renewable Energy Deployment).
+
+- **Timeframe:**
+  - Part of long-term and ongoing priorities, targeting substantial renewable energy integration by 2035 (Section: Renewable Energy Deployment).
+
+- **Location:**
+  - Focuses on solar installation on municipal buildings and community solar programs (Section: Renewable Energy Deployment).
+
+- **Other Attributes:**
+  - Programs like "Equitable Community Solar Program" aim to provide credits to low-income households while encouraging broader solar energy adoption (Section: Renewable Energy Deployment).
+
+### **5. Combined Heat and Power (CHP) at Wastewater Plants**
+
+- **Cost:**
+  - No specific cost details are provided, but seen as part of improving cost-effectiveness (Section: Renewable Energy Deployment).
+
+- **Timeframe:**
+  - Incorporated into long-term Capital Improvement Plans with ongoing assessment of feasibility and cost-effectiveness (Section: Renewable Energy Deployment).
+
+- **Location:**
+  - Specific to water treatment facilities managed by the City's Department of Watershed Management (Section: Renewable Energy Deployment).
+
+- **Other Attributes:**
+  - Seen as a method to enhance energy efficiency and reliability within the resilience strategy (Section: Renewable Energy Deployment).
+
+### **6. Electric Vehicle Integration**
+
+- **Cost:**
+  - General cost implications are tied to pilot programs and technology development, rather than specific figures (Section: Electric Vehicle Integration).
+
+- **Timeframe:**
+  - Identified as a pilot project in partnership with manufacturers and energy providers (Section: Electric Vehicle Integration).
+
+- **Location:**
+  - City-wide potential but with specific technological pilots (Section: Electric Vehicle Integration).
+
+- **Other Attributes:**
+  - Integrates vehicle-grid interconnectivity to expand grid capacity and reliance on EV technology (Section: Electric Vehicle Integration).
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan does not explicitly outline distinct adaptation options as defined, but some strategies that could be interpreted as adaptation measures are embedded within the broader context of clean energy and public health initiatives. Here is a summary based on the available content:
+The plan does not explicitly list specific adaptation options with details on the climate threat being addressed or attributes such as cost, timeframe, and location. However, the plan does outline various initiatives and goals that might intersect with adaptation strategies, particularly in the context of transitioning to clean energy to combat climate change impacts more broadly.
 
-**Adaptation Option: Energy Efficiency and Renewable Energy Transition**
+### Implicit Adaptation Options Could Include:
 
-1. **Climate Threat Addressed:**
-   - The plan addresses threats of climate change as a broader context, understanding that “the planet is warming at an unprecedented pace” due to “levels of greenhouse gas emissions” being at their highest.
-   - The shift to clean energy aims to also address public health threats by reducing pollutants from fossil fuels that impact air quality and contribute to “public health problems like asthma” (Executive Summary).
-  
-2. **Attributes:**
-   - **Cost**: While specific costs are not detailed, the focus on equity indicates considerations for cost-effectiveness: "Policies were scored based on their equity, economic development, and cost effectiveness potential" (Section on Policies Reviewed Based on Equity, Economic Development, and Cost Effectiveness Potential).
-   - **Timeframe**: The plan sets targets for transitioning to 100% clean energy: municipal operations by 2025 and community-wide by 2035, though the recommendation is to adjust municipal targets to 2035 (Executive Summary and Pathways to 100 Percent Clean Energy).
-   - **Other Important Attributes**: 
-     - The plan emphasizes equity, ensuring that "100 percent of Atlantans should have access to 100 percent clean energy" with a focus on reducing the energy burden (Letter from Amol S. Naik, Chief Resilience Officer).
-     - The plan also includes public engagement and stakeholder involvement to shape policy proposals, highlighting the importance of community input in adaptation planning (Moving Forward section).
+1. **Deep Energy Retrofits for Municipal Buildings**
+   - **Climate Threat Addressed:** Energy consumption and associated emissions.
+   - **Attributes:** 
+     - **Cost:** Focus on cost-effective reduction of energy waste.
+     - **Timeframe:** Continued into the long term.
+     - **Other Attributes:** Aimed at municipal buildings.
 
-The plan centers on creating a more resilient city through clean energy initiatives, thus tackling climate change's impacts indirectly by focusing on pollution reduction, economic development, and equity in energy access.
+2. **Water Efficiency and Conservation Programs**
+   - **Climate Threat Addressed:** Water scarcity and management issues.
+   - **Attributes:** 
+     - **Cost and Savings:** Expected to provide benefits through lower water bills and electricity savings.
+     - **Timeframe:** Ongoing, part of long-term strategies.
+     - **Other Attributes:** Includes incentivized installation of high-efficiency toilets.
+
+3. **Equitable Community Solar Program**
+   - **Climate Threat Addressed:** Energy access and affordability, with an additional focus on equity for low-income households.
+   - **Attributes:**
+     - **Other Important Attributes:** Payments for solar provided to the grid are credited to low-income bills.
+
+4. **Renewable Energy Deployment**
+   - **Climate Threat Addressed:** Dependence on fossil fuels and resultant emissions, indirectly mitigating impacts like air pollution and climate change.
+   - **Attributes:**
+     - **Location:** Includes projects like rooftop solar on municipal buildings.
+
+These implicit adaptation options are geared toward reducing vulnerabilities related to water and energy usage, are part of a broader resilience strategy focused on clean energy, and aim to improve equity and cost-effectiveness across the board.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-Based on the content provided, the plan identifies several climate policies aimed at advancing climate justice. These policies focus on addressing climate threats and supporting vulnerable populations in Atlanta. Here are the identified policies and their summaries:
+Based on the plan, the identified climate policies to advance climate justice include:
 
-1. **Transition to 100 Percent Clean Energy**
-   - **Climate Threat:** The plan addresses the threat of greenhouse gas emissions and their contribution to climate change. The burning of fossil fuels has led to poor air quality and public health problems like asthma.
-   - **Vulnerable Populations:** The plan recognizes that **"our most vulnerable residents will be most susceptible to harm"** and states that **"equity must remain paramount."** The plan particularly mentions that **"360,000 Atlantans live in ZIP codes where the average household spends a higher percentage of income on electricity,"** indicating these areas are highly vulnerable due to economic disparities that affect access to clean energy.
+1. **Clean Energy Transition**
 
-2. **Energy Equity and Affordable Access**
-   - **Climate Threat:** High energy burdens and the lack of access to affordable clean energy are highlighted as existing threats that could be exacerbated by climate change.
-   - **Vulnerable Populations:** The plan highlights **"Metro Atlanta has the 4th highest energy burden in the United States."** In Atlanta's most burdened ZIP code, the median electricity burden is 9.6%, signifying that energy cost disproportionately affects low-income households, making them more vulnerable to climate change impacts.
+   - **Climate Threat Addressed:** The transition to 100% clean energy aims to combat climate change, which is exacerbated by the burning of fossil fuels that release pollutants such as carbon dioxide. These pollutants contribute to poor air quality and public health problems, as well as climate change.
+   - **Vulnerable Areas/Populations:** Vulnerable populations in Atlanta, particularly those in ZIP codes with a high energy burden, are the most affected. As stated, Atlanta ranks third nationally for increases in the urban heat island effect, exposing vulnerable populations to life-threatening situations. Moreover, "360,000 Atlantans live in ZIP codes where the average household spends a higher percentage of income on electricity" (section Achieving Clean Energy Community-Wide).
 
-These policies emphasize the importance of equity in the implementation process and highlight the need to ensure that all Atlantans, especially those with high energy burdens and limited access to resources, benefit equitably from the transition to clean energy.
+2. **Energy Equity**
+
+   - **Climate Threat Addressed:** The policy addresses energy poverty and the disproportionate impact of high electricity costs on low-income households, as well as ensuring that all Atlantans benefit from a transition to clean energy, thus reducing dependency on fossil fuels.
+   - **Vulnerable Areas/Populations:** Vulnerable residents in areas with a high energy burden are significantly affected, including those in the most burdened ZIP code, where 50% of residents pay more than 9.6% of their monthly income on electricity bills. Energy equity must be prioritized to address this vulnerability (Letters from Officials).
+
+3. **Investments in Energy Efficiency and Renewable Energy**
+
+   - **Climate Threat Addressed:** This policy aims to address the inefficiencies in energy use that contribute to high greenhouse gas emissions and increased energy costs, linking to climate change.
+   - **Vulnerable Areas/Populations:** Low-income communities are particularly vulnerable, as they often experience higher electricity burdens and may lack access to energy-efficient technologies. The plan emphasizes that "energy efficiency must be increased" and "local investments in renewable energy must take precedence" (Letter from Amol S. Naik).
+
+4. **Community Engagement and Education**
+
+   - **Climate Threat Addressed:** The threat addressed here is the exclusion or lack of participation of marginalized communities in policymaking and decision-making related to climate change, which can lead to solutions that don't address their specific needs.
+   - **Vulnerable Areas/Populations:** Underserved communities, often composed of minorities and low-income individuals, who historically have been excluded from the decision-making process regarding environmental policies. The plan underscores the importance of public outreach to keep the community informed and involved (Section Stakeholder Engagement Process).
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, the potential for unforeseen maladaptive climate policies seems to center around policies that do not fully consider the equity implications or the broad socioeconomic impacts. Here are specific instances:
+Based on the content provided, potential unforeseen maladaptive climate policies and their summaries include:
 
-1. **Round-It-Up Energy Efficiency Program**
-   - **Climate Threat Addressed:**
-     - This policy addresses the threat of high energy burdens and inefficient energy use within low-income communities, aiming to improve energy efficiency.
-   - **Option Proposed:**
-     - *Adaptation Option*: Implementing an energy efficiency program by rounding electricity bills up to the nearest dollar to fund energy efficiency efforts in low-income communities.
-   - **Potential Maladaptive Consequence:**
-     - While well-intentioned, the program may inadvertently increase financial pressures on low-income households if not designed carefully (e.g., lacking an opt-out mechanism), leading to increased vulnerability in these already strained communities. The document suggests it includes an opt-out, which is critical to avoid exacerbating inequities. *“Policies that do not consider the impact on these residents may worsen these conditions”* (Achieving Clean Energy Community-Wide).
+1. **Policy: Purchasing Renewable Energy Credits (RECs) as a Strategy**
 
-2. **Buying Renewable Energy Credits (RECs)**
-   - **Climate Threat Addressed:**
-     - This policy aims to address high GHG emissions by offsetting non-renewable energy use with RECs, contributing to the clean energy targets.
-   - **Option Proposed:**
-     - *Mitigation Option*: Purchasing RECs as a mechanism to achieve 100% clean energy targets by offsetting fossil fuel consumption.
-   - **Potential Maladaptive Consequence:**
-     - Reliance on purchasing RECs rather than actual performance improvements (e.g., increasing in-state renewable generation) might lead to a superficial attainment of clean energy targets. This could result in a failure to invest in local renewable infrastructure, not reducing actual emissions effectively, and not fostering long-term resilience. *“There are concerns among city leadership that achieving these goals within the 2025/2035 timeframes under current state and federal policy would result in the City simply purchasing large amounts of renewable energy credits rather than achieving the goal through energy efficiency and in-state renewable generation”* (Executive Summary - Setting Achievable Goals).
+   - **Climate threat it is addressing:** 
+     - The policy aims to address greenhouse gas emissions and their contribution to climate change by achieving clean energy targets.
+   
+   - **Resilience, mitigation, or adaptation option proposed:** 
+     - *Mitigation Option:* "Buy renewable energy credits" is mentioned as one of the three approaches Atlanta can undertake to meet its 100% clean energy targets (Achieving Clean Energy Community-Wide, 51).
+   
+   - **Why it may cause inadvertent maladaptation:**
+     - This approach might result in the city "simply purchasing large amounts of renewable energy credits rather than achieving the goal through energy efficiency and in-state renewable generation" (Executive Summary: Setting Achievable Goals), which does not directly contribute to local resilience or adaptation. This could lead to over-reliance on external markets for clean energy classification without supporting local energy infrastructure improvements or reducing actual local emissions, potentially increasing Atlanta's vulnerability if RECs markets change or become unreliable.
 
-For both policies, the maladaptation arises from potentially unintended economic and social impacts that may not fully align with long-term resilience and equity goals.
+2. **Policy: Adjustment of Timeline for 100% Clean Energy Transition**
+
+   - **Climate threat it is addressing:**
+     - This policy aims to mitigate climate impacts by transitioning to clean energy to reduce emissions and associated climate-related risks.
+   
+   - **Resilience, mitigation, or adaptation option proposed:** 
+     - *Mitigation/Resilience Option:* Changes to the timeline for achieving clean energy transition — from 2025 for municipal operations to 2035 and community-wide to 2050 (Achieving Clean Energy Community-Wide, 51).
+   
+   - **Why it may cause inadvertent maladaptation:**
+     - By extending the timeline, Atlanta may inadvertently weaken the urgency required for immediate improvements in energy infrastructure and efficiency. Long-term delays might lower immediate actions' effectiveness against climate impacts, such as extreme heat or air quality issues, reducing the resiliency of Atlanta's infrastructure and communities to current climate threats (Achieving Clean Energy Community-Wide).
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The plan outlines specific metrics to measure the success of the clean energy transition and other related initiatives. Here are the key metrics and goals mentioned:
+### Metrics for Measuring Success or Failure
 
-- **Reduction in CO2 Emissions**: The plan aims to measure success through "*Reduction in # metric tons of carbon dioxide emissions*" (APPENDIX: RESILIENT ATLANTA).
+The plan outlines various metrics and goals to assess the success or failure of adaptation, resilience, and mitigation options:
 
-- **Solar Capacity**: Another metric is the "*# of MW of solar capacity installed on municipal buildings*" (APPENDIX: RESILIENT ATLANTA).
+#### Potential Metrics/Measures of Success:
 
-- **Water Audits**: The plan measures success by the "*# of water audits conducted in commercial buildings >25,000 square ft*" (APPENDIX: RESILIENT ATLANTA).
+- **Reduction in CO2 Emissions:**
+  - *Metric:* Reduction in the number of metric tons of carbon dioxide emissions. (Section: Appendix: Resilient Atlanta)
 
-- **Funding for Improvements**: It tracks the "*$ available for energy-efficiency improvements*" (APPENDIX: RESILIENT ATLANTA).
+- **Solar Capacity:**
+  - *Metric:* Megawatts (MW) of solar capacity installed on municipal buildings. (Section: Appendix: Resilient Atlanta)
 
-- **Clean Energy Targets**:
-  - The initial targets set were achieving 100% clean energy transition for municipal operations by 2025 and community-wide by 2035. The plan later recommends adjusting these targets to 2035 for municipal operations and 2050 for community-wide (EXECUTIVE SUMMARY).
+- **Water Efficiency:**
+  - *Metric:* Number of water audits conducted in commercial buildings greater than 25,000 square feet. (Section: Appendix: Resilient Atlanta)
 
-- **Public Health and Equity**: Although direct metrics for improvements in air quality or public health are not explicitly detailed, success is indirectly measured by better public health outcomes and consideration of equity, where "Atlanta could see better public health outcomes, improving wellbeing while decreasing energy burdens on our residents" (Pathways to 100 Percent Clean Energy).
+- **Energy Efficiency Improvements:**
+  - *Metric:* Dollars available for energy-efficiency improvements. (Section: Appendix: Resilient Atlanta)
 
-- **Financial Burden Metrics**:
-  - The plan considers "burden," which refers to the percent of household income used to pay utility bills. The goal is to mitigate impacts where "Atlanta’s electricity burden can be as high as 9.6 percent in some neighborhoods" (Achieving Clean Energy Community-Wide).
+### Concrete Goals or Targets
 
-These metrics and goals are designed to ensure transparency and progress tracking towards achieving the clean energy transition in Atlanta.
+- **100 Percent Clean Energy Transition:**
+  - *Municipal Operations:*
+    - *Goal:* Achieve 100 percent clean energy by 2025.
+    - *Revised Goal:* Recommended adjustment to 2035. (Section: Executive Summary, Appendix: Resilient Atlanta)
+  
+  - *Community-Wide:*
+    - *Goal:* Achieve 100 percent clean energy by 2035.
+    - *Revised Goal:* Recommended adjustment to 2050. (Section: Executive Summary, Appendix: Resilient Atlanta)
+
+- **Clean Energy Strategies:**
+  - *Goal:* Prioritize energy efficiency, renewable energy, and eliminate fossil fuel reliance. (Section: Achieving Clean Energy Community-Wide)
+
+#### Additional Considerations
+
+- **Economic Development and Equity:**
+  - Focus on creating jobs in the clean energy sector, addressing electricity burden inequalities, and ensuring fair distribution of clean energy benefits. (Section: Pathways to 100 Percent Clean Energy, Executive Summary)
+
+### Summary
+
+The plan emphasizes the reduction of CO2 emissions, increase in local solar capacity, and conducting water audits as key measurable outcomes. It sets forth ambitious goals for transitioning to 100 percent clean energy, with municipal operations initially targeted for 2025 and community-wide targets for 2035, later recommended to be adjusted to 2035 and 2050, respectively.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**          | **Details**                                                                                                                                                                                             |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Atlanta                                                                                                                                                                                                          |
-| **Population**       | Not specified in the document                                                                                                                                                                                     |
-| **Threats Identified**  | - Extreme heat events                                                                                                                                                                                          |
-|   | - Health risks from disease (e.g., mosquito, flea, and tick-borne diseases)                                                                                                                                                     |
-|   | - Ecosystem losses                                                                                                                                                                                                              |
-| **Measures Identified** | - Enactment of Clean Energy Resolution                                                                                                                                                                          |
-|   | - Target of 100% clean energy transition by 2025 for municipal operations and by 2035 community-wide                                                                                                                            |
-|   | - Establishment of the Mayor’s Office of Resilience                                                                                                                                                                              |
-|   | - Energy efficiency upgrades to municipal buildings                                                                                                                                                                             |
-|   | - Adoption of alternative fuel vehicles and infrastructure                                                                                                                                                                      |
-|   | - Implementation of the Atlanta Better Buildings Challenge                                                                                                                                                                       |
-|   | - Passage of the largest municipal Property Assessed Clean Energy Financing program                                                                                                                                              |
-|   | - Development of large-scale efficiency and capital upgrades in municipal sites                                                                                                                                                  |
-|   | - Creation of the first municipal Solar Energy Procurement Agreement in Georgia                                                                                                                                                 |
-|   | - Emphasis on stakeholder engagement, equity, economic development, and clean energy education                                                                                                                                  |
-|   | - Biennial review of Clean Energy Atlanta Plan to adjust goals based on progress                                                                                                                                               |
+| **Feature**        | **Details**                                                                                                                                                                                                                       |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | Atlanta                                                                                                                                                                                                                       |
+| **Population**     | Not explicitly mentioned in the provided content.                                                                                                                                                                                 |
+| **Threats Identified** | - **Extreme Heat Events**: Atlanta ranks third nationally for increases in the urban heat island effect. <br>- **Health Risks**: Increasing diseases transmitted by mosquitoes, fleas, and ticks. <br>- **Ecosystem Losses**: Ranking first for impacts on the tree canopy. |
+| **Measures Identified** | - **Clean Energy Transition**: Pledge to achieve 100% clean energy by 2025 for municipal operations and by 2035 community-wide. <br>- **Policy Initiatives**: Implementing the Atlanta Better Buildings Challenge and Commercial Buildings Energy & Water Efficiency Ordinance. <br>- **Infrastructure Improvements**: Adoption of alternative fuel vehicles and the installation of solar panels on municipal buildings. <br>- **Community Engagement**: Engaging over 3,500 local stakeholders in the planning process.                                                                               |
 ```
+

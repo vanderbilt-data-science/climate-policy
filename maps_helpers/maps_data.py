@@ -156,22 +156,22 @@ def load_and_merge_caps_county(counties_gdf):
     caps_df = pd.read_csv("caps_plans.csv")
     mapping_df = pd.read_csv("city_county_mapping.csv")
     caps_df["State"] = caps_df["State"].str.strip().str.upper()
-    mapping_df["CountyKey"] = mapping_df["CountyName"].apply(
+    mapping_df["CountyKey"] = mapping_df["County"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip()
     )
     merged_caps = pd.merge(
         caps_df, mapping_df, 
         left_on=["City", "State"], 
-        right_on=["CityName", "StateName"], 
+        right_on=["City", "State"], 
         how="left"
     )
     merged_caps["plan_info"] = merged_caps.apply(
         lambda row: f"{row['City']}, {row['Year']}, {row['Plan Type']}", axis=1
     )
-    merged_caps["CountyKey"] = merged_caps["CountyName"].apply(
+    merged_caps["CountyKey"] = merged_caps["County"].apply(
         lambda x: x.upper().split(',')[0].replace(" COUNTY", "").strip() if pd.notnull(x) else None
     )
-    grouped = merged_caps.groupby(["CountyKey", "StateName"]).agg(
+    grouped = merged_caps.groupby(["CountyKey", "State"]).agg(
         n_caps=("Plan Type", "count"),
         plan_list=("plan_info", lambda x: list(x))
     ).reset_index()
@@ -182,7 +182,7 @@ def load_and_merge_caps_county(counties_gdf):
     merged_counties = counties_gdf.merge(
         grouped, 
         left_on=["CountyKey", "STATE"], 
-        right_on=["CountyKey", "StateName"], 
+        right_on=["CountyKey", "State"], 
         how="left"
     )
     merged_counties["n_caps"] = merged_counties["n_caps"].fillna(0).astype(int)
@@ -198,8 +198,8 @@ def load_and_merge_caps_county(counties_gdf):
 def load_city_mapping():
     """Load the city mapping CSV for marker locations."""
     df = pd.read_csv("city_county_mapping.csv")
-    df["CityName"] = df["CityName"].str.strip()
-    df["StateName"] = df["StateName"].str.strip().str.upper()
+    df["City"] = df["City"].str.strip()
+    df["State"] = df["State"].str.strip().str.upper()
     df["Latitude"] = pd.to_numeric(df["Latitude"], errors="coerce")
     df["Longitude"] = pd.to_numeric(df["Longitude"], errors="coerce")
     return df

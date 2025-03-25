@@ -14,6 +14,7 @@ def process_pdf(api_key, pdf_path):
     os.environ["OPENAI_API_KEY"] = api_key
     questions_path = "./Prompts/summary_tool_questions.md"
     prompt_path = "./Prompts/summary_tool_system_prompt.md"
+    
     with open(pdf_path, "rb") as file:
         with NamedTemporaryFile(delete=False, suffix=".pdf") as temp_pdf:
             temp_pdf.write(file.read())
@@ -57,7 +58,6 @@ def process_pdf(api_key, pdf_path):
     for question in questions:
         result = rag_chain.invoke({"input": question})
         answer = result["answer"]
-
         qa_text = f"### Question: {question}\n**Answer:**\n{answer}\n"
         qa_results.append(qa_text)
 
@@ -76,9 +76,13 @@ if __name__ == "__main__":
         results = process_pdf(args.api_key, args.pdf_path)
         markdown_text = "\n".join(results)
 
+        # Define and create the output directory if it doesn't exist
+        output_folder = "CAPS_Summaries"
+        os.makedirs(output_folder, exist_ok=True)
+        
         # Save the results to a Markdown file
         base_name = os.path.splitext(os.path.basename(args.pdf_path))[0]
-        output_file_path = f"CAPS_Summaries/{base_name}_Summary.md"
+        output_file_path = os.path.join(output_folder, f"{base_name}_Summary.md")
         with open(output_file_path, "w") as output_file:
             output_file.write(markdown_text)
 

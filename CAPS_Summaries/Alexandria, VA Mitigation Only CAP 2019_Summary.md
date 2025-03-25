@@ -1,355 +1,411 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction Overview**
+Based on the provided plan content, here is the description of the jurisdiction's physical and economic landscape:
 
-- **Name:** City of Alexandria
-- **Location:** Alexandria, Virginia, United States
+### **Planning Jurisdiction**
+- **Name:** Alexandria
+- **Location:** Commonwealth of Virginia, United States
 
-**Population and Demographics**
-- **Population:** Approximately 150,000 residents
-- **Demographics:** Alexandria is a culturally diverse community.
+### **Population and Demographics**
+- The document does not specify demographics, average income, or detailed population statistics, but mentions Alexandria as "a highly mobile, culturally diverse community of approximately 150,000 residents."
 
-**Economic Landscape**
-- The city's economy is supported by a vibrant community where social well-being is bolstered by a strong economy and a healthy environment.
+### **Geographic Features**
+- **Major Geographic Features:** 
+  - Alexandria is characterized by its "historic charm and roots as a river town," indicating the presence of a waterfront which is likely the Potomac River. 
+  - The city is noted for its "unique neighborhoods and urban villages."
+- There are no specific mentions of mountains, deserts, or coastlines within the content provided.
 
-**Geographic Features**
-- Alexandria is described as a river town with historic charm that includes a waterfront. The plan does not specify mountains, deserts, or coastline apart from the river.
-  
-**Infrastructure**
-- The city promotes infrastructure that contributes to sustainability, such as tree-lined streets, high-efficiency LED traffic lights, bikeshare stations, and amenities within walking distances.
-- Specific details about airports or seaports are not mentioned in the provided excerpts.
+### **Key Infrastructure**
+- **Transportation Infrastructure:**
+  - Abundant transit options are highlighted, including "bikeshare stations" and "amenities within walking distances."
+  - Mention of "metro subway, rail, and air travel" suggests robust public and regional transportation systems.
+- **Seaports:** The document notes improvements to the waterfront in Alexandria, but does not specify the presence of a seaport.
 
-**Local Climate and Water Challenges**
-- Alexandria faces challenges indicated by phenomena like "increased carbon dioxide in the atmosphere, extreme weather events, rising coastal waters, and record-breaking rainfall and high temperatures."
+### **Local Climate and Water Challenges**
+- The document recognizes the urgency of addressing climate impacts due to "extreme weather events, rising coastal waters, and record-breaking rainfall and high temperatures," indicating challenges related to local climate conditions.
+- No specific mention of aridity, but the challenges of reducing stormwater runoff and improving water quality are highlighted.
 
-**Energy Production and Natural Resources**
-- Current energy production is limited with "the electric grid provided by the City’s utility supplier currently about 3 percent renewable generation."
-- There is a significant need for "a significant increase in the renewable energy portion of the electrical distribution."
+### **Energy and Natural Resources**
+- **Energy Production and Transition:**
+  - The electric grid provider's energy is currently about 3 percent renewable generation. 
+  - There is a call for increasing the renewable energy share significantly as part of emission reduction targets.
+- **Natural Resources:** While specific resources like forests or mineral deposits are not detailed, the emphasis on increasing renewable resources and improving energy infrastructure suggests a focus on sustainable development.
 
-**Economic Drivers**
-- Key economic activities highlighted in the plan include sustainable development and reducing utility costs, especially in affordable housing, through energy-efficient buildings.
-- There are challenges like "fiscal constraints of budget and staff resources," pointing to the need for strategic financial planning including "incentives, solar bulk pricing, Commercial Property Assessed Clean Energy (C-PACE), grants, local partnerships, state and federal funding."
+### **Industries and Economic Drivers**
+- Emphasis is placed on improving "energy efficiency," "stormwater management," and supporting "sustainable economic development."
+- The plan includes actions to reduce greenhouse gas emissions and to promote more sustainable and energy-efficient building practices, suggesting a focus on green technology and sustainable development as economic drivers.
+- No specific industries or economic sectors are outlined, but the focus on resilience and sustainability points to long-term strategic economic planning.
 
-The document leverages Alexandria's identity as a historic and economically productive city while emphasizing sustainability and efforts to maintain and enhance its community and environmental resources.
+This summary encapsulates the physical and economic landscape as described in the plan, highlighting Alexandria's commitment to sustainability and resilience in its development and infrastructure.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Resilience**
+**Resilience:**
+The plan includes steps to enhance community resilience by establishing a multidisciplinary task force to guide energy and climate change action plans and updating the Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP) to include infrastructure resiliency. The plan recognizes the need to be prepared for environmental emergencies, shelter, potable water, and local emergency power planning. It states, "By FY2028, update the City’s Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP) to include infrastructure resiliency." (*Environmental Action Plan 2040, Climate Change, Mid-Term Actions*)
 
-The plan mentions resilience explicitly in several contexts, focusing on the city's preparedness to respond to the impacts of climate change and environmental emergencies. The plan highlights the need to update City plans, such as the Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP), to include infrastructure resilience by FY2028. It also emphasizes creating a multidisciplinary task force to identify opportunities for climate adaptation policies and practices, which indicates a focus on building resilience (Environmental Action Plan 2040 / Chapter: Climate Change, SHORT-TERM & MID-TERM ACTIONS).
+**Mitigation:**
+The plan places a strong emphasis on reducing GHG emissions, with targets to reduce emissions by 50% by 2030 and 80-100% by 2050, with the aim of carbon neutrality. Key strategies include transitioning to renewable energy, reducing fossil fuel consumption, and improving energy efficiency across city operations and private sectors. The plan outlines, "The City target is to reduce emissions by 50 percent by 2030 (base year 2005) and to approach net zero or carbon neutral, an 80–100 percent reduction by 2050." (*Environmental Action Plan 2040, Climate Change*)
 
-**Mitigation**
+**Adaptation:**
+The plan addresses adaptation by planning to complete a climate vulnerability assessment by FY2024. This assessment will evaluate the vulnerabilities and risks to city infrastructure and community systems due to changing climate conditions. The actions include, "Evaluate the vulnerabilities and risks to the City and community’s financial and social-welfare resulting from changing climate conditions." (*Environmental Action Plan 2040, Climate Change, Mid-Term Actions*)
 
-Mitigation is a significant component of the plan, with clear targets set to reduce community-wide GHG emissions by 50 percent by FY2030 and 80-100 percent by FY2050 compared to the base year 2005. The plan details short, mid, and long-term actions to increase energy efficiency in buildings, reduce vehicular emissions, transition from fossil fuels to renewable energy, and promote sustainability among Alexandria residents and businesses (Environmental Action Plan 2040 / Chapter: Climate Change, GOAL, TARGET, and SHORT-TERM ACTIONS).
-
-**Adaptation**
-
-Adaptation is addressed by recognizing the need for a comprehensive climate vulnerability assessment of community and infrastructure systems by FY2024. The plan includes identifying the vulnerabilities and risks presented by changing climate conditions. By 2026, through updating the Energy and Climate Action Plan, the city aims to enhance its policies and programs to support energy efficiency and renewable energy. Adaptation strategies are intertwined with resilience initiatives to ensure both infrastructure and community systems can withstand environmental emergencies (Environmental Action Plan 2040 / Chapter: Climate Change, MID-TERM ACTIONS).
-
-**Plan Classification**
-
-Given the extensive focus on both reducing GHG emissions (mitigation) and preparing for climate impacts and emergencies (adaptation and resilience), the plan can be classified as an **equal mitigation and adaptation climate action plan**. The plan balances both mitigation and adaptation strategies by setting specific targets for emissions reduction while also planning for adaptation and resilience through infrastructure updates and policy revisions.
+**Classification:**
+Based on the information provided, the plan can be classified as an **equal mitigation and adaptation climate action plan.** It addresses both mitigation and adaptation equally by including comprehensive strategies to reduce GHG emissions and prepare the community and infrastructure for climate impacts.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan does describe a scenario of climate change that the planning jurisdiction will face. The city recognizes "the urgent need for City-wide environmental planning because of the changing climate as indicated by increased carbon dioxide in the atmosphere, extreme weather events, rising coastal waters, and record-breaking rainfall and high temperatures." (*Urgency*). Additionally, as a tidal riverfront city, "Alexandria is particularly vulnerable to the real and urgent threats of climate change," and "Old Town is already regularly subject to tidal and weather-related localized flooding that affects the wellbeing of the City." (*Climate Change* section introduction).
+Yes, the plan describes a scenario of climate change that the planning jurisdiction, the City of Alexandria, will face and is planning for. The plan mentions the following climate change impacts and scenarios:
 
-The plan outlines the challenges of achieving significant emissions reductions and highlights the city's susceptibility to rising sea levels, increased intensity and frequency of storms, and the impact these have on public safety and localized flooding. These factors necessitate resiliency planning and adaptations at the waterfront and elsewhere. (*Introduction*Challenges* and *Climate Change* section introduction).
+- **Increased Greenhouse Gas Concentrations**: "The carbon dioxide (CO2) measurement reached 415 parts per million (ppm) in the atmosphere in May 2019 (Mauna Loa Observatory in Hawaii)." This indicates how humans are changing the climate.
 
-Furthermore, the plan details the need for "resiliency planning and adaptations at the waterfront and elsewhere, along with emergency operations," indicating the importance of emergency preparedness in response to potential climate impacts. (*Climate Change* section introduction).
+- **Rising Sea Levels and Increased Storms**: "Rising sea levels and the increased frequency and intensity of storms will make localized flooding a more significant issue, impacting public safety, private property, and businesses."
+
+- **Localized Flooding**: "Old Town is already regularly subject to tidal and weather-related localized flooding that affects the wellbeing of the City."
+
+- **Urgency of Mitigation Strategies**: The plan emphasizes the urgency to "reduce carbon emissions in all sectors" as a key mitigation strategy due to the vulnerability of Alexandria as a tidal riverfront city.
+
+- **Economic and social vulnerabilities due to climate change**: The plan identifies significant challenges and vulnerabilities posed by "extreme weather events, rising coastal waters, and record-breaking rainfall and high temperatures."
+
+These scenarios necessitate resilience, mitigation, and adaptation policies to address the real and urgent climate change threats facing Alexandria.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-1. **Rising Sea Levels and Increased Storm Intensity**
-   - **Climate Hazard:** Rising sea levels and the increased frequency and intensity of storms are identified as significant climate hazards for the planning jurisdiction, which is a tidal riverfront city.
-   - **Climate Risks:** These changes will exacerbate localized flooding, impacting public safety, private property, and businesses. 
-   - **Vulnerable Areas/Populations:** Old Town is highlighted as being particularly vulnerable as it is already regularly subject to tidal and weather-related localized flooding. 
-   > "As a tidal riverfront city, Alexandria is particularly vulnerable to the real and urgent threats of climate change. Old Town is already regularly subject to tidal and weather-related localized flooding that affects the wellbeing of the City." (*Climate Change*)
+1. **Rising Sea Levels**
+   1. *Description of the Climate Hazard:* The plan identifies "rising sea levels" as a hazard due to climate change, impacting the planning jurisdiction as it is a tidal riverfront city ("Climate Change" section).
+   2. *Climate Risks Posed:* The rising sea levels increase the risk of "localized flooding," which poses a threat to public safety, private property, and businesses.
+   3. *Areas or Populations with the Most Vulnerability:* Old Town is particularly vulnerable due to being a tidal and weather-related localized flooding area.
 
 2. **Extreme Weather Events**
-   - **Climate Hazard:** The plan mentions the changing climate indicated by increased carbon dioxide in the atmosphere, leading to extreme weather events.
-   - **Climate Risks:** Extreme weather events contribute to environmental emergencies and pose risks to infrastructure and community systems' ability to respond effectively during such situations. 
-   - **Vulnerable Areas/Populations:** The plan does not detail specific populations or areas but implies that community and infrastructure systems need to be evaluated for vulnerabilities and risks.
-   > "The City recognizes the urgent need for City-wide environmental planning because of the changing climate as indicated by increased carbon dioxide in the atmosphere, extreme weather events, rising coastal waters, and record-breaking rainfall and high temperatures." (*Preface*)
+   1. *Description of the Climate Hazard:* The plan acknowledges the impact of "extreme weather events" as a result of changing climate conditions.
+   2. *Climate Risks Posed:* Such events can lead to environmental emergencies, affecting infrastructure and community systems' ability to respond during emergencies.
+   3. *Areas or Populations with the Most Vulnerability:* Critical infrastructure and community systems are evaluated for their vulnerabilities to respond during such emergencies.
+
+3. **Increased Frequency and Severity of Storms**
+   1. *Description of the Climate Hazard:* The plan describes an increase in the frequency and intensity of storms as a climate hazard.
+   2. *Climate Risks Posed:* This leads to more significant issues of flooding, impacting public safety, property, and businesses.
+   3. *Areas or Populations with the Most Vulnerability:* Coastal and waterfront areas are particularly vulnerable.
+
+4. **High Temperatures**
+   1. *Description of the Climate Hazard:* The plan notes "record-breaking high temperatures" as part of the changing climate.
+   2. *Climate Risks Posed:* These high temperatures can exacerbate health problems, particularly in vulnerable population groups.
+   3. *Areas or Populations with the Most Vulnerability:* The document does not specify particular areas or populations vulnerable to high temperatures but implies that the general public health is a concern. 
+
+5. **Carbon Dioxide Levels**
+   1. *Description of the Climate Hazard:* Increasing "carbon dioxide in the atmosphere" is highlighted as a major concern.
+   2. *Climate Risks Posed:* CO₂ levels correlate with global temperature increases and ocean acidification, impacting the climate.
+   3. *Areas or Populations with the Most Vulnerability:* The plan suggests that this is a broad hazard affecting various sectors, as indicated in "carbon dioxide equivalent (CO2e) graphic" though specific populations are not detailed.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-### Resilience Options Identified in the Plan
+**Resilience Options Identified in the Plan**
 
 1. **Climate Vulnerability Assessment of Community and Infrastructure Systems**
-   - **Climate Threat Addressed:** Changing climate conditions affecting community and infrastructure systems.
-   - **Details:**
-     - **Cost:** Estimated at $100,000.
-     - **Timeframe:** To be completed by FY2024.
-     - **Location:** Citywide.
-     - **Additional Information:** This assessment will evaluate vulnerabilities and risks to the City's financial and social welfare resulting from climate changes. It will also examine the ability of critical infrastructure and community systems to respond to environmental emergencies. (*Section: 1.1.4*)
-     
-2. **Update Emergency Operations and Continuity of Operations Plans**
-   - **Climate Threat Addressed:** Environmental emergencies requiring infrastructure resiliency.
-   - **Details:**
-     - **Cost:** Estimated at $100,000.
-     - **Timeframe:** Updated by FY2028.
-     - **Location:** Citywide.
-     - **Additional Information:** This involves identifying infrastructure in the city to respond to emergencies, providing shelter, potable water, and local emergency power planning. (*Section: 1.1.6*)
-     
-3. **Develop Infrastructure for Response to Environmental Emergencies**
-   - **Climate Threat Addressed:** Shelter, potable water, and local emergency power planning during environmental emergencies.
-   - **Details:**
-     - **Cost:** Included in the $100,000 estimate for updating the EOP and COOP.
-     - **Timeframe:** By FY2028.
-     - **Location:** Citywide designated locations to serve during emergencies.
-     - **Additional Information:** Key to ensuring community safety and preparedness in the face of climate threats. (*Section: 1.1.6*)
-     
-4. **State-Level Legislative and Regulatory Engagement Strategy**
-   - **Climate Threat Addressed:** GHG emissions from community energy use and adaptation needs.
-   - **Details:**
-     - **Cost:** $100,000 for strategy development plus $25,000 per year for staffing or technical support.
-     - **Timeframe:** To be developed by FY2024 with ongoing support.
-     - **Location:** State-level regulatory bodies and within community.
-     - **Additional Information:** This strategy will identify and support policy opportunities to reduce GHG emissions and enhance climate adaptation and resiliency. (*Section: 1.1.7*)
+   - **Climate Threat Addressed:** Evaluates vulnerabilities and risks to the City's financial and social-welfare resulting from changing climate conditions, including critical infrastructure response during environmental emergencies.
+   - **Cost, Timeframe, and Location:**
+     - Cost Estimate: $100,000
+     - Timeframe: By FY2024
+     - Location: City-wide
+     - Reference: *MID-TERM ACTIONS* section
+   - **Other Attributes:** This assessment will help identify areas in need of resilience improvements and prioritize infrastructural and community systems to reinforce against climate impacts.
 
-The plan details resilience strategies that incorporate economic, environmental, and infrastructural considerations, aiming to build a robust system capable of withstanding climate-related challenges effectively.
+2. **Update of the Energy and Climate Action Plan**
+   - **Climate Threat Addressed:** Works to support energy efficiency, electrification transition, and potential renewable energy supply to offset community electricity use.
+   - **Cost, Timeframe, and Location:**
+     - Cost Estimate: $100,000
+     - Timeframe: By FY2026
+     - Location: City-wide, with local and regional coordination
+     - Reference: *MID-TERM ACTIONS* section
+   - **Other Attributes:** This update aims at reducing reliance on fossil fuels, increasing renewable energy use, and potentially mitigating economic impacts of energy transition.
+
+3. **Update of the City’s Emergency Operations and Continuity of Operations Plan**
+   - **Climate Threat Addressed:** Ensures infrastructure resiliency to respond to environmental emergencies such as providing shelter, potable water, and local emergency power.
+   - **Cost, Timeframe, and Location:**
+     - Cost Estimate: $100,000
+     - Timeframe: By FY2028
+     - Location: City-wide
+     - Reference: *MID-TERM ACTIONS* section
+   - **Other Attributes:** Enhancements focus on ensuring public safety, improving local response capabilities and protecting infrastructure during emergencies.
+
+4. **Legislative and Regulatory Engagement Strategy**
+   - **Climate Threat Addressed:** Aims to reduce GHG emissions associated with community energy use and improve climate adaptation and resiliency.
+   - **Cost, Timeframe, and Location:**
+     - Cost Estimate: $100,000 strategy development + $25,000/year for implementation support
+     - Timeframe: By FY2024
+     - Location: State-level policy engagement
+     - Reference: *MID-TERM ACTIONS* section
+   - **Other Attributes:** This strategy seeks to facilitate policy opportunities, implicate economic incentives, and align with broader legislative frameworks to ensure long-term climate resiliency across different sectors.
+   
+These resilience options collectively address various climate threats by preparing cities for changing conditions, improving infrastructural defenses, and aligning policies with climate goals.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options aimed at reducing greenhouse gas (GHG) emissions and enhancing energy efficiency. Here is a summary of each option, including cost, timing, location, and other important attributes:
+The plan identifies several mitigation options aimed at reducing greenhouse gas emissions and enhancing energy efficiency within the community. Below is a summary of each mitigation option, including information on cost, timing, location, and other important attributes:
 
-1. **Energy and Climate Action Plan Update:**
-   - **Cost:** $100,000
-   - **Timing:** By FY2026
-   - **Attributes:** Includes evaluating the benefits, feasibility, and timing of policies to support energy efficiency retrofits and electrification transition from fossil fuels. The plan will also consider the potential implementation of renewable energy sources. 
-   - **Citation:** *1.1.5 By FY2026, update Energy and Climate Action Plan...*
+### **1. Community Energy Model Development**
+- **Timing:** By FY2024
+- **Location:** Community-wide
+- **Cost Estimate:** $100,000 initial + $10,000–$20,000/year for updates
+- **Cost Breakdown:** Consultant engagement and community energy model development are estimated to be about $100,000. Annual updates are estimated to be $10,000–$20,000 per year.
+- **Attributes:** This model is intended to track energy use and greenhouse gas reductions by various energy efficiency and renewable energy programs. It should reflect electrification transitions, mobility alternatives, and provide forecasts until at least 2040, catering to various scenarios (2.3.4 Mid-Term Actions).
 
-2. **Climate Vulnerability Assessment:**
-   - **Cost:** $100,000
-   - **Timing:** By FY2024
-   - **Attributes:** Assess vulnerabilities and risks related to climate impacts on community infrastructure and systems, aiming to enhance resilience and adaptation.
-   - **Citation:** *1.1.4 By FY2024, complete a climate vulnerability assessment...*
+### **2. Energy Efficiency Strategies in City Facilities**
+- **Timing:** By FY2035
+- **Location:** City facilities and operations
+- **Cost Estimate:** $2,000,000–$4,000,000/year
+- **Cost Breakdown:** Assumes investing in energy efficiency actions covering non-lighting systems, including HVAC and hot water, with whole-system redesign and replacement. Costs account for actions with a simple payback ranging from 14 – 21 years.
+- **Attributes:** The goal is to reduce energy use by a minimum of 50 percent over FY2018 usage (2.2.7 Long-Term Actions).
 
-3. **State-Level Legislative and Regulatory Strategy:**
-   - **Cost:** $100,000 for strategy development and $25,000/year for staffing or technical support
-   - **Timing:** By FY2024
-   - **Attributes:** Aimed at reducing GHG emissions through legislative and regulatory engagement.
-   - **Citation:** *1.1.7 By FY2024, develop and implement a state-level legislative and regulatory engagement strategy...*
+### **3. Electrification of City Vehicle Fleets**
+- **Timing:** By FY2040
+- **Location:** City fleets including ACPS, DASH, rapid transit routes, heavy-duty equipment, and vehicles
+- **Cost Estimate:** Not available at this time
+- **Attributes:** The option involves implementing electrification of all non-electric City vehicle fleets and includes providing necessary EV charging infrastructure. Hybrids may be used as an interim solution (2.2.8 Long-Term Actions).
 
-4. **Participation in State-Level Policy and Regulatory Activities:**
-   - **Cost:** One full-time equivalent (FTE) at $200,000 per year; possible additional costs ranging from $50,000 to $500,000 per year for external support.
-   - **Timing:** By FY2019
-   - **Attributes:** This involves identifying opportunities to reduce GHG emissions related to community energy use.
-   - **Citation:** *2.3.1 By FY2019, expand participation in state-level policy and regulatory activities...*
+### **4. Community Energy Efficiency Programs**
+- **Timing:** By FY2040
+- **Location:** Community-wide
+- **Cost Estimate:** $100,000–$10 million+/year
+- **Cost Breakdown:** Depends on the scope of the programs. On the low end, $100,000 for program administration costs up to $10 million+ if financial incentives or related investments are offered.
+- **Attributes:** Policies and programs are to support a "full suite" of community energy efficiency initiatives, the transition from fossil fuels, and community renewable energy supply (2.3.5 Long-Term Actions).
 
-5. **Commercial Property Assessed Clean Energy (C-PACE) Program:**
-   - **Cost:** $75,000
-   - **Timing:** By FY2020
-   - **Attributes:** Supports sustainable development and energy efficiency efforts.
-   - **Citation:** *2.3.2 By FY2020, adopt an ordinance that implements a C-PACE program...*
+### **5. Electric Vehicle Charging Infrastructure**
+- **Timing:** By FY2029
+- **Location:** Community-wide
+- **Cost Estimate:** Costs will be developed upon the completion of the electric vehicle charging infrastructure strategy.
+- **Attributes:** This involves implementing and supporting publicly-accessible electric vehicle charging infrastructure backed by renewable energy sources (2.3.6 Long-Term Actions).
 
-6. **Electric Vehicle Charging Infrastructure Strategy:**
-   - **Cost:** $100,000
-   - **Timing:** By FY2020
-   - **Attributes:** Develops a strategy for community electric vehicle charging infrastructure.
-   - **Citation:** *2.3.3 By FY2020, develop a strategy for community electric vehicle charging infrastructure...*
+### **6. Legislative and Regulatory Engagement Strategy**
+- **Timing:** By FY2024
+- **Location:** State-level
+- **Cost Estimate:** $100,000 strategy development + $25,000/year
+- **Cost Breakdown:** $75,000–$100,000 estimated for consultant engagement and strategy development, plus $25,000 yearly for staffing or technical support.
+- **Attributes:** Develop and implement a strategy to influence state legislation and regulations to support GHG emissions reduction and climate adaptation (1.1.7 Mid-Term Actions).
 
-7. **Community Energy Efficiency and Renewable Supply Programs:**
-   - **Cost:** $100,000–$10 million+/year
-   - **Timing:** By FY2040
-   - **Attributes:** Involves the implementation of comprehensive energy efficiency and renewable supply programs.
-   - **Citation:** *2.3.5 By FY2040, implement policies and programs to support...*
-
-8. **Publicly-Accessible Electric Vehicle Charging Infrastructure Support:**
-   - **Cost:** Not specified, will be developed after strategy completion.
-   - **Timing:** By FY2029
-   - **Attributes:** Support for electric vehicle infrastructure powered by renewable energy.
-   - **Citation:** *2.3.6 By FY2029, implement and support implementation of a publicly-accessible electric vehicle charging infrastructure...*
+These mitigation options collectively address energy efficiency, infrastructure electrification, regulatory engagement, and community-wide energy management, showcasing a comprehensive approach to reducing emissions and enhancing sustainability within the planning jurisdiction.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Mitigation Options Identified in the Plan:**
+### Identified Mitigation Options
 
-1. **Community Energy Use Reduction**
-   - **Target:** Reduce GHG emissions to specific targets by specified years from a FY2005 base year.
-   - **Timeframe:** Reduction to 10 metric tons CO₂e per capita by FY2022, 6 by FY2030, 4 by FY2040, and 1-3 by FY2050.
-   - **Attributes:** Includes reducing community energy consumption and intervening in utility processes.
-   - **Cost:** One full-time equivalent (FTE) at $200,000 per year, with potential additional costs between $50,000 to $500,000 per year for legal and technical support (Chapter 2.3.1).
+The plan outlines several mitigation options aimed at reducing greenhouse gas (GHG) emissions and enhancing energy efficiency. Here are the identified options along with the associated details concerning cost, timeframe, location, and other attributes:
 
-2. **Commercial Property Assessed Clean Energy (C-PACE) Program**
-   - **Timeframe:** Implement by FY2020.
-   - **Attributes:** Supports sustainable economic development through energy retrofit financing.
-   - **Cost:** $75,000 for implementation, operation by an external administrator (Chapter 2.3.2).
+#### 1. **Participation in State-level Policy and Regulatory Activities**
+- **Description**: Expand participation in activities to identify and create opportunities for reducing GHG emissions related to community energy use.
+- **Cost**: One full-time equivalent (FTE) at $200,000 per year, with additional costs ranging from $50,000 to $500,000 per year for specialized legal or technical support.
+- **Timeframe**: By FY2019.
+- **Location**: State-level engagement.
 
-3. **Community Electric Vehicle Charging Infrastructure**
-   - **Timeframe:** Develop strategy by FY2020.
-   - **Attributes:** Infrastructure planning for electric vehicle infrastructure.
-   - **Cost:** $100,000 estimated for consultant engagement (Chapter 2.3.3).
+#### 2. **Implementation of Commercial Property Assessed Clean Energy (C-PACE) Program**
+- **Description**: Adopt an ordinance to support sustainable economic development through a C-PACE program.
+- **Cost**: $75,000, with 75% for program implementation and 25% for ongoing operation.
+- **Timeframe**: By FY2020.
+- **Location**: Citywide.
 
-4. **Energy Efficiency and Electrification**
-   - **Timeframe:** Implement policies and programs by FY2040.
-   - **Attributes:** Support programs for energy efficiency, building electrification, and renewable energy supply.
-   - **Cost:** $100,000 to $10 million+ per year, depending on program scope (Chapter 2.3.5).
+#### 3. **Community Electric Vehicle Charging Infrastructure Strategy**
+- **Description**: Develop a strategy for electric vehicle charging infrastructure.
+- **Cost**: $100,000 for consultant engagement and strategy development.
+- **Timeframe**: By FY2020.
+- **Location**: Citywide.
 
-5. **Public Electric Vehicle Charging Infrastructure**
-   - **Timeframe:** Complete by FY2029.
-   - **Attributes:** Infrastructure supported by renewable energy.
-   - **Cost:** Cost developed upon strategy completion (Chapter 2.3.6).
+#### 4. **Energy Efficiency Programs and Building Electrification**
+- **Description**: Implement a full suite of community energy efficiency programs, building electrification, transition from fossil fuels, and renewable energy supply.
+- **Cost**: $100,000 to over $10 million per year, depending on program scope.
+- **Timeframe**: By FY2040.
+- **Location**: Community-wide.
 
-6. **City Facilities Energy Efficiency**
-   - **Timeframe:** By FY2035.
-   - **Attributes:** Reduce City facilities' energy use by 50% over FY2018 levels.
-   - **Cost:** $2 million to $4 million per year, focusing on non-lighting systems (Chapter 2.2.7).
+#### 5. **Electric Vehicle Charging Infrastructure Supported by Renewable Energy**
+- **Description**: Support the implementation of publicly accessible electric vehicle charging infrastructure.
+- **Cost**: TBD; detailed costs to be developed.
+- **Timeframe**: By FY2029.
+- **Location**: Citywide, with a focus on public access.
 
-7. **Electrification of City Vehicle Fleets**
-   - **Timeframe:** By FY2040.
-   - **Attributes:** Convert all non-electric City fleets, interim use of hybrids.
-   - **Cost:** Not currently available, rapid tech change noted, with a $50,000 study for solid waste vehicles identified (Chapter 2.2.8).
+#### 6. **Community Energy Model Development**
+- **Description**: Develop a model to track energy use and GHG reductions and to optimize community energy use.
+- **Cost**: $100,000 initially plus $10,000 to $20,000 per year for updates.
+- **Timeframe**: By FY2024.
+- **Location**: Citywide.
 
-**Cost, timeframe, and attributes are critical factors highlighted for each option focusing on infrastructure, legal intervention, and incentives for energy transition.**
+#### 7. **Energy Efficiency Strategies in City Facilities**
+- **Description**: Implement strategies to reduce energy use by at least 50% over FY2018 usage in City facilities and operations.
+- **Cost**: $2 million to $4 million per year.
+- **Timeframe**: By FY2035.
+- **Location**: City facilities.
+
+#### 8. **Electrification of Non-electric City Vehicle Fleets**
+- **Description**: Transition City vehicle fleets, including public transit, to electric with required charging infrastructure.
+- **Cost**: Not available; $50,000 for a consultant study on solid waste vehicles.
+- **Timeframe**: By FY2040.
+- **Location**: Citywide.
+
+### Additional Attributes
+
+- **Synergies**: These mitigation actions are interconnected, with potential additive benefits across various sectors, such as transportation, energy efficiency, and environmental health.
+- **Targets**: Contribute toward the City's GHG emission reduction targets to reduce emissions by 50% by FY2030 and 80–100% by FY2050 from a FY2005 base year.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-Based on the provided document, here are the adaptation options identified in the plan along with their summaries:
+The plan identifies several adaptation options to address climate threats. Each option is detailed with its corresponding attributes:
 
-1. **Climate Vulnerability Assessment**
-   - **Climate Threat Addressed:** The assessment aims to evaluate vulnerabilities and risks due to changing climate conditions affecting the community and infrastructure systems.
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Cost Estimate:** $100,000
-     - **Timeframe:** By FY2024
-     - **Attributes:** This involves a consultant engagement and strategy development costing between $75,000 and $100,000. It focuses on evaluating the vulnerabilities and risks to the City's financial and social welfare and the community's infrastructure and ability to respond to environmental emergencies. *(Section 1.1.4)*
+1. **Climate Vulnerability Assessment (Mid-Term Action 1.1.4)**
+   - **Climate Threat Addressed:** Evaluates vulnerabilities and risks to the City's financial and social welfare, particularly focusing on critical infrastructure and community systems during environmental emergencies.
+   - **Cost:** Estimated at $100,000.
+   - **Timeframe:** To be completed by FY2024.
+   - **Important Attributes:** Includes evaluating the city's ability to respond during environmental emergencies, involving consultant engagement and strategy development estimated between $75,000 and $100,000.
+   - **Citation:** *"By FY2024, complete a climate vulnerability assessment of community and infrastructure systems."*
 
-2. **Update the Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP)**
-   - **Climate Threat Addressed:** Infrastructure resilience during environmental emergencies.
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Cost Estimate:** $100,000
-     - **Timeframe:** By FY2028
-     - **Attributes:** This update includes identifying and providing infrastructure for responses such as shelters, potable water, and emergency power planning. Engagement and strategy development costs are estimated at $75,000 to $100,000. *(Section 1.1.6)*
+2. **Update Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP) (Mid-Term Action 1.1.6)**
+   - **Climate Threat Addressed:** Increases infrastructure resiliency in response to environmental emergencies.
+   - **Cost:** Estimated at $100,000.
+   - **Timeframe:** To be updated by FY2028.
+   - **Important Attributes:** Focus on providing infrastructure such as shelter, potable water, and local emergency power planning, involving consultant engagement and strategy development estimated between $75,000 and $100,000.
+   - **Citation:** *"By FY2028, update the City’s Emergency Operations Plan (EOP) and Continuity of Operations Plan (COOP) to include infrastructure resiliency."*
 
-3. **State-Level Legislative and Regulatory Engagement Strategy**
-   - **Climate Threat Addressed:** Reduction of GHG emissions associated with community energy use and climate adaptation/resiliency support.
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Cost Estimate:** $100,000 for strategy development, plus $25,000 per year
-     - **Timeframe:** By FY2024
-     - **Attributes:** Strategy development with an estimated $75,000 to $100,000 for consultant engagement and an ongoing $25,000 per year for external staffing or technical support to implement legislative and regulatory policy engagement. *(Section 1.1.7)*
+3. **Legislative and Regulatory Strategy (Mid-Term Action 1.1.7)**
+   - **Climate Threat Addressed:** Aims to reduce GHG emissions and enhance climate adaptation and resilience through state-level legislative and regulatory engagements.
+   - **Cost:** $100,000 for strategy development plus $25,000 annually.
+   - **Timeframe:** To be developed and implemented by FY2024.
+   - **Important Attributes:** External staffing or technical support estimated cost $25,000 per year, consultant engagement between $75,000 and $100,000.
+   - **Citation:** *"By FY2024, develop and implement a state-level legislative and regulatory engagement strategy."* 
 
-4. **Multidisciplinary Task Force for Energy and Climate Change Action Plan**
-   - **Climate Threat Addressed:** Climate adaptation through new and existing building energy efficiency, renewable energy production, and fossil fuel consumption curtailment.
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Cost Estimate:** $305,000
-     - **Timeframe:** By FY2021
-     - **Attributes:** The cost breakdown includes $150,000 for consultant services and $155,000 for staff support. The task force will focus on policies to achieve emission reduction targets and opportunities for climate adaptation. *(Section 1.1.1)*
+4. **Community Electric Vehicle Charging Infrastructure (Short-Term Action 2.3.3)**
+   - **Climate Threat Addressed:** Supports transition to low-carbon transportation.
+   - **Cost:** Estimated at $100,000.
+   - **Timeframe:** Strategy to be developed by FY2020.
+   - **Important Attributes:** Involves consultant engagement and strategy development estimated between $75,000 and $100,000.
+   - **Citation:** *"By FY2020, develop a strategy for community electric vehicle charging infrastructure."*
+
+Each of these adaptation options is designed to enhance the city’s resilience to the impacts of climate change by addressing specific vulnerabilities and operational challenges.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The provided document does not explicitly mention specific climate policies dedicated solely to advancing climate justice. However, there are some goals and actions outlined in the document that may have implications for climate justice indirectly through their broad focus on emissions reduction and sustainability, which can affect various communities differently.
+The plan identifies several climate policies, but specific initiatives targeting climate justice by addressing the disproportionate effects on vulnerable populations are not explicitly delineated in the sections provided. However, general themes and approaches can be extracted from the content. Here's a synthesis based on the plan:
 
-The **climate policies** indirectly contributing to climate justice include:
+### 1. Establishment of Multidisciplinary Task Force
+**Climate Threat:**
+- The task force aims to guide improvements in energy efficiency and reduce greenhouse gas emissions.
 
-1. **Reduction of Greenhouse Gas Emissions (GHG)**
-   - **Climate Threat Addressed:** The plan targets a reduction of community-wide GHG emissions by 50 percent by 2030 and 80–100 percent by 2050, responding to threats associated with global warming and climate change impacts such as extreme weather events and increased temperatures. 
-   - **Populations Affected:** While not explicitly mentioned, communities that are densely populated and those with limited resources may be more vulnerable to climate-related hazards like heatwaves and poor air quality resulting from higher GHG emissions.
+**Areas/Populations with Vulnerability:**
+- Vulnerable populations potentially include those in economically disadvantaged areas or communities heavily reliant on fossil fuels for energy, who may be impacted first by economic shifts toward renewable energy.
 
-2. **Climate Vulnerability Assessment**
-   - **Climate Threat Addressed:** This policy aims to assess the vulnerabilities and risks to the City and community’s financial and social welfare resulting from changing climate conditions.
-   - **Populations Affected:** The assessment could potentially identify vulnerable populations, such as low-income communities or those residing in flood-prone areas, that are at risk during environmental emergencies.
+**Citation:** 
+"The Energy and Climate Change Task Force will base its recommendations for improvements in energy efficiency for both new and existing private and public buildings on the Green Building Policy." (Environmental Action Plan 2040)
 
-3. **Electrification and Renewable Energy Transition**
-   - **Climate Threat Addressed:** The transition from fossil fuels and the implementation of renewable energy are targeting threats from pollution and associated health impacts as well as long-term sustainability.
-   - **Populations Affected:** The transition could alleviate the burden on communities with less access to clean energy infrastructure and reduce the health impacts related to pollution.
+### 2. Climate Vulnerability Assessment
+**Climate Threat:**
+- Evaluating vulnerabilities to climate impacts, including extreme weather events and environmental emergencies.
 
-Overall, while not explicitly targeting climate justice, these policies can influence climate justice outcomes by addressing broad climate vulnerabilities and providing avenues for equitable improvements in community resilience and energy accessibility.
+**Areas/Populations with Vulnerability:**
+- Communities living in low-lying areas like Old Town, which are susceptible to "tidal and weather-related localized flooding" that affects the wellbeing of the City.
+
+**Citation:** 
+"By FY2024, complete a climate vulnerability assessment of community and infrastructure systems. Evaluate the vulnerabilities and risks to the City and community’s financial and social-welfare resulting from changing climate conditions." (Environmental Action Plan 2040)
+
+### 3. Resiliency and Adaptation Strategies
+**Climate Threat:**
+- Addressing threats such as rising sea levels, increased storm frequency and intensity, and their impacts on public safety and property.
+
+**Areas/Populations with Vulnerability:**
+- Populations residing in areas prone to flooding and those whose properties and businesses are affected by such climate impacts.
+
+**Citation:** 
+"Reducing carbon emissions in all sectors is a key mitigation strategy. Rising sea levels and the increased frequency and intensity of storms will make localized flooding a more significant issue, impacting public safety, private property, and businesses." (Environmental Action Plan 2040)
+
+Overall, while climate justice isn't directly detailed in specific policies within the provided sections, the overarching strategies emphasize reducing emissions, enhancing infrastructure resiliency, and engaging the community to adapt to climate changes, which indirectly support equitable climate resilience efforts.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided content, the plan does not explicitly identify potential unforeseen maladaptive climate policies. However, I can infer potential areas where maladaptation might occur given the plan's goals and strategies. Here are the potential issues that could arise:
+Based strictly on the provided document, there is no explicit mention of potential unforeseen maladaptive climate policies. However, analysis can be derived based on the document's content. Here's one inferred possibility:
 
-### Potential Maladaptive Climate Policy: **Electrification and transition from fossil fuels**
-1. **Climate Threat Addressed:**
-   - The plan targets reducing greenhouse gas emissions primarily from residential and commercial buildings and transportation, which "account for 96 percent of greenhouse gas (GHG) emissions." The goal is to achieve a reduction in emissions contributing to global warming and climate change.
+### Potential Maladaptive Climate Policy: Transition to Electrification 
 
-2. **Resilience, Mitigation, or Adaptation Option:**
-   - The plan aims to support "community deep-energy efficiency retrofit programs, electrification transition from fossil fuels of existing private buildings, and potential renewable energy supply implementation locally and regionally to offset community electricity use" by mid-term (FY2026).
+1. **Climate Threat it is Addressing:**  
+   - The transition to electrification is aimed at addressing the general climate threat of greenhouse gas emissions resulting from fossil fuel-powered vehicles and buildings, which contribute to climate change.
 
-3. **Why It May Cause Inadvertent Maladaptation:**
-   - Transitioning from fossil fuels to electricity without ensuring the electricity grid is sourced from renewable energies could increase dependency on non-renewable grid electricity, particularly if it still relies significantly on fossil fuels. This reliance could inadvertently lead to increased emissions from the grid unless renewable energy infrastructure is concurrently scaled up. Additionally, electrification may require significant upfront investment, leading to fiscal constraints and potentially diverting resources from other crucial adaptation measures.
+2. **Proposed Option:**  
+   - The policy emphasizes electrification transition from fossil fuels for existing private buildings and the promotion of infrastructure for electric vehicles, as part of mid-term actions to "support community deep-energy efficiency retrofit programs" and "reduce transportation-based carbon emissions by providing infrastructure for electric vehicles" ("MID-TERM ACTIONS", "This is especially important in cities...").
 
-### Potential Maladaptive Climate Policy: **Reducing single occupant vehicle trips**
-1. **Climate Threat Addressed:**
-   - Addressing emissions from transportation to reduce the City's overall carbon footprint and improve air quality.
-
-2. **Resilience, Mitigation, or Adaptation Option:**
-   - The plan suggests "expanding low carbon options such as transit, bikes, and walking for transportation" to reduce single-occupant vehicle trips and hence, reduce carbon emissions.
-
-3. **Why It May Cause Inadvertent Maladaptation:**
-   - Potential maladaptation could occur if infrastructure changes to support increased bike lanes and pedestrian areas lead to reduced road space for necessary vehicles, causing congestion and inefficiencies in areas where transit options are insufficient. Moreover, without a comprehensive public transport enhancement plan, the shift may disproportionately impact those who rely on vehicles for commuting in areas less accessible by public transit, inadvertently affecting social equity.
-
-The analysis above is based on the inference from the document's content regarding the goals and strategic plans discussed. It is essential to consider the comprehensive context and implementation strategies to accurately assess potential maladaptive policies.
+3. **Potential Inadvertent Maladaptation:**  
+   - Such a transition can lead to maladaptation if the infrastructure for electrification, such as electric vehicle charging stations and retrofitting for energy efficiency, is not equitably distributed or accessible to all community members. This could increase vulnerability among low-income or marginalized communities who may not have access to new technology or whose housing may not easily accommodate retrofitting, thereby potentially increasing inequality and community vulnerability to climate threats. Additionally, without ensuring that the electrification grid is renewable, the policy might inadvertently shift emissions from one source (vehicles/buildings) to another (non-renewable energy grid), thus undermining the overall mitigation goals.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-**Metrics and Measurement of Success**
+### **Adaptation and Resilience Metrics**
 
-The plan outlines various performance metrics to measure the success or failure of adaptation, resilience, and mitigation options using specific units and targets:
+- **Tree Canopy Percentage:**
+  - **Target:** 40% by FY2035
+  - **Unit:** Percentage
 
-### **Climate Change and GHG Emissions**
+### **Mitigation Metrics**
 
-- **GHG Emission Reductions:** 
-  - *Target:* Reduce community-wide GHG emissions by 50% by FY2030 and 80-100% by FY2050 (base year 2005). 
-  - *Units:* Metric tons of CO2e (carbon dioxide equivalent) per capita.
-  - *Specific Targets:* Reduce emissions to at least 10 metric tons of CO2e per capita by FY2022, 6 by FY2030, 4 by FY2040, and 1-3 by FY2050. 
-  - *Source:* "Climate Change SHORT-TERM ACTIONS" and "Energy 2.3 COMMUNITY ENERGY USE GOAL."
+- **Total GHG Emission Reduction:**
+  - **Target:** 50% reduction by FY2030 and 80-100% reduction by FY2050 from the 2005 base year.
+  - **Unit:** Percentage
 
-### **Energy and City Facilities**
+- **Renewable Energy Offset for City-Owned Facilities:**
+  - **Target:** 100% by 2020
+  - **Unit:** Percentage
 
-- **Energy Efficiency:** 
-  - *Target:* Improve energy efficiency for city-owned facilities and affiliated transportation by reducing energy use by 25% by FY2027 over FY2018.
-  - *Renewable Energy Offset:* 100% by 2020.
-  - *Source:* "ENERGY" in Summary of Goals and Targets.
+- **Energy Efficiency for City-Owned Facilities and Transportation:**
+  - **Target:** Reduce by 25% by FY2027 over FY2018
+  - **Unit:** Percentage
 
-### **Transportation**
+- **Reduce GHG Emissions from Solid Waste:**
+  - **Target:** 12% reduction by FY2023 from a 2019 base year
+  - **Unit:** Percentage
 
-- **Vehicle Miles Traveled (VMT):** 
-  - *Target:* Reduce vehicle miles traveled by 1% per year by FY2023.
-- **Transportation Mode Shift:** 
-  - *Target:* Increase transit, walking, and biking by 15% over 2018 levels by FY2023.
-  - *Bus Lanes:* Double dedicated bus lanes to 1.5 miles by FY2030. 
-  - *Source:* "TRANSPORTATION" in Summary of Goals and Targets.
+### **GHG Emissions Metrics**
 
-### **Solid Waste**
+- **GHG Emissions per Capita:**
+  - **Targets:**
+    - 10 metric tons per capita by FY2022
+    - 6 metric tons per capita by FY2030
+    - 4 metric tons by FY2040
+    - 1-3 metric tons by FY2050
+  - **Unit:** Metric tons per capita (mtCO2e)
 
-- **GHG Emissions from Solid Waste:** 
-  - *Target:* Reduce GHG emissions by 12% over a 2019 base year by FY2023.
-  - *Source:* "SOLID WASTE" in Summary of Goals and Targets.
+### **Air Quality Metrics**
 
-### **Water Resources**
+- **Reduce Ozone Levels:**
+  - **Target:** Reduce to 70 ppb or lower by FY2023
+  - **Unit:** Parts per billion (ppb)
 
-- **Stormwater Phosphorus Pollution Reduction:** 
-  - *Target:* Achieve 70% reduction by FY2023 and 100% reduction by FY2025. 
-  - *Source:* "WATER RESOURCES" in Summary of Goals and Targets.
+### **Transportation Metrics**
 
-### **Air Quality**
+- **Reduce Vehicle Miles Traveled:**
+  - **Target:** 1% reduction per year by FY2023
+  - **Unit:** Percentage
 
-- **Ozone Reduction:** 
-  - *Target:* Reduce ozone levels to 70 ppb or lower by FY2023.
-  - *Units:* Parts per billion (ppb).
-  - *Source:* "AIR QUALITY" in Summary of Goals and Targets.
+- **Increase Transit, Walking, and Biking:**
+  - **Target:** Increase by 15% over 2018 by FY2023
+  - **Unit:** Percentage
 
-### **Land Use and Open Space**
+- **Increase Dedicated Bus Lanes:**
+  - **Target:** Double to 1.5 miles by FY2030
+  - **Unit:** Miles
 
-- **Tree Canopy:** 
-  - *Target:* 40% by FY2035. 
-- **Open Space Acres:** 
-  - *Target:* Maintain 7.3 acres per 1,000 residents. 
-  - *Source:* "LAND USE AND OPEN SPACE" in Summary of Goals and Targets.
+### **Water Resources Metrics**
 
-**Concrete Goals & Numerical Objectives:**
+- **Stormwater Phosphorus Pollution Reduction:**
+  - **Targets:**
+    - 70% reduction by FY2023
+    - 100% reduction by FY2025
+  - **Unit:** Percentage
 
-The plan emphasizes the importance of specific metrics and objectives, including emissions reduction targets for future fiscal years, notably a 50% reduction by FY2030 and an 80-100% reduction by FY2050. This encompassing approach with measurable outcomes allows for accountability in tracking progress towards the plan's climate goals. Adaptation actions likewise have set deadlines with associated cost estimates and necessary support outlined for each action.
+These metrics are designed to track progress and ensure the city meets its environmental goals, indicating success through reduced emissions, improved efficiency, and enhanced resilience. Each metric is associated with a specific target and timeline to hold stakeholders accountable and guide citywide efforts in sustainability and climate action.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature               | Description                                                                                                                                                                                                                                                                                                                       |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name**| Alexandria                                                                                                                                                                                                                                                                                                                        |
-| **Population**        | Experienced a 12% growth in population from 2005 to 2015. (Appendix D)                                                                                                                                                                                                                                                            |
-| **Threats Identified**| - Increased carbon dioxide in the atmosphere (Introduction)  <br> - Extreme weather events (Introduction) <br> - Rising coastal waters and localized flooding, especially in Old Town (Climate Change) <br> - Record-breaking rainfall and high temperatures (Introduction) <br> - Rising sea levels and increased storm intensity (Climate Change) |
-| **Measures Identified**| - Achieving carbon neutrality by 2050 (Preface, Climate Change) <br> - GHG emission reduction targets: 50% by 2030 and 80-100% by 2050 (Climate Change section) <br> - Conducting a climate vulnerability assessment by FY2024 (Mid-term actions section) <br> - Updating the Energy and Climate Action Plan by FY2026 (Mid-term actions section) <br> - Planning for electrification transition from fossil fuels (Mid-term actions section) <br> - Updating the City’s Emergency Operations Plan by FY2028 (Mid-term actions section) <br> - Developing a state-level legislative and regulatory engagement strategy by FY2024 (Mid-term actions section) |
+| Feature             | Description                                                                                                                                               |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | City of Alexandria, Virginia                                                                                                                              |
+| **Population**      | Population growth was 12% from 2005 to 2015  [(Appendices - Community-Wide Greenhouse Gas Inventory Summary Factsheet)]                                       |
+| **Threats Identified** | - **Climate Change**: Increased carbon dioxide, extreme weather events, rising coastal waters, and record-breaking rainfall [(Introduction)]                |
+|                     | - **Flooding**: Localized flooding in Old Town, rising sea levels, increased frequency and intensity of storms [(Climate Change)]                                                                 |
+| **Measures Identified** | - **Climate Vulnerability Assessment**: To be completed by FY2024 [(Mid-term Actions 1.1.4, Climate Change)]                                              |
+|                     | - **Update Emergency Plans**: To improve infrastructure resiliency by FY2028 [(Mid-term Actions 1.1.6, Climate Change)]                                      |
+|                     | - **GHG Emissions Reduction**: Achieve carbon neutrality by 2050, 50% reduction by 2030 [(Metrics - Climate Change)]                                          |
+|                     | - **Renewable Energy**: 100% renewable offset for city-owned facilities' electrical use by 2020 [(Metrics - Energy)]                                         |
+|                     | - **Energy Efficiency Improvements**: by FY2027, reduce energy usage in city-owned facilities by 25% [(Metrics - Energy)]                                     |
+|                     | - **Transportation Initiatives**: Reduce vehicle miles by 1% per year and increase transit, walking, and biking by 15% over 2018 levels by FY2023 [(Metrics - Transportation)] |
 ```

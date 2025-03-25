@@ -1,70 +1,121 @@
-CityName,StateName,CountyName,Latitude,Longitude
-Alameda,CA,"Alameda County, California",37.7652,-122.2416
-Albuquerque,NM,"Bernalillo County, New Mexico",35.0844,-106.6504
-Alexandria,VA,"Alexandria City, Virginia",38.8048,-77.0469
-Anaheim,CA,"Orange County, California",33.8366,-117.9143
-Anchorage,AK,"Anchorage Municipality, Alaska",61.2181,-149.9003
-Asheville,NC,"Buncombe County, North Carolina",35.5951,-82.5515
-Aspen,CO,"Pitkin County, Colorado",39.1911,-106.8175
-Atlanta,GA,"Fulton County, Georgia",33.749,-84.388
-Atlanta,GA,"DeKalb County, Georgia",33.749,-84.388
-Augusta,GA,"Richmond County, Georgia",33.4735,-82.0105
-Baton Rouge,LA,"East Baton Rouge Parish, Louisiana",30.4515,-91.1871
-Bellevue,WA,"King County, Washington",47.6104,-122.2007
-Bellingham,WA,"Whatcom County, Washington",48.7491,-122.4781
-Birmingham,AL,"Jefferson County, Alabama",33.5186,-86.8104
-Boulder,CO,"Boulder County, Colorado",40.015,-105.2705
-Cape Coral,FL,"Lee County, Florida",26.5629,-81.9495
-Charleston,SC,"Charleston County, South Carolina",32.7765,-79.9311
-Charleston,SC,"Berkeley County, South Carolina",32.7765,-79.9311
-Charlotte,NC,"Mecklenburg County, North Carolina",35.2271,-80.8431
-Chattanooga,TN,"Hamilton County, Tennessee",35.0456,-85.3097
-Chicago,IL,"Cook County, Illinois",41.8781,-87.6298
-Chicago,IL,"DuPage County, Illinois",41.8781,-87.6298
-Cincinnati,OH,"Hamilton County, Ohio",39.1031,-84.512
-Clarksville,TN,"Montgomery County, Tennessee",36.5298,-87.3595
-Durham,NC,"Durham County, North Carolina",35.994,-78.8986
-Erie,PA,"Erie County, Pennsylvania",42.1292,-80.0851
-Fayetteville,NC,"Cumberland County, North Carolina",35.0527,-78.8784
-Fort Lauderdale,FL,"Broward County, Florida",26.1224,-80.1373
-Gary,IN,"Lake County, Indiana",41.5934,-87.3464
-Glendale,AZ,"Maricopa County, Arizona",33.5387,-112.186
-Greensboro,NC,"Guilford County, North Carolina",36.0726,-79.792
-Hampton,VA,"Hampton City, Virginia",37.0299,-76.3452
-Hartford,CT,"Hartford County, Connecticut",41.7658,-72.6734
-Houston,TX,"Harris County, Texas",29.7604,-95.3698
-Indianapolis,IN,"Marion County, Indiana",39.7684,-86.1581
-Jacksonville,FL,"Duval County, Florida",30.3322,-81.6557
-Knoxville,TN,"Knox County, Tennessee",35.9606,-83.9207
-Lakewood,CO,"Jefferson County, Colorado",39.7047,-105.0814
-Lexington,KY,"Fayette County, Kentucky",38.0406,-84.5037
-Lincoln,NE,"Lancaster County, Nebraska",40.8136,-96.7026
-Los Angeles,CA,"Los Angeles County, California",34.0522,-118.2437
-Louisville,KY,"Jefferson County, Kentucky",38.2527,-85.7585
-Memphis,TN,"Shelby County, Tennessee",35.1495,-90.049
-Miami,FL,"Miami-Dade County, Florida",25.7617,-80.1917
-Milwaukee,WI,"Milwaukee County, Wisconsin",43.0389,-87.9065
-Napa,CA,"Napa County, California",38.2975,-122.2869
-Nashville,TN,"Davidson County, Tennessee",36.1627,-86.7816
-New Orleans,LA,"Orleans Parish, Louisiana",29.9511,-90.0715
-Norfolk,VA,"Norfolk City, Virginia",36.8508,-76.2859
-Oakland,CA,"Alameda County, California",37.7652,-122.2416
-Oklahoma City,OK,"Oklahoma County, Oklahoma",35.2219,-97.4398
-Orlando,FL,"Orange County, Florida",28.5384,-81.379
-Pembroke Pines,FL,"Broward County, Florida",26.0078,-80.2963
-Philadelphia,PA,"Philadelphia County, Pennsylvania",39.9526,-75.1652
-Phoenix,AZ,"Maricopa County, Arizona",33.4484,-112.074
-Portland,OR,"Multnomah County, Oregon",45.5051,-122.675
-Providence,RI,"Providence County, Rhode Island",41.824,-71.4128
-Raleigh,NC,"Wake County, North Carolina",35.7796,-78.6382
-Richmond,VA,"Richmond City, Virginia",37.5407,-77.436
-San Diego,CA,"San Diego County, California",32.7157,-117.1611
-Savannah,GA,"Chatham County, Georgia",32.0809,-81.0912
-Shreveport,LA,"Caddo Parish, Louisiana",32.5252,-93.7502
-Spokane,WA,"Spokane County, Washington",47.6588,-117.426
-St. Louis,MO,"St. Louis County, Missouri",38.6273,-90.1979
-St. Petersburg,FL,"Pinellas County, Florida",27.7676,-82.6403
-Tallahassee,FL,"Leon County, Florida",30.4383,-84.2807
-Tampa,FL,"Hillsborough County, Florida",27.9506,-82.4572
-Washington,DC,"District of Columbia, District of Columbia",38.9072,-77.0369
-Winston-Salem,NC,"Forsyth County, North Carolina",36.0999,-80.2442
+City,State,County,Latitude,Longitude
+Alameda,CA,Alameda County,37.6090291,-121.899142
+Albany,CA,Alameda County,37.8871621,-122.298351
+Albany,NY,Albany County,42.6511674,-73.754968
+Albuquerque,NM,Bernalillo County,35.0841034,-106.650985
+Alexandria,VA,Alexandria city,38.8051095,-77.0470229
+Anaheim,CA,Orange County,33.8347516,-117.911732
+Anchorage,AK,Anchorage Municipality,61.2163129,-149.894852
+Ann Arbor,MI,Washtenaw County,42.2813722,-83.7484616
+Asheville,NC,Buncombe County,35.595363,-82.5508407
+Aspen,CO,Pitkin County,39.1911128,-106.82356
+Aspen,CO,Jefferson County,39.1911128,-106.82356
+Athens,GA,Clarke County,33.9597677,-83.376398
+Atlanta,GA,Fulton County,33.7489924,-84.3902644
+Atlanta,GA,DeKalb County,33.7489924,-84.3902644
+Augusta,GA,Richmond County,33.4709714,-81.9748429
+Baltimore,MD,Baltimore city,39.2908816,-76.610759
+Baton Rouge,LA,East Baton Rouge Parish,30.4494155,-91.1869659
+Bayfield,WI,Bayfield County,46.4710241,-91.1983175
+Bellevue,WA,King County,47.6144219,-122.192337
+Bellingham,WA,Whatcom County,48.7544012,-122.478836
+Berkeley,CA,Alameda County,37.8708393,-122.272863
+Birmingham,AL,Jefferson County,33.5206824,-86.8024326
+Birmingham,AL,Shelby County,33.5206824,-86.8024326
+Bloomington,IL,McLean County,40.4797828,-88.9939147
+Boise,ID,Ada County,43.6166163,-116.200886
+Boston,MA,Suffolk County,42.3554334,-71.060511
+Boulder,CO,Boulder County,40.0149856,-105.270545
+Bozeman,MT,Gallatin County,45.6794293,-111.044047
+Cambridge,MA,Middlesex County,42.3656347,-71.1040018
+Cape Coral,FL,Lee County,26.5625742,-81.9438802
+Carson,CA,Los Angeles County,33.8322043,-118.2517547
+Charleston,SC,Charleston County,32.7884363,-79.9399309
+Charleston,SC,Berkeley County,32.7884363,-79.9399309
+Charlotte,NC,Mecklenburg County,35.2272086,-80.8430827
+Chattanooga,TN,Hamilton County,35.0457219,-85.3094883
+Chicago,IL,Cook County,41.8755616,-87.6244212
+Cincinnati,OH,Hamilton County,39.1014537,-84.5124602
+Clarksville,TN,Montgomery County,36.5277607,-87.3588703
+Cleveland,OH,Cuyahoga County,41.4996574,-81.6936772
+Columbus,OH,Franklin County,39.9622601,-83.0007065
+Columbus,OH,Delaware County,39.9622601,-83.0007065
+Columbus,OH,Putnam County,39.9622601,-83.0007065
+Columbus,OH,Fairfield County,39.9622601,-83.0007065
+Concord,CA,Contra Costa County,37.9768525,-122.0335624
+Dallas,TX,Dallas County,32.7762719,-96.7968559
+Dallas,TX,Collin County,32.7762719,-96.7968559
+Dallas,TX,Denton County,32.7762719,-96.7968559
+Des Moines,IA,Polk County,41.5868654,-93.6249494
+Detroit,MI,Monroe County,42.3315509,-83.0466403
+Detroit,MI,Wayne County,42.3315509,-83.0466403
+Durham,NC,Durham County,35.996653,-78.9018053
+Elk Grove,CA,Sacramento County,38.4087993,-121.3716178
+Erie,PA,Erie County,42.1294712,-80.0852695
+Eugene,OR,Lane County,44.0505054,-123.0950506
+Evanston,IL,Cook County,42.0470043,-87.6846053
+Fayetteville,NC,Cumberland County,35.0525759,-78.878292
+Fort Collins,CO,Larimer County,40.5871782,-105.0770113
+Fort Lauderdale,FL,Broward County,26.1223084,-80.1433786
+Gary,IN,Lake County,41.6045061,-87.3373495
+Glendale,AZ,Maricopa County,33.5386858,-112.185994
+Glendale,CA,Los Angeles County,34.1469416,-118.2478471
+Greensboro,NC,Guilford County,36.0726355,-79.7919754
+Hampton,VA,Hampton city,37.0264414,-76.3442846
+Hartford,CT,Hartford County,41.764582,-72.6908547
+Henderson,NV,Clark County,36.0319843,-114.9822486
+Houston,TX,Harris County,29.7589382,-95.3676974
+Houston,TX,Fort Bend County,29.7589382,-95.3676974
+Indianapolis,IN,Marion County,39.7683331,-86.1583502
+Iowa City,IA,Johnson County,41.6612561,-91.5299106
+Iowa City,IA,Hardin County,41.6612561,-91.5299106
+Jacksonville,FL,Duval County,30.3321838,-81.655651
+Knoxville,TN,Knox County,35.9603948,-83.9210261
+Lakewood,CO,Jefferson County,39.7085736,-105.0846694
+Lancaster,PA,Lancaster County,40.0379958,-76.3056707
+Lexington,KY,Fayette County,38.0464066,-84.4970393
+Lincoln,NE,Lancaster County,40.8088861,-96.7077751
+Long Beach,CA,Los Angeles County,33.7690164,-118.191604
+Los Angeles,CA,Los Angeles County,34.0536909,-118.242766
+Louisville,KY,Jefferson County,38.2542376,-85.759407
+Manhattan Beach,CA,Los Angeles County,33.8897798,-118.3935254
+Memphis,TN,Shelby County,35.1460249,-90.0517638
+Miami,FL,Miami-Dade County,25.7741728,-80.19362
+Milwaukee,WI,Milwaukee County,43.0386475,-87.9090751
+Minneapolis,MN,Hennepin County,44.9772995,-93.2654692
+Napa,CA,Napa County,38.4898675,-122.3218414
+Nashville,TN,Davidson County,36.1622767,-86.7742984
+New Orleans,LA,Orleans Parish,29.9759983,-90.0782127
+New Orleans,LA,Plaquemines Parish,29.9759983,-90.0782127
+Norfolk,VA,Norfolk city,36.8493695,-76.2899539
+O'ahu,HI,Hawaii County,21.3392955,-158.125741
+Oakland,CA,Alameda County,37.8044557,-122.271356
+Oklahoma City,OK,Oklahoma County,35.4729886,-97.5170536
+Oklahoma City,OK,Cleveland County,35.4729886,-97.5170536
+Orlando,FL,Orange County,28.5421109,-81.3790304
+Pembroke Pines,FL,Broward County,26.0061943,-80.2872086
+Philadelphia,PA,Philadelphia County,39.9527237,-75.1635262
+Phoenix,AZ,Maricopa County,33.4484367,-112.074141
+Portland,OR,Multnomah County,45.5202471,-122.674194
+Portland,OR,Washington County,45.5202471,-122.674194
+Portland,OR,Clackamas County,45.5202471,-122.674194
+Providence,RI,Providence County,41.8239891,-71.4128343
+Raleigh,NC,Durham County,35.7803977,-78.6390989
+Richmond,VA,Richmond city,37.5385087,-77.43428
+Salt Lake City,UT,Salt Lake County,40.7596198,-111.886797
+San Diego,CA,San Diego County,32.7174202,-117.162772
+Savannah,GA,Chatham County,32.0790074,-81.0921335
+Shreveport,LA,Caddo Parish,32.5135356,-93.7477839
+Shreveport,LA,Bossier Parish,32.5135356,-93.7477839
+Spokane,WA,Spokane County,47.6571934,-117.42351
+St. Louis,MO,St. Louis city,38.6280278,-90.1910154
+St. Petersburg,FL,Pinellas County,27.7700475,-82.6359078
+Tallahassee,FL,Leon County,30.4380832,-84.2809332
+Tampa,FL,Hillsborough County,27.9477595,-82.458444
+Washington,DC,District of Columbia,38.8950368,-77.0365427
+Winston-Salem,NC,Forsyth County,36.0998131,-80.2440518
+New York,NY,New York County,40.7127281,-74.0060152
+New York,NY,Kings County,40.7127281,-74.0060152
+New York,NY,Queens County,40.7127281,-74.0060152
+New York,NY,Bronx County,40.7127281,-74.0060152
+New York,NY,Oneida County,40.7127281,-74.0060152

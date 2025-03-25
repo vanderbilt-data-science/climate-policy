@@ -1,355 +1,361 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The plan does not provide specific details such as the population, demographics, average income, or major geographic features of Orlando, Florida, which is the planning jurisdiction for the 2018 Community Sustainability Action Plan Update. Similarly, key infrastructure like airports or seaports, and specific mentions of the local climate's aridity or water challenges are not detailed in the text provided.
+The plan provided does not contain specific details such as the name of the planning jurisdiction, its exact location, population, demographics, or average income. It only refers to "Orlando" in the general text. It also does not include major geographic features like mountains, rivers, deserts, coastline, or key infrastructure details like airports or seaports. Similarly, there is no mention of specific local climate characteristics such as aridity or water challenges.
 
-However, the plan does indicate that Orlando, referred to as "The City Beautiful," **"strives to protect its natural environment"** and focuses on **"establishing compact, dense development"** to efficiently conserve land (**Overview of Goals, Objectives, and Targets** section). The plan aims to increase **"tree canopy to 40%"** and **"enhance community resiliency"**, which implies efforts to address heat-related issues like urban heat islands, which could speak to water challenges or aridity concerns (**Livability** section).
+However, the plan does touch on energy-related initiatives indicating that the city is actively working toward increasing renewable energy sources, specifically solar energy, as noted in the following excerpt:
 
-In terms of energy and economic aspects:
+- **Energy Production:**
+  - The City of Orlando has a goal to obtain "100% of electricity from clean, renewable sources citywide by 2050" (Clean Energy).
+  - There are efforts such as the installation of solar arrays on municipal buildings and "purchased 5.2 MW of solar energy from the Orlando Utilities Commission (OUC) Community Solar Farm" (Clean Energy).
 
-- Orlando has ambitious goals to transform its energy landscape with commitments like **"Reduce greenhouse gas emissions by 90% from 2007 levels by 2040"** and **"Obtain 100% of electricity from clean, renewable sources citywide by 2050"**. This signifies a strong shift towards renewable energy sources such as solar (**Clean Energy** section).
-- The city is making strides in increasing solar energy with "10% of Municipal Electricity Demand Powered by Solar Energy" and the establishment of a 420 KW solar array and a 5.2 MW solar energy purchase from the Orlando Utilities Commission (**Clean Energy** section).
-- Orlando’s economic landscape is interwoven with its clean energy goals. The city is positioning itself as "a hub for clean technology industries and green jobs," aiming for economic benefits through energy efficiency and renewable energy (**Overview of Goals, Objectives, and Targets** section).
-- There are plans to **"launch workforce development and job training program for the green economy"** and Orlando is highlighted for **"being a clean energy leader"** and has received recognition for energy efficiency policies (**Clean Energy** section).
-
-Overall, while specific geographic and economic statistics are absent, the jurisdiction's commitment to sustainable development, green infrastructure, and clean energy transitions is emphasized, with a substantial focus on the green economy as a future economic driver.
+The document does not provide specific information on natural resources, major industries, or economic drivers for the region. The focus is primarily on sustainability goals, actions related to clean energy, and broader urban development initiatives within Orlando, emphasizing improvements in energy efficiency and the enhancement of green spaces.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
 **Resilience:**
 
-The plan places a significant emphasis on building resilience within the community by addressing social equity issues, enhancing livability, and preparing for climate impacts. It aims to ensure that "all communities, businesses and residents in Orlando are prepared for and are resilient to the potential impacts of a changing climate" (*Introduction*). Resilience is an overarching theme in the plan, influencing all goals, strategies, and initiatives (*Appendix*).
+The plan directly addresses resilience by integrating it as a key overarching theme for the Community Action Plan Update. It emphasizes the importance of preparing all communities, businesses, and residents in Orlando to be resilient to the potential impacts of a changing climate. The plan includes strategies such as increasing urban tree canopy to mitigate the urban heat island effect, which enhances community resiliency. Additionally, it includes goals like implementing a smart microgrid demonstration project for grid resilience and establishing green affordable housing standards (Appendix, Livability).
 
 **Mitigation:**
 
-A substantial portion of the plan is dedicated to mitigating climate change through greenhouse gas (GHG) reduction goals and initiatives. These initiatives include reducing GHG emissions by 90%, ensuring that "100% of new and existing buildings meet green building standards," obtaining 50% of electricity from renewables, and reducing dependency on energy (*Appendix*). The integration of smart technology and innovation is also a key approach to achieving these mitigation goals.
+Mitigation is addressed extensively throughout the plan, as it includes multiple goals and strategies aimed at reducing GHG emissions. These include a targeted 90% reduction in GHG emissions, ensuring 100% of buildings meet green building standards, and obtaining 50% of electricity from renewable sources. Also included are initiatives like implementing solar plus storage demonstrations and encouraging the use of electric and alternative fuel vehicles within the city (Appendix, Overview of Goals, Objectives and Targets).
 
 **Adaptation:**
 
-Adaptation strategies are embedded throughout the plan in efforts to enhance the city's ability to adjust to climate impacts. This includes initiatives such as increasing the urban tree canopy to "reduce urban heat island impacts" and enhance stormwater management, contributing to adaptations needed for expected weather changes (*Livability*). The plan addresses adaptation by promoting green spaces and sustainable landscaping, vital for helping Orlando's infrastructure withstand changing climate conditions.
+Adaptation is incorporated through strategies that help the community adjust to the impacts of climate change. These include increasing tree canopy coverage to provide more shade, reduce pollution, and manage stormwater, which is crucial during increased rain events. The plan emphasizes enhancing livability and resilience through such measures, along with promoting equitable access to community resources, which strengthens the adaptability of neighborhoods (Livability section).
 
 **Classification:**
 
-Based on the document's content, the plan can be classified as an **equal mitigation and adaptation climate action plan**, as it equally addresses efforts to reduce GHG emissions alongside strategies to enhance community resilience and adaptation to climate impacts.
+Based on the comprehensive approach to resilience, mitigation, and adaptation, the plan can be classified as an **equal mitigation and adaptation climate action plan**. It integrates climate resilience, mitigation efforts, and adaptation strategies, highlighting the city's commitment to a balanced approach in addressing climate change impacts and reducing GHG emissions.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-The plan does not explicitly describe a scenario of climate change that the City of Orlando will face. However, it does emphasize the need for resilience, mitigation, and adaptation in response to climate change. Specific strategies and initiatives are outlined, such as increasing the urban tree canopy to mitigate urban heat islands and improve public health and community resiliency, as well as implementing smart technology to monitor air quality and identify specific areas of concern. These actions demonstrate an implicit acknowledgment of the potential impacts of climate change that the planning jurisdiction is preparing to address. Key themes include enhancing community resilience to potential climate impacts and promoting sustainable energy and infrastructure. 
+The plan does not explicitly outline a specific scenario of climate change that Orlando will face. However, it emphasizes that "all communities, businesses and residents in Orlando are prepared for and are resilient to the potential impacts of a changing climate" (Introduction). In addition to preparing for those impacts, the plan also highlights the importance of "climate resiliency" as one of the guiding themes for the development of strategies and goals (Introduction). 
 
-The plan sets various goals and strategies, including:
-- **Resilience:** "Increase Urban Tree Canopy and Green Space to Mitigate Urban Heat Island" (LIVABILITY section).
-- **Mitigation:** "Reduce GHG 90%" and "Obtain 100% of electricity from clean, renewable sources city-wide by 2050" (APPENDIX section).
-- **Adaptation:** "Implement solar plus storage demonstration on critical infrastructure for grid resilience" (APPENDIX section).
-
-These elements collectively contribute to the city's efforts in addressing climate change impacts, albeit without a detailed scenario description.
+Overall, the plan appears to be broadly preparing for various climate-related impacts without specifying particular scenarios.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Urban Heat Island Effect**
+1. **Urban Heat Island**
+   - **Description of the Climate Hazard:** The plan identifies an increase in urban heat island effects due to reduced tree canopy coverage and increased temperatures.
+   - **Climate Risks Posed:** The urban heat island effect is expected to lead to increased temperatures in urban areas, which can exacerbate heat stress among residents.
+   - **Vulnerable Areas/Populations:** Lower income neighborhoods and communities are noted to have disproportionately lower tree canopy coverage, making them more vulnerable to increased temperatures.
 
-- *Climate Hazard:* Urban heat islands, where urban areas experience higher temperatures than surrounding rural areas due to modifications in land surfaces and waste heat generated by energy usage.
-- *Climate Risks:* Increased heat levels lead to more energy consumption, elevated emissions of air pollutants and greenhouse gases, and heat-related illnesses.
-- *Areas or Populations with the Most Climate Vulnerability:* Low-income areas with low canopy coverage are prioritized for tree planting to mitigate environmental losses and increased heat levels. ("Livability")
+2. **Increased Rainfall and Stormwater**
+   - **Description of the Climate Hazard:** The plan highlights increased rainfall events, which are likely to be more significant under changing climate conditions.
+   - **Climate Risks Posed:** These increased rainfall events are expected to contribute to stormwater management challenges, including erosion, pollution, and flooding.
+   - **Vulnerable Areas/Populations:** There is no explicit mention of the most vulnerable areas or populations, but the initiatives focus on enhancing stormwater management across the community.
 
-**2. Stormwater Management Challenges Due to Rainfall Events**
+3. **Air Quality Degradation**
+   - **Description of the Climate Hazard:** Air quality is identified as a regional issue largely driven by transportation emissions, which could deteriorate further under changing climate conditions.
+   - **Climate Risks Posed:** Poor air quality poses health hazards, particularly respiratory issues, to residents across the city.
+   - **Vulnerable Areas/Populations:** Certain areas of the city are disproportionately affected by poor air quality, although the specific areas are not identified in the summary provided.
 
-- *Climate Hazard:* Increased rainfall events are likely to be more significant under changing climate conditions.
-- *Climate Risks:* Stormwater management becomes critical to minimize flooding and pollution run-off into water bodies.
-- *Areas or Populations with the Most Climate Vulnerability:* The city's effort to manage stormwater is critical for the whole community, aiming at protecting Orlando's lakes and water bodies. ("Water")
-
-**3. Air Quality Degradation**
-
-- *Climate Hazard:* Increased air pollution, largely driven by transportation emissions.
-- *Climate Risks:* Poor air quality impacts public health and contributes to environmental and health inequities among communities.
-- *Areas or Populations with the Most Climate Vulnerability:* Certain areas of the city are disproportionately affected by poor air quality; thus, efforts are made to install smart technology to monitor and pinpoint specific areas of concern. ("Livability") 
-
-**4. Climate Change Impacts Leading to Climate Refugees**
-
-- *Climate Hazard:* Events such as devastating hurricanes impacting neighboring areas, leading to migration into Orlando.
-- *Climate Risks:* Increasing population from incoming refugees challenges housing stock and affordability, potentially impacting social services and community resources.
-- *Areas or Populations with the Most Climate Vulnerability:* Homeless families, veterans, and incoming climate refugees face significant housing challenges, and solutions like permanent supportive housing are contemplated. ("Livability")
+4. **Water Quality Concerns**
+   - **Description of the Climate Hazard:** Concerns are raised about water quality, with references to potential contaminants and pollution affecting potable water supplies.
+   - **Climate Risks Posed:** Increased potential for polluted or contaminated water supplies could pose significant health risks, as highlighted by the reference to the water crisis in Flint, Michigan.
+   - **Vulnerable Areas/Populations:** Older communities with aging plumbing and infrastructure, as well as those relying on well water, are noted to have increased vulnerability to water quality issues.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+### Resilience Options Identified in the Plan
 
-1. **Gentilly Resilience District Project**
+#### 1. **Building Neighborhood Resiliency in New Orleans**
 
-   - **Climate Threat Addressed:** The project aims to reduce flood risk and slow land subsidence.
-   - **Details on Cost, Timeframe, and Location:**
-     - **Cost:** The City of New Orleans was awarded $141 million to implement the project.
-     - **Location:** Gentilly neighborhood, New Orleans.
-   - **Other Important Attributes:**
-     - The project includes infrastructure improvements and integration of recreational enhancement design elements to improve community health and safety.
-     - It strengthens local workforce development by providing training and creating job opportunities for local residents to participate in the improvement projects.
+- **Specific Climate Threat Addressed:**
+  - **Flood Risk:** The project focuses on reducing flood risk through infrastructure improvements and slow land subsidence.
+  
+- **Details on Cost, Timeframe, and Location:**
+  - **Cost:** Awarded $141 million through HUD’s National Disaster Resiliency Competition.
+  - **Location:** New Orleans, specifically the Gentilly Resilience District Project.
+  - **Timeframe:** Not specified, but it involves comprehensive planning efforts.
 
-2. **Increase Urban Tree Canopy and Green Space**
+- **Other Important Attributes:**
+  - **Economic Considerations:** Strengthens local workforce development by providing training and creating job opportunities.
+  - **Environmental Considerations:** Incorporates new standards for stormwater infrastructure, builds permeable sidewalks, swales, and rain retention gardens, and retrofits existing woodlands.
+  - **Infrastructural Considerations:** Expands parks and open spaces for community recreation and integrates recreational enhancement design elements to improve community health and safety.
+  
+  > (Section: Livability - Best Practice/Case Study)
 
-   - **Climate Threat Addressed:** Mitigates urban heat island effects and improves public health.
-   - **Details on Cost, Timeframe, and Location:**
-     - **Timeframe/Cost/Location:** Specific timeframe and cost are not provided, but the initiative is part of the plan to achieve 40% tree canopy coverage in Orlando.
-   - **Other Important Attributes:**
-     - Aims to enhance livability of neighborhoods by adding shade, which encourages walking and biking rather than driving, even on hot days.
-     - Tree shade reduces urban heat impacts, enhances neighborhood livability, and draws people to local businesses.
-     - Provides GHG reduction, air quality benefits, and critical stormwater management during rain events.
+#### 2. **Increase Urban Tree Canopy and Green Space**
 
-3. **Mars Hill Stormwater Demonstration Project**
+- **Specific Climate Threat Addressed:**
+  - **Urban Heat Island Effect:** Mitigates urban heat by enhancing tree canopy and green space coverage.
+  
+- **Details on Cost, Timeframe, and Location:**
+  - **Cost:** Not specified.
+  - **Location:** Orlando, focusing on lower-income neighborhoods lacking tree canopy coverage.
+  - **Timeframe:** Ongoing initiative to build on successful tree-planting initiatives.
 
-   - **Climate Threat Addressed:** Stormwater management and water quality improvement.
-   - **Details on Cost, Timeframe, and Location:**
-     - **Location:** Town Hall of Mars Hill, North Carolina.
-   - **Other Important Attributes:**
-     - Demonstration project to educate and inspire the local community on stormwater management and low-impact design solutions.
-     - Includes green roofs, bioretention basins, permeable pavement, and vegetated swales.
-     - Provides interpretive signage and an interactive trail map to educate the community.
+- **Other Important Attributes:**
+  - **Environmental Considerations:** Provides GHG reduction and air quality benefits. Critical for stormwater management during rain events.
+  - **Social and Economic Considerations:** Enhances livability of neighborhoods by inviting more walking and biking, reduces heat impacts, and draws people to local businesses.
+  
+  > (Section: Livability)
 
-**References:** Chapters or sections such as "BEST PRACTICE/CASE STUDY," "LIVABILITY," "WATER," and others mentioned throughout the document contain these details.
+#### 3. **Develop Permanent Supportive Housing for Homeless Families, Veterans, and Climate Refugees**
+
+- **Specific Climate Threat Addressed:**
+  - **Displacement from Climate Events:** Provides housing solutions for climate refugees and others displaced due to climate change impacts.
+  
+- **Details on Cost, Timeframe, and Location:**
+  - **Cost:** Not specified.
+  - **Location:** Orlando.
+  - **Timeframe:** Not specified, though highlights ongoing and future needs.
+
+- **Other Important Attributes:**
+  - **Social Considerations:** Addresses affordability issues for homeless veterans, refugees, or low-income earners.
+  - **Infrastructural Considerations:** Suggests the development of tiny-house villages with amenities like common houses, garden plots, and playgrounds to create a supportive community atmosphere.
+  
+  > (Section: Livability)
+
+---
+
+These resilience options provide a combination of infrastructural improvements, environmental enhancements, and social considerations to address various climate threats faced by the planning jurisdiction. Each initiative is tailored to specific local needs and vulnerabilities, striving to bolster resilience against anticipated climate challenges.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options. Below is a summary of the information provided:
+The plan identifies several mitigation options along with various attributes:
 
-1. **Increase Urban Tree Canopy and Green Space**  
-   - **Attributes:** The plan aims to achieve 40% tree canopy coverage by continuing tree-planting initiatives. Trees help reduce GHGs, improve air quality, and manage stormwater.
-   - **Timing:** Ongoing efforts to build on successful initiatives.
-   - **Location:** Lower income neighborhoods and communities are prioritized due to currently lower tree canopy coverage.
-   - **Other Important Attributes:** Enhances livability, promotes walking and biking, and mitigates the urban heat island effect.  
-   *"To achieve our goal of 40% tree canopy coverage, the city will continue to build on its successful tree-planting initiatives to increase Orlando's tree canopy" (LIVABILITY).*  
+1. **Increase Urban Tree Canopy and Green Space**
+   - **Attributes:** The plan aims for a 40% tree canopy coverage, emphasizing tree-planting initiatives that particularly target low-income neighborhoods to address disparities in canopy distribution. Benefits include GHG reduction, air quality improvement, and stormwater management.
+   - **Cost, Timing, Location:** No specific cost or timing is provided. The initiative is location-focused on areas with lower tree canopy coverage to improve equity and resilience. 
+   - **Citation:** (LIVABILITY)
 
-2. **Monitor Citywide Air Quality Using New Smart City Technology**  
-   - **Attributes:** Use of "smart poles" to monitor air quality with environmental sensors.
-   - **Location:** Implementation in areas disproportionately affected by air quality issues.
-   - **Other Important Attributes:** Identifies specific areas of concern and helps develop mitigation measures for air pollution.  
-   *"By partnering with OUC or another vendor to install 'smart poles', the city can monitor air quality" (LIVABILITY).*  
+2. **Monitor Citywide Air Quality Using New Smart City Technology**
+   - **Attributes:** Implementation of "smart poles" with environmental sensors to monitor air quality, with the goal of developing mitigation measures to address air pollution.
+   - **Cost, Timing, Location:** The document does not specify cost or timing. The deployment is citywide, particularly in areas with high pollution levels.
+   - **Citation:** (LIVABILITY)
 
-3. **Renewable Energy and Electric Vehicles**  
-   - **Attributes & Timing:**
-     - Obtain 50% of electricity from renewables.
-     - Increase the use of electric vehicles/alternative fuel vehicles.
-     - Implementation targets aim for transitions in energy use and transportation.
-   - **Other Important Attributes:** These initiatives support comprehensive efforts for clean energy and significant reduction of GHGs and dependency on traditional fuels.  
-   *"Develop a 100% Renewable Energy Study with OUC and UCF" (APPENDIX).*  
+3. **Expand Drive Electric Orlando Program with 100 New Public EV Charging Stations**
+   - **Attributes:** The plan includes installing 100 new EV charging stations at popular city locations to encourage electric vehicle adoption, thereby reducing GHG emissions.
+   - **Cost, Timing, Location:** Specific costs and timing are not detailed. The charging infrastructure aims for even distribution across popular locations for maximum impact.
+   - **Citation:** (TRANSPORTATION)
 
-4. **Green Building Standards**  
-   - **Attributes:** Ensuring new and existing buildings meet green building standards.
-   - **Importance:** Reduces energy burden and improves energy efficiency.
-   - **Other Important Attributes:** Supports clean energy consumption within low-income communities through CELCA plan.  
-   *"Ensure 100% of new and existing buildings meet green building standards" (APPENDIX).*  
+4. **Increase to Majority of Trips by Foot, Bike, Carpooling, Transit**
+   - **Attributes:** This initiative seeks to shift the majority of trips to more sustainable modes of transportation to reduce dependency on fossil fuels and decrease emissions.
+   - **Cost, Timing, Location:** No specific cost or timing is provided. The initiative is broad and applies citywide.
+   - **Citation:** (APPENDIX)
 
-5. **Transportation Options and Infrastructure**  
-   - **Attributes:** Expanding bicycle connectivity, implementing smart tech for transportation, and developing CAR sharing programs.
-   - **Other Important Attributes:** Targets to reduce GHG emissions by providing smart app technology and car sharing for low-income communities.  
-   *"Develop Smart App Technology to Improve Ridership on Transit and Alternative Mobility Options" (TRANSPORTATION).*  
+5. **Implement a Smart Tech Strategy to Improve Multi-Modal Options**
+   - **Attributes:** Integration of smart technology within transportation systems to improve reliability and user experience, aiming to reduce traffic congestion and air pollution.
+   - **Cost, Timing, Location:** The document does not specify costs or timing. Innovative solutions like smart traffic lights and a unified mobile ticketing platform are included.
+   - **Citation:** (TRANSPORTATION)
 
-The plan does not provide explicit details on the cost or precise timing for each initiative. However, it emphasizes ongoing efforts, community involvement, and strategic partnerships. Each initiative is designed to be inclusive, environmentally effective, and supportive of long-term sustainability goals.
+6. **Develop 100% Renewable Energy Study with OUC and UCF**
+   - **Attributes:** A feasibility study to transition to 100% renewable energy, including examining energy demands and potential for renewable energy generation.
+   - **Cost, Timing, Location:** No specific cost or timing is detailed. The study will support the city's transition to renewable energy with consideration of all energy demand sectors.
+   - **Citation:** (NEW STRATEGIES)
+
+7. **Increase the Use of Electric Vehicles/Alternative Fuel Vehicles Throughout the City**
+   - **Attributes:** Aims to promote the adoption of electric/alternative fuel vehicles to lower emissions from the transportation sector.
+   - **Cost, Timing, Location:** Specific costs and timing are not detailed. This initiative is a broad citywide strategy.
+   - **Citation:** (APPENDIX)
+
+8. **Reduce the Dependency of the Local Economy on Energy**
+   - **Attributes:** The goal is to lessen the economic reliance on energy through sustainability practices, benefiting the local community and environment.
+   - **Cost, Timing, Location:** No specific cost, timing, or location provided. The strategy is citywide and economy-focused.
+   - **Citation:** (APPENDIX)
+
+9. **Implement Solar Plus Storage Demonstration on Critical Infrastructure for Grid Resilience**
+   - **Attributes:** This involves a demonstration project to integrate solar energy and storage systems to enhance grid resilience against climate impacts.
+   - **Cost, Timing, Location:** Specific costs and timing are not included. The project targets critical infrastructure locations for resilience.
+   - **Citation:** (APPENDIX)
+
+Each of these options is intended to contribute to the city's overall mitigation strategy; however, detailed costs, timing, and specific locations are largely unspecified in the document.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options aimed at reducing greenhouse gas emissions. Here is a summary of each identified mitigation option, along with any provided information regarding cost, timeframe, location, and other important attributes:
+Based on the content provided from the plan, the following **mitigation options** are identified:
 
 1. **Increase Urban Tree Canopy and Green Space**
-   - *Attributes*: The city aims to achieve 40% tree canopy coverage to mitigate the urban heat island effect, improve air quality, and manage stormwater.
-   - *Details*: This initiative focuses on lower-income neighborhoods with a disproportionately lower percentage of tree canopy coverage, contributing to greenhouse gas reduction and enhanced livability.
+   - **Summary:** This initiative aims to increase tree canopy coverage to 40%, focusing especially on lower-income neighborhoods with limited coverage. Benefits include reducing urban heat island effects, GHGs reduction, improving air quality, and aiding stormwater management.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide, with a focus on lower-income neighborhoods.
+   - **Attributes:** Enhancing community livability and resilience.
 
 2. **Monitor Citywide Air Quality Using New Smart City Technology**
-   - *Attributes*: Installation of smart poles equipped with environmental sensors to monitor air quality.
-   - *Details*: This would allow the city to identify areas of concern and develop targeted mitigation measures. No specific cost or timeframe is provided.
+   - **Summary:** The installation of smart poles, which include environmental sensors, aims to monitor air quality to identify specific pollution concerns and develop mitigation measures.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide.
+   - **Attributes:** The initiative involves partnerships with entities like OUC to implement these technologies.
 
-3. **Car Sharing Program Targeted to Low-Income Communities**
-   - *Attributes*: Implementation of a car-sharing program to boost mobility options and reduce GHG emissions through eco-friendly or electric vehicle fleets.
-   - *Details*: Subsidized rates for low-income users and incentives for companies to prioritize eco-friendly vehicles are mentioned, but no specific cost is provided.
+3. **50% of Electricity from Renewables**
+   - **Summary:** A goal is set to source half of the city's electricity from renewable sources.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide.
+   - **Attributes:** This is part of a broader strategy to reduce dependence on energy and cut GHG emissions.
 
-4. **Develop 100% Renewable Energy Study**
-   - *Attributes*: Collaboration with OUC and UCF to study the feasibility of transitioning to 100% renewable energy.
-   - *Details*: The study will explore solar plus storage options and aim to meet climate resiliency goals. Details on cost or timeframe are not elaborated.
+4. **No Waste to Landfills or Incinerators**
+   - **Summary:** This goal aims to eliminate waste disposal in landfills or incinerators, thus reducing GHG emissions from waste management.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide.
+   - **Attributes:** Part of the solid waste management strategy.
 
-5. **Develop and Implement a Clean Energy for Low-Income Communities Accelerator (CELICA) Plan**
-   - *Attributes*: Enhance clean energy production in low-income communities and reduce energy burden.
-   - *Details*: Includes policy enhancement, expanded financing options, and creating technical jobs. Specific costs are not mentioned.
+5. **Establish a “Feebate” or Tax Abatement Policy for New Construction**
+   - **Summary:** This policy encourages new constructions to meet high-performance standards through financial incentives.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide.
+   - **Attributes:** Supports the transition to green building standards.
 
-6. **Voluntary Carbon-Offset for Visitors to Orlando**
-   - *Attributes*: Establishment of an offset program with voluntary contributions from visitors.
-   - *Details*: Funds from this program would support local sustainability initiatives, such as tree planting and expanding energy efficiency programs. Specific costs are not disclosed.
+6. **Implement a Smart Microgrid Demonstration Project**
+   - **Summary:** Partner with OUC for a microgrid demonstration to enhance grid resilience.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Not specified.
+   - **Attributes:** Aims to support energy resilience and reliability.
 
-7. **Expand Drive Electric Orlando Program with Public EV Charging Stations**
-   - *Attributes*: Installation of 100 new public EV charging stations.
-   - *Details*: The stations will be placed at popular locations in the city to encourage the adoption of electric vehicles. No specific costs are provided.
+7. **Implement Solar Plus Storage Demonstration on Critical Infrastructure for Grid Resilience**
+   - **Summary:** Solar energy paired with storage will be demonstrated on critical infrastructures to enhance grid resilience.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Critical infrastructure locations.
+   - **Attributes:** Enhances energy security and resilience.
 
-8. **Reduce Waste to Landfills or Incinerators**
-   - *Attributes*: Aim to implement waste management strategies to minimize waste.
-   - *Details*: Includes developing a comprehensive waste management plan, though no timeframe or cost details are mentioned.
+8. **Expand Bicycle Connectivity and Infrastructure**
+   - **Summary:** Increase biking infrastructure to promote alternative transportation modes and reduce vehicular emissions.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Orlando neighborhoods.
+   - **Attributes:** Supports reduction of GHG emissions from transportation.
 
-9. **Increase Use of Electric Vehicles and Alternative Fuel Vehicles**
-   - *Attributes*: Part of a broader strategy to improve air quality and reduce emissions.
-   - *Details*: Encouragement of electric and alternative fuel vehicles is highlighted, but without specific cost or timeframe details.
-
-10. **Develop Smart App Technology to Improve Transit Ridership**
-    - *Attributes*: Use of smart technology to improve public transportation services and reduce traffic congestion.
-    - *Details*: Includes real-time information and mobile ticketing payment platforms, contributing to reduced emissions. Cost details are not specified.
-
-The plan includes various strategies focusing on infrastructure improvements, technology integration, and community engagement. However, specific cost estimates and timeframes are not detailed for most initiatives.
+9. **Increase the Use of Electric Vehicles/Alternative Fuel Vehicles**
+   - **Summary:** Promotion and infrastructure support for electric and alternative fuel vehicles to reduce GHGs from transportation.
+   - **Cost:** Not specified.
+   - **Timeframe:** Not specified.
+   - **Location:** Citywide.
+   - **Attributes:** Includes expanding EV charging stations and incentives for eco-friendly vehicle fleets.
+  
+The document does not specify details on cost or timeframe for these options. However, it emphasizes location and attributes associated with improving citywide energy resilience, promoting sustainable urban development, and reducing GHG emissions.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options to address climate threats, which include increased urban heat, stormwater management, and climate refugee housing. Below are the summarized adaptation options:
+The plan outlines several adaptation options:
 
 1. **Increase Urban Tree Canopy and Green Space**
-   - **Climate Threat Addressed:** Urban heat island effect and stormwater management during significant rainfall events.
-   - **Attributes:** 
-     - Targeted implementation in lower-income neighborhoods with low tree canopy coverage.
-     - Aims to achieve a goal of 40% tree canopy coverage.
-     - Benefits include reducing urban heat island impacts, contributing to stormwater management, improving air quality, and enhancing neighborhood livability.
-   - **Cost and Timeframe:** Not specifically mentioned in the plan.
+   - **Climate Threat:** The plan addresses the *urban heat island effect* and *stormwater management* concerns due to likely significant rain events as a result of changing climate conditions. 
+   - **Attributes:** The plan aims for a goal of *40% tree canopy coverage*. It mentions a focus on *lower-income neighborhoods* that have disproportionately lower tree canopy coverage. The increased canopy will enhance livability by reducing urban heat impacts and provide GHG reduction and air quality benefits (LIVABILITY).
 
-2. **Develop Permanent Supportive Housing for Climate Refugees**
-   - **Climate Threat Addressed:** Displacement of residents due to climate change impacts, like hurricanes.
-   - **Attributes:**
-     - Focuses on affordability and support for homeless veterans, refugees, or low-income earners.
-     - Potential development of sustainable and efficient tiny-house villages that include common resources, such as garden plots and playgrounds, to foster community support.
-   - **Cost and Timeframe:** Not specifically mentioned in the plan.
+2. **Develop Permanent Supportive Housing for Homeless Families, Veterans and Climate Refugees**
+   - **Climate Threat:** The plan acknowledges a likely increase in *climate refugees* due to climate change impacts like hurricanes and other coastal community risks.
+   - **Attributes:** An affordable, permanent supportive housing community is suggested as a solution, with the consideration of establishing *tiny-house villages* (WATER).
 
-3. **Residential Rain Barrel Program**
-   - **Climate Threat Addressed:** Stormwater runoff and demand on potable water supplies during dry periods.
-   - **Attributes:**
-     - Plans to capture rainwater for irrigation, reducing stormwater runoff and erosion.
-     - Previously offered program with plans to scale through partnerships for free rain barrel giveaways.
-   - **Cost and Timeframe:** Lack of funding mentioned as a previous issue, but no specific costs or timeframes provided for the ongoing program.
+3. **Establish a Residential Rain Barrel Program**
+   - **Climate Threat:** This measure addresses potential water scarcity and stormwater management issues by capturing rainwater.
+   - **Attributes:** The city has partnered with the local UF/IFAS Extension office for education and aims to offer *free rain barrel giveaways* through partnerships (WATER).
 
-4. **Amend the Land Development Code for Smart Irrigation**
-   - **Climate Threat Addressed:** Water scarcity and mismanagement.
-   - **Attributes:**
-     - Requires smart irrigation devices in new residential and commercial construction to monitor usage and conserve water.
-     - Utilizes additional sensors, like soil moisture, for efficient water use.
-   - **Cost and Timeframe:** No specific costs or timeframes mentioned in the plan.
+4. **Amend the Land Development Code to Require Smart Irrigation Technologies**
+   - **Climate Threat:** This option addresses water conservation in light of potential *droughts and water scarcity*.
+   - **Attributes:** It requires new residential and commercial developments to install smart irrigation technologies to conserve water and detect leaks using sensors (WATER).
 
-5. **Water Conservation Outreach**
-   - **Climate Threat Addressed:** Public health risks from polluted water supplies.
-   - **Attributes:** 
-     - Plans to implement monitoring programs and initiatives for water quality, particularly in communities with older infrastructure.
-     - Aims to avoid incidents like the water crisis in Flint, Michigan.
-   - **Cost and Timeframe:** No specific costs or timeframes mentioned in the plan.
+5. **Provide Water Conservation Outreach and Initiatives in Communities With Older Plumbing and Infrastructure or Well Water**
+   - **Climate Threat:** It addresses potential *water quality issues*, inspired by the crisis observed in Flint, Michigan.
+   - **Attributes:** The plan includes the provision of water tests to find contaminants and ongoing efforts to monitor water quality to avoid similar crises (WATER).
 
-These adaptations are geared towards minimizing harm from anticipated climate impacts and improving community resilience.
+These adaptation options mainly target adaptation through infrastructure improvements, technology integration, and community engagement to better prepare the community for the anticipated impacts of climate change. Specific costs and timeframes are not provided in the plan.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice. Below are some key policies along with the climate threats they address and the areas or populations most vulnerable to these threats:
+The plan identifies several climate policies aimed at advancing climate justice, addressing specific climate threats, and focusing on vulnerable populations:
 
-1. **Clean Energy for Low-Income Communities Accelerator (CELICA) Plan**  
-   - **Climate Threat Addressed:** The plan addresses the economic burden of energy costs on low-income communities, which can be exacerbated by climate impacts increasing energy consumption needs and costs.
-   - **Vulnerable Areas/Populations:** Low-income communities that face economic challenges and have limited access to clean energy resources. The policy aims to enhance clean energy production and consumption within these communities by expanding financing options and creating quality technical jobs.  
-   - *"The city will partner with OUC to develop a policy to enhance clean energy production and consumption within low-income communities."* (NEW STRATEGIES)
+1. **Policy: Clean Energy for Low-Income Communities Accelerator (CELICA) Plan**
+   - **Climate Threat Addressing:** The policy primarily addresses the threat of energy inequity, rising energy costs, and GHG emissions.
+   - **Areas/Populations with Most Vulnerability:** The focus is on "low-income communities" that face a higher energy burden and may not have sufficient access to clean energy resources. The plan aims to reduce this burden and create economic opportunities in renewable energy production within these communities. The policy also seeks to foster participation and create green jobs for residents within these vulnerable communities. 
 
-2. **Increasing Urban Tree Canopy and Green Space**  
-   - **Climate Threat Addressed:** This policy addresses urban heat islands that can increase temperatures in urban areas, leading to health risks, especially in heat-sensitive populations.
-   - **Vulnerable Areas/Populations:** Lower-income neighborhoods and communities with less tree canopy coverage, which leads to higher exposure to heat and decreased air quality.  
-   - *"To achieve our goal of 40% tree canopy coverage, the city will continue to build on its successful tree-planting initiatives to increase Orlando’s tree canopy. Lower income neighborhoods and communities have a disproportionately lower percentage of tree canopy coverage."* (LIVABILITY)
+2. **Policy: Increase Urban Tree Canopy and Green Space**
+   - **Climate Threat Addressing:** This policy addresses the urban heat island effect, which is likely to exacerbate as climate change leads to higher temperatures and more extreme heat events.
+   - **Areas/Populations with Most Vulnerability:** "Lower income neighborhoods and communities have a disproportionately lower percentage of tree canopy coverage." These areas are more exposed to increased heat levels, and the policy aims to ensure equitable distribution of tree planting to mitigate these impacts.
 
-3. **Permanent Supportive Housing for Homeless Families, Veterans, and Climate Refugees**  
-   - **Climate Threat Addressed:** This policy focuses on housing stability, a critical concern for populations displaced or affected by climate-driven events such as hurricanes and rising sea levels.
-   - **Vulnerable Areas/Populations:** Homeless families, veterans, and climate refugees, who are significantly vulnerable to housing instability and economic pressures.  
-   - *"Developing an affordable, permanent supportive housing community, could be a solution for homeless veterans, refugees, or low-income earners who struggle to keep up with the rising cost of living."* (NEW STRATEGIES)
+3. **Policy: Permanent Supportive Housing for Climate Refugees**
+   - **Climate Threat Addressing:** This strategy addresses the issue of displacement and homelessness due to climate-related disasters, such as hurricanes.
+   - **Areas/Populations with Most Vulnerability:** The plan identifies vulnerable groups such as "homeless families, veterans, and climate refugees," for instance, "Puerto Ricans after Hurricane Maria," who have relocated due to climate impacts. It suggests developing affordable housing solutions tailored to these populations.
 
-These policies focus on addressing inequalities by enhancing access to resources and infrastructure that reduce vulnerability to specific climate threats in identified populations.
+Each of these policies incorporates elements of climate justice by focusing on reducing the disparities that exacerbate the vulnerability of specific populations to climate hazards while promoting inclusivity and equitable resource distribution.
+
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the content provided in the plan, here are potential unforeseen maladaptive climate policies:
+Based on the document provided, the potential unforeseen maladaptive climate policies are:
 
-1. **Tree Planting and Urban Tree Canopy Expansion**
+1. **Establish Green Affordable Housing Standards**
 
-   - **Climate Threat:** Urban Heat Island effect and air pollution.
-   - **Option:** Increase urban tree canopy coverage to 40% as a way to enhance community livability, provide GHG reduction, and offer air quality benefits. *As stated in the plan, "To achieve our goal of 40% tree canopy coverage, the city will continue to build on its successful tree-planting initiatives to increase Orlando’s tree canopy" (Livability section).*
-   - **Inadvertent Maladaptation:** Focusing strictly on increasing tree canopy coverage without considering the types of trees or their maintainability may lead to unwanted consequences like excessive water usage for irrigation or an increased prevalence of certain pests. Additionally, if the initiative doesn't prioritize diversity in tree species or careful placement, it could inadvertently increase susceptibility to diseases or reduce the resilience of urban ecosystems.
+   - **Climate Threat Addressed:** 
+     - This policy aims to reduce the environmental impact and improve sustainability in housing, indirectly addressing threats such as GHG emissions and increased urban heat.
+   
+   - **Resilience, Mitigation, or Adaptation Option:** 
+     - This initiative proposes to improve energy efficiency and sustainability of affordable housing as a resilience and mitigation option.
 
-2. **Permanent Supportive Housing for Climate Refugees**
+   - **Why It May Cause Inadvertent Maladaptation:**
+     - *Although well-intentioned, if green affordable housing standards increase construction or housing costs without providing sufficient support or incentives, they may exacerbate housing affordability issues. This could lead to displacement of low-income residents or minimize their access to sustainable housing.*
 
-   - **Climate Threat:** Increased population stemming from migration due to climate impacts, such as hurricanes.
-   - **Option:** Develop affordable, permanent supportive housing for homeless families, veterans, and climate refugees. *The plan mentions "Developing an affordable, permanent supportive housing community, could be a solution for homeless veterans, refugees, or low-income earners" (Livability section).*
-   - **Inadvertent Maladaptation:** Without comprehensive future planning, investing heavily in building new infrastructure in areas that might themselves become vulnerable to climate impacts could inadvertently increase inhabitants' vulnerability. If these new housing projects are not designed with consideration for future climate projections, such as increased flooding or extreme weather events, they may become inadequate.
+2. **Increase Urban Tree Canopy and Green Space**
 
-3. **Rain Barrel Program**
+   - **Climate Threat Addressed:** 
+     - The plan addresses the urban heat island effect and GHG emissions, while also aiming to improve public health and community resiliency.
+   
+   - **Resilience, Mitigation, or Adaptation Option:** 
+     - Increasing tree canopy coverage serves as a resilience and mitigation strategy, providing shade, reducing temperatures, and improving air quality.
+   
+   - **Why It May Cause Inadvertent Maladaptation:**
+     - *If implementation does not consider the local ecology and water availability, increased planting could strain water resources or introduce non-native species, causing unintended ecological disruption.*
 
-   - **Climate Threat:** Water scarcity and stormwater runoff.
-   - **Option:** Establish a Residential Rain Barrel Program to capture rainwater from gutters, reducing potable water demand and managing stormwater. *The plan states, "The city will partner with the local UF/IFAS Extension office to provide education around rain barrel use" (Water section).*
-   - **Inadvertent Maladaptation:** If rainwater catchment systems are not properly maintained or used, they might become breeding grounds for mosquitoes, thus increasing health risks. Furthermore, if these systems aren't communicated effectively to residents, they may be used inappropriately, leading to inefficient water usage or becoming a liability during heavy rains.
-
-Each of these policies addresses legitimate concerns related to climate impacts but must be carefully monitored, evaluated, and adjusted to avoid adverse unintended outcomes that may counteract the intended objectives of resilience and adaptation.
+Each of these policies highlights the importance of carefully considering the wider systemic and structural implications of any climate strategy to avoid increasing vulnerabilities or creating new risks inadvertently.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-**The plan employs several metrics to measure success in adaptation, resilience, and mitigation options, focusing on specific quantifiable impacts and set goals:**
+### Metrics Utilized in the Plan
 
-### **Clean Energy**
+The plan outlines various metrics to measure the success of certain adaptation, resilience, and mitigation options:
 
-- **Goals and Targets:**
-  - Obtain 100% of electricity from clean, renewable sources citywide by 2050.
-  - Reduce greenhouse gas emissions by 90% from 2007 levels.
+**Clean Energy:**
+- **Greenhouse Gas Emissions:** Measured in metric tons for Scope 1 and 2 emissions. Baseline is 7,408,100 metric tons, and 2018 data recorded is 7,384,473 metric tons (Appendix Focus Area).
+- **Energy from Renewable Sources:**
+  - The percentage of total energy derived from renewable sources for city operations.
+  - The percentage of total energy derived from renewable sources of the city’s total energy consumption (Appendix Focus Area).
+- **Air Quality:**
+  - Fine particulate matter (PM2.5) concentration and Particulate matter (PM10) concentration.
+  - Nitrogen dioxide (NO2), Sulphur dioxide (SO2), and Ozone (O3) concentration levels (Appendix Focus Area).
 
-- **Metrics:**
-  - **Greenhouse gas emissions measured (Scope 1 and 2, in tonnes):**
-    - *2012 Baseline:* 7,408,100 metric tons
-    - *2018 Data:* 7,384,473 metric tons
-  - **Percentage of total energy derived from renewable sources for city operations**
-  - **Percentage of total energy derived from renewable sources of the city’s total energy consumption**
-  - **Total residential electrical energy use per capita (kWh/year):**
-    - *2012 Baseline:* 11,192 kWh/year
-    - *2018 Data:* 11,999 kWh/year
-  - **Air Quality Metrics:** Concentrations of PM2.5, PM10, NO₂, SO₂, and O₃
+**Green Buildings:**
+- **Energy Consumption:**
+  - Measured in kilowatt-hours per year (kWh/yr) for municipal buildings and per capita.
+  - Total citywide and residential electrical energy use per capita (Appendix Focus Area).
 
-### **Green Buildings**
+**Transportation:**
+- **Electric Vehicles and Alternative Fuel Vehicles:**
+  - Increase in the use of electric vehicles and alternative fuel vehicles throughout the city (Overview of Goals, Objectives, and Targets).
 
-- **Goals and Targets:**
+### Goals and Targets
+
+The plan sets specific goals and targets for each option:
+
+- **Reduction in Greenhouse Gas Emissions:** Reduce emissions by 90% from 2007 levels (Overview of Goals, Objectives, and Targets).
+- **Renewable Energy Use:** Obtain 50% of electricity from renewable sources and ensure clean, renewable energy sources citywide by 2050 (Appendix Focus Area).
+- **Green Building Standards:** 
   - Ensure 100% of new and existing buildings meet green building standards.
-  - Reduce total electricity consumption by 20% from 2010 levels.
+  - Reduce total electricity consumption by 20% from 2010 levels (Overview of Goals, Objectives, and Targets).
+- **Waste Management:** No waste to landfills or incinerators (Overview of Goals, Objectives, and Targets).
+- **Transportation Infrastructure:** 
+  - Obtain a Gold ranking for the League of American Bicyclists Bicycle Friendly Community Score.
+  - Increase miles of safe, sustainable transportation infrastructure, and double street miles that meet "complete streets" criteria (Appendix and Overview).
+- **Air Quality:**
+  - Attain a “good” rating on the Air Quality Index (AQI) 365 days/year (Overview of Goals, Objectives, and Targets).
 
-- **Metrics:**
-  - **Total energy consumption of municipal buildings per year (kWh/yr):**
-    - *2012 Baseline:* 224,200,102 kWh
-    - *2018 Data:* 112,944,214 kWh
-  - **Total citywide electrical energy use per capita (kWh/year):**
-    - *2012 Baseline:* 29,551 kWh/year
-    - *2018 Data:* 27,864 kWh/year
-  - **Electricity consumption per household per day**
-
-### **Transportation and Air Quality**
-
-- **Goals and Targets:**
-  - Majority of trips made by foot, bike, carpooling, or transit.
-  - Eliminate pedestrian and bike fatalities.
-  - Increase the use of electric and alternative fuel vehicles throughout the city.
-  - Achieve a "good" rating on the Air Quality Index (AQI) 365 days/year.
-
-- **Metrics:**
-  - **Air Quality Measurements:** Attaining "good" AQI ratings and monitoring specific pollutants like PM2.5, NO₂, etc.
-
-### **Urban Tree Canopy and Green Space**
-
-- **Goals and Targets:**
-  - Increase tree canopy to 40% to mitigate urban heat island effects and improve public health.
-
-### **Solid Waste**
-
-- **Goals and Targets:**
-  - No waste to landfills or incinerators.
-  - Develop the Beyond 34 comprehensive waste management plan.
-
-### **Renewable Energy Study and Additional Goals**
-
-- **Goals and Targets:**
-  - Develop a 100% Renewable Energy study with OUC and UCF.
-  - Implement a smart microgrid demonstration project.
-  - Implement solar plus storage demonstration on critical infrastructure for grid resilience.
-
-**Overall, the plan sets clear numerical goals and baselines for each focus area, providing a framework to track progress and success towards aligning with both local and global sustainability objectives.**
+These metrics and goals reflect the planning jurisdiction's commitment to measurable improvements in adaptation, resilience, and mitigation efforts.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**               | **Details**                                                                                                                                                     |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name**    | Orlando                                                                                                                                                         |
-| **Population**            | Not explicitly stated in the provided excerpts                                                                                                                  |
-| **Threats Identified**    | - Urban heat island effects <br> - Air pollution <br> - Stormwater management issues during rain events, potentially exacerbated by climate change               |
-| **Measures Identified**   | - Increase urban tree canopy to 40% <br> - Implement smart city technologies like "smart poles" for air quality monitoring <br> - Enhance community resiliency |
+| Feature               | Description                                                                                           |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| **Location/City Name**| Orlando, Florida                                                                                      |
+| **Population**        | Not mentioned in the document                                                                         |
+| **Threats Identified**| - Urban heat island effect<br>- Air quality issues<br>- Potential impacts of a changing climate       |
+| **Measures Identified**| - Increase tree canopy to mitigate urban heat<br>- Monitor air quality using smart city technology<br>- Develop and enhance walkable villages<br>- Implement smart technology solutions to improve sustainability and resilience |
 ```
 

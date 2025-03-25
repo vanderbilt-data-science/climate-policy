@@ -1,334 +1,379 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The provided document does not supply detailed information about the physical and economic landscape of the planning jurisdiction, such as specific demographics, average income, or detailed geographic features. However, here are some pieces of information that can be derived from the plan:
+The plan provides information about the planning jurisdiction, which is Spokane, located in the state of Washington, United States. Here are the details extracted from the plan concerning the physical and economic landscape of Spokane:
 
-- **Planning Jurisdiction:** The plan refers to Spokane, located in the state of Washington, United States.
-- **Climate and Water Challenges:** The document mentions, "Decreased Snowpack" and "Changes in type and timing of precipitation" which implies challenges related to water availability. It also states, "Warmer Year-Round Temperatures" and "Longer, drier summers," contributing to a changing climate pattern with "Increased Risk of Wildfire" (Why We Need a Plan, 11).
+### **Location and Geographic Features**
+- Spokane is positioned in the state of Washington.
+- Although specific mountains, rivers, or geographic features are not detailed, the plan mentions the **Spokane River** as an important natural resource impacting native fish and wildlife (e.g., "Impact on native fish and wildlife as well as recreation on the river" - *Why We Need a Plan*).
+- The plan speaks about the challenges with snowpack, indicating proximity to mountainous areas (e.g., "Less snow in the mountains resulting in changes in river flow" - *Why We Need a Plan*).
 
-- **Energy Production and Natural Resources:** The plan highlights Spokane's commitment towards renewable energy, aiming for "100% renewable electricity by 2030" (Introduction, 7). It showcases the importance of energy sustainability and mentions partnerships for electric vehicle charging stations as part of a transportation electrification plan (Introduction, 6-7).
+### **Population and Demographics**
+- The plan does not provide specific demographic details such as population numbers or average income.
 
-- **Economic Landscape:** The document outlines efforts towards "Economic Prosperity," emphasizing investment in sustainable business practices and ensuring access to healthcare, education, and housing. Key economic initiatives include the development of an "eco-district on the West Plains," energy innovations in the "University District," and bolstering a "thriving local food economy" (Economic Prosperity, 66).
+### **Local Climate**
+- The plan references the local climate impacts, noting issues such as "Warmer Year-Round Temperatures," "Decreased Snowpack," and "Increased Risk of Wildfire" due to climate change (*Why We Need a Plan*).
+- Water challenges include changes in precipitation patterns, with more rain expected in spring and fall, and drier summers, altering river flow and impacting local ecosystems (*Why We Need a Plan*).
 
-- **Key Industry Drivers:** The plan underlines Spokane's strengths in innovation and technology as central to tackling climate change and highlights tourism-related events like "Bloomsday," which are vital to the local economy. The Spokane River and regional farming are also noted as significant economic and natural resources (Introduction, 6).
+### **Energy Production and Natural Resources**
+- Spokane has a strong focus on renewable energy, with a commitment to a 100% renewable electricity goal by 2030, as outlined in partnership projects such as the regionwide transportation electrification (TE) plan (*Spokane’s Sustainability Action Plan*).
+- Specific targets are mentioned like "Promote local production and sourcing of renewable energy" (e.g., "Invest in community-scale and distributed energy generation and storage", "Harness energy from waste resources" - *Buildings & Energy*).
 
-For additional explicit demographic and geographic details, reference to an external source or a different section in the document might be necessary.
+### **Infrastructure**
+- The plan does not specifically mention key infrastructures like airports or seaports but highlights infrastructure investment in areas like "public transit" and "transportation electrification" as part of regional development efforts (*Economic Prosperity*).
+
+### **Economy and Industries**
+- The economic landscape emphasizes resilience and includes efforts to prepare for a low-carbon economy through projects supporting innovation and technology (e.g., "Eco-district on the West Plains," "energy innovators in the University District" - *Economic Prosperity*).
+- Notable industries include technology, energy innovation, and a "local food economy" as pivotal areas with potential for contribution to Spokane's economic sustainability efforts (*Economic Prosperity*).
+
+### **Summary of Economic Drivers and Challenges**
+- The planning focuses on diversifying the economy with sustainable practices, creating good jobs, and maintaining a healthy environment. It emphasizes building economic resilience through local workforce access to "affordable healthcare, transportation, housing, and education" (*Economic Prosperity*).
+- The negative economic impacts attributed to climate change include potential losses in iconic events like "Hoopfest and Pig Out in the Park," changes in "recreation due to early season low flows on the Spokane River," and "shorter ski seasons" (*Why We Need a Plan*).
+
+In summary, Spokane serves as a planning jurisdiction aiming to adapt to and mitigate climate impacts while leveraging renewable energy and technology for economic growth. The plan focuses significantly on sustainability, resilience, and equitable economic development, despite not providing specific demographic and income data.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
 **Resilience:**
 
-The plan emphasizes resilience by ensuring that neighborhoods and the economy are prepared for future challenges associated with climate change. It proposes strategies like integrating projected climate impacts into data models for risk assessment and developing disaster preparedness plans for natural and man-made disasters. Additionally, the plan aims to "ensure the city’s ability to mitigate risks associated with climate change" through capital and programmatic investments (Implementation Strategies, Strategy 3; Implementation Strategies, Strategy 7).
+The plan addresses resilience by focusing on preparing the community for future challenges. It aims to ensure neighborhoods and the economy are ready for these challenges through actions that build resilience, such as "integrating projected climate impacts into data models for risk assessment" and "developing a disaster preparedness plan for both natural and man-made disasters" (*Strategy 7.*). Moreover, the plan includes goals to "implement climate adaptation strategies into emergency and disaster response" and to "include climate impacts in disaster and emergency management response" (*HEALTH & WELLBEING, GOAL 2*).
 
 **Mitigation:**
 
-The plan includes a strong focus on mitigation by setting specific goals and strategies to reduce greenhouse gas emissions. It includes a "step approach to reduce greenhouse gas emissions compared to 2016 levels" and aims for a 95% reduction by 2050 (Introduction). Strategies to promote energy efficiency and renewable energy in buildings, reduce vehicle miles traveled, and advance alternative and low carbon fuels are examples of mitigation efforts (Summary of Sector Strategies).
+Mitigation is addressed by setting greenhouse gas (GHG) reduction targets and promoting renewable energy initiatives. The plan sets an ambitious goal of a "95% Reduction by 2050" compared to 2016 levels and a step approach to achieve this goal (*Introduction*). It also prioritizes promoting local production and sourcing of renewable energy, increasing energy efficiency in buildings, and advancing low-carbon transportation alternatives (*Buildings & Energy* and *Transportation & Land Use* sections).
 
 **Adaptation:**
 
-Adaptation is addressed through initiatives such as implementing climate impact strategies in emergency management response and increasing community awareness of climate change risks and impacts. The plan emphasizes "climate adaptation strategies into emergency and disaster response" and the development of a regional plan to address increased heat and wildfire smoke impacts on vulnerable populations (Health & Wellbeing, Strategy 3).
+The plan incorporates adaptation strategies by identifying and implementing strategies that adjust systems to expected climate changes. This includes partnering with emergency and disaster response teams to develop regional plans to respond to impacts such as increased heat and wildfire smoke on vulnerable populations (*HEALTH & WELLBEING, Strategy 3*), and partnering on aligning city programs to amplify progress toward resilience goals (*IMPLEMENTATION STRATEGIES, IS 6.3*).
 
 **Classification:**
 
-Based on the detailed strategies and goals for resilience, mitigation, and adaptation outlined in the plan, it can be classified as an **equal mitigation and adaptation climate action plan**. The plan balances efforts to reduce greenhouse gas emissions (mitigation) with strategies to prepare for and respond to the impacts of climate change (adaptation and resilience).
+The Spokane Sustainability Action Plan can be classified as an **equal mitigation and adaptation climate action plan**. It reflects a balanced approach, addressing both mitigation and adaptation/resilience comprehensively, by setting targets for GHG reductions while simultaneously planning for resilience and adaptation to climate impacts.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that the planning jurisdiction, Spokane, will face. The plan outlines projected impacts due to climate change throughout the century if no bold actions are taken to reduce greenhouse gas emissions. These impacts include:
+Yes, the plan describes a scenario of climate change that Spokane is facing and for which it is planning climate policies. According to the document:
 
-- **Temperature Increases**: "Increases in temperatures in all seasons," with "more intense temperature increases during summer months" and "longer, drier summers" (Why We Need a Plan).
+- **Temperature Increases**: There will be "increases in temperatures in all seasons" with "more intense temperature increases during summer months" and "longer, drier summers" (Section: Why We Need a Plan).
+  
+- **Decreased Snowpack**: There will be "changes in type and timing of precipitation" with "less snow in the mountains," impacting "native fish and wildlife as well as recreation on the river" and resulting in a "shorter winter sport season" (Section: Why We Need a Plan).
 
-- **Decreased Snowpack**: "Changes in type and timing of precipitation" resulting in less snow in the mountains, which "will impact native fish and wildlife as well as recreation on the river" (Why We Need a Plan).
+- **Increased Risk of Wildfire**: "Wetter springs mean more underbrush growth for fire fuel" and "hotter, drier summers mean more intense and destructive wildfires," leading to "increased wildfire frequency and intensity" with "loss of habitat and increased smoke" (Section: Why We Need a Plan).
 
-- **Increased Risk of Wildfire**: "Wetter springs mean more underbrush growth for fire fuel" and "hotter, drier summers mean more intense and destructive wildfires." This leads to "increase wildfire frequency and intensity equals loss of habitat and increase smoke" (Why We Need a Plan).
+- **Economic & Recreational Costs**: Economic impacts include effects on major events like "Hoopfest and Pig Out in the Park" due to "increased heat and smoke during the summer months." There will also be a "loss of recreation due to early season low flows on the Spokane River" and "warmer winters means shorter ski seasons" (Section: Why We Need a Plan).
 
-- **Economic & Recreational Costs**: Economic impacts on major events like "Hoopfest and Pig Out in the Park," which bring significant revenue, will be affected by "increased heat and smoke during the summer months." There will also be a "loss of recreation due to early season low flows on the Spokane River" and "warmer winters meaning shorter ski seasons" (Why We Need a Plan).
+- **Disproportionate Impacts**: Increased risk of "respiratory and heat-related illness" will disproportionately affect "children, outdoor workers, under-sheltered," the "low-income, people with underlying health issues, elderly" (Section: Why We Need a Plan).
 
-- **Disproportionate Impacts**: Increased risk of "respiratory and heat-related illness" particularly affecting "children, outdoor workers, under-sheltered," and "low-income, people with underlying health issues, elderly" (Why We Need a Plan).
-
-These projections guide the development of climate policies for resilience, mitigation, and adaptation in the plan.
+This scenario outlines potential consequences and forms the basis for Spokane's climate policies focused on resilience, mitigation, and adaptation.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Warmer Year-Round Temperatures**
-   - **The Climate Hazard:** "Increases in temperatures in all seasons" with "more intense temperature increases during summer months" leading to "longer, drier summers" (Section: Why We Need a Plan).
-   - **Climate Risks:** Increased temperatures can lead to diminished river flows, higher water temperatures that threaten native fish species, and extend the duration of adverse conditions for outdoor events and recreation.
-   - **Vulnerable Areas or Populations:** The plan does not explicitly mention specific areas but highlights vulnerable individuals like children, outdoor workers, and under-sheltered people as being disproportionately exposed (Section: Why We Need a Plan).
+1. **Warmer Year-Round Temperatures**
+   - *Climate Hazard:* Increases in temperatures in all seasons, with more intense temperature increases during summer months and longer, drier summers.
+   - *Climate Risks:* Projected lower river flows likely to increase water temperatures, favoring non-native predatory fish and resulting in reduced habitat quality, thereby affecting the native Redband Trout. Economic impacts on local events like Hoopfest and Pig Out in the Park, and shorter ski seasons due to warmer winters.
+   - *Vulnerable Populations:* Those disproportionately exposed include children, outdoor workers, and the under-sheltered. Low-income individuals, people with underlying health issues (e.g., asthma, heart disease), and the elderly are more susceptible.
 
-**2. Decreased Snowpack**
-   - **The Climate Hazard:** "Changes in type and timing of precipitation (more rain in the spring and fall, less rain in the summer)" and "less snow in the mountains" (Section: Why We Need a Plan).
-   - **Climate Risks:** Impacts on river flows affecting native fish and wildlife, reduced recreational opportunities such as skiing, and possibly affecting water supply.
-   - **Vulnerable Areas or Populations:** While specific areas are not detailed, populations dependent on river ecosystems and those engaged in winter sports are indirectly identified.
+2. **Decreased Snowpack**
+   - *Climate Hazard:* Changes in type and timing of precipitation with more rain in spring and fall, less rain in summer, and less snow in the mountains.
+   - *Climate Risks:* Impact on river flow affecting native fish and wildlife, shortening the winter sport season, and affecting recreational activities on the river.
+   - *Vulnerable Populations:* Not specifically outlined regarding snowpack, but general vulnerability is implied for wildlife and those reliant on snow-related recreation.
 
-**3. Increased Risk of Wildfire**
-   - **The Climate Hazard:** "Wetter springs" leading to more underbrush growth which acts as "fire fuel," accompanied by "hotter, drier summers" that result in "more intense and destructive wildfires" (Section: Why We Need a Plan).
-   - **Climate Risks:** Increased frequency and intensity of wildfires lead to habitat loss and more smoke, negatively impacting air quality.
-   - **Vulnerable Areas or Populations:** Those at increased risk of respiratory and heat-related illness, including children, those with pre-existing health issues, the elderly, and low-income populations (Section: Why We Need a Plan).
+3. **Increased Wildfire Risk**
+   - *Climate Hazard:* Wetter springs leading to more underbrush growth, combined with hotter, drier summers, resulting in more intense and destructive wildfires.
+   - *Climate Risks:* Increased wildfire frequency and intensity leading to loss of habitat and increased smoke, contributing to hazardous air quality.
+   - *Vulnerable Populations:* Increased risk of respiratory and heat-related illnesses among children, outdoor workers, the under-sheltered, low-income families, people with health issues, and the elderly.
 
-**4. Economic & Recreational Costs**
-   - **The Climate Hazard:** Economic impacts from climatic shifts that threaten major events due to heat and smoke and reduce recreation potential due to low river flow (Section: Why We Need a Plan).
-   - **Climate Risks:** Economic loss from impacted events and reduced seasonal recreational opportunities which diminish tourism and outdoor activities.
-   - **Vulnerable Areas or Populations:** The plan doesn't specify particular areas, but individuals or businesses reliant on tourism and events services are indirectly suggested.
+4. **Economic & Recreational Costs**
+   - *Climate Hazard:* General increase in economic costs associated with climate change impacts, particularly affecting local events and recreational activities.
+   - *Climate Risks:* Financial impacts due to reduced participation or cancellation of events like Hoopfest and shorter recreational seasons.
+   - *Vulnerable Populations:* Those dependent on the affected economic and recreational services.
 
-**5. Poor Air Quality**
-   - **The Climate Hazard:** More frequent "hazardous air quality days" leading to dangerous breathing conditions, primarily due to "regional wildfire smoke" (Section: Climate Change is Already Here).
-   - **Climate Risks:** Can lead to physical and psychological health impacts, increased heat stress, decreased air quality, and altered disease vector patterns.
-   - **Vulnerable Areas or Populations:** Special risk for children, outdoor workers, people with asthma and other respiratory conditions, and the under-sheltered (Section: Summary of Sector Strategies).
+5. **Hazardous Air Quality**
+   - *Climate Hazard:* Increasing number of hazardous air quality days due to larger and longer wildfires.
+   - *Climate Risks:* Health risks associated with air quality, notably on days when the AQI reaches high levels due to regional wildfire smoke.
+   - *Vulnerable Populations:* Residents with respiratory issues, children, the elderly, and other populations sensitive to poor air quality are most vulnerable.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-### Resilience Options Identified in the Plan
+**Resilience Options Identified in the Plan**
 
-1. **Integration of Projected Climate Impacts into Data Models for Risk Assessment**
-   - **Climate Threat Addressed:** This option addresses various climate threats by integrating projected climate impacts into data models to improve risk assessment accuracy. It appears to target threats such as extreme weather events, including heatwaves and wildfires (Chapter: Implementation Strategies).
-   - **Cost, Timeframe, and Location:** The plan does not provide specific details on the cost, timeframe, or location for this resilience option.
-   - **Other Important Attributes:** By improving the accuracy of risk assessments, this option is intended to enhance planning processes for infrastructure and emergency management, thus contributing to economic and infrastructural stability.
+1. **Urban Tree Canopy and Climate-Adapted Plant Landscapes**
 
-2. **Development of a Disaster Preparedness Plan**
-   - **Climate Threat Addressed:** This option specifically prepares for natural and man-made disasters, likely addressing threats such as wildfires and extreme weather (Chapter: Implementation Strategies).
-   - **Cost, Timeframe, and Location:** No specific details on cost, timeframe, or location are provided in the document for this option.
-   - **Other Important Attributes:** The preparedness plan aims to strengthen the community's ability to respond to climate-related disasters, reducing economic and infrastructural damage caused by such events.
+   - **Climate Threat Addressed:** 
+     - This option addresses increased carbon levels and moderates neighborhood microclimate. The focus is on environmental and infrastructural resilience.
+   
+   - **Details on Cost, Timeframe, and Location:** 
+     - The plan outlines strategies to expand the urban tree canopy to capture more carbon. Specific details on cost, timeframe, and location are not explicitly provided in the sections.
+   
+   - **Other Important Attributes:** 
+     - The initiative is part of the Natural Environment sector strategies designed to promote sustainability within Spokane's built environment. Enhancing the urban landscape contributes to overall climate resilience by improving air quality and providing more shade.
 
-3. **Increase Urban Tree Canopy and Climate-Adapted Plant Landscapes**
-   - **Climate Threat Addressed:** This option addresses the threat of increased temperatures and urban heat islands, as well as potential negative impacts on air quality (Chapter: Natural Environment).
-   - **Cost, Timeframe, and Location:** The document does not provide specific details on cost, timeframe, or location for expanding the urban tree canopy.
-   - **Other Important Attributes:** Expanding the urban tree canopy helps capture more carbon and moderates neighborhood microclimates. Additionally, it provides aesthetic and recreational benefits, contributing to economic and environmental improvements in urban areas.
+2. **Disaster Preparedness Plan Development**
 
-4. **Partnerships and Community Engagement for Resilience Building**
-   - **Climate Threat Addressed:** This option indirectly addresses multiple climate-related threats by fostering community engagement and partnerships which prepare communities to face various impacts collectively (Chapter: Implementation Strategies).
-   - **Cost, Timeframe, and Location:** Specific details regarding cost, timeframe, and location are not provided in the plan for this option.
-   - **Other Important Attributes:** By leveraging community input and aligning with regional priorities, collaborative efforts can bolster economic resilience and ensure a holistic approach to addressing climate vulnerabilities.
+   - **Climate Threat Addressed:** 
+     - This option addresses natural and man-made disasters, including the impacts of heat and wildfire smoke on vulnerable populations. The resiliency focus is on emergency preparedness and response.
+   
+   - **Details on Cost, Timeframe, and Location:** 
+     - Priority actions include finalizing the Climate Vulnerability Assessment by 2021 and developing regional plans for disaster response. Specific cost details are missing, but the plan aims to prepare the city for future crises.
+   
+   - **Other Important Attributes:** 
+     - The strategy includes identifying public buildings as cooling and clean air centers to address mental health needs during crises. This involves partnership with regional emergency teams for a cohesive response.
 
-5. **Development of Regional Plans to Address Heat and Wildfire Smoke Impacts**
-   - **Climate Threat Addressed:** Specifically aims to mitigate impacts from increased heat and wildfire smoke on vulnerable populations (Chapter: Health & Wellbeing).
-   - **Cost, Timeframe, and Location:** No specific figures are listed concerning cost, timeframe, or exact locales.
-   - **Other Important Attributes:** This option focuses on identifying public buildings as cooling and clean air centers and includes mental health needs, highlighting social and health-related benefits alongside physical health measures.
+3. **Enhancement of Community Awareness and Engagement**
+
+   - **Climate Threat Addressed:** 
+     - This strategy focuses on climate change risks and impacts, targeting increased community awareness and education as resilience measures against potential climate threats.
+   
+   - **Details on Cost, Timeframe, and Location:** 
+     - Public outreach campaigns and collaboration with community centers are prioritized to improve sustainability and climate action awareness. Cost and timeframe details are not explicitly outlined.
+   
+   - **Other Important Attributes:** 
+     - This option seeks to empower communities through education and participatory opportunities, addressing economic and social resilience by fostering informed and engaged citizens.
+
+The plan does not provide explicit tables, charts, or images delineating additional detailed cost, timeframe, and specific location information. However, the plan emphasizes integrating equity into resilience efforts to ensure broad community involvement and access to climate-related information and resources.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-**The plan identifies several mitigation options which are summarized below:**
+The plan identifies several mitigation options within different sectors. Below is a summary of the identified mitigation options, along with information regarding cost, timing, location, and other important attributes as provided in the plan:
 
-1. **Efficient, Renewable Energy Buildings:**
+### **Buildings & Energy**
 
-   - **Summary:** Encourage the construction of energy-efficient buildings that utilize renewable energy and meet Energy Use Intensity (EUI) targets.
-   - **Attributes:** 
-     - The plan mentions upgrades to existing buildings for high efficiency and renewable energy sources.
-     - There is a focus on increasing energy efficiency at publicly funded facilities.
-   - **Cost and Timing:** Detailed costs and timing are not specified. However, the plan calls for more analysis during the implementation stage to determine specific costs and benefits, referring to factors such as upfront costs and long-term economic benefits.
+- **Ensure New Construction is Efficient and Renewable Energy Ready**
+  - *Attributes*: Focus on energy efficiency and readiness for renewable energy.
+  - *Cost, Timing, Location*: Not explicitly detailed regarding cost or timing, but residential and commercial construction efforts are implied within Spokane (BE 1).
 
-2. **Local Production and Sourcing of Renewable Energy:**
+- **Upgrade Existing Buildings for Efficiency and Renewable Sources**
+  - *Attributes*: Increase energy efficiency, particularly in publicly funded facilities.
+  - *Cost, Timing, Location*: Specific cost and timing not provided. Applicable to existing buildings locations within Spokane (BE 2).
 
-   - **Summary:** Promote community-scale and distributed energy generation and storage, and harness energy from waste resources.
-   - **Attributes:**
-     - Strategies like neutralizing carbon emissions from fossil fuels used in buildings and transportation are included.
-   - **Cost and Timing:** Costs are not detailed, but there is an emphasis on evaluating GHG reductions and long-term economic benefits.
+- **Invest in Community-Scale and Distributed Energy Generation**
+  - *Attributes*: Promotion of distributed renewable energy systems.
+  - *Cost, Timing, Location*: No specific cost or timeline; targets community-scale systems (BE 3).
 
-3. **Transportation & Land Use:**
+- **Harness Energy from Waste Resources**
+  - *Attributes*: Utilize waste resources to generate energy beyond traditional means.
+  - *Cost, Timing, Location*: Details on cost and implementation details are not included (BE 4).
 
-   - **Summary:** Implement land use policies that support walkable, livable, and sustainable communities, reduce vehicle miles traveled (VMT), and promote the adoption of zero-emission vehicles.
-   - **Attributes:**
-     - Strategies involve increasing transit ridership and promoting active transportation like walking and cycling.
-     - Encourage the adoption of zero-emission vehicles including electric bicycles.
-   - **Cost and Timing:** Not detailed; analysis of the economic benefits and social benefits is expected.
+- **Neutralize Carbon Emissions from Fossil Gas and Fuels**
+  - *Attributes*: Targeted reduction of carbon emissions in buildings and transportation.
+  - *Cost, Timing, Location*: No detailed cost or implementation timing mentioned (BE 5).
 
-4. **Adoption Rate of Zero Emission Vehicles (ZEVs):**
+### **Transportation & Land Use**
 
-   - **Summary:** Increase adoption rates of ZEVs through strategic planning and regional partnerships.
-   - **Attributes:**
-     - Includes plans to convert city fleet vehicles to carbon-negative, neutral, and low-carbon alternatives with specific targets by 2030 and 2040, aiming for zero emissions by 2050.
-     - Encourages regional education, legislative support, and infrastructure for transportation electrification.
-   - **Timing:** Set targets for 2030, 2040, and 2050.
+- **Encourage Land Use to Minimize Vehicle Miles Traveled (VMT)**
+  - *Attributes*: Promotes development patterns that reduce dependency on vehicles.
+  - *Cost, Timing, Location*: Broad city-wide application without direct cost or timing details (TL 1).
 
-The plan highlights that each strategy was evaluated against primary factors, including greenhouse gas reductions and long-term economic benefits, indicating an intent to balance environmental goals with economic viability. However, exact costs, specific locations, and detailed timing for implementation projects are not specified in the summary excerpts available.
+- **Increase Adoption of Walking, Cycling, and Micromobility**
+  - *Attributes*: Reduce emissions by enhancing non-motorized transport.
+  - *Cost, Timing, Location*: City-wide efforts with no explicit cost or timing (TL 4).
+
+- **Advance Adoption of Zero Emission Vehicles (ZEVs)**
+  - *Attributes*: Includes support for electric bicycles and conversion of city fleet vehicles.
+  - *Cost, Timing, Location*: Goals set for years 2030, 2040, and 2050 with no direct cost details provided (TL 7).
+
+### **Implementation & Monitoring**
+
+- **Develop a Mitigation and Adaptation Matrix**
+  - *Attributes*: Tool to aid in decision-making processes regarding mitigation.
+  - *Cost, Timing, Location*: Planned for internal city use with timing aligned to plan accomplishments (IS 1.4).
+
+### **Plan Overview & Evaluation**
+
+The plan considers cost-effectiveness, feasibility, and co-benefits as evaluation criteria for priority actions, though specific cost estimates for individual mitigation options are not detailed. The plan acknowledges the necessity for ongoing evaluation of costs and benefits during implementation stages (Plan Summary).
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, with associated information regarding cost, timeframe, location, and other attributes:
+The plan identifies several mitigation options, summarized as follows:
 
-1. **Efficient, Renewable Energy Buildings**
-   - **Strategy:** "*Ensure new construction is as efficient as possible and ready to utilize renewable energy.*" (Buildings & Energy GOAL 1, Strategy BE 1)
-   - **Attributes:** 
-     - Involves new construction practices.
-     - Cost and specific timeframe not detailed, though it is part of broader sustainability efforts and aligns with the WA Clean Buildings Act EUI targets.
+### **Buildings & Energy**
 
-2. **Upgrade Existing Buildings**
-   - **Strategy:** "*Upgrade existing buildings for high efficiency and renewable energy sources; increase energy efficiency at publicly funded facilities.*" (Buildings & Energy GOAL 1, Strategy BE 2)
-   - **Attributes:** 
-     - Focuses on existing structures.
-     - Evaluated against factors including GHG reductions and economic benefits.
-     - Specific cost and timeframe details are not provided in the plan.
+- **Ensure new construction is as efficient as possible and ready to utilize renewable energy**:
+  - **Cost & Timeframe**: The plan notes that each strategy was evaluated against factors like upfront costs and long-term economic benefits without providing specific figures. It states that, "More analysis will be necessary during the implementation stage and over time to determine specific costs and benefits" (_Plan Summary_).
+  - **Location**: Applicable to new constructions within the planning jurisdiction.
+  - **Attributes**: Focuses on new constructions being energy-efficient and suited for renewable energy sources.
 
-3. **Community-scale and Distributed Energy Generation**
-   - **Strategy:** "*Invest in community-scale and distributed energy generation and storage.*" (Buildings & Energy GOAL 2, Strategy BE 3)
-   - **Attributes:** 
-     - Involves investment in community energy initiatives.
-     - Specific details on location, cost, and precise timeframe are not provided.
+- **Upgrade existing buildings for high efficiency and renewable energy sources**:
+  - **Cost & Timeframe**: Similar to the above, specific cost and timeframe details will be analyzed further during implementation (_Plan Summary_).
+  - **Location**: Targeted at existing buildings needing to be upgraded.
+  - **Attributes**: Includes increasing energy efficiency at publicly funded facilities.
 
-4. **Harness Energy from Waste Resources**
-   - **Strategy:** "*Harness energy from waste resources.*" (Buildings & Energy GOAL 2, Strategy BE 4)
-   - **Attributes:** 
-     - Utilizes waste for energy production.
-     - The plan does not detail exact costs or timeframe.
+- **Neutralize carbon emissions from fossil gas and other fossil fuels used in buildings & transportation**:
+  - **Cost & Timeframe**: No specific details provided, with more analysis required (_Plan Summary_).
+  - **Attributes**: Focused on reducing carbon emissions from buildings and transportation.
 
-5. **Neutralize Carbon Emissions**
-   - **Strategy:** "*Neutralize carbon emissions from fossil gas and other fossil fuels used in buildings & transportation.*" (Buildings & Energy GOAL 2, Strategy BE 5)
-   - **Attributes:** 
-     - Targets emissions reduction across sectors.
-     - Specifics on cost, location, and timeframe are not outlined.
+### **Transportation & Land Use**
 
-6. **Land Use Planning and Reducing Vehicle Miles Traveled (VMT)**
-   - **Strategy:** "*Advance land use planning to minimize vehicle miles traveled (VMT)*" & "*Support existing & new programs to reduce VMT.*" (Transportation & Land Use, Goals TL 1 & 2, Strategies TL 1 and TL 6)
-   - **Attributes:** 
-     - Focuses on reducing transportation-related emissions through enhanced land use planning.
-     - Detailed cost and timeframes are not provided in the plan.
+- **Advance land use planning to minimize vehicle miles traveled (VMT)**:
+  - **Cost & Timeframe**: Costs and benefits yet to be precisely determined (_Plan Summary_).
+  - **Attributes**: Aims to encourage sustainable community design to reduce reliance on vehicles.
 
-7. **Adoption of Zero Emission Vehicles (ZEVs)**
-   - **Strategy:** "*Increase adoption rate of Zero Emission Vehicles (ZEVs) including electric bicycles.*" (Transportation & Land Use GOAL 3, Strategy TL 7)
-   - **Attributes:** 
-     - Supported by regional and legislative efforts.
-     - Includes specific targets such as converting 50% of City fleet vehicles by 2030 and increasing this to 75% by 2040.
-     - Specific cost considerations are not detailed, though it requires evaluation of existing infrastructure.
+- **Increase adoption rate of Zero Emission Vehicles (ZEVs) including electric bicycles**:
+  - **Cost & Timeframe**: Implementation targets include conversion of the City fleet to ZEVs by at least 50% by 2030, 75% by 2040, and reducing emissions to zero by 2050 (_GOAL 3, Strategy 7_).
+  - **Location**: Implemented regionally, affecting both city fleets and broader community transportation options.
+  - **Attributes**: Includes efforts to incorporate ZEVs in ride-share, freight, and city fleets.
 
-8. **Update Comprehensive Plan**
-   - **Strategy:** "*Update comprehensive plan to incorporate climate action and updated sustainability goals.*" (Transportation & Land Use GOAL 4, Strategy TL 8)
-   - **Attributes:** 
-     - Involves policy integration.
-     - No detailed costs or specific timetables are provided.
+- **Evaluate and update City code to encourage electric vehicle charging infrastructure in new development**:
+  - **Attributes**: The plan anticipates launching a project for residential curbside electric charging to bolster neighborhood infrastructure (_Strategy 7, Priority Actions TL 7.8_).
 
-The document makes clear that further analysis is necessary during the implementation stage to ascertain specific costs and benefits related to these strategies.
+### **Implementation Strategies**
+
+- **Develop a mitigation and adaptation matrix to help with internal City decision making**:
+  - **Attributes**: Aims to streamline and make effective decisions for climate resilience and mitigation (_Strategy 1, Priority Actions IS 1.4_).
+
+**Note**: The plan emphasizes ongoing development in many areas, indicating that specific financial and geographical scopes are subject to further analysis and planning efforts. These strategies and actions reflect community priorities and intended multi-year frameworks.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options. Below is a summary for each:
+The plan identifies several adaptation options aimed at addressing various climate threats. Each adaptation option is summarized below:
 
-### Adaptation Option 1: Climate Vulnerability Assessment
-- **Climate Threat Addressed:** General climate impacts.
-- **Attributes:** 
-  - **Cost/Timeframe/Location:** The plan doesn't give specific information on cost, timeframe, or location in this section.
-  - **Details:** Strategy to "Finalize Climate Vulnerability Assessment by 2021" (HW 3.1). This assessment will inform disaster and emergency management plans and identify vulnerabilities (HW 3.2).
+### **1. Temperature, Precipitation, Stream Flow, Snowpack, and Wildfires**
 
-### Adaptation Option 2: Regional Plan for Heat and Smoke Impacts
-- **Climate Threat Addressed:** Increased heat and wildfire smoke.
-- **Attributes:** 
-  - **Cost/Timeframe/Location:** Information regarding cost, timeframe, and location is not detailed in this section.
-  - **Details:** Develop a regional plan to respond to increased heat and wildfire smoke impacts, including identifying cooling and clean air centers (HW 3.4).
+**Climate Threat Addressed:**  
+- Changes in temperature and precipitation patterns
+- Altered stream flow and snowpack
+- Increased risk of wildfires
 
-### Adaptation Option 3: Emergency Management Plan Integration
-- **Climate Threat Addressed:** General climate impacts affecting disaster response.
-- **Attributes:**
-  - **Cost/Timeframe/Location:** Not specifically detailed.
-  - **Details:** Ensure that disaster and emergency management plans include strategies to address vulnerabilities identified in the Climate Vulnerability Assessment (HW 3.2, HW 3.3).
+**Attributes:**  
+- The plan highlights the need for bold action towards reducing GHG emissions due to anticipated impacts on species like the Native Redband Trout, which is threatened by lower river flows and increased temperatures favoring non-native predatory fish.  
+- Important risks include warmer year-round temperatures, decreased snowpack, and increased wildfire risks impacting the local environment and economy.  
+- No specific cost or timeframe information is provided in the documentation. 
 
-### Adaptation Option 4: Urban Tree Canopy Expansion
-- **Climate Threat Addressed:** Urban heat and carbon sequestration needs.
-- **Attributes:** 
-  - **Cost/Timeframe/Location:** Specifics on cost and timeframe are not provided.
-  - **Details:** Expand the urban tree canopy to capture more carbon and moderate neighborhood microclimates (NE 6).
+### **2. Disaster and Emergency Response**
 
-### Adaptation Option 5: Climate-Adapted Landscaping
-- **Climate Threat Addressed:** Anticipated impacts of future climate conditions.
-- **Attributes:** 
-  - **Cost/Timeframe/Location:** Not detailed in terms of cost or timeframe.
-  - **Details:** Establish diverse, future-climate-adapted landscaping within the built environment (NE 7).
+**Climate Threat Addressed:**  
+- Increased heat and wildfire smoke
+- Various vulnerabilities identified through the Climate Vulnerability Assessment
 
-In the document, detailed specifics regarding cost, timeframe, and location are often generalized, focusing more on strategic goals and actions rather than precise metrics.
+**Attributes:**  
+- The plan sets goals to "Implement climate adaptation strategies into emergency and disaster response" and include climate impacts in disaster and emergency management response.  
+- Priority actions involve finalizing the Climate Vulnerability Assessment by 2021 and ensuring disaster management plans adapt to vulnerabilities.  
+- Regional collaboration efforts and the establishment of "cooling and clean air centers" are part of the strategy.  
+- The plan does not specify cost or location details for these centers but emphasizes a regional approach.
+
+### **3. Natural Environment and Urban Spaces**
+
+**Climate Threat Addressed:**  
+- Climate vulnerabilities affecting natural and built environments
+
+**Attributes:**  
+- Goals include increasing urban tree canopy to capture more carbon, expanding climate-adapted plant landscapes, and protecting natural spaces within Spokane.  
+- No specific information on cost, timeframe, or specific implementation locations is provided.  
+- The action involves working with regional partners and the importance of funding is mentioned but not detailed.
+
+### **4. Health and Wellbeing**
+
+**Climate Threat Addressed:**  
+- Health risks due to climate change, such as increased heat stress, decreased air quality, and altered disease patterns.
+
+**Attributes:**  
+- The plan outlines strategy "4. Increase community awareness of climate change risks and impacts" which involves public outreach and tools for community participation.  
+- No detailed costs or timeframes are specified, but partnerships with schools and local organizations are emphasized to enhance awareness and preparedness.
+
+### **Overall Plan Summary**
+
+The adaptation options emphasized in the document prioritize strategic responses to known climate threats such as temperature variations, extreme weather events, and health impacts. While the plan lays out a comprehensive set of strategies across several areas, specific details such as cost, timeframe, and locations for the implementation actions are largely unspecified and require further analysis during later stages of implementation.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice. Here is a summary of relevant policies along with the climate threat they address and the populations identified as most vulnerable:
+The plan addresses climate justice through several policies and strategies aimed at identifying, engaging with, and prioritizing support for at-risk populations. Below are the key climate policies advanced by the plan:
 
-1. **Environmental Justice Strategy**
-   - **Climate Threat:** The policy addresses the general threat of environmental burdens and lack of fair environmental benefits, ensuring that no community suffers disproportionately.
-   - **Vulnerable Populations:** The strategy prioritizes support for *at-risk populations* by identifying communities that are disproportionately at risk of *climate impacts* (Environmental Justice Program).
+### **1. Environmental Justice Strategy**
 
-2. **Equitable Implementation**
-   - **Climate Threat:** This policy is designed to address existing inequalities that will be heightened by climate impacts, including threats such as housing instability and lack of healthcare.
-   - **Vulnerable Populations:** Communities facing structural inequities including those based on race, ethnicity, income, gender, sexuality, language, and physical accessibility, as well as *marginalized groups* (EQUITABLE IMPLEMENTATION).
+- **Climate Threat:** The plan does not specify a single climate threat under this strategy. Instead, it broadly targets environmental burdens that may be exacerbated by climate change, aiming to ensure that no community suffers disproportionate impacts.
 
-3. **Health & Equity**
-   - **Climate Threat:** The policy addresses disparities such as *education, income, race, access to healthcare,* and *housing limitations* which contribute to vulnerability to climate change impacts.
-   - **Vulnerable Populations:** Those experiencing social determinants of health issues, leading to more significant impacts on low-income residents, elderly, people with pre-existing health conditions, and marginalized groups (Health & Equity).
+- **Vulnerable Populations:** The strategy prioritizes at-risk populations, traditionally underserved communities, and those facing barriers based on race, income, and other socio-economic factors. This includes communities like BIPOC, low-income, and other traditionally marginalized groups. The city aims to reduce environmental health disparities exacerbated by climate change for these groups. *(Environmental Justice Program)*
 
-Each of these policies is part of a broader effort to focus on equity, aiming to ensure benefits are distributed in a manner that addresses specific barriers, disparities, or disparate needs, taking into account Spokane's communities facing structural inequities.
+### **2. Equitable Implementation**
+
+- **Climate Threat:** The plan recognizes that the impacts of climate change might not be experienced uniformly, and existing inequities (e.g., in housing and healthcare) will be heightened by climate impacts.
+
+- **Vulnerable Populations:** Key focus is on communities facing structural inequities, including those based on race, ethnicity, income, gender or sexuality, language, and physical accessibility. Specific vulnerable groups include low-income, homeless, school-age children, communities of color, elderly, disabled, and those with pre-existing health issues. *(EQUITABLE IMPLEMENTATION)*
+
+### **3. Health & Equity Goals**
+
+- **Climate Threat:** Effects of climate change on health, particularly those affecting physical and psychological wellbeing from recurring weather disasters, increased heat stress, decreased air quality, altered vector-borne disease patterns, and food, water, and nutrient insecurity.
+
+- **Vulnerable Populations:** The focus is on increasing resiliency in underserved and highly impacted communities, with children highlighted as particularly at high risk due to the cumulative impacts of climate change such as weather disasters and increased heat. *(Health & Equity)*
+
+### **4. Community Engagement and Inclusivity**
+
+- **Climate Threat:** Broadly addressing climate awareness and the ability of communities to actively participate and respond to climate disruptions.
+
+- **Vulnerable Populations:** Targets inclusivity across all demographic groups within the community, with efforts to engage BIPOC and low-income communities to ensure broad participation in planning and implementation. *(IS 9.1, IS 9.4, and IS 9.5)*
+
+Through these policies, the plan aims to integrate climate justice into the broader framework of climate adaptation and resilience, ensuring that the benefits and burdens of climate action are distributed equitably among Spokane's diverse communities.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, the following potential unforeseen maladaptive climate policies are identified:
+Based on the document, there are no explicit references or specific examples of climate policies that are directly identified as causing maladaptation. However, some general insights can be inferred from understanding the contents and strategies outlined within the document as potential areas where maladaptation could arise if careful monitoring and evaluation are not conducted:
 
-1. **Urban Tree Canopy and Climate-Adapted Plant Landscapes**
-   - **Climate Threat Addressed:** This policy addresses the threat of urban heat and the need for carbon capture (Resilience Options).
-   - **Policy:** "Establish policy to require inclusion of regionally native and climate-adapted plants in future planting projects on City-owned properties" and "Create a Master Planting Plan (by 2022) to increase City's urban canopy from the current level of 23% to 40% cover by 2030; use an equity framework to prioritize low-canopy and low-income neighborhoods" (Natural Environment Section).
-   - **Inadvertent Maladaptation Risk:** The drive to rapidly increase the tree canopy may lead to unintended consequences such as planting non-native species that could become invasive or creating maintenance challenges that could exceed available resources. This could potentially divert resources away from other necessary climate adaptation or resilience efforts and may also inadvertently increase water usage if not managed sustainably.
+1. **Urban Tree Canopy Expansion**
+   - **Climate Threat Addressed:** Urban heat island effect and carbon emissions.
+   - **Resilience, Mitigation, or Adaptation Option:** Strategy mentioned in the document is to "Create a Master Planting Plan (by 2022) to increase the City's urban canopy from the current level of 23% to 40% cover by 2030" with priorities on "low-canopy and low-income neighborhoods" (Strategy 6, Natural Environment).
+   - **Potential Maladaptation:** If not executed with careful consideration of local biodiversity and ecosystem balances, expanding the tree canopy could inadvertently lead to the planting of non-native species that might require more water and maintenance, or even become invasive, thereby disturbing the existing ecological balance and increasing water usage in regions that might be prone to drought.
 
-2. **Promoting Walkable and Livable Communities**
-   - **Climate Threat Addressed:** This policy aims to reduce greenhouse gas emissions by decreasing vehicle miles traveled (Mitigation Options).
-   - **Policy:** "Encourage land use policies that support walkable, livable, sustainable communities for all" (Transportation & Land Use Section).
-   - **Inadvertent Maladaptation Risk:** While encouraging walkable communities can reduce emissions, if not properly planned, it may lead to issues such as gentrification, which could displace existing communities and increase inequality. This suggests that the policy could have social consequences by exacerbating existing disparities in housing affordability and access to urban benefits.
+2. **Renewable Energy Sourcing**
+   - **Climate Threat Addressed:** Greenhouse gas emissions from energy use.
+   - **Resilience, Mitigation, or Adaptation Option:** The plan encourages "local production and sourcing of renewable energy" through community-scale generation and storage (Goal 2, Buildings & Energy).
+   - **Potential Maladaptation:** Without proper integration into existing grid systems, renewable energy projects could lead to instability in energy supply or increased maintenance costs, which might render them unsustainable or economically unfeasible in the long term if they fail to adequately replace existing infrastructure or meet energy demand peaks.
 
-In both cases, the lack of comprehensive long-term planning or adequate resources and consideration of social equity may lead to maladaptation. Initiatives could end up increasing vulnerability or exacerbating current challenges in the system they aim to improve, without achieving their intended outcomes.
+3. **Regional Collaboration on Heat and Wildfire Smoke**
+   - **Climate Threat Addressed:** Increasing heat and wildfire smoke impacting vulnerable populations.
+   - **Resilience, Mitigation, or Adaptation Option:** Developing a "regional plan to respond to impacts of increased heat and wildfire smoke on vulnerable populations" and establishing "cooling and clean air centers" (Strategy 3, Health & Wellbeing).
+   - **Potential Maladaptation:** Establishment of centralized cooling centers may inadvertently neglect more distributed solutions that can be integrated into homes and local communities, potentially leading to reliance on centralized infrastructure that may be overwhelmed during extreme events, coupled with accessibility issues for marginalized populations who may have difficulty reaching such centers.
+
+These insights highlight areas where ongoing evaluation, inclusive planning processes, and adaptive management strategies are crucial to avoid potential maladaptation.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-### Measurement of Success or Failure
+The plan measures the success or failure of each adaptation, resilience, and mitigation option through a variety of metrics and targeted objectives. Specific metrics and targets mentioned in the plan include:
 
-- **Greenhouse Gas Emissions Inventory**
-  - The plan outlines the priority action to conduct a community-wide GHG inventory every two years using ICLEI’s Clear Path protocol, including an assessment of local government operations (IMPLEMENTATION STRATEGIES).
-
-- **Monitoring Process**
-  - There is a monitoring process to track impacts related to energy savings, renewable energy production, GHG emissions reduction, conservation, and community resiliency. This allows for assessment of implementation status and identification of barriers and corrective measures (IMPLEMENTATION & MONITORING).
-
-### Specific Metrics and Units
-
-- **Sector Level GHG Targets: Buildings & Energy**
-  - **2016 Baseline:** 2,108,796 MT CO₂e
-  - **2030 Target:** 45% reduction & 948,958 MT CO₂e
-  - **2040 Target:** 70% reduction & 1,476,155 MT CO₂e
-  - **2050 Target:** 95% reduction & 2,003,356 MT CO₂e
-
+- **Greenhouse Gas (GHG) Emissions Reductions:**
+  - **Buildings & Energy Sector:**
+    - **2016 Baseline:** 2,108,796 metric tons CO2e
+    - **2030 Reduction Target:** 45% reduction to 1,159,838 metric tons CO2e
+    - **2040 Reduction Target:** 70% reduction to 632,639 metric tons CO2e
+    - **2050 Reduction Target:** 95% reduction to 105,439 metric tons CO2e
   - **Electricity:**
-    - 2016 Baseline: 587,418 MT CO₂e
-    - 2030 Reduction Target: 80% (83,114 MT CO₂e)
-    - 2040 Reduction Target: 90% (41,557 MT CO₂e)
-    - 2050 Reduction Target: 100% (0 MT CO₂e)
-    
+    - **2030 Reduction Target:** 80% reduction
+    - **2040 Reduction Target:** 90% reduction
+    - **2050 Reduction Target:** 100% reduction
   - **Gas:**
-    - 2016 Baseline: 381,273 MT CO₂e
-    - 2030 Reduction Target: 30% (411,163 MT CO₂e)
-    - 2040 Reduction Target: 65% (205,581 MT CO₂e)
-    - 2050 Reduction Target: 95% (24,369 MT CO₂e)
+    - **2030 Reduction Target:** 30% reduction
+    - **2040 Reduction Target:** 65% reduction
+    - **2050 Reduction Target:** 95% reduction
+    
+- **Transportation & Land Use Sector:**
+  - **Passenger, Light Duty Truck, Motorcycle:**
+    - **2030 Reduction Target:** 50% reduction to 300,114 metric tons CO2e
+    - **2040 Reduction Target:** 90% reduction to 60,227 metric tons CO2e
+    - **2050 Reduction Target:** 100% reduction
 
-- **Sector Level GHG Targets: Transportation & Land Use**
-  - **2016 Baseline for Passenger, Light Duty Truck, Motorcycle:** 600,227 MT CO₂e
-  - **2030 Reduction Target:** 50% (300,114 MT CO₂e)
-  - **2040 Reduction Target:** 90% (60,227 MT CO₂e)
-  - **2050 Reduction Target:** 100% (0 MT CO₂e)
+- **Sector Level GHG Targets for Transportation & Land Use:**
+  - **2016 Baseline:** 600,227 metric tons CO2e
+  - **2030 Reduction Target:** 50% reduction to 300,114 metric tons CO2e
+  - **2040 Reduction Target:** 90% reduction to 60,227 metric tons CO2e
+  - **2050 Reduction Target:** 100% reduction
+  
+- **City Fleet:**
+  - **Goal of reducing fleet well-to-wheel emissions:** To zero by 2050
+  - **2030 Target:** By at least 50% conversion to low-carbon alternatives
+  - **2040 Target:** 75% conversion
+  
+- **Monitoring & Evaluation Process:**
+  - The plan establishes "a monitoring process [to] enable the City to track the impacts of the actions included in the plan and compare estimated impacts to what is achieved in terms of energy savings, renewable energy production, GHG emissions reduction, conservation, and community resiliency."
 
-  - **City Fleet:**
-    - Baseline: 10,070 MT CO₂e
-    - 2030 Reduction Target: 50% (5,035 MT CO₂e)
-    - 2040 Reduction Target: 75% (2,517 MT CO₂e)
-    - 2050 Reduction Target: 100% (0 MT CO₂e)
+- **Equity indicators** are to be included in monitoring and evaluation processes as part of the integration of equity considerations into plan implementation.
 
-### Concrete Goals or Targets
-
-- **City-Wide Targets**
-  - Committing to climate action by meeting the requirements of the Global Covenant of Mayors and formally adopting new GHG goals into the Spokane Municipal Code to match those outlined in this plan (IMPLEMENTATION STRATEGIES).
-
-- **Transportation Electrification and Vehicle Conversion**
-  - Plan and implement the conversion of City fleet vehicles to carbon-negative, carbon-neutral, and low-carbon alternatives: 50% by 2030, 75% by 2040, and reducing fleet well-to-wheel emissions to zero by 2050 (TRANSPORTATION & LAND USE).
-
-- **Renewable and Clean Energy in Buildings**
-  - Goals include ensuring new construction is as efficient as possible and ready to utilize renewable energy, upgrading existing buildings for high efficiency and promoting local production and sourcing of renewable energy (BUILDINGS & ENERGY).
-
-These metrics, targets, and monitoring processes assist in evaluating the effectiveness of adaptation, resilience, and mitigation options.
+These metrics and targets help in assessing whether the specific goals for GHG emissions reduction, energy use, and sustainability efforts, among other plan objectives, are being met in a measurable way. Specific deadlines are set for respective years, such as 2030, 2040, and 2050 for achieving these targets.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature              | Details                                                                                                                                                                                                                                                                                                         |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Spokane                                                                                                                                                                                                                                                                                                          |
-| **Population**       | *Not explicitly mentioned in the document*                                                                                                                                                                                                                                                                         |
-| **Threats Identified**| - **Native Redband Trout:** Lower river flows and increased temperatures reduce habitat quality (Section: Why We Need a Plan) <br> - **Warmer Year-Round Temperatures:** Increases in all seasons, more intense in summer (Section: Why We Need a Plan) <br> - **Decreased Snowpack:** Less snow in mountains, affecting river flow and winter sports (Section: Why We Need a Plan) <br> - **Increased Risk of Wildfire:** Hotter, drier summers leading to more intense wildfires (Section: Why We Need a Plan) <br> - **Economic & Recreational Costs:** Impact on events like Hoopfest, and shorter ski seasons (Section: Why We Need a Plan) <br> - **Disproportionate Impacts:** Risk of illness for children, outdoor workers, and vulnerable groups (Section: Why We Need a Plan)                                                                        |
-| **Measures Identified**| - **Building & Energy:** Encourage efficient, renewable energy buildings, promote local production and sourcing of renewable energy (Section: Summary of Sector Strategies) <br> - **Transportation & Land Use:** Encourage policies for sustainable communities, reduce vehicle miles, advance low-carbon fuel adoption (Section: Summary of Sector Strategies) <br> - **Natural Environment:** Increase urban tree canopy, establish diverse, climate-adapted landscaping, prevent negative impacts to natural resources (Section: Summary of Sector Strategies) <br> - **Health & Wellbeing:** Increase household food security, access to affordable housing, and include climate impacts in disaster management (Section: Summary of Sector Strategies) <br> - **Implementation Strategies:** Develop a city-wide climate plan, integrate equity considerations, engage residents in participation (Section: Implementation Strategies) |
+| Feature                 | Details                                                                                                                                                       |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**  | Spokane                                                                                                                                                       |
+| **Population**          | Not explicitly mentioned in the document.                                                                                                                     |
+| **Threats Identified**  | - **Increased Temperatures**: Warmer year-round temperatures with more intense increases in summer months and longer, drier summers. *(Why We Need a Plan)*<br>- **Decreased Snowpack**: Changes in precipitation patterns, less snow in mountains impacting river flow, native fish, wildlife, and recreation. *(Why We Need a Plan)*<br>- **Increased Risk of Wildfire**: More underbrush growth and hotter, drier summers leading to intense wildfires. *(Why We Need a Plan)*<br>- **Economic & Recreational Costs**: Heat and smoke impact events like Hoopfest, decreased recreation due to low river flows, and shorter ski seasons. *(Why We Need a Plan)*<br>- **Disproportionate Impacts**: Higher risk of illness for children, outdoor workers, unsheltered individuals, low-income communities, the elderly, and those with health issues. *(Why We Need a Plan)* |
+| **Measures Identified** | - **Equity Strategies**: Focus on equitable outcomes, food security, affordable housing, and community engagement. *(Summary of Sector Strategies - Health & Wellbeing)*<br>- **Natural Environment**: Partnerships for resource management, funding for city lands, expanding urban tree canopy, and promoting natural resources stewardship. *(Summary of Sector Strategies - Natural Environment)*<br>- **Buildings & Energy**: Efficient energy buildings, renewable energy sourcing, carbon neutralization, and community engagement. *(Summary of Sector Strategies - Buildings & Energy)*<br>- **Transportation & Land Use**: Policies for walkable communities, reducing vehicle miles, promoting alternative fuels, and integrating sustainability goals into city planning. *(Summary of Sector Strategies - Transportation & Land Use)*<br>- **Implementation Strategies**: GHG inventory, climate vulnerability assessment, disaster preparedness, equity integration, and community engagement. *(Implementation Strategies)*                                                |
 ```
-

@@ -1,351 +1,342 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The "Green Plan" document focuses on the City of Pembroke Pines, located in South Florida. Pembroke Pines is described as one of the largest suburban communities within the region, with significant natural resources including over 600 acres of wetlands and proximity to the Florida Everglades. The city is also home to a pair of nesting bald eagles and a community filled with natural beauty, significant for both residents and ecological tourism (**Chapter 1: Natural Resources & Environmental Design**).
+**Planning Jurisdiction: City of Pembroke Pines**
 
-The document does not provide explicit demographic information such as population figures, average income, or specific details about the demographic composition. It only mentions that according to a 2013 Census estimate, Pembroke Pines has a population of 162,329, making it the second largest city in Broward County, Florida (**Chapter 1: Natural Resources & Environmental Design**).
+- **Location:** Pembroke Pines is located in the South Florida region, specifically in Broward County. It is a suburban community strategically positioned within the larger metropolitan areas of Fort Lauderdale and Miami.
 
-In terms of geographic features, Pembroke Pines is characterized by its wetlands and proximity to the Everglades, emphasizing the importance of preserving and protecting the city’s natural resources. However, there is no mention of mountains, rivers, deserts, coastline, or specific infrastructure like airports or seaports in the plan.
+- **Population and Demographics:** According to the 2013 Census estimate, Pembroke Pines has a population of 162,329, making it the second-largest city in Broward County, Florida.
 
-The local climate and water challenges are implicit in the city's emphasis on water conservation and stormwater management (e.g., incorporating green infrastructure to reduce stormwater runoff and utilizing reclaimed water) (**Objective 1.4.1 & Objective 1.4.2: Water Conservation**).
+- **Geographic Features:** Pembroke Pines is home to over 600 acres of wetlands and is a neighbor to the Florida Everglades. The city is known for its natural beauty and ecological tourism.
 
-Regarding energy production, the document highlights the city's exploration of renewable energy options, such as small-scale solar projects, and mentions an initiative of diversifying the energy portfolio by integrating solar components into city infrastructure like monument signs and bus shelters (**Chapter 2: Energy Efficiency & Conservation**). There's also mention of a geothermal pool heating and cooling system but no details on oil or gas production.
+- **Climate and Water Challenges:** Pembroke Pines faces challenges related to climate change, including increasing temperatures, extreme weather, and threats to human health. There is a significant emphasis on water conservation to protect water resources, which is crucial given the region's environmental vulnerabilities.
 
-The economic landscape is not richly described in the plan; however, it focuses on enhancing renewable energy, reducing carbon emissions, and supporting green development as facets of responsible economic growth. The document underscores the goal of supporting existing communities and enhancing economic competitiveness, hinting at an economy that values sustainability and environmental stewardship (**Implementation & Chapter 6: Leadership & City Operations**). Specific industries or economic drivers are not identified in the plan.
+- **Energy Production:** The plan includes objectives related to energy conservation and the exploration of renewable energy options. There is a focus on phasing in LED lighting, encouraging the installation of renewable energy like solar panels, and exploring small-scale solar projects.
+
+- **Natural Resources and Economic Drivers:** The city places a high priority on preserving natural resources, enhancing natural landscapes, and protecting ecosystems. Economic activities are aligned with environmental stewardship, responsible economic development, and maintaining the balance between development and natural resource conservation. Key infrastructure details such as airports or seaports are not specifically mentioned in the document.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-### Resilience
+**Resilience:**
 
-The plan places significant emphasis on building resilience within the City of Pembroke Pines. It outlines strategies to cope with climate hazards by emphasizing resilience of the built environment and natural resources. **Resilience** is defined as “a capability to anticipate, prepare for, respond to, and recover from significant multi-hazard threats with minimum damage to social well-being, the economy, and the environment" (Introduction). Resilience efforts are reflected in the focus on enhancing and protecting ecosystems, encouraging green infrastructure, and fostering a more resilient community structure through public empowerment and leadership initiatives (Implementation, Chapter 1, Chapter 3).
+The plan places significant emphasis on resilience strategies to withstand climate change impacts. This is evident in its focus on energy efficiency, public empowerment, and building resilience in the built environment. The **Resilience** section highlights the ability to "anticipate, prepare for, respond to, and recover from significant multi-hazard threats" with minimal damage to social well-being, the economy, and the environment (Chapter 1).
 
-### Mitigation
+Key resilience activities include:
+- Improving the quality of life through community planning.
+- Perpetuating environmental stewardship.
+- Coordinating interdepartmentally through a "green team" to ensure sustainable decisions (Implementation).
 
-**Mitigation** is addressed by focusing on reducing carbon emissions and enhancing energy efficiency. The plan incorporates strategies such as promoting renewable energy, reducing reliance on carbon-intensive energy sources, and encouraging the use of alternative transportation (Chapter 2, Chapter 3). The reduction of heat island effects and the increase of tree canopy are additional steps to mitigate environmental impacts (Chapter 1, Chapter 3).
+**Mitigation:**
 
-### Adaptation
+The plan addresses mitigation primarily through energy efficiency and conservation. It lists objectives such as promoting energy-efficient upgrades, exploring renewable energy options, and encouraging energy conservation practices. Specifically, the plan aims to "reduce our reliance on carbon-intensive energy sources" and integrate green development techniques (Chapter 2).
 
-**Adaptation** measures are present in the document, focusing on adjusting systems to expected climate changes. The plan highlights the importance of sustainable development that considers future climate scenarios, such as incorporating climate change into long-range planning and protecting water resources through green infrastructure and water reuse techniques (Chapter 1, Chapter 2, Chapter 3).
+Key mitigation activities include:
+- Continuing the diversification of the energy portfolio.
+- Promoting the use of renewable energy like solar panels.
+- Exploring financing options for energy efficiency retrofits via programs like Property-Assessed Clean Energy (PACE) (Chapter 2).
 
-### Classification
+**Adaptation:**
 
-Given the plan’s comprehensive approach that includes significant elements of resilience, mitigation, and adaptation across various sectors like natural resources, energy, built environment, and transportation, it is best classified as a **Sustainable/Green Plan**. The plan balances environmental stewardship with community empowerment and economic considerations, aiming for a holistic enhancement of quality of life while addressing climate change impacts comprehensively (Implementation, Summary of Goals & Objectives).
+Adaptation is a primary focus throughout the plan as it details numerous strategies for adapting to climate impacts. It emphasizes green infrastructure development, water conservation efforts, and integrating climate change considerations into long-range planning to address risks like water supply, health impacts from increased temperatures, sea level rise, and flooding (Chapter 3).
+
+Key adaptation activities include:
+- Incorporating green infrastructure to reduce stormwater runoff.
+- Enhancing and protecting ecosystems such as wetlands.
+- Developing policies for flood mitigation and encouraging the use of water reuse techniques (Chapter 1).
+
+**Classification:**
+
+Overall, the plan can be classified as a **sustainable/green plan** because it comprehensively covers a balanced approach to resilience, mitigation, and adaptation, with a strong emphasis on creating a sustainable and livable environment through green development, conservation, and strategic planning.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that the planning jurisdiction is preparing for. According to the document:
+Yes, the plan describes scenarios of climate change that the planning jurisdiction will face and is planning for climate policies accordingly:
 
-- **Increase of carbon emissions and carbon dioxide levels** are cited as the biggest threat to future generations, leading to increased temperatures in the atmosphere, increased ocean acidity, extreme weather, threats to human health, sea level rise, and economic losses (Chapter 1).
+- The plan identifies the South Florida region, including Pembroke Pines, as "more vulnerable than most other communities in the nation to future threats and environmental extremes" due to its geographical location. It emphasizes the increased risks from "carbon emissions and carbon dioxide levels," leading to "increased temperatures in the atmosphere," "increased ocean acidity," "extreme weather," "threats to human health," "sea level rise," and "economic losses" (_Introduction_).
 
-- The South Florida region, which includes Pembroke Pines, is identified as being more vulnerable than most other communities in the nation to future threats and environmental extremes. This makes it imperative for the city to reduce reliance on carbon-intensive energy sources, protect the natural environment and resources, reduce waste, and build resilience as the best defense against inevitable changes (Chapter 1).
+- In response to these challenges, the city focuses on energy efficiency, public empowerment, resilience of the built environment, and several other key areas to strategically plan for an unpredictable future (_Introduction_).
 
-The plan is thus crafted to ensure the city strategically prepares for these challenges, focusing on areas such as **energy efficiency, public empowerment, and resilience** of the built environment (Chapter 1).
+- The plan also integrates climate change into long-range planning by considering the likely impacts of "water supply risk," "health impacts of increased temperatures," "sea level rise," and "flood mitigation" (_Leadership & City Operations_).
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-1. **Increased Carbon Emissions and Carbon Dioxide Levels**
-   - **Climate Hazard:** The plan identifies an increase in carbon emissions and carbon dioxide levels as a major climate hazard.
-   - **Climate Risks:** This leads to increased temperatures in the atmosphere, increased ocean acidity, extreme weather, threats to human health, sea level rise, and economic losses. 
-     - *"The biggest threat to future generations is the increase of carbon emissions and carbon dioxide levels in the environment which leads to increased temperatures in the atmosphere. This also leads to increased ocean acidity, extreme weather, threats to human health, sea level rise and economic losses"* (Introduction).
-   - **Climate Vulnerability:** The South Florida region, which includes Monroe County, Miami-Dade County, and Broward County, is noted as being more vulnerable than other communities in the nation to such threats and environmental extremes.
-     - *"Living within the South Florida region, the region is more vulnerable than most other communities in the nation to future threats and environmental extremes"* (Introduction).
+**1. Increase of Carbon Emissions and Carbon Dioxide Levels**
 
-2. **Sea Level Rise**
-   - **Climate Hazard:** The plan acknowledges sea level rise as a significant hazard associated with climate change.
-   - **Climate Risks:** It is linked with saltwater intrusion, increased flooding, and impacts to the water supply.
-     - While the specific risks associated with sea level rise are not detailed in the plan extract, it is included in broader discussions of climate risks through its inclusion in the effects of increased carbon emissions.
-   - **Climate Vulnerability:** Coastal areas of the South Florida region are implied to be particularly vulnerable due to their geographical nature.
-     - Vulnerability is not explicitly detailed in the extract, but the emphasis on the South Florida region's overall vulnerability would suggest coastal and low-lying areas are at risk.
+   - **Climate Hazard Description:** The plan highlights the increase of carbon emissions and carbon dioxide levels in the environment. This build-up leads to "increased temperatures in the atmosphere."
 
-3. **Extreme Weather Events**
-   - **Climate Hazard:** Extreme weather is recognized as a key consequence of climate change.
-   - **Climate Risks:** These events pose threats to human health, infrastructure, and can result in significant economic losses.
-     - *"This also leads to increased ocean acidity, extreme weather, threats to human health, sea level rise and economic losses"* (Introduction).
-   - **Climate Vulnerability:** Populations throughout South Florida would be vulnerable, particularly those in areas with inadequate infrastructure or disaster mitigation measures.
-     - Again, while specific populations are not detailed, the context infers vulnerabilities in areas with less infrastructure resilience.
+   - **Climate Risks:** These changes are linked to several climatic risks including "increased ocean acidity, extreme weather, threats to human health, sea level rise and economic losses."
+
+   - **Vulnerable Areas or Populations:** The plan notes that "living within the South Florida region," which includes Pembroke Pines, the region is "more vulnerable than most other communities in the nation to future threats and environmental extremes."
+
+**2. Extreme Weather**
+
+   - **Climate Hazard Description:** The document refers to extreme weather as one of the consequences of increased carbon emissions and carbon dioxide levels, without providing a specific detailed account of what constitutes the extreme weather events.
+
+   - **Climate Risks:** While not described in detail, extreme weather events are generally expected to lead to threats to infrastructure, health, and economic stability.
+
+   - **Vulnerable Areas or Populations:** As part of the broader impacts of increased carbon dioxide levels, extreme weather would affect the South Florida region, which is inherently more vulnerable to environmental extremes.
+
+**3. Sea Level Rise**
+
+   - **Climate Hazard Description:** Sea level rise is identified as a consequence of increased atmospheric temperatures.
+
+   - **Climate Risks:** The specific risks posed by sea level rise are not elaborated on extensively, but it is implied that there could be significant impacts on landscapes, infrastructure, and economies.
+
+   - **Vulnerable Areas or Populations:** South Florida is presented as particularly vulnerable, meaning coastal areas and infrastructure within Pembroke Pines and its surroundings are at higher risk.
+
+**4. Ocean Acidity**
+
+   - **Climate Hazard Description:** Increased ocean acidity is described as a result of higher carbon emissions and atmospheric CO₂ levels.
+
+   - **Climate Risks:** While not in detail, such a condition generally impacts marine ecosystems and could affect human activities dependent on ocean resources.
+
+   - **Vulnerable Areas or Populations:** The entire ecological system in the region could be vulnerable, although specific human populations at risk are not detailed.
+
+**5. Threats to Human Health**
+
+   - **Climate Hazard Description:** Threats to human health are mentioned as an outcome of increased emissions and changing climate parameters such as temperature rise.
+
+   - **Climate Risks:** While the specific health threats are not explicitly mentioned, these could range from increased heat-related illnesses to diseases spread by changing ecosystems.
+
+   - **Vulnerable Areas or Populations:** Again, the South Florida region, including Pembroke Pines, holds a broad vulnerability particularly for its human populations exposed to health risks. 
+
+The plan implicitly highlights the interconnectedness of these hazards and their compounded effects on the region.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-The plan outlines several resilience options. Below is a summary of these options, including their specific climate threats, cost/timeframe/location details, and other important attributes:
+Based on the document provided, several resilience options are identified. Here is a summary:
 
-### Resilience Options Identified:
-
-#### 1. **Energy Efficiency & Conservation Upgrades**
-- **Climate Threats Addressed:**
-  - Increased temperatures and associated energy demands.
+### **1. Green Infrastructure**
+- **Specific Climate Threat Addressed:** Addresses risks related to stormwater runoff, flood mitigation, and temperature increases due to the heat island effect.
 - **Details on Cost, Timeframe, and Location:**
-  - The city is committed to promoting energy-efficient upgrades and "giving preference to vendors who highlight the use of energy efficiency and renewable energy" (Chapter 2).
-  - Explore energy-efficient upgrades on City property resulting in financial savings (Chapter 2).
+  - No specific cost or timeframe is mentioned.
+  - Implemented where appropriate within the city, including projects like bioswales and permeable pavements (Objective 1.4.2).
 - **Other Important Attributes:**
-  - Focus on economic benefits through cost savings and reduced energy consumption.
+  - Involves environmental considerations such as reducing stormwater runoff and enhancing water management (Objective 1.4.2).
 
-#### 2. **Water Conservation and Green Infrastructure**
-- **Climate Threats Addressed:**
-  - Extreme weather events leading to stormwater runoff and water scarcity.
+### **2. Enhancing Tree Canopy**
+- **Specific Climate Threat Addressed:** Helps reduce air pollution and urban heat through tree preservation and enhancing canopy.
 - **Details on Cost, Timeframe, and Location:**
-  - Implementing green infrastructure such as bioswales and permeable pavement to reduce stormwater runoff (Objective 1.4.2).
-  - Encouragement of rain barrel use and reclaimed water for irrigation (Objective 1.4.1).
+  - A target to increase tree canopy by 30% by 2030 (Goal 1.2, Future Objectives).
 - **Other Important Attributes:**
-  - Enhances environmental sustainability by protecting water resources and promoting efficient water use.
+  - Environmental benefits include air quality improvements and contribution to reducing heat island effect.
 
-#### 3. **Built Environment Resilience**
-- **Climate Threats Addressed:**
-  - Urban heat island effect and infrastructure vulnerability to extreme weather.
+### **3. Renewable Energy Promotion**
+- **Specific Climate Threat Addressed:** Aims to reduce reliance on carbon-intensive energy sources, addressing greenhouse gas emissions and related temperature increases.
 - **Details on Cost, Timeframe, and Location:**
-  - Use of solar reflective coatings, permeable pavement, and increased tree canopy to decrease heat island effects (Goal 3.1).
+  - Options like small-scale solar projects and promoting renewable energy credits and systems are explored but without specific cost or timeline details (Objective 2.3.1).
 - **Other Important Attributes:**
-  - Provides environmental benefits by reducing urban heat and improving air quality.
+  - Economic benefits include potential cost savings from energy efficiency and reduced energy bills for residents.
 
-#### 4. **Green Development Techniques**
-- **Climate Threats Addressed:**
-  - Increased infrastructure stress from extreme weather conditions.
+### **4. Green Development**
+- **Specific Climate Threat Addressed:** Mitigates climate impacts through sustainable building practices.
 - **Details on Cost, Timeframe, and Location:**
-  - The creation of a "Green Checklist" for development applications (Objective 3.1.1).
-  - Allowance of green roofs and living walls to enhance resilience (Objective 3.1.1).
+  - Integrates into new developments and major renovations through the addition of "green" components (Objective 3.1.1).
 - **Other Important Attributes:**
-  - Promotes sustainable urban planning with economic and infrastructural benefits.
+  - Economic considerations include promotion of responsible development which balances community, environment, and economy (Goal 3.1).
 
-#### 5. **Community Outreach and Empowerment**
-- **Climate Threats Addressed:**
-  - Lack of public awareness and preparedness for climate impacts.
+### **5. Carpool/Rideshare Program**
+- **Specific Climate Threat Addressed:** Aims to lower vehicle emissions contributing to air pollution.
 - **Details on Cost, Timeframe, and Location:**
-  - Community outreach on energy conservation tips (Objective 2.2.1).
-  - Foster partnerships and facilitate community cleanup programs (Chapter 6).
+  - No specific cost or timeline is detailed.
+  - Targeted at City employees to reduce vehicle miles traveled (Objective 6.1.1).
 - **Other Important Attributes:**
-  - Strengthens social resilience by building community awareness and engagement.
+  - Potential economic benefits through reduced travel costs.
 
-#### 6. **Improved City Operations**
-- **Climate Threats Addressed:**
-  - Carbon emissions from transportation and energy use.
+### **6. Sustainable City Operations**
+- **Specific Climate Threat Addressed:** Aims for overall reduction of city’s carbon footprint.
 - **Details on Cost, Timeframe, and Location:**
-  - Adoption of fuel-efficient vehicles and energy audits of city buildings (Chapter 6).
-  - Development of a carpool/rideshare program for City employees (Objective 6.1.1).
+  - Includes initiatives like LED lighting and fuel-efficient vehicles with no specified cost or timeline (Objective 6.1.1).
 - **Other Important Attributes:**
-  - Economic benefits through enhanced efficiency and cost savings.
-  - Environmental benefits by reducing emissions.
+  - Environmental considerations involve reduced energy use and emissions.
 
-### Additional Considerations:
-- **Triple Bottom Line Approach:** The plan emphasizes integrating social, environmental, and economic considerations into decision-making to drive resilience (Introduction).
+### **7. Community Outreach & Empowerment**
+- **Specific Climate Threat Addressed:** Indirectly addresses a variety of climate threats through increased public awareness and capacity building.
+- **Details on Cost, Timeframe, and Location:**
+  - Ongoing initiatives with no specific cost or timeline mentioned.
+- **Other Important Attributes:**
+  - Fosters greater economic and social inclusion (Objective 1.3.1).
 
-### Imagery and Tables:
-- **No tables or charts provided in the section detailed.**
-
-The plan provides a comprehensive approach to building resilience, addressing climate threats through infrastructure improvements, public engagement, and operational efficiency, without specific cost or timeline details.
+Tables, charts, or images referencing the specific cost, timeframe, or detailed locations for these initiatives were not mentioned in the provided excerpts.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options focused on reducing energy consumption, promoting renewable energy, and improving the efficiency of urban infrastructure. Below is a summary of the options along with related information provided in the plan:
+The plan identifies several mitigation options focused on reducing energy use, encouraging renewable resources, and promoting green development techniques. Below is a summary of the mitigation options mentioned:
 
-1. **Phasing in LED Lighting**
-   - **Objective:** Encourage energy conservation by phasing in LED lighting throughout the city where deemed appropriate.
-   - **Attributes:** This option does not include specific information regarding cost, timing, or location but is part of the broader goal of energy conservation.
-   - **Citation:** *Objective 2.2.1*
+### **1. Energy Efficient Upgrades**
+- **Cost:** The plan doesn't provide specific costs but emphasizes financial savings resulting from energy-efficient upgrades.
+- **Timing:** Not specified.
+- **Location:** City property.
+- **Attributes:**
+  - "Continue diversification of energy portfolio by giving preference to vendors who highlight the use of energy efficiency and renewable energy." (Chapter 2)
+  - "Phase in LED lighting throughout the City where deemed appropriate." (Chapter 2)
 
-2. **Encourage Renewable Energy Installation**
-   - **Objective:** Encourage new development to use and install renewable energy, such as solar panels.
-   - **Attributes:** Timing for this initiative is not provided, but it aligns with the city's energy conservation goals. No specific costs or locations are mentioned.
-   - **Citation:** *Objective 2.2.1*
+### **2. Renewable Energy Initiatives**
+- **Cost:** Not specified.
+- **Timing:** Ongoing exploration.
+- **Location:** Small projects and public buildings.
+- **Attributes:**
+  - "Explore purchasing of renewable energy credits and/or systems." (Chapter 2)
+  - "Explore and identify funding sources for the installation of solar panels on public buildings." (Chapter 2)
 
-3. **Small-Scale Solar Panels**
-   - **Objective:** Explore renewable energy options through the small-scale use of solar panels for small projects.
-   - **Attributes:** This involves exploring and identifying funding sources for the installation of solar panels on public buildings, education, and encouragement for residents to purchase or install renewable energy.
-   - **Citation:** *Objective 2.3.1*
+### **3. Green Development and Redevelopment**
+- **Cost:** Not specified.
+- **Timing:** As the city nears build-out.
+- **Location:** City-wide.
+- **Attributes:**
+  - "Creation of a Green Checklist to add to the Unified Development Application." (Chapter 3)
+  - "Allow Green Roofs and Living Walls within the City." (Chapter 3)
+  - "Decrease heat island effect through the encouragement of solar reflective coatings on roofs and parking areas, permeable pavement and increased tree canopy." (Chapter 3)
 
-4. **Purchasing Renewable Energy Credits**
-   - **Objective:** Explore purchasing renewable energy credits and/or systems.
-   - **Attributes:** No specific details about timing, cost, or location are provided, but it is part of promoting renewable energy.
-   - **Citation:** *Objective 2.3.1*
+### **4. Smart Growth and Transit Oriented Development (TOD) Principles**
+- **Cost:** Not specified.
+- **Timing:** Not specified.
+- **Location:** Eastern portions of the city.
+- **Attributes:**
+  - "Encourage new development to abide by Smart Growth and Complete Street principles." (Chapter 3)
+  - "Encourage the principles of Transit Oriented Development (TOD) within older, more populated eastern portions of the City." (Chapter 3)
 
-5. **Support Green Development and Resilience**
-   - **Objective:** Adopt policies that encourage and promote green development and resilience.
-   - **Attributes:** This includes reducing heat island effect, using solar reflective coatings, and increasing tree canopy. No detailed timing or cost information is provided.
-   - **Citation:** *Chapter 3: Built Environmental & Transportation; Goal 3.1, Goal 3.2*
-
-6. **Use of Low VOC Products**
-   - **Objective:** Encourage the use of low volatile organic compounds (VOCs) found in sealants, paints, and adhesives.
-   - **Attributes:** This mitigation option is part of encouraging smart growth principles. Specific cost, timing, and locations are not discussed.
-   - **Citation:** *Goal 3.2*
-
-Overall, while the plan identifies various mitigation options, it generally lacks specific details on cost, timing, or locations for these initiatives. The focus is more on setting goals and encouraging behaviors and policies to reduce greenhouse gas emissions and promote sustainable practices.
+These strategies aim to enhance energy efficiency, promote the use of renewable energy, and support sustainable urban development practices. The plan places emphasis on the integration of green technologies in city infrastructure and new developments.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options. Here are the details for each option provided in the plan regarding cost, timeframe, location, and other attributes:
+The plan identifies several mitigation options aimed at reducing greenhouse gas emissions and promoting sustainable practices:
 
-1. **Energy Efficiency Upgrades:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Not explicitly mentioned.
-   - **Location:** City properties.
-   - **Attributes:** The plan states, "Explore other energy efficient upgrades on City property that would result in financial savings." (Goal 2.1: Promote Energy Efficient Upgrades)
+1. **Energy Efficiency and Conservation**:
+   - **Upgrade to LED Lighting**: The plan suggests phasing in LED lighting throughout the City where deemed appropriate. There are no specific details provided regarding cost or timeframe.
+   - **Renewable Energy Promotion**: Encouragement for new developments to install renewable energy, such as solar panels, and to educate and encourage residents to purchase or install renewable energy. No specific cost or timeframe is provided but involves community outreach.
+   - **Renewable Energy Credits**: The exploration of purchasing renewable energy credits and/or systems. Details on cost, timeframe, or location are not specified.
 
-2. **LED Lighting Phase-in:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Phased implementation.
-   - **Location:** Throughout the City.
-   - **Attributes:** "Phase in LED lighting throughout the City where deemed appropriate." (Objective 2.2.1: Encourage and Promote Energy Conservation)
+2. **Built Environment and Green Development**:
+   - **Green Development Techniques**: Creation of a Green Checklist to ensure new developments incorporate green components. This initiative aims at awareness and environmental returns but does not specify costs, timeframes, or locations.
+   - **Green Roofs and Living Walls**: Allowance for Green Roofs and Living Walls that can reduce energy use and emissions. There is no immediate cost or timeframe specified.
+   - **Solar Reflective Coatings**: Encouragement of solar reflective coatings on roofs and parking areas to reduce the heat island effect, and use of permeable pavement and increased tree canopy. No specific costs, locations, or timeframe mentioned.
 
-3. **Solar Panel Small-Scale Use:**
-   - **Cost:** Not explicitly mentioned, but funding sources are to be explored.
-   - **Timeframe:** Not explicitly mentioned.
-   - **Location:** Public buildings.
-   - **Attributes:** "Explore and identify funding sources for the installation of solar panels on public buildings." (Objective 2.3.1: Promote and Encourage Renewable Energy)
+3. **Transportation and Mobility**:
+   - **Alternative Transportation Promotion**: Promotion of alternative transportation to reduce carbon emissions and air pollution. Specific costs, timeframe, or locations are not detailed.
+   - **Creation of Carpool/Rideshare Program**: Exploration of a carpool/rideshare program to reduce vehicle miles traveled, primarily within city operations. There are no specific details on cost or timeline.
 
-4. **Green Roofs and Living Walls:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Not explicitly mentioned.
-   - **Location:** Within the city.
-   - **Attributes:** "Allow Green Roofs and Living Walls within the City." These designs help reduce energy use, improve water quality, and reduce air pollution and greenhouse gas emissions. (Objective 3.1.1: Support and Encourage Green Development Techniques)
-
-5. **Encourage Renewable Energy Use:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Ongoing encouragement.
-   - **Location:** Citywide.
-   - **Attributes:** "Encourage new development to use and install renewable energy, such as solar panels." (Objective 2.2.1: Encourage and Promote Energy Conservation)
-
-6. **Tree Canopy Increase:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** By 2030.
-   - **Location:** Throughout the City.
-   - **Attributes:** "Increase tree canopy by 30% by 2030" to help protect air quality. (Protecting Air Quality)
-
-7. **Promote Low VOC Use:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Not specified.
-   - **Location:** Citywide.
-   - **Attributes:** "Encourage the use of low volatile organic compounds (VOCs) found in sealants, paints, and adhesives." (Built Environmental & Transportation, Goal 3.1)
-
-8. **Alternative Transportation Promotion:**
-   - **Cost:** Not explicitly mentioned.
-   - **Timeframe:** Not specified.
-   - **Location:** Citywide and specific areas such as near shopping centers.
-   - **Attributes:** "Promote the use of alternative transportation to reduce carbon emissions and air pollution." and encourage "the creation of a car share or car pool program for residents." (Objective 1.2.1: Protect Air Quality, and Objective 3.4.1: Support Mobility and Alternative Transportation)
-
-The plan does not provide detailed information regarding specific costs or exact timeframes for these options and often describes them as goals or strategies to be promoted over time.
+4. **Internal Operations**:
+   - **Green Infrastructure and Eco-Friendly Techniques**: Implementation of green infrastructure techniques for public property, and purchase of fuel-efficient vehicles. There are no specific costs, locations, or timeframes detailed.
+   - **Energy Audits and LED Upgrades**: Conducting regular energy audits and replacing lighting with LED in city parks and public facilities where appropriate. Specific costs or timeframes are not specified.
+  
+The plan frequently highlights the need for community outreach and education as a pillar for implementing these mitigation options, suggesting an ongoing commitment to these practices without specific deadlines or cost attributes outlined.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options designed to address various climate threats. Here are the adaptation options identified, along with the relevant information:
+The plan identifies several adaptation options to address various climate threats. Below are the summarized adaptation options:
 
-1. **Develop Policies and Remove Barriers for Green Infrastructure**  
-   - *Climate Threat Addressed:* This adaptation option is aimed at addressing water supply risks, health impacts of increased temperatures, sea level rise, and flood mitigation.  
-   - *Attributes:* 
-     - **Location:** It is suggested for implementation within the city.
-     - **Other Important Attributes:** This includes developing policies and removing existing barriers for the adoption and use of green infrastructure ("Develop policies and remove barriers for the use of green infrastructure within the city.").
+### **1. Protection of Ecosystems**
 
-2. **Incorporate Climate Change into Long Range Planning**  
-   - *Climate Threat Addressed:* This addresses water supply risks, health impacts due to increased temperatures, sea level rise, and flood mitigation.  
-   - *Attributes:*
-     - **Other Important Attributes:** The plan highlights the importance of incorporating climate change impacts into long-range city planning ("Incorporate climate change into long-range planning – including the likely impacts of water supply risk, health impacts of increased temperatures, sea-level rise and flood mitigation.").
+**Climate Threat Addressed:**  
+- The threat to ecosystems from climate change impacts such as increased temperatures which could affect the viability of wildlife and natural habitats.
 
-3. **Incorporate Green Infrastructure for Stormwater Runoff Reduction**  
-   - *Climate Threat Addressed:* The primary climate threat being addressed is stormwater run-off which is likely to be exacerbated by heavy rainfall events associated with climate change.  
-   - *Attributes:*
-     - **Location:** Appropriate locations in the city.
-     - **Other Important Attributes:** Techniques such as the installation of bioswales and permeable pavement are recommended to assist in reducing stormwater runoff ("Incorporate Green Infrastructure within the City where appropriate to assist in reducing storm water runoff, such as the installation of bioswales and permeable pavement.").
+**Attributes:**  
+- **Location:** Monitors City wetlands, protects the Everglades, and Florida wildlife. (Goal 1.3)
+- **Cost and Timeframe:** Not explicitly mentioned in the document.
+- **Important Attributes:** 
+  - Enhance protections for the Eagle Sanctuary to ensure safety for both wildlife and people.
+  - Review the City’s Wetland Management Plan and identify deficiencies to ensure the success and health of these ecosystems. (Objective 1.3.1)
 
-4. **Explore Use of Reclaimed Water for Irrigation**  
-   - *Climate Threat Addressed:* This option addresses water conservation issues, particularly during droughts that may become more frequent with climate change.  
-   - *Attributes:*
-     - **Usage:** For irrigation of public spaces, City parks, City property, construction, and landscaping.
-     - **Other Important Attributes:** It explores the feasibility of using reclaimed water, serving both adaptation and conservation objectives ("Explore the idea of using reclaimed water for irrigation of public spaces, City parks, City property, construction and landscape.").
+### **2. Water Conservation and Management**
 
-5. **Encourage Large Developments to Use Water Reuse Techniques**  
-   - *Climate Threat Addressed:* This adaptation addresses water scarcity concerns connected with changes in climate patterns, conserving water resources.
-   - *Attributes:*
-     - **Target Audience:** Large developments.
-     - **Other Important Attributes:** The plan promotes the installation and use of water reuse techniques and alternatives ("Encourage large developments to install and use water reuse techniques and alternatives.").
+**Climate Threat Addressed:**  
+- Threats related to water supply risk, stormwater management challenges due to increased precipitation and storm events.
+  
+**Attributes:**  
+- **Location:** City of Pembroke Pines.
+- **Cost and Timeframe:** Not explicitly mentioned in the document.
+- **Important Attributes:** 
+  - Encourage the use of Florida Water StarSM standards for water efficiency, use of rain barrels in residential areas, and the incorporation of Green Infrastructure to reduce stormwater runoff. (Objective 1.4.1 & 1.4.2)
 
-These adaptation strategies focus on increasing resilience against water scarcity, flood risks, and the impacts of rising temperatures through infrastructure and policy changes. The document does not provide specific details on cost or timeframe for these adaptation options.
+### **3. Energy Efficiency and Conservation**
+
+**Climate Threat Addressed:**  
+- Threats such as increased atmospheric temperatures and the corresponding increased energy demand for cooling.
+  
+**Attributes:**  
+- **Location:** City of Pembroke Pines.
+- **Cost and Timeframe:** Specific costs and timeframes are not mentioned.
+- **Important Attributes:** 
+  - Promote energy-efficient upgrades and diversification of energy portfolio. (Goal 2.1)
+  - Encourage the use of renewable energy such as solar panels. (Objective 2.2.1)
+
+### **4. Built Environment & Transportation Modifications**
+
+**Climate Threat Addressed:**  
+- Threats like sea-level rise and increased flooding events.
+  
+**Attributes:**  
+- **Location:** City of Pembroke Pines.
+- **Cost and Timeframe:** Not detailed in the document in terms of specific costs and timeframes.
+- **Important Attributes:** 
+  - The creation of green corridors linking major environmental assets to residential communities. (Objective 1.1.2)
+  - Design, plan and implement green buildings and infrastructures. (Goal 3.1)
+
+These adaptation options target crucial areas like ecosystem protection, water conservation, energy management, and infrastructure resilience, all essential for addressing the various climate threats identified in the plan.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan does not explicitly use the term "climate justice." However, it outlines policies aiming to address various climate threats that inherently incorporate equitable considerations. Below are summaries of these policies along with the respective climate threats they address and the vulnerable populations or areas they seek to support:
+Based on the content of the plan provided, there are no direct mentions of specific **climate policies** explicitly targeting **climate justice** or identifying **areas or populations with the most climate vulnerability** to specific climate hazards. The document discusses a broad array of initiatives aimed at addressing various environmental, energy, and infrastructure challenges in the context of resilience and sustainability for the city as a whole. However, the particular focus on **equity**, **social justice**, or **targeted support for vulnerable populations** in the context of climate change is not explicitly detailed in the information provided.
 
-1. **Energy Efficiency & Conservation Initiatives**
-   - **Climate Threat Addressed:** Reduction of carbon emissions through energy efficiency and conservation (increased temperatures and associated health impacts).
-   - **Vulnerable Areas/Populations:** Although not explicitly stated, the emphasis on community outreach for energy conservation tips and challenges suggests attention to equitable dissemination of information across different community segments. *(Chapter 2: Energy Efficiency & Conservation)*
-
-2. **Natural Resource Enhancement & Air Quality Protection**
-   - **Climate Threat Addressed:** Protection of air quality and natural resources (emissions and environmental degradation).
-   - **Vulnerable Areas/Populations:** The promotion of tree canopy and alternative transportation aims to enhance urban areas often disproportionately affected by higher pollution levels, indirectly benefiting communities that are dense and may have historically lower green space access. Efforts to ensure recreational areas within walking distance through park mapping further indicate a focus on equitable access. *(Chapter 1: Natural Resources & Environmental Design)*
-
-3. **Built Environment & Transportation Initiatives**
-   - **Climate Threat Addressed:** Heat island effect and lack of mobility (increased urban temperatures and transportation accessibility).
-   - **Vulnerable Areas/Populations:** Encouraging Transit Oriented Development (TOD) in older, densely populated areas, and improving sidewalks and bike paths speak to enhancing access in potentially underserved areas that may rely on public transit. Promoting mobility and alternative transportation aligns with enhancing access for all users. *(Chapter 3: Built Environment & Transportation)*
-
-4. **Community Outreach & Empowerment**
-   - **Climate Threat Addressed:** General enhancement of community resilience against climate change.
-   - **Vulnerable Areas/Populations:** A focus on fostering partnerships with local stakeholders, including community members and nonprofits, reflects an approach to embed resilience practices across varying socio-economic backgrounds, enhancing the capacity of more vulnerable populations to respond to climate threats. *(Chapter 5: Community Outreach & Empowerment)*
-
-While these initiatives are underpinned by a commitment to resilience and sustainability, they incorporate elements aimed at reducing inequities in exposure and access among populations or areas that may be more susceptible to climate impacts.
+If details regarding specific climate justice policies or programs were present in other sections of the document, those sections were not included in the provided excerpts. Therefore, there is no direct climate justice-focused content available to summarize with respect to climate threats and vulnerabilities as per the details shared.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based strictly on the plan provided, there are no explicitly identified maladaptive climate policies. However, some policies have the potential for unforeseen maladaptive consequences if not carefully implemented. Here are potential examples with their associated details:
+Based strictly on the content of the provided plan, some potential unforeseen maladaptive climate policies may include:
 
-1. **Climate Policy: Encouraging the use of solar reflective coatings (Chapter 3: Built Environmental & Transportation).**
-   - **Climate Threat Addressed:** Heat island effect.
-   - **Resilience, Mitigation, or Adaptation Option:** The policy proposes the use of solar reflective coatings to decrease the heat island effect.
-   - **Potential Inadvertent Maladaptation:** While reflective coatings can reduce local heating, they may inadvertently increase energy demand for heating during cooler periods. If not balanced by an energy-efficient design that considers seasonal variability, this could lead to higher energy consumption.
+1. **Increased Tree Canopy Initiative**
 
-2. **Climate Policy: Promotion of Green Roofs and Living Walls (Chapter 3: Built Environmental & Transportation).**
-   - **Climate Threat Addressed:** Degradation of air quality and increase in carbon emissions.
-   - **Resilience, Mitigation, or Adaptation Option:** Introduction of Green Roofs and Living Walls is to reduce energy use, improve water quality, and decrease air pollution.
-   - **Potential Inadvertent Maladaptation:** While green roofs and living walls offer environmental benefits, if the selection of plant species is inappropriate or invasive, it could lead to negative impacts on local biodiversity and water usage could increase without proper water management strategies.
+   - **Climate Threat Addressed:** The initiative aims to address the threat of poor air quality and elevated temperatures associated with the heat island effect.
+   
+   - **Resilience, Mitigation, or Adaptation Option Proposed:** *Increase tree canopy by 30% by 2030.* This policy involves promoting tree preservation, restrictive permits for tree removal, and increasing species diversity for resilience ("Goal 1.2 The City is dedicated to protecting air quality...").
+   
+   - **Potential for Maladaptation:** While increasing canopy cover generally provides benefits such as shade and improved air quality, it could inadvertently lead to maladaptation if not managed properly. For example, if certain species planted are not well-suited to future climate conditions, they could become stressed or die off, leading to increased maintenance costs or further emissions associated with removal and replacement efforts.
 
-3. **Climate Policy: Use of rain barrels and reclaimed water for irrigation (Chapter 1: Natural Resources & Environmental Design).**
-   - **Climate Threat Addressed:** Water scarcity and conservation.
-   - **Resilience, Mitigation, or Adaptation Option:** Encourage the use of rain barrels and reclaimed water for irrigation to conserve water resources.
-   - **Potential Inadvertent Maladaptation:** Without proper management, the use of rain barrels and reclaimed water may lead to water quality issues, such as the proliferation of mosquito breeding grounds or the use of water with contaminants unsuitable for certain uses, which could compromise human health and plant life.
+2. **Use of Green Roofs and Living Walls**
 
-While these policies are well-intentioned and aligned with sustainability goals, careful attention to implementation and ongoing monitoring is essential to prevent potential maladaptive outcomes.
+   - **Climate Threat Addressed:** This policy targets the reduction of energy use, improving water quality, and reducing air pollution and greenhouse gas emissions.
+   
+   - **Resilience, Mitigation, or Adaptation Option Proposed:** *Allow installation of Green Roofs and Living Walls within the City to enhance the built environment.* This encourages vegetation on buildings for natural cooling and aesthetic benefits ("Objective 3.1.1: Support and Encourage Green Development Techniques...").
+   
+   - **Potential for Maladaptation:** There could be unintended maladaptive consequences if these installations are not maintained or designed properly for the local climate. Poorly executed green roofs could lead to structural damage or water leaks, and if inappropriate plant species are selected, they may not survive, resulting in increased maintenance costs and challenges.
+
+3. **Implementing Smart Growth and Complete Streets**
+
+   - **Climate Threat Addressed:** This policy addresses urban sprawl, air pollution, and promotes sustainable urban development.
+   
+   - **Resilience, Mitigation, or Adaptation Option Proposed:** *Encourage new development to abide by Smart Growth and Complete Streets principles.* These include promoting walkable neighborhoods and mixed land uses ("Goal 3.2 The City promotes and encourages Smart Growth principles...").
+   
+   - **Potential for Maladaptation:** If not carefully managed, such development might inadvertently lead to increased traffic congestion if the infrastructure is not upgraded concurrently, potentially worsening air pollution and reducing quality of life. Additionally, rapid implementation without community input might lead to displacing vulnerable populations.
+
+Each of these policies, despite their good intentions, requires careful planning and implementation to avoid becoming maladaptive. It is crucial to continuously review and adapt these policies based on local climate projections and community feedback.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-Based on the content provided, the plan measures success or failure of adaptation, resilience, and mitigation options in the following ways:
+The plan does not specify particular metrics such as reductions in CO2 emissions or improvements in air quality in exact units (e.g., tons, percentages, index values) for measuring the success or failure of each adaptation, resilience, and mitigation option. However, it does outline several goals and objectives that imply certain metrics and targets:
 
-1. **Tree Canopy Increase:**
-   - **Metric:** Increase in tree canopy.
-   - **Target:** 30% increase in tree canopy by 2030.
-   - **Citation:** "Increase tree canopy by 30% by 2030 – City Commission in 2009 passed Resolution number 3218 to increase tree canopy by 30% within the City." (Chapter 1: Natural Resources & Environmental Design)
+### **Natural Resources & Environmental Design**
+- **Tree Canopy Increase Goal:** "Increase tree canopy by 30% by 2030." (Goal 1.2)
 
-2. **Energy Efficient Lighting:**
-   - **Metric:** Implementation of LED lighting.
-   - **Target and Areas:** Phase in LED lighting throughout the city where deemed appropriate. (Chapter 2: Energy Efficiency & Conservation)
+### **Energy Efficiency & Conservation**
+- **Energy Portfolio Diversification:** Preference for vendors who utilize "energy efficiency and renewable energy." Although specific percentage targets are not mentioned, it implies a shift towards these energy sources (Objective 2.1.1).
+- **LED Lighting Implementation:** "Phase in LED lighting throughout the City where deemed appropriate." While no specific metric is provided, the goal is to reduce energy consumption (Objective 2.2.1).
 
-3. **Energy Efficiency and Conservation:**
-   - **Targets:** 
-     - Promote energy efficient upgrades and the use of renewable energy.
-     - Explore financial savings associated with energy efficient upgrades on City property.
-   - **Citation:** "Phase in LED lighting throughout the City where deemed appropriate." "Explore other energy efficient upgrades on City property that would result in financial savings." (Chapter 2: Energy Efficiency & Conservation)
+### **Built Environment & Transportation**
+- **Green Development Encouragement:** The creation of a "Green Checklist" to ensure new developments or major renovations add a green component, although specific metrics are not provided (Objective 3.1.1).
 
-4. **Water Conservation:**
-   - **Targets:**
-     - Encourage water conservation through identifying high water users.
-     - Promote commercial and residential use of water-efficient practices and tools such as rain barrels.
-   - **Citation:** "Identify high water users within the city... once identified, work with identified areas to ensure they are abiding by restrictions and best management practices." (Chapter 1: Natural Resources & Environmental Design)
+### **Leadership & City Operations**
+- **Fuel Efficiency:** Purchase of "fuel-efficient vehicles" and conducting "regular energy audits on City buildings." No specific units or targets mentioned (Objective 6.1.1).
 
-5. **Green Development:**
-   - **Targets:**
-     - Support green roofs and living walls.
-     - Encourage solar reflective coatings and permeable pavements.
-   - **Citation:** "Allow Green Roofs and Living Walls within the City." "Decrease heat island effect through the encouragement of solar reflective coatings on roofs and parking areas, permeable pavement and increased tree canopy." (Chapter 3: Built Environmental & Transportation)
-
-6. **Mobility and Transit Access:**
-   - **Targets:**
-     - Improve access to public transit.
-     - Provide shelter and shade at bus stops.
-   - **Citation:** "Encourage shelter and shade at bus stops without coverage." (Chapter 3: Built Environmental & Transportation)
-
-No specific units (e.g., tons, percentages) for CO₂ reductions, air quality improvements, or other quantifiable impacts are explicitly mentioned, except for the 30% increase in tree canopy. The plan does not provide detailed metrics for tracking other outcomes or set concrete deadlines or numerical objectives for the options beyond those listed.
+Overall, the plan focuses more on outlining strategic goals and objectives rather than providing detailed quantitative metrics for measuring success or failure.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**          | **Details**                                                                                                                                                                                                                                                                                                           |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Pembroke Pines                                                                                                                                                                                                                                                                                                       |
-| **Population**       | Not specified in the provided document.                                                                                                                                                                                                                                                                               |
-| **Threats Identified** | - Increase in carbon emissions and carbon dioxide levels leading to *increased temperatures*, *ocean acidity*, *extreme weather*, *threats to human health*, *sea level rise*, and *economic losses*.  <br>- Vulnerability to environmental threats due to *geographic location* in the *South Florida region*.                                               |
-| **Measures Identified** | - Reduction of reliance on carbon-intensive energy sources and protection of natural resources.  <br>- Focusing on *energy efficiency, public empowerment, and resilience* of the built environment.  <br>- *Natural Resources & Environmental Design*: Enhancing parks, greenways, tree preservation, air quality protection, and ecosystems protection.   <br>- *Energy Efficiency & Conservation*: Promoting energy-efficient upgrades and renewable energy use.  <br>- *Built Environment & Transportation*: Ensuring healthy community access and historic preservation.  <br>- *Waste Reduction & Recycling*: Adopting comprehensive waste management, recycling, and community partnerships.  <br>- *Community Outreach & Empowerment*: Facilitating community empowerment initiatives.  <br>- *Leadership & City Operations*: Implementing eco-friendly techniques and efficient city operations.           |
+| **Feature**              | **Details**                                                                                                                                                       |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**   | Pembroke Pines                                                                                                                                                   |
+| **Population**           | Not specified in the document                                                                                                                                     |
+| **Threats Identified**   | - Increase in carbon emissions and carbon dioxide levels (leading to increased temperatures) <br> - Increased ocean acidity <br> - Extreme weather <br> - Threats to human health <br> - Sea level rise <br> - Economic losses (Introduction section) <br> - Depleting natural resources, regional build-out, population increases, demand on natural environment, environmental threats (Chapter 1, Natural Resources & Environmental Design) |
+| **Measures Identified**  | - Focusing on energy efficiency, public empowerment, and resilience of the built environment (Introduction section) <br> - Energy Efficiency & Conservation <br> - Natural Resources & Environmental Design <br> - Built Environment & Transportation <br> - Waste Reduction & Recycling <br> - Community Outreach & Empowerment <br> - Leadership & City Operations (Introduction)                                                        |
 ```
 
