@@ -3,6 +3,10 @@ import re
 from tempfile import NamedTemporaryFile
 
 import streamlit as st
+
+# Set the page config immediately after importing streamlit
+st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
+
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
@@ -21,11 +25,6 @@ from langchain.docstore.document import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
-
-# ------------------------------------------------------------------------------
-# PAGE CONFIGURATION
-# ------------------------------------------------------------------------------
-st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
 
 # ------------------------------------------------------------------------------
 # LOAD DATA FILES
@@ -64,267 +63,18 @@ anthropic_api_key = st.text_input("Anthropic API Key", type="password")
 # ------------------------------------------------------------------------------
 # TABS SETUP
 # ------------------------------------------------------------------------------
-(summary_tab, multi_plan_qa_tab, document_qa_tab, plan_comparison_tab, 
- state_tab, county_tab) = st.tabs([
+(state_tab, county_tab,summary_tab, multi_plan_qa_tab, 
+ document_qa_tab, plan_comparison_tab) = st.tabs([
+    "State-Level Policy Tracker",
+    "County-Level Policy Tracker",
     "Summary Generation",
     "Multi-Plan Q&A",
     "Document Q&A Tool",
-    "Plan Comparison Tool",
-    "State-Level Policy Tracker",
-    "County-Level Policy Tracker",
+    "Plan Comparison Tool"
 ])
 
 # ------------------------------------------------------------------------------
-# TAB 1: SUMMARY GENERATION
-# ------------------------------------------------------------------------------
-with summary_tab:
-    st.header("Summary Generation")
-    uploaded_file = st.file_uploader(
-        "Upload a Climate Action Plan in PDF format",
-        type="pdf",
-        key="upload_file"
-    )
-
-    # Set file paths for prompt and questions
-    prompt_file_path = "Prompts/summary_tool_system_prompt.md"
-    questions_file_path = "Prompts/summary_tool_questions.md"
-
-    if st.button("Generate", key="generate_button"):
-        if not openai_api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not uploaded_file:
-            st.warning("Please upload a PDF file.")
-        else:
-            display_placeholder = st.empty()
-            with st.spinner("Processing..."):
-                try:
-                    # Call the new summary_generation function
-                    results = summary_generation(
-                        openai_api_key,
-                        uploaded_file,
-                        questions_file_path,
-                        prompt_file_path,
-                        display_placeholder
-                    )
-                    markdown_text = "\n".join(results)
-
-                    # Use the uploaded file's base name for the download file
-                    base_name = os.path.splitext(uploaded_file.name)[0]
-                    download_file_name = f"{base_name}_Summary.md"
-
-                    st.download_button(
-                        label="Download Results as Markdown",
-                        data=markdown_text,
-                        file_name=download_file_name,
-                        mime="text/markdown",
-                        key="download_button"
-                    )
-                except Exception as e:
-                    st.error(f"An error occurred: {e}")
-
-# ------------------------------------------------------------------------------
-# TAB 2: MULTI-PLAN Q&A
-# ------------------------------------------------------------------------------
-with multi_plan_qa_tab:
-    st.header("Multi-Plan Q&A")
-    st.markdown(
-        "This tool answers questions using information from all plans in the database. "
-        "Use it to answer general questions about the plans and their strategies. "
-        "For questions about a specific plan, use the Document Q&A Tool."
-    )
-    input_text = st.text_input("Ask a question:", key="multi_plan_input")
-    st.markdown("### Search Method")
-    st.markdown(
-        "The **Efficient** method uses a single shared vector store across all plans. "
-        "The **Greedy** method uses multiple vector stores to retrieve the most relevant chunks for each plan."
-    )
-    search_method = st.radio("Select a search method: ", ["Efficient", "Greedy"])
-    if st.button("Ask", key="multi_plan_qa_button"):
-        if not openai_api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not input_text:
-            st.warning("Please enter a question.")
-        else:
-            display_placeholder2 = st.empty()
-            with st.spinner("Processing..."):
-                try:
-                    if search_method == "Efficient":
-                        # Call multi_plan_qa for the efficient (single vector store) method
-                        multi_plan_qa(
-                            openai_api_key,
-                            input_text,
-                            display_placeholder2
-                        )
-                    elif search_method == "Greedy":
-                        # Call multi_plan_qa_multi_vectorstore for the greedy (multiple vector stores) method
-                        multi_plan_qa_multi_vectorstore(
-                            openai_api_key,
-                            input_text,
-                            display_placeholder2
-                        )
-                except Exception as e:
-                    st.error(f"An error occurred: {e}")
-
-# ------------------------------------------------------------------------------
-# TAB 3: DOCUMENT Q&A TOOL
-# ------------------------------------------------------------------------------
-with document_qa_tab:
-    st.header("Document Q&A Tool")
-
-    # Get list of existing vector store documents
-    vectorstore_documents = list_vector_store_documents()
-
-    # Option to upload a new plan or select from existing vector stores
-    focus_option = st.radio(
-        "Choose a focus plan:",
-        ("Select from existing vector stores", "Upload a new plan"),
-        key="focus_option_qa"
-    )
-
-    if focus_option == "Upload a new plan":
-        focus_uploaded_file = st.file_uploader(
-            "Upload a Climate Action Plan",
-            type="pdf",
-            key="focus_upload_qa"
-        )
-        focus_input = focus_uploaded_file if focus_uploaded_file else None
-    else:
-        selected_focus_plan = st.selectbox(
-            "Select a focus plan:",
-            vectorstore_documents,
-            key="select_focus_plan_qa"
-        )
-        focus_input = os.path.join(
-            "Individual_All_Vectorstores",
-            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
-        )
-
-    # Display previous conversation messages
-    if "chat_history" in st.session_state:
-        for message in st.session_state.chat_history:
-            role = "assistant" if isinstance(message, AIMessage) else "user"
-            st.chat_message(role).markdown(message.content)
-
-    user_input = st.chat_input("Ask a question")
-    if user_input:
-        if "chat_history" not in st.session_state:
-            st.session_state.chat_history = []
-        if openai_api_key and focus_input:
-            st.session_state.chat_history.append(HumanMessage(content=user_input))
-            st.chat_message("user").markdown(user_input)
-            with st.spinner("Processing..."):
-                # Call the new document_qa function
-                answer = document_qa(openai_api_key, focus_input, user_input)
-                st.session_state.chat_history.append(AIMessage(content=answer))
-                st.chat_message("assistant").markdown(answer)
-        else:
-            st.warning("Please provide your OpenAI API key and select a focus plan.")
-
-# ------------------------------------------------------------------------------
-# TAB 4: PLAN COMPARISON TOOL
-# ------------------------------------------------------------------------------
-with plan_comparison_tab:
-    st.header("Plan Comparison Tool")
-
-    # Get list of existing vector store documents for plans
-    vectorstore_documents = list_vector_store_documents()
-
-    # Option to upload a new plan or select from existing vector stores for focus
-    focus_option = st.radio(
-        "Choose a focus plan:",
-        ("Select from existing vector stores", "Upload a new plan"),
-        key="focus_option"
-    )
-    if focus_option == "Upload a new plan":
-        focus_uploaded_file = st.file_uploader(
-            "Upload a Climate Action Plan to compare",
-            type="pdf",
-            key="focus_upload"
-        )
-        focus_input = focus_uploaded_file if focus_uploaded_file is not None else None
-    else:
-        selected_focus_plan = st.selectbox(
-            "Select a focus plan:",
-            vectorstore_documents,
-            key="select_focus_plan"
-        )
-        focus_input = os.path.join(
-            "Individual_All_Vectorstores",
-            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
-        )
-
-    # Option to upload comparison documents or select from existing vector stores
-    comparison_option = st.radio(
-        "Choose comparison documents:",
-        ("Select from existing vector stores", "Upload new documents"),
-        key="comparison_option"
-    )
-    if comparison_option == "Upload new documents":
-        comparison_files = st.file_uploader(
-            "Upload comparison documents",
-            type="pdf",
-            accept_multiple_files=True,
-            key="comparison_files"
-        )
-        comparison_inputs = comparison_files
-    else:
-        selected_comparison_plans = st.multiselect(
-            "Select comparison documents:",
-            vectorstore_documents,
-            key="select_comparison_plans"
-        )
-        comparison_inputs = [
-            os.path.join(
-                "Individual_All_Vectorstores",
-                f"{doc.replace(' Summary', '_Summary')}_vectorstore"
-            ) for doc in selected_comparison_plans
-        ]
-
-    input_text = st.text_input("Ask a comparison question:", key="comparison_input")
-
-    st.markdown("### Model")
-    st.markdown(
-        "The **Standard (OpenAI)** model uses GPT-4o with RAG to answer questions. "
-        "The **Long Context Model (Anthropic)** uses Claude for answering questions without RAG."
-    )
-    search_method = st.radio("Select an approach: ", ["Standard (OpenAI)", "Long Context Model (Anthropic)"])
-    if st.button("Compare", key="compare_button"):
-        if not openai_api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not input_text:
-            st.warning("Please enter a comparison question.")
-        elif not focus_input:
-            st.warning("Please provide a focus plan.")
-        elif not comparison_inputs:
-            st.warning("Please provide comparison documents.")
-        else:
-            display_placeholder3 = st.empty()
-            with st.spinner("Processing..."):
-                try:
-                    if search_method == "Standard (OpenAI)":
-                        # Call the new comparison_qa function (formerly process_one_to_many_query)
-                        comparison_qa(
-                            openai_api_key,
-                            focus_input,
-                            comparison_inputs,
-                            input_text,
-                            display_placeholder3
-                        )
-                    elif search_method == "Long Context Model (Anthropic)":
-                        # For long-context, pass the focus plan and comparison inputs as selected summaries
-                        comparison_qa_long_context(
-                            openai_api_key,
-                            anthropic_api_key,
-                            input_text,
-                            focus_input,
-                            comparison_inputs,
-                            display_placeholder3
-                        )
-                except Exception as e:
-                    st.error(f"An error occurred: {e}")
-
-# ------------------------------------------------------------------------------
-# TAB 5: STATE-LEVEL POLICY TRACKER
+# TAB 1: STATE-LEVEL POLICY TRACKER
 # ------------------------------------------------------------------------------
 with state_tab:
     st.subheader("State Map")
@@ -460,7 +210,7 @@ with state_tab:
         st.markdown(legend_html, unsafe_allow_html=True)
 
 # ------------------------------------------------------------------------------
-# TAB 6: COUNTY-LEVEL POLICY TRACKER
+# TAB 2: COUNTY-LEVEL POLICY TRACKER
 # ------------------------------------------------------------------------------
 with county_tab:
     st.subheader("County Map")
@@ -595,3 +345,253 @@ with county_tab:
     with cols_county[2]:
         legend_html = generate_legend_html(REGION_COLORS)
         st.markdown(legend_html, unsafe_allow_html=True)
+
+# ------------------------------------------------------------------------------
+# TAB 3: SUMMARY GENERATION
+# ------------------------------------------------------------------------------
+with summary_tab:
+    st.header("Summary Generation")
+    uploaded_file = st.file_uploader(
+        "Upload a Climate Action Plan in PDF format",
+        type="pdf",
+        key="upload_file"
+    )
+
+    # Set file paths for prompt and questions
+    prompt_file_path = "Prompts/summary_tool_system_prompt.md"
+    questions_file_path = "Prompts/summary_tool_questions.md"
+
+    if st.button("Generate", key="generate_button"):
+        if not openai_api_key:
+            st.warning("Please provide your OpenAI API key.")
+        elif not uploaded_file:
+            st.warning("Please upload a PDF file.")
+        else:
+            display_placeholder = st.empty()
+            with st.spinner("Processing..."):
+                try:
+                    # Call the new summary_generation function
+                    results = summary_generation(
+                        openai_api_key,
+                        uploaded_file,
+                        questions_file_path,
+                        prompt_file_path,
+                        display_placeholder
+                    )
+                    markdown_text = "\n".join(results)
+
+                    # Use the uploaded file's base name for the download file
+                    base_name = os.path.splitext(uploaded_file.name)[0]
+                    download_file_name = f"{base_name}_Summary.md"
+
+                    st.download_button(
+                        label="Download Results as Markdown",
+                        data=markdown_text,
+                        file_name=download_file_name,
+                        mime="text/markdown",
+                        key="download_button"
+                    )
+                except Exception as e:
+                    st.error(f"An error occurred: {e}")
+
+# ------------------------------------------------------------------------------
+# TAB 4: MULTI-PLAN Q&A
+# ------------------------------------------------------------------------------
+with multi_plan_qa_tab:
+    st.header("Multi-Plan Q&A")
+    st.markdown(
+        "This tool answers questions using information from all plans in the database. "
+        "Use it to answer general questions about the plans and their strategies. "
+        "For questions about a specific plan, use the Document Q&A Tool."
+    )
+    input_text = st.text_input("Ask a question:", key="multi_plan_input")
+    st.markdown("### Search Method")
+    st.markdown(
+        "The **Efficient** method uses a single shared vector store across all plans. "
+        "The **Greedy** method uses multiple vector stores to retrieve the most relevant chunks for each plan."
+    )
+    search_method = st.radio("Select a search method: ", ["Efficient", "Greedy"])
+    if st.button("Ask", key="multi_plan_qa_button"):
+        if not openai_api_key:
+            st.warning("Please provide your OpenAI API key.")
+        elif not input_text:
+            st.warning("Please enter a question.")
+        else:
+            display_placeholder2 = st.empty()
+            with st.spinner("Processing..."):
+                try:
+                    if search_method == "Efficient":
+                        # Call multi_plan_qa for the efficient (single vector store) method
+                        multi_plan_qa(
+                            openai_api_key,
+                            input_text,
+                            display_placeholder2
+                        )
+                    elif search_method == "Greedy":
+                        # Call multi_plan_qa_multi_vectorstore for the greedy (multiple vector stores) method
+                        multi_plan_qa_multi_vectorstore(
+                            openai_api_key,
+                            input_text,
+                            display_placeholder2
+                        )
+                except Exception as e:
+                    st.error(f"An error occurred: {e}")
+
+# ------------------------------------------------------------------------------
+# TAB 5: DOCUMENT Q&A TOOL
+# ------------------------------------------------------------------------------
+with document_qa_tab:
+    st.header("Document Q&A Tool")
+
+    # Get list of existing vector store documents
+    vectorstore_documents = list_vector_store_documents()
+
+    # Option to upload a new plan or select from existing vector stores
+    focus_option = st.radio(
+        "Choose a focus plan:",
+        ("Select from existing vector stores", "Upload a new plan"),
+        key="focus_option_qa"
+    )
+
+    if focus_option == "Upload a new plan":
+        focus_uploaded_file = st.file_uploader(
+            "Upload a Climate Action Plan",
+            type="pdf",
+            key="focus_upload_qa"
+        )
+        focus_input = focus_uploaded_file if focus_uploaded_file else None
+    else:
+        selected_focus_plan = st.selectbox(
+            "Select a focus plan:",
+            vectorstore_documents,
+            key="select_focus_plan_qa"
+        )
+        focus_input = os.path.join(
+            "Individual_All_Vectorstores",
+            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
+        )
+
+    # Display previous conversation messages
+    if "chat_history" in st.session_state:
+        for message in st.session_state.chat_history:
+            role = "assistant" if isinstance(message, AIMessage) else "user"
+            st.chat_message(role).markdown(message.content)
+
+    user_input = st.chat_input("Ask a question")
+    if user_input:
+        if "chat_history" not in st.session_state:
+            st.session_state.chat_history = []
+        if openai_api_key and focus_input:
+            st.session_state.chat_history.append(HumanMessage(content=user_input))
+            st.chat_message("user").markdown(user_input)
+            with st.spinner("Processing..."):
+                # Call the new document_qa function
+                answer = document_qa(openai_api_key, focus_input, user_input)
+                st.session_state.chat_history.append(AIMessage(content=answer))
+                st.chat_message("assistant").markdown(answer)
+        else:
+            st.warning("Please provide your OpenAI API key and select a focus plan.")
+
+# ------------------------------------------------------------------------------
+# TAB 6: PLAN COMPARISON TOOL
+# ------------------------------------------------------------------------------
+with plan_comparison_tab:
+    st.header("Plan Comparison Tool")
+
+    # Get list of existing vector store documents for plans
+    vectorstore_documents = list_vector_store_documents()
+
+    # Option to upload a new plan or select from existing vector stores for focus
+    focus_option = st.radio(
+        "Choose a focus plan:",
+        ("Select from existing vector stores", "Upload a new plan"),
+        key="focus_option"
+    )
+    if focus_option == "Upload a new plan":
+        focus_uploaded_file = st.file_uploader(
+            "Upload a Climate Action Plan to compare",
+            type="pdf",
+            key="focus_upload"
+        )
+        focus_input = focus_uploaded_file if focus_uploaded_file is not None else None
+    else:
+        selected_focus_plan = st.selectbox(
+            "Select a focus plan:",
+            vectorstore_documents,
+            key="select_focus_plan"
+        )
+        focus_input = os.path.join(
+            "Individual_All_Vectorstores",
+            f"{selected_focus_plan.replace(' Summary', '_Summary')}_vectorstore"
+        )
+
+    # Option to upload comparison documents or select from existing vector stores
+    comparison_option = st.radio(
+        "Choose comparison documents:",
+        ("Select from existing vector stores", "Upload new documents"),
+        key="comparison_option"
+    )
+    if comparison_option == "Upload new documents":
+        comparison_files = st.file_uploader(
+            "Upload comparison documents",
+            type="pdf",
+            accept_multiple_files=True,
+            key="comparison_files"
+        )
+        comparison_inputs = comparison_files
+    else:
+        selected_comparison_plans = st.multiselect(
+            "Select comparison documents:",
+            vectorstore_documents,
+            key="select_comparison_plans"
+        )
+        comparison_inputs = [
+            os.path.join(
+                "Individual_All_Vectorstores",
+                f"{doc.replace(' Summary', '_Summary')}_vectorstore"
+            ) for doc in selected_comparison_plans
+        ]
+    
+    st.markdown("### Model")
+    st.markdown(
+        "The **Standard (OpenAI)** model uses GPT-4o with RAG to answer questions. "
+        "The **Long Context Model (Anthropic)** uses Claude for answering questions without RAG."
+    )
+    search_method = st.radio("Select an approach: ", ["Standard (OpenAI)", "Long Context Model (Anthropic)"])
+
+    input_text = st.text_input("Ask a comparison question:", key="comparison_input")
+
+    if st.button("Compare", key="compare_button"):
+        if not openai_api_key:
+            st.warning("Please provide your OpenAI API key.")
+        elif not input_text:
+            st.warning("Please enter a comparison question.")
+        elif not focus_input:
+            st.warning("Please provide a focus plan.")
+        elif not comparison_inputs:
+            st.warning("Please provide comparison documents.")
+        else:
+            display_placeholder3 = st.empty()
+            with st.spinner("Processing..."):
+                try:
+                    if search_method == "Standard (OpenAI)":
+                        # Call the new comparison_qa function (formerly process_one_to_many_query)
+                        comparison_qa(
+                            openai_api_key,
+                            focus_input,
+                            comparison_inputs,
+                            input_text,
+                            display_placeholder3
+                        )
+                    elif search_method == "Long Context Model (Anthropic)":
+                        # For long-context, pass the focus plan and comparison inputs as selected summaries
+                        comparison_qa_long_context(
+                            openai_api_key,
+                            anthropic_api_key,
+                            input_text,
+                            focus_input,
+                            comparison_inputs,
+                            display_placeholder3
+                        )
+                except Exception as e:
+                    st.error(f"An error occurred: {e}")

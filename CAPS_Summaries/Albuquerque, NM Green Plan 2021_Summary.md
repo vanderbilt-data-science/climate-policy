@@ -1,419 +1,418 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-### Planning Jurisdiction: Albuquerque
+### Planning Jurisdiction Overview
 
-**Location and Geography:**
-- **Mountains and Rivers:** Albuquerque is positioned with the Sandia Mountains to the east and the Rio Grande at its core. *("INTRODUCTION")*
-- **Natural Environment:** Albuquerque has "350 sunny days a year and high elevation," making it ideal for solar energy generation. *("RENEWABLE ENERGY")*
+**Name and Location:**
+- **Planning Jurisdiction:** City of Albuquerque
+- **Location:** United States
 
-**Economic and Demographic Information:**
-- **Economic Development:** Efforts in Albuquerque are geared towards transitioning economic activity from extractive to regenerative. Investment opportunities include waste reuse, local food and agriculture, energy efficiency, and renewable energy. *("ECONOMIC DEVELOPMENT")*
-- **Workforce Programs:** The “Jobs Training Albuquerque (JTA)” workforce development program prioritizes companies in renewable and alternative energy manufacturing industries. *("ECONOMIC DEVELOPMENT")*
+**Geographic Features:**
+- The city is **bordered by the Sandia Mountains to the east** and is centered around the **Rio Grande** river. There is no mention of deserts or coastlines within the city.
 
-**Local Climate and Water Challenges:**
-- **Climate Challenges:** The local climate environment features sunny conditions aligning with a potential for increased development in the solar sector. *("RENEWABLE ENERGY")*
+**Infrastructure:**
+- The plan does not provide specific details about key infrastructure such as airports or seaports.
 
-**Energy Production and Infrastructure:**
-- **Energy Production:** Albuquerque's Public Service Company of New Mexico (PNM) generates energy from coal, natural gas, nuclear, solar, wind, and geothermal sources. PNM is committed to 100% emissions-free energy by 2040, with the city targeting 100% renewable energy for government operations by 2025. *("RENEWABLE ENERGY")*
+**Climate and Water Challenges:**
+- Albuquerque is recognized for having **350 sunny days a year** and a **high elevation**, making it ideal for solar energy generation (Renewable Energy). 
+- There is an implied presence of **water challenges** as the plan discusses the need for water conservation strategies, including water reclamation and creating a Climate Action Plan water budget (Water Conservation & Smart Planning).
 
-**Industries and Economic Drivers:**
-- **Clean Energy Jobs:** Transition to renewable energy is projected to create up to 8,830 new jobs in New Mexico's clean energy economy by 2030, stimulating over $4.6 billion of new investment. *("ECONOMIC DEVELOPMENT")*
-- **Economic Innovations:** Initiatives focus on sectors such as local food and agriculture, waste recycling, renewable energy, and community solar installations. *("ECONOMIC DEVELOPMENT")*
+**Demographics:**
+- The plan identifies that Albuquerque is home to diverse communities, specifically **frontline communities** which include Indigenous, Black, and other communities of color, as well as communities of low-income.
 
-**Demographics and Socio-economic Factors:**
-- **Frontline Communities:** The plan prioritizes "frontline communities," which include Indigenous, Black, and other communities of color, and low-income groups, suggesting a focus on equitable development and climate justice. *("INTRODUCTION")*
+**Economy and Economic Development:**
+- **Economic Landscape:** The plan emphasizes transitioning from extractive to **regenerative economic activities**, including growth in waste reuse, local food and agriculture, energy efficiency, and renewable energy (Economic Development).
+- **Job Projections:** By 2030, renewable energy actions could create **up to 8,830 new jobs**. 
+- **Key Economic Drivers:** Renewable energy plays a significant role in Albuquerque's economy. Albuquerque is noted for its potential and ongoing initiatives in solar energy (Renewable Energy).
 
-**Additional Local Infrastructure:**
-- The plan emphasizes enhancing local elements such as infrastructure for safe trails and biking, and developing community engagement models to ensure environmental justice. *("Greening Efforts in Frontline Communities")*
+**Energy Production and Natural Resources:**
+- Albuquerque's energy comes from various sources, including **solar, wind, and geothermal**. The Public Service Company of New Mexico (PNM) is committed to transitioning to 100% emissions-free energy by 2040, phasing out coal and some natural gas plants (Renewable Energy).
+
+**Industries:**
+- Key sectors identified include **local food and agriculture, waste, recycling, and renewable energy**. Economic strategies align with **Just Transition principles**, focusing on sustainable practices and celebrating environmental systems (Economic Development).
+
+**Additional Notes:**
+- The city's commitment to achieving **100% renewable energy use for government operations by 2025** highlights Albuquerque's dedication to adopting clean energy solutions (Renewable Energy).
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-**Resilience:**
+### **Resilience**
 
-The plan places significant emphasis on community resilience, focusing on empowering frontline communities and addressing their needs through various strategies. It includes efforts such as greening efforts within 10-minute walks of residential spaces, improving safe trails and biking infrastructure, and reducing the urban heat island effect. It also highlights the importance of community engagement and environmental justice in planning processes. The inclusion of community voices, particularly those from frontline communities, in decision-making processes underscores the plan's dedication to resilience.
+The plan places a strong focus on **resilience** with several strategies aimed at strengthening community infrastructure and natural systems to withstand climate impacts. For instance, it prioritizes the development and maintenance of green spaces, community gardens, and food forests within a 10-minute walk of all residential spaces to improve resilience and enhance the quality of life (**CLIMATE ACTION PLAN44**). The plan also emphasizes the importance of increasing vegetation cover city-wide to reduce the heat island effect and address wildlife needs, especially in frontline communities (**CLIMATE ACTION PLAN44**).
 
-**Mitigation:**
+### **Mitigation**
 
-The plan incorporates mitigation strategies through its promotion of renewable energy, sustainable development, and waste and recycling programs. Mitigation efforts are emphasized through objectives like reducing greenhouse gas emissions by localizing food systems, promoting local farm-to-fork culinary tourism, and improving energy efficiency in buildings. Specific strategies also include promoting electrification of new city facilities and requiring energy disclosure during the sale or lease of properties.
+**Mitigation** efforts are prevalent throughout the plan, with strategies focused on reducing greenhouse gas emissions and promoting sustainability. Specific strategies include localizing food production systems to reduce transportation emissions (**CLIMATE ACTION PLAN42**) and investing in green infrastructure such as rainwater collection to address urban heat island effects (**CLIMATE ACTION PLAN38**). Furthermore, there's encouragement to electrify new city facilities and support code requirements for private building electrification (**APPENDIX B**).
 
-**Adaptation:**
+### **Adaptation**
 
-Adaptation is addressed through strategies such as creating a Climate Action Plan water budget, investing in green infrastructure to address urban heat island effects, and revising water codes to increase water reclamation. Additionally, the focus on sustainable agriculture and water conservation, and respecting agricultural land and water use, reflects adaptation efforts.
+The plan incorporates significant **adaptation** measures, emphasizing adjustments to systems to minimize climate change harm. Strategies include monitoring a climate action plan water budget to support climate mitigation efforts and developing a water security strategy in collaboration with local water management entities (**CLIMATE ACTION PLAN44**). Additionally, promoting the use of drought-tolerant plants is suggested to help communities adapt to changing climate conditions (**APPENDIX B**).
 
-**Classification:**
+### **Classification of the Plan**
 
-The plan as a whole can be classified as an **equal mitigation and adaptation climate action plan**. This classification is based on the balanced approach it takes by integrating robust strategies for both mitigation (reducing emissions and promoting renewable energy) and adaptation/resilience (enhancing community resilience, particularly in frontline communities, and addressing water and heat-related challenges).
+Based on the outlined strategies, this document can be classified as an **equal mitigation and adaptation climate action plan**. The plan addresses both climate mitigation and adaptation strategies comprehensively, with embedded resilience principles prioritizing the needs of the local community and frontline groups.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-The plan does not provide a specific scenario of climate change that Albuquerque will face. However, it acknowledges that the city is threatened by current climate and ecological crises and emphasizes the need to refine actions to local contexts given that not all communities are impacted equally. The plan states that Albuquerque's frontline communities will be impacted "first and worst" by the effects of climate change and highlights existing disparities in energy burdens, health outcomes, and accessibility (Introduction).
+**Summary of Climate Change Scenario:**
 
-The plan is developed in response to City Resolution R-19-187's declaration of a climate emergency and further emphasizes the necessity to counter both global and local effects of climate change in order to ensure justice and well-being in diverse areas such as economies, governance, and public health (Introduction).
+The plan does not provide a specific scenario or detailed description of future climate change the planning jurisdiction with Albuquerque will face. However, it acknowledges that the region is threatened by "the current climate and ecological crises" (INTRODUCTION) and outlines the necessity of climate action in response to City Resolution R-19-187’s declaration of a climate emergency. It mentions the commitment to fulfilling GHG reduction goals outlined by the Paris Climate Agreement (INTRODUCTION). The plan is crafted with the understanding that "frontline communities—those who have been and will be impacted 'first and worst' by the climate crisis" (EXECUTIVE SUMMARY) are central to the planning process. Although a detailed scenario is not outlined, the emphasis on the inclusion of diverse community voices highlights the jurisdiction's awareness of varied vulnerabilities and exposures to climate impacts.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-The plan does not explicitly list specific climate hazards by distinct categories directly, but it does imply certain climate-related concerns faced by the community, referenced through context and affected areas or populations. Below are inferences drawn from the document about potential climate hazards:
+1. **Heat Island Effect**
+   - **Climate Hazard:** The plan identifies the heat island effect as a significant climate hazard.
+   - **Climate Risks:** It exacerbates local temperature increases, leading to further climate change impact on urban areas.
+   - **Vulnerable Populations/Areas:** Prioritized greening in frontline communities, which are often most impacted by higher temperatures due to lack of vegetation and resources like air conditioning.
 
-1. **Energy Burdens**
-   - **Climate Hazard:** Not directly defined, but associated with disparities in energy consumption and accessibility in frontline communities.
-   - **Climate Risks:** "Disparities in energy burdens" contribute to problems among vulnerable populations by limiting access to energy resources.
-   - **Vulnerable Populations:** "Frontline communities" such as Indigenous, Black, and other communities of color, as well as "communities of low-income" populations are notably affected.
+2. **Water Scarcity**
+   - **Climate Hazard:** Concerns around water supply are highlighted in the plan as a major hazard.
+   - **Climate Risks:** Water shortages present risks to sustainability and health, potentially impacting access to water resources and leading to competition for water use.
+   - **Vulnerable Populations/Areas:** Frontline communities are indicated as vulnerable, with additional efforts to engage them in water conservation strategies such as purchasing farmland to increase wetland areas. 
 
-2. **Health Outcomes**
-   - **Climate Hazard:** Inequitable health outcomes due to environmental and climate factors, although specific hazards are not enumerated.
-   - **Climate Risks:** "Disparities in health outcomes" indicate significant implications for community health affected by climate change.
-   - **Vulnerable Populations:** Again, "frontline communities" who face greater exposure with limited resources to address health challenges.
+3. **Air Pollution**
+   - **Climate Hazard:** The plan emphasizes the link between climate change and worsening air quality.
+   - **Climate Risks:** Associated health risks include respiratory issues and other health outcomes negatively affected by increases in air pollution.
+   - **Vulnerable Populations/Areas:** Vulnerable populations include those with existing health disparities, often found in frontline communities disproportionately exposed to pollution sources.
 
-3. **Pollution & Exposure**
-   - **Climate Hazard:** Not explicitly mentioned, but inferred through their references to pollution and exposure issues.
-   - **Climate Risks:** "Greater exposure to pollution and climate hazards" reflect risks to health and wellbeing.
-   - **Vulnerable Populations:** As before, "frontline communities" are noted, implying higher exposure rates to these hazards.
+4. **Biodiversity Loss**
+   - **Climate Hazard:** Ecosystem health is threatened by climate-related biodiversity losses.
+   - **Climate Risks:** Loss of biodiversity impacts ecosystem services, affecting food security and resilience against extreme weather.
+   - **Vulnerable Populations/Areas:** Indigenous and other marginalized communities who depend on biodiversity for cultural and economic reasons are highlighted as particularly vulnerable.
 
-The document calls upon the engagement of those communities most affected by these issues in the planning process, which further highlights the focus on equity and justice within climate adaptation efforts. These references suggest a multi-faceted array of climate-related pressures without detailing specific climate phenomena like extreme weather or sea-level rise typically categorized in hazard discussions.
+5. **Extreme Weather Events**
+   - **Climate Hazard:** The plan alludes to extreme weather as a continuing climate threat.
+   - **Climate Risks:** These events pose risks to infrastructure, public safety, and can disrupt local economies.
+   - **Vulnerable Populations/Areas:** Economically disadvantaged and underrepresented communities who may have less capacity to recover from such events are identified as having heightened vulnerability.
+
+The plan focuses on equity and ensuring that frontline and historically disadvantaged communities are prioritized in climate action initiatives, as they bear a disproportionate burden of these identified hazards.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+Based on the content provided, here are the resilience options identified in the plan along with their summaries:
 
-1. **Localize Systems of Production:**
-   - **Climate Threat Addressed:** This initiative aims to reduce transportation time and emissions, thereby addressing the threat from greenhouse gas emissions.
-   - **Details:**
-     - **Cost & Timeframe:** Near-Term (NT), ongoing until 2022.
-     - **Location:** It's a broad initiative to be implemented across Albuquerque without a specific location noted.
-     - **Constraints & Benefits:** Primary priority with constraints in behavior, policy, technology, and infrastructure. Provides benefits related to air quality, climate mitigation, economic development, equity building, and quality of life (Appendix B: Summary Recommendations Table).
-   - **Other Attributes:** Focuses on strengthening the local food system, shortening supply chains, and promoting local agricultural systems.
+1. **Greening Efforts in Frontline Communities**
+   - **Climate Threat Addressed:** The plan aims to address heat island effects and improve access to green spaces.
+   - **Details on Cost, Timeframe, and Location:** 
+     - **Initiation Phase:** Long-Term (By 2031)
+     - **Priority:** Primary
+     - **Constraints:** Investment, Policy
+     - **Benefits:** Adaptation & Resilience, Economic Development, Equity Building, Health Outcomes, Quality of Life
+     - **Favorable Policy Environment:** Yes
+   - **Other Important Attributes:** The strategy emphasizes developing green spaces, community gardens, and food forests within a 10-minute walk of all residential spaces, improving safe trails and biking infrastructure for equitable distribution, and banning glyphosate products to support environmental functions. [CLIMATE ACTION PLAN44]
 
-2. **Strengthen Local Food System:**
-   - **Climate Threat Addressed:** Reduces greenhouse gases by promoting local food systems and reducing transport emissions.
-   - **Details:**
-     - **Cost & Timeframe:** Initiated Near-Term (NT), ongoing, with a primary focus.
-     - **Location:** Targeted at frontline communities.
-     - **Constraints & Benefits:** Primary priority with investment, policy, and technology as constraints, focusing on equity building, health outcomes, and quality of life (Appendix B: Summary Recommendations Table).
-   - **Other Attributes:** Supports local economy through community gardens and farm-to-fork tourism (Economic Development).
+2. **Community and Economic Development Opportunities**
+   - **Climate Threat Addressed:** The strategy tackles the socio-economic vulnerability of frontline communities to climate change.
+   - **Details on Cost, Timeframe, and Location:** 
+     - **Initiation Phase:** Mid-Term (By 2026)
+     - **Priority:** Primary
+     - **Constraints:** Awareness, Behavior Change, Investment, Policy
+     - **Benefits:** Economic Development, Equity Building, Health Outcomes, Quality of Life
+   - **Other Important Attributes:** It involves restoring land, water, and air while investing in frontline, underrepresented, and economically disadvantaged communities and local infrastructure, including initiatives like solar installation apprenticeships and green redevelopment using vacant lots. [CLIMATE ACTION PLAN42]
 
-3. **Green Infrastructure Investment:**
-   - **Climate Threat Addressed:** Addresses urban heat island effects and ensures water conservation and stormwater management.
-   - **Details:**
-     - **Cost & Timeframe:** Mid-Term (MT) ongoing.
-     - **Location:** Prioritizes areas within Albuquerque with less vegetation and lower access to air conditioning.
-     - **Constraints & Benefits:** Investment with attention to infrastructure constraints and benefits relating to adaptation and resilience, air quality, climate mitigation, and health outcomes (Appendix C: Task Force Neighborhood Representation).
-   - **Other Attributes:** Emphasizes on rainwater collection and integrating green stormwater infrastructure for sustainable urban development.
+3. **Water Conservation & Smart Planning**
+   - **Climate Threat Addressed:** This strategy is aimed at conserving water resources amid climate-induced water scarcity.
+   - **Details on Cost, Timeframe, and Location:**
+     - **Initiation Phase:** Mid-Term (By 2026)
+     - **Priority:** Primary
+     - **Constraints:** Behavior Change, Policy
+     - **Benefits:** Climate Mitigation, Economic Development, Health Outcomes, Quality of Life
+   - **Other Important Attributes:** Creating and monitoring a Climate Action Plan water budget and developing a water security strategy through collaboration and data sharing with local water management authorities. [CLIMATE ACTION PLAN44]
 
-4. **Increase Vegetation and Tree Cover:**
-   - **Climate Threat Addressed:** Reduces heat island effect and supports environmental health.
-   - **Details:**
-     - **Cost & Timeframe:** Long-Term (LT) priority.
-     - **Location:** Focused city-wide with emphasis on frontline communities for greening projects.
-     - **Constraints & Benefits:** Policy and infrastructure constraints with an emphasis on adaptation, air quality, and equity (Appendix B: Summary Recommendations Table).
-   - **Other Attributes:** Includes preservation of existing trees, establishing a tree ordinance, and addressing wildlife needs (Climate Conscious Neighborhoods & Resources).
+4. **Sustainable Development & Land Use Planning**
+   - **Climate Threat Addressed:** Addresses risks associated with increased urban heat and extreme weather events.
+   - **Details on Cost, Timeframe, and Location:** 
+     - **Initiation Phase:** Mid-Term (By 2026)
+     - **Priority:** Secondary
+     - **Constraints:** Awareness, Investment
+     - **Benefits:** Adaptation & Resilience, Climate Mitigation, Economic Development, Equity Building, Health Outcomes, Quality of Life
+   - **Other Important Attributes:** Incorporating green infrastructure, like rainwater collection, into new construction and reviewing land use practices to prioritize water conservation and support sustainable development. [CLIMATE ACTION PLAN38]
 
-5. **Develop Green Spaces and Wetlands:**
-   - **Climate Threat Addressed:** Promotes resilience through water conservation and habitat improvement.
-   - **Details:**
-     - **Cost & Timeframe:** Near-Term (NT), ongoing.
-     - **Location:** Specifically involves City of Albuquerque purchasing farmland for wetlands development.
-     - **Constraints & Benefits:** Investment and policy constraints with benefits that focus on adaptation and resilience, economic development, and quality of life (Sustainable Development & Land Use Planning & Practices).
-   - **Other Attributes:** Enhances habitat and recreation quality while using community-engagement models for planning implementation.
+5. **Transit Access & Investment**
+   - **Climate Threat Addressed:** Enhances resilience by prioritizing vulnerable populations' access to transportation during climatic events.
+   - **Details on Cost, Timeframe, and Location:**
+     - **Initiation Phase:** Mid-Term (By 2026)
+     - **Priority:** Secondary
+     - **Constraints:** Investment, Policy
+     - **Benefits:** Air Quality, Climate Mitigation, Economic Development, Equity Building, Health Outcomes, Quality of Life
+   - **Other Important Attributes:** Includes increasing funding for public transit, free transit to needy communities, re-evaluating and improving transit routes, and investing in infrastructure to improve transportation safety and access. [CLIMATE ACTION PLAN40]
+
+6. **Public Sustainability Education**
+   - **Climate Threat Addressed:** Tackling the lack of awareness regarding climate threats and sustainable practices.
+   - **Details on Cost, Timeframe, and Location:**
+     - **Initiation Phase:** Near-Term (By 2022)
+     - **Priority:** Primary
+     - **Constraints:** Awareness, Behavior Change, Investment, Policy, Technology
+     - **Benefits:** Adaptation & Resilience, Economic Development, Equity Building, Health Outcomes, Quality of Life
+   - **Other Important Attributes:** Developing educational campaigns focusing on the energy-water nexus, waste reduction, and broader climate issues like greenhouse gases and green jobs, in partnership with frontline communities. [CLIMATE ACTION PLAN43]
+
+These resilience options collectively aim to enhance Albuquerque's capacity to cope with climate impacts through community-centered strategies, infrastructural improvements, and educational initiatives, emphasizing socio-economic and environmental sustainability.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, summarized as follows:
+The plan identifies the following mitigation options along with their attributes:
 
-### 1. Localize Systems of Production
+1. **Localize Systems of Production**
+   - **Summary:** Reduce transportation time and emissions by localizing systems of production, such as in food and agriculture.
+   - **Cost:** Not specified.
+   - **Timing:** Near-Term (By 2022), ongoing.
+   - **Priority:** Primary.
+   - **Constraints:** Behavior Change (B), Policy (P), Technology & Infrastructure (T).
+   - **Benefits:** Air Quality (AQ), Climate Mitigation (CM), Economic Development (ED), Health Outcomes (HO), Quality of Life (QL).
 
-- **Summary:** Localizing systems of production, specifically in areas such as food and agriculture, is aimed at reducing transportation time and emissions.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Initiation is Near-Term (NT) and ongoing.
-  - **Priority:** Primary.
-  - **Constraints:** Behavior Change, Policy, Technology & Infrastructure.
-  - **Policy Benefits:** Primarily tied to Climate Mitigation and Air Quality.
-  - **Attributes:** Supports the local economy and reduces greenhouse gas emissions through community gardens and farm-to-fork culinary tourism.
+2. **Strengthen Local Food System**
+   - **Summary:** Increase community gardens and promote farm-to-fork culinary tourism in frontline communities.
+   - **Cost:** Not specified.
+   - **Timing:** Near-Term (By 2022), ongoing.
+   - **Priority:** Primary.
+   - **Constraints:** Investment (I), Policy (P), Technology & Infrastructure (T).
+   - **Benefits:** Air Quality (AQ), Climate Mitigation (CM), Economic Development (ED), Equity Building (EQ), Health Outcomes (HO), Quality of Life (QL).
 
-### 2. Green Infrastructure and Green Storm Water Projects
+3. **Community and Economic Development Mitigating Climate Change**
+   - **Summary:** Efforts include local recycling, processing yard waste to compost, solar installation opportunities, and using City-owned vacant lots for community gardens.
+   - **Cost:** Not specified.
+   - **Timing:** Mid-Term (By 2026), ongoing.
+   - **Priority:** Primary.
+   - **Constraints:** Behavior Change (B), Investment (I), Policy (P).
+   - **Benefits:** Adaptation & Resilience (AR), Economic Development (ED), Equity Building (EQ), Health Outcomes (HO), Quality of Life (QL).
 
-- **Summary:** Invest in rainwater collection and other green infrastructure solutions to address urban heat island effects and create water greenspaces.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Mid-Term (MT) and ongoing.
-  - **Priority:** Primary.
-  - **Constraints:** Awareness, Policy, Technology & Infrastructure.
-  - **Policy Benefits:** Addresses Climate Mitigation, Resilience, and Equity Building.
-  - **Attributes:** Prioritizes frontline communities with less vegetation and lower access to air conditioning.
+4. **Transit Access & Investment**
+   - **Summary:** Increase funding and access to public transportation and promote it as a socially responsible option.
+   - **Cost:** Not specified.
+   - **Timing:** Mid-Term (By 2026), ongoing for some elements.
+   - **Priority:** Primary.
+   - **Constraints:** Investment (I), Policy (P), Technology & Infrastructure (T).
+   - **Benefits:** Adaptation & Resilience (AR), Air Quality (AQ), Climate Mitigation (CM), Economic Development (ED).
 
-### 3. Renewable Energy Development
+5. **Vehicle Emissions Reduction**
+   - **Summary:** Transition mass transit to zero emissions, promote electric vehicle rideshare, and convert city vehicles to electric.
+   - **Cost:** Not specified.
+   - **Timing:** Mid-Term (By 2026).
+   - **Priority:** Not specified.
+   - **Constraints:** Behavior Change (B), Investment (I), Policy (P), Technology & Infrastructure (T).
+   - **Benefits:** Air Quality (AQ), Climate Mitigation (CM).
 
-- **Summary:** Support standards for community solar programs, micro-grids, and grid modernization.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Mid-Term (MT).
-  - **Priority:** Secondary.
-  - **Constraints:** Investment, Policy, Technology & Infrastructure.
-  - **Policy Benefits:** Advances Climate Mitigation and Equity Building.
-  - **Attributes:** Prioritizes low-income areas and encourages frontline community engagement in energy decision-making.
+6. **Green Buildings & Development**
+   - **Summary:** Support legislation for energy standards and development of energy-efficient buildings.
+   - **Cost:** Not specified.
+   - **Timing:** Long-Term (By 2031) for some; Mid-Term (By 2026) ongoing for others.
+   - **Priority:** Primary for some.
+   - **Constraints:** Awareness (A), Policy (P).
+   - **Benefits:** Adaptation & Resilience (AR), Air Quality (AQ), Climate Mitigation (CM), Economic Development (ED).
 
-### 4. Transition Mass Transit to Zero Emissions
+7. **Renewable Energy Development**
+   - **Summary:** Promote community solar programs, solar development in communities, and grid modernization.
+   - **Cost:** Not specified.
+   - **Timing:** Mid-Term (By 2026), ongoing for some elements.
+   - **Priority:** Primary for some.
+   - **Constraints:** Awareness (A), Behavior Change (B), Policy (P).
+   - **Benefits:** Adaptation & Resilience (AR), Air Quality (AQ), Climate Mitigation (CM), Economic Development (ED).
 
-- **Summary:** Transition public transportation systems to zero-emission fuel sources.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Mid-Term (MT).
-  - **Priority:** Secondary.
-  - **Constraints:** Behavior Change, Investment, Policy, Technology & Infrastructure.
-  - **Policy Benefits:** Improves Air Quality and supports Climate Mitigation.
-  - **Attributes:** Includes accommodating frontline communities with rideshare options.
-
-### 5. Electrification of City Facilities
-
-- **Summary:** Prioritize electrification for new city facilities and renovations.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Mid-Term (MT) and ongoing.
-  - **Priority:** Primary.
-  - **Constraints:** Investment, Policy.
-  - **Policy Benefits:** Enhances Air Quality and Climate Mitigation.
-  - **Attributes:** Electrification requirements for private commercial and residential buildings.
-
-### 6. Sustainable Buildings and Development
-
-- **Summary:** Support legislation prioritizing urban infill and meeting energy standards for buildings.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Long-Term (LT) and ongoing.
-  - **Priority:** Secondary.
-  - **Constraints:** Awareness, Policy.
-  - **Policy Benefits:** Supports Climate Mitigation and Sustainable Development.
-  - **Attributes:** Focuses on both private and public sector building codes and standards.
-
-### 7. Public Education Campaigns
-
-- **Summary:** Invest in education about GHG emissions and their reduction.
-- **Cost, Timing, Location, and Attributes:**
-  - **Timing:** Near-Term (NT) and ongoing.
-  - **Priority:** Primary.
-  - **Constraints:** Awareness, Investment.
-  - **Policy Benefits:** Educates on Climate Mitigation and Economy.
-  - **Attributes:** Involves partnerships with frontline communities and local media.
-
-These mitigation options incorporate strategies that address timing, investment, policy, technology, and community engagement to achieve significant climate mitigation outcomes.
+Each mitigation option is aligned with various constraints and benefits, indicating the cross-cutting approach to addressing climate change in the planning jurisdiction.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, summarized below with their respective details:
+The plan identifies several mitigation options and provides details about them regarding costs, timeframes, locations, and other attributes. Here is a summary of each:
 
-1. **Localize Systems of Production**:
-   - **Description**: Reduce transportation time and emissions.
-   - **Cost**: Not explicitly mentioned.
-   - **Timeframe**: Near-Term, ongoing.
-   - **Location**: Not specified.
-   - **Attributes**: Primary priority; Constraint: Behavior Change, Policy, Technology & Infrastructure.
-   - **Benefits**: Improves air quality, provides economic development, enhances quality of life.
-   - **Source**: *Strategies*, Climate Action Plan.
+### **1. Localize Systems of Production**
+- **Summary:** The plan aims to localize systems of production, particularly in food and agriculture, to reduce transportation time and emissions.
+- **Timeframe:** Near-Term (By 2022)
+- **Priority:** Secondary
+- **Constraints:** Behavior Change, Policy, Technology & Infrastructure
+- **Policy Benefits:** Climate Mitigation, Economic Development, Equity Building, Air Quality, Quality of Life
+- **Location/Target:** Local systems
+- **Cost-related:** Investments are not specified but involve changing behaviors, policies, and infrastructure. 
+- **Other Important Attributes:** Ongoing focus.
 
-2. **Increase Community Gardens and Local Culinary Tourism**:
-   - **Description**: Shorten the supply chain to reduce greenhouse gas emissions.
-   - **Cost**: Requires investment.
-   - **Timeframe**: Near-Term, ongoing.
-   - **Location**: Frontline communities.
-   - **Attributes**: Primary priority; Constraint: Investment, Policy, Technology & Infrastructure.
-   - **Benefits**: Supports economic development and equity building.
-   - **Source**: *Strategies*, Climate Action Plan.
+### **2. Strengthen Local Food Systems**
+- **Summary:** Increase community gardens and promote local culinary tourism in frontline communities to shorten the supply chain and reduce greenhouse gas emissions.
+- **Timeframe:** Near-Term (Ongoing)
+- **Priority:** Primary
+- **Constraints:** Investment, Policy, Technology & Infrastructure
+- **Policy Benefits:** Climate Mitigation, Economic Development, Equity Building, Air Quality, Health Outcomes, Quality of Life
+- **Location/Target:** Frontline Communities
+- **Cost-related:** Requires investment in technology and policy changes.
 
-3. **Community Recycling and Composting Initiatives**:
-   - **Description**: Create community development opportunities through recycling and composting.
-   - **Cost**: Requires investment.
-   - **Timeframe**: Mid-Term, ongoing.
-   - **Location**: City-wide (using city-owned vacant lots).
-   - **Attributes**: Primary priority; Constraint: Behavior Change, Investment, Policy.
-   - **Benefits**: Supports economic development and improves health outcomes.
-   - **Source**: *Strategies*, Climate Action Plan.
+### **3. Renewable Energy Development**
+- **Summary:** Support local and state-wide standards for community solar programs and grid modernization prioritizing low-income areas.
+- **Timeframe:** Mid-Term (Ongoing)
+- **Priority:** Primary
+- **Constraints:** Awareness, Behavior Change, Policy
+- **Policy Benefits:** Adaptation & Resilience, Climate Mitigation, Economic Development, Equity Building
+- **Location/Target:** Low-income areas
+- **Cost-related:** Investment in policy and technology required.
+- **Other Important Attributes:** Engage frontline communities in decision-making.
 
-4. **Vehicle Emissions Reduction**:
-   - **Description**: Transition mass transit to zero emissions fuel sources.
-   - **Cost**: Involves investment in technology.
-   - **Timeframe**: Mid-Term.
-   - **Location**: City-wide.
-   - **Attributes**: Primary priority; Constraint: Behavior Change, Investment, Policy, Technology & Infrastructure.
-   - **Benefits**: Improves air quality and quality of life.
-   - **Source**: *Strategies*, Climate Action Plan.
+### **4. Vehicle Emissions Reduction**
+- **Summary:** Transition mass transit to zero emission fuel sources.
+- **Timeframe:** Mid-Term
+- **Priority:** Primary
+- **Constraints:** Behavior Change, Investment, Policy, Technology & Infrastructure
+- **Policy Benefits:** Air Quality, Climate Mitigation, Health Outcomes, Quality of Life
+- **Location/Target:** Citywide
+- **Cost-related:** Investment needed in behavior change and technology.
+- **Other Important Attributes:** Ongoing focus.
 
-5. **Zero Emissions Transportation**:
-   - **Description**: Promote and prioritize rideshare options with electric vehicles.
-   - **Cost**: Not specified.
-   - **Timeframe**: Near-Term.
-   - **Location**: Frontline communities.
-   - **Attributes**: Secondary priority; Constraint: Awareness, Behavior Change.
-   - **Benefits**: Enhances equity building, air quality, and climate mitigation.
-   - **Source**: *Strategies*, Climate Action Plan.
+### **5. Energy Efficiency for Frontline Communities**
+- **Summary:** Promote access to programs offering incentives for energy efficiency improvements.
+- **Timeframe:** Near-Term (Ongoing)
+- **Priority:** Primary
+- **Constraints:** Awareness, Behavior Change, Investment
+- **Policy Benefits:** Adaptation & Resilience, Climate Mitigation, Economic Development, Equity Building, Health Outcomes, Quality of Life
+- **Location/Target:** Frontline Communities
+- **Cost-related:** Investment in awareness and programs.
+- **Other Important Attributes:** Engagement with existing plant guidance.
 
-6. **Renewable Energy Development**:
-   - **Description**: Support standards for community solar programs, micro-grids, and grid modernization.
-   - **Cost**: Involves significant investment and policy support.
-   - **Timeframe**: Mid-Term, ongoing.
-   - **Location**: Prioritizes low-income areas.
-   - **Attributes**: Primary priority; Constraint: Awareness, Behavior Change, Policy.
-   - **Benefits**: Supports adaptation & resilience, economic development, and equity building.
-   - **Source**: *Renewable Energy*, Climate Action Plan.
+### **6. Green Buildings & Development**
+- **Summary:** Support consistent and timely adoption of energy standards for buildings.
+- **Timeframe:** Mid-Term
+- **Priority:** Secondary
+- **Constraints:** Behavior Change, Investment, Policy
+- **Policy Benefits:** Adaptation & Resilience, Climate Mitigation, Air Quality, Economic Development, Equity Building, Health Outcomes, Quality of Life
+- **Location/Target:** Citywide
+- **Cost-related:** Investment and policy changes required.
+- **Other Important Attributes:** Focus on urban infill and redevelopment.
 
-7. **Electrification and Modernization of Infrastructure**:
-   - **Description**: Electrify new City facilities and major renovations, support code requirements.
-   - **Cost**: Involves investment and policy implementation.
-   - **Timeframe**: Mid-Term, ongoing.
-   - **Location**: City-wide.
-   - **Attributes**: Primary priority; Constraint: Investment, Policy.
-   - **Benefits**: Improves climate mitigation, air quality, economic development.
-   - **Source**: *Strategies, Sustainable Buildings*, Climate Action Plan.
+### **7. Promote Rideshare Options with Electric Vehicles**
+- **Summary:** Prioritizing increased options for frontline communities.
+- **Timeframe:** Near-Term
+- **Priority:** Secondary
+- **Constraints:** Awareness, Behavior Change, Policy, Technology & Infrastructure
+- **Policy Benefits:** Air Quality, Climate Mitigation, Equity Building, Health Outcomes, Quality of Life
+- **Location/Target:** Frontline Communities
+- **Cost-related:** Investments in awareness and infrastructure.
+- **Other Important Attributes:** Ongoing focus.
 
-Each of these options aims to mitigate climate impacts by emphasizing investment, policy changes, and advances in technology and infrastructure.
+### **8. Conversion of City Fleet Vehicles to Electric**
+- **Summary:** Sustain efforts to convert city fleet vehicles.
+- **Timeframe:** Mid-Term
+- **Priority:** Secondary
+- **Constraints:** Investment
+- **Policy Benefits:** Air Quality, Climate Mitigation
+- **Location/Target:** Citywide
+- **Cost-related:** Investment needed in technology.
+- **Other Important Attributes:** Ongoing focus.
+
+These strategies show a focus on reducing emissions through localized systems, increased energy efficiency, promotion of clean transit, and investment in renewable energy, particularly targeting communities that are most vulnerable.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-Based on the provided content from the Albuquerque Climate Action Plan, the identified adaptation options are summarized as follows:
+The plan identifies several adaptation options aimed at addressing a variety of climate threats. Below are the adaptation options identified, along with their summarized details:
 
-### Adaptation Option 1: Strengthening Local Food Systems
+### Adaptation Option: Local Food Systems
 
-1. **Climate Threat Addressed:** This adaptation option addresses the threat of greenhouse gas emissions and longer transportation times associated with non-local food systems.
-2. **Plan Details:**
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Timeframe:** Near-Term (By 2022), Ongoing
-     - **Priority:** Primary
-     - **Constraints:** Behavior Change, Policy, Technology & Infrastructure
-     - **Location:** Focused on frontline communities
-     - **Attributes:** The strategy is to "increase community gardens and promote local farm-to-fork culinary tourism," thus shortening the supply chain and supporting the economy. [Initiation - Near-Term (By 2022)]
+- **1. Climate Threat Addressed:** This option addresses threats related to transportation emissions and the resilience of local food systems by reducing dependency on extended supply chains.
+  
+- **2. Details:**
+  - **Cost:** Not directly specified; involves investment ("I") in community infrastructure.
+  - **Timeframe:** Near-Term (by 2022) and Ongoing ("NT Ongoing").
+  - **Location:** Implementation focuses on frontline communities.
+  - **Other Attributes:** It involves increasing community gardens and promoting local farm-to-fork tourism, coordinated through education and collaboration efforts. The strategy also aims to support local economies and reduce greenhouse gas emissions. (**Section: Localize systems of production...**)
 
-### Adaptation Option 2: Community and Economic Development
+### Adaptation Option: Community Development Opportunities
 
-1. **Climate Threat Addressed:** This option addresses threats from insufficient community and economic systems which fail to integrate climate change mitigation efforts.
-2. **Plan Details:**
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Timeframe:** Mid-Term (By 2026), Ongoing
-     - **Priority:** Primary
-     - **Constraints:** Investment, Policy
-     - **Location:** Economically-disadvantaged and frontline communities
-     - **Attributes:** The plan promotes "local recycling efforts," "processing yard waste to compost," and other community-based activities that intertwine climate mitigation with community development. [Initiation - Mid-Term (By 2026)]
+- **1. Climate Threat Addressed:** This option addresses climate change impacts by fostering community resilience and social equity through economic opportunities.
+  
+- **2. Details:**
+  - **Cost:** Involves investment ("I"), policy changes ("P"), behavior changes ("B"), and awareness efforts ("A").
+  - **Timeframe:** Mid-Term (by 2026) and Ongoing ("MT Ongoing").
+  - **Location:** Targets frontline, underrepresented, and economically disadvantaged communities.
+  - **Other Attributes:** It includes opportunities for solar installation apprenticeships, land revitalization, recycling efforts, and green redevelopment. The initiatives are integrated with climate mitigation goals. (**Section: Provide community and economic development opportunities...**)
 
-### Adaptation Option 3: Greening Efforts
+### Adaptation Option: Green Spaces and Vegetation
 
-1. **Climate Threat Addressed:** Address urban heat island effects and needs related to vegetation and wildlife.
-2. **Plan Details:**
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Timeframe:** Long-Term (By 2031)
-     - **Priority:** Primary
-     - **Constraints:** Investment, Policy
-     - **Location:** Frontline communities
-     - **Attributes:** Strategies prioritize the development and maintenance of green spaces and community gardens to enhance "access to and enjoyment of open space by all residents," reducing urban heat and fostering environmental well-being. [Greening Efforts in Frontline Communities]
+- **1. Climate Threat Addressed:** This option addresses heat island effect and urban climate vulnerabilities by expanding green space and tree cover.
+  
+- **2. Details:**
+  - **Cost:** Includes investment ("I") and policy implementation ("P").
+  - **Timeframe:** Long-Term (by 2031) and Ongoing ("LTP Ongoing").
+  - **Location:** Citywide, with a priority on frontline communities.
+  - **Other Attributes:** Strategies include creating tree preservation ordinances, banning harmful products like glyphosate, and promoting climate-resilient vegetation. This option enhances air quality, urban resilience, and water retention. (**Section: Greening Efforts in Frontline Communities...**)
 
-### Adaptation Option 4: Water Conservation & Smart Planning
+### Adaptation Option: Wetland and Water Resources Protection
 
-1. **Climate Threat Addressed:** This option addresses threats related to water scarcity and inefficient water use.
-2. **Plan Details:**
-   - **Cost, Timeframe, Location, and Attributes:**
-     - **Timeframe:** Mid-Term (By 2026)
-     - **Priority:** Primary
-     - **Constraints:** Behavior Change, Policy
-     - **Attributes:** Develop a Climate Action Plan water budget and a water security strategy; this includes collaboration with the local water utility and other entities. [Water Conservation & Smart Planning]
+- **1. Climate Threat Addressed:** This strategy combats water scarcity issues exacerbated by climate change.
+  
+- **2. Details:**
+  - **Cost:** Involves investment ("I") and policy work ("P").
+  - **Timeframe:** Near-Term (by 2022) and Ongoing ("NT Ongoing").
+  - **Location:** Focus on areas where the City can purchase and preserve farmland and wetlands.
+  - **Other Attributes:** Supports water supply sustainability, habitat conservation, and outdoor recreation opportunities. Expands efforts such as smart water usage and drought-tolerant plants. (**Section: Create opportunities for the City of Albuquerque to purchase...**)
 
-These options highlight the focus on benefiting frontline communities and integrating adaptation with local economic development, greening, and sustainable practices designed to tackle climate-related threats identified in the plan.
+These adaptation options are part of a comprehensive effort to enhance Albuquerque's resilience against the impacts of climate change, considering local socio-economic contexts and environmental challenges.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-**Climate Policy 1: Workforce Development Strategy in Frontline Communities**
+The Albuquerque Climate Action Plan identifies several climate policies aimed at advancing climate justice. Here's a summary:
 
-- **Summary:** "Co-create jobs with family-supporting wages in frontline communities that have historically experienced systematic underinvestment and disinvestment." (ECONOMIC DEVELOPMENT RECOMMENDATIONS)
+1. **Community and Economic Development Opportunities**
+   - **Climate Threat Addressed:** This policy addresses the threat of climate change-driven economic and social inequalities, particularly those that exacerbate vulnerabilities in underserved communities.
+   - **Vulnerable Areas/Populations:** It targets "frontline, underrepresented, and economically-disadvantaged communities," recognizing them as those who "will be impacted 'first and worst' by the effects of climate change." These communities include "Indigenous, Black and other communities of color, as well as communities of low-income" (ECONOMIC DEVELOPMENT RECOMMENDATIONS).
 
-- **Climate Threat Addressed:** Socioeconomic disparities and lack of economic opportunities which can exacerbate the effects of climate change.
+2. **Greening Efforts in Frontline Communities**
+   - **Climate Threat Addressed:** This policy attempts to mitigate urban heat island effects and improve overall environmental quality by increasing vegetation cover.
+   - **Vulnerable Areas/Populations:** It prioritizes "frontline communities," ensuring that green spaces are within "a 10-minute walk of all residential spaces," thus enhancing access to natural spaces for communities with limited prior access (CLIMATE ACTION PLAN44).
 
-- **Vulnerable Populations:** "Frontline, underrepresented, and economically-disadvantaged communities" particularly Indigenous, Black, and other communities of color also "communities of low-income and other groups that face greater exposure to pollution and climate hazards." (INTRODUCTION)
+3. **Water Conservation & Smart Planning**
+   - **Climate Threat Addressed:** It addresses threats related to water scarcity, aiming to ensure water security amidst changing climate conditions.
+   - **Vulnerable Areas/Populations:** While it targets the overall community, there is an underlying emphasis on collaboration with local entities to ensure equitable distribution of water resources, indirectly benefiting those in marginalized areas (CLIMATE ACTION PLAN44).
 
----
+4. **Transit Access & Investment**
+   - **Climate Threat Addressed:** This aims to reduce greenhouse gas emissions by improving public transit infrastructure and accessibility.
+   - **Vulnerable Areas/Populations:** It specifically focuses on "youth, students, older persons, and residents with low incomes," as well as "low-income neighborhoods, seniors, and people with disabilities," aiming to improve transit equity and access (CLIMATE ACTION PLAN40).
 
-**Climate Policy 2: Community and Economic Development Opportunities**
+5. **Public Sustainability Education**
+   - **Climate Threat Addressed:** The policy addresses the lack of awareness and education regarding the link between climate actions and equity.
+   - **Vulnerable Areas/Populations:** Focusing on public education, this strategy aims to reach and empower frontline communities to engage in sustainability practices effectively, recognizing their significant stakes in climate outcomes (CLIMATE ACTION PLAN43).
 
-- **Summary:** "Provide community and economic development opportunities while restoring the land, water, and air while investing in members of frontline, underrepresented, and economically disadvantaged communities and local infrastructure." (ECONOMIC DEVELOPMENT RECOMMENDATIONS)
-
-- **Climate Threat Addressed:** Environmental degradation alongside socioeconomic vulnerabilities.
-
-- **Vulnerable Populations:** Communities "that have been and will be impacted 'first and worst' by the climate crisis" including Indigenous, Black, and other communities of color, low-income families, and those exposed to pollution and climate hazards with few resources to respond. (INTRODUCTION)
-
----
-
-**Climate Policy 3: Greening and Built Environment Initiatives**
-
-- **Summary:** "Prioritize the development and maintenance of green spaces, community gardens and food forests within a 10-minute walk of all residential spaces." (CLIMATE ACTION PLAN)
-
-- **Climate Threat Addressed:** Urban heat island effects, lack of green spaces, and inadequate access to local, sustainable food sources.
-
-- **Vulnerable Populations:** Frontline communities that experience "systematic underinvestment and disinvestment" and are more severely affected by "disparities in energy burdens, health outcomes, and accessibility." (INTRODUCTION)
-
----
-
-**Climate Policy 4: Public Education Campaigns**
-
-- **Summary:** "Invest in public education campaigns about mitigating climate change in partnership with frontline communities on a wide range of climate issues." (EDUCATION & AWARENESS)
-
-- **Climate Threat Addressed:** Lack of awareness and knowledge about climate change issues and their disproportionate impact on vulnerable populations.
-
-- **Vulnerable Populations:** Frontline communities, including Indigenous, Black, communities of color, low-income families, and individuals with limited access to formal education on climate issues. (INTRODUCTION)
-
-Each of these policies highlights a commitment to advancing climate justice by directly addressing climate threats and focusing on their impact on vulnerable populations.
+Each of these policies is designed with the explicit intent of addressing the vulnerabilities of communities that face heightened risks due to historic and systemic disinvestment and disproportionate exposure to climate hazards.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the document provided, here are the potential unforeseen maladaptive climate policies along with their summaries:
+Based on the content provided, the document does not explicitly mention specific maladaptive climate policies. However, I can infer certain policies that may pose potential maladaptive risks:
 
-1. **Policy: Prioritize the electrification of new City facilities and major renovations to existing City facilities, and support code requirements for electrification of private commercial and residential buildings.**
+1. **Policy:** Prohibition of Glyphosate Products
 
-   - **Climate Threat Addressed:** This policy addresses the threat of greenhouse gas emissions from traditional fossil fuel-based energy sources.
-   - **Resilience, Mitigation, or Adaptation Option Proposed:** It proposes mitigation through electrification, which contributes to reducing emissions by transitioning to potentially cleaner energy sources if powered by renewable electricity.
-   - **Potential for Maladaptation:** If the electrification transition is implemented without ensuring the electrical grid is supplied by renewable sources, it may inadvertently increase the demand for electricity generated from fossil fuels, thus causing additional emissions rather than reducing them. Additionally, if these changes lead to an increase in costs for building owners, it could place undue financial strain on frontline and economically-disadvantaged communities unless adequate support or subsidies are provided.
+   - **Climate Threat Addressed:** The policy is addressing the environmental health impact, by reducing chemicals that might deplete soil health and affect pollinator species.
+   
+   - **Option Proposed:** The policy proposes environmental improvements through banning harmful glyphosate products, encouraging natural mulch replacement, and enhancing understory vegetation to reduce water runoff and improve aquifer health.
+   
+   - **Potential Maladaptation:** The banning of glyphosate products, if not carefully managed with effective alternatives, could inadvertently lead to increased pest issues which might result in higher use of other harmful chemicals, and potentially increase farming costs, impacting the sustainability of environmentally-friendly farming practices.
 
-2. **Policy: Support new legislation that requires energy disclosure during the sale or lease of buildings, homes, or rental properties.**
+2. **Policy:** City-wide Planning for Wetland Expansion
 
-   - **Climate Threat Addressed:** This policy targets inefficient energy use in buildings, which contributes to high greenhouse gas emissions.
-   - **Resilience, Mitigation, or Adaptation Option Proposed:** It proposes a mitigation option by promoting transparency in energy use, which may encourage improvements in energy efficiency.
-   - **Potential for Maladaptation:** If energy disclosure leads to decreased property value or increased financial burdens for homeowners or landlords, especially in frontline and low-income communities, it could exacerbate socio-economic vulnerabilities and enhance disparities. This could result in unintended social or economic consequences that detract from community resilience.
+   - **Climate Threat Addressed:** It aims to address water supply issues and improve habitat and outdoor recreation through the expansion of wetlands.
+   
+   - **Option Proposed:** Purchasing farmland for wetland expansion as a means to enhance resilience to water shortages and improve biodiversity.
+   
+   - **Potential Maladaptation:** If the plan to purchase farmland for wetland conversion does not adequately consider the needs and practices of local agricultural stakeholders, it could result in reduced food production and economic impacts on farming communities, thus inadvertently impacting food security and local economies.
 
-3. **Policy: Ban use of glyphosate products (i.e., Roundup) and promote understory vegetation to reduce water runoff, improve aquifer health, and other environmental functions.**
-
-   - **Climate Threat Addressed:** This policy addresses soil health degradation and water quality issues.
-   - **Resilience, Mitigation, or Adaptation Option Proposed:** The proposed option is adaptation through ecological and behavioral measures, enhancing environmental functions and ecosystem health.
-   - **Potential for Maladaptation:** Banning glyphosate without providing effective alternative weed management strategies could lead to decreased agricultural productivity or increased costs for farmers. If not adequately managed, this could negatively impact local food systems and result in food scarcity or increased food prices, impacting economically-disadvantaged communities.
+These inferences highlight potential areas where policies might require careful evaluation and adjustment to avoid inadvertent maladaptation.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-The provided plan contains strategies and metrics for assessing progress, but it does not specify exact units or numerical targets for each adaptation, resilience, and mitigation option. However, it outlines an approach towards monitoring and measuring success based on various strategies. Here are some insights based on the content:
+The document does not provide explicit units or specific numerical objectives for tracking the success or failure of each adaptation, resilience, and mitigation option. However, it mentions that metrics have been developed to facilitate future action and follow-up reporting on implementation. Here is how the plan intends to measure success or failure:
 
-### **Success Measurement and Metrics**
+### Metrics and Strategies
+- **Implementation Metrics:** The plan incorporates metrics to guide the trajectory of future climate action and assess progress. The **metrics will be used by the Sustainability Office** to assess progress towards greenhouse gas mitigation and climate justice. (Chapter: Executive Summary)
+  
+- **Annual and Quarterly Assessments:** "The City will review and assess progress towards the goals and strategies included in this plan on an annual basis." There will be quarterly check-in meetings to update and gather input regarding CAP implementation. (Chapter: Conclusion, Chapter: Executive Summary)
 
-1. **General Approach:**
-   - The plan mentions the development of metrics to facilitate "future action and follow-up reporting on implementation" and includes a "data dashboard" on the City of Albuquerque Sustainability Office website for monitoring. However, specific units such as tons or percentages are not mentioned. (*About the Plan*, *Executive Summary*)
+- **Education and Awareness:** There is an investment in "public education campaigns about mitigating climate change," although no specific units of measurement or goals are mentioned. (Section: Education & Awareness)
 
-2. **Specific Areas with Metrics:**
-   - **Waste & Recycling:**
-     - Emphasizes education and infrastructure for composting, mentioning educational programs about the benefits for greenhouse gas reduction, but without specifying quantifiable metrics.
-     
-   - **Public Sustainability Education:**
-     - Educate about contributions of activities such as fossil fuel consumption, but specific quantifiable outcome metrics, like reductions in emissions by units or percentages, are not detailed. (*Education & Awareness*)
+### Goals and Targets
+- **Strategy Categories:** The plan includes 50 strategies covering various topics such as **sustainable buildings, renewable energy, clean transportation, recycling and waste, economic development, and climate-conscious neighborhoods and resources.** These strategies are intended to create actionable pathways towards a more sustainable and equitable community. (Chapter: Outcomes)
 
-3. **Concrete Goals and Targets:**
-   - While the plan refers to specific strategies or pathways as "actionable," it does not set concrete numerical objectives or deadlines. The plan is designed to be ongoing or implemented by certain dates without specifying exact figures.
-   - **Initiation Phases:** For several strategies, phased deadlines are mentioned, like Near-Term (By 2022), Mid-Term (By 2026), and Long-Term (By 2031), indicating the expected timeframe rather than specific targets.
+- **Accountability for Producers and Polluters:** Targets increased recycling of electronics and textiles and the reduction of construction and other waste, using public policy to reduce plastic waste. However, no specific numbers or deadlines are mentioned. (Section: Waste & Recycling)
 
-4. **Annual and Quarterly Reviews:**
-   - The city commits to "quarterly check-in meetings" and "annual" reviews to assess progress, but specific quantifiable targets are not detailed. (*Conclusion*)
-
-Overall, the plan emphasizes the process and education around climate strategies and adopts a phased approach, but it does not provide specific metrics or deadlines with numerical objectives to measure success or failure of each adaptation, resilience, and mitigation option.
+While these sections of the plan describe the framework for assessing progress and maintaining accountability, it lacks specific and explicit metrics like reductions in CO₂ emissions or improvements in air quality in quantifiable units such as tons, percentages, or index values.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature                | Description                                                                                                                                                                                                                               |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Albuquerque                                                                                                                                                                                                                              |
-| **Population**         | The document does not provide specific population figures for Albuquerque.                                                                                                                                                                |
-| **Threats Identified** | - Climate and ecological crises                                                                                                                                                                                                           |
-|                        | - Disparities in energy burdens and health outcomes                                                                                                                                                                                       |
-|                        | - Increased exposure to pollution and climate hazards in frontline communities                                                                                                                                                           |
-|                        | - Need for addressing water shortages and urban sprawl                                                                                                                                                                                   |
-| **Measures Identified**| - Development and maintenance of green spaces, community gardens, and food forests within a 10-minute walk of residential spaces (Appendix B)                                                                                              |
-|                        | - Investment in green infrastructure, promotion of energy efficiency, and electrification of new city facilities (Appendix B)                                                                                                             |
-|                        | - Localizing food production and enhancing local food systems to reduce emissions (Appendix B)                                                                                                                                           |
-|                        | - Creation of economic and educational opportunities, particularly in frontline communities (Appendix B)                                                                                                                                   |
-|                        | - Implementation of community and climate resilience strategies through community engagement (Introduction, Conclusion)                                                                                                                   |
-|                        | - Increase of tree vegetation to address the heat island effect and preservation of wetlands (Climate Conscious Neighborhoods & Resources)                                                                                               |
-|                        | - Support for renewable energy, clean transportation, and waste minimization (Various Sections)                                                                                                                                           |
+| **Feature**             | **Description**                                                                                                                                                                                                                            |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name**  | Albuquerque                                                                                                                                                                                                                               |
+| **Population**          | The document does not specify the current population of Albuquerque.                                                                                                                                |
+| **Threats Identified**  | *Climate and ecological crises* that impact all residents, with a focus on how frontline communities are affected "first and worst." Threats include disparities in energy burdens, health outcomes, and accessibility.                          |
+| **Measures Identified** | Strategies aimed at promoting *resilience, mitigation, and adaptation.* These include developing sustainable buildings, promoting renewable energy, clean transportation, waste and recycling, economic development, education and awareness. |
 ```

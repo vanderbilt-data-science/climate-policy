@@ -1,329 +1,360 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The document does not provide comprehensive details regarding the physical and economic landscape of the City of Winston-Salem, including specific population, demographics, and average income. It does not mention major geographic features, key infrastructure, or detailed descriptions of the local climate challenges such as aridity or water issues. Neither does it list specific energy production methods involving oil, gas, or detailed statistics on renewable energy.
-
-However, the document does highlight some specific aspects related to energy systems and climate threats in the region:
-
-- The City of Winston-Salem is investing in renewable energy options and energy-efficient infrastructure as part of its efforts to reduce emissions and improve sustainability. Initiatives include:  
-  - **"Explore renewable energy generation options"** and partnering with other municipalities to support **"Duke Energy’s renewable energy efforts"**.  
-  - **Solar panels** use on city facilities is in focus, with plans to identify potential locations and invest in installations (**"Invest in the installation of solar panels on solar ready city facilities"**) [Sections on Energy Systems].
-
-- The main **climate threats** to Winston-Salem are identified as **extreme temperatures, drought, and flood**, which reflect some climatic challenges faced by the area [Executive Summary, Climate Threats].
-
-- Energy systems, like electricity use in city facilities, **account for a majority of local government emissions**:  
-  - 87% of local government emissions came from electricity and natural gas combined in 2018, totaling 133,553 tons of CO2 [Section 3 Energy Systems].  
-
-- North Carolina ranked 24th in renewable energy production at **27.6%**, while Winston-Salem gets **6.48% of its energy from renewable sources** [Section 3 Energy Systems].
-
-For a detailed understanding of the planning jurisdiction's physical and economic landscape, more contextual data from external resources would typically be required.
+The plan provided does not include specific details about the physical and economic landscape of Winston-Salem, North Carolina, such as population, demographics, average income, geographic features, key infrastructure, local climate specifics, or details about energy production and natural resources. However, it emphasizes the city's actions and strategies to address climate change and sustainability issues. These actions include the re-establishment of the Community Sustainability Program Committee, initiatives for emission reduction, and a focus on renewable energy and energy efficiency. The plan indicates that like many southeastern cities, Winston-Salem is vulnerable to climate impacts, specifically mentioning climate threats like extreme temperatures, drought, and flooding.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
 **Resilience:**
 
-The plan addresses resilience by highlighting the importance of coping with climate threats and implementing strategies to maintain essential community functions. It outlines resilience options such as participating in the Daylight Hour to reduce non-essential energy use and encouraging energy-efficient practices in government buildings. These actions are designed to enhance the city's ability to withstand climate impacts such as extreme weather events and heat:
-
-- **Energy Systems:** "Participate in energy conservation efforts" and "Continue to participate in Daylight Hour campaign" (SECTION 3 ENERGY SYSTEMS).
+The plan emphasizes resilience through actions aimed at improving infrastructure and planning for extreme climate events. It recognizes major threats to Winston-Salem, including extreme temperatures, drought, and flooding, which threaten local systems and resources. The city is actively working towards a more sustainable direction by participating in initiatives like the Climate Mayors Agreement and collaborating with other municipalities to promote renewable energy (Executive Summary, Climate Threats). 
 
 **Mitigation:**
 
-The plan is heavily focused on mitigation strategies, aiming to reduce greenhouse gas emissions through various initiatives. It sets emission reduction targets and details specific policies such as using diverse transportation options, energy efficiency in buildings, exploring renewable energies, and waste reduction:
-
-- **Transportation Systems:** "Encourage employees to use more diverse modes of transportation and reduce vehicle miles traveled" (SECTION 2 TRANSPORTATION SYSTEMS).
-- **Energy Systems:** "Replace lights in city facilities with LEDs" and "Establish standards for new or renovated government buildings to meet the energy efficiency standards from LEED and/or Energy STAR" (SECTION 3 ENERGY SYSTEMS).
-- **Exploring Renewable Energy:** "Investing in alternative energy sources" and "Work with the local utility and the City/County Planning Department to identify potential locations for solar panels on city facilities" (SECTION 3 ENERGY SYSTEMS).
+The plan has a strong focus on mitigation measures targeted at reducing greenhouse gas emissions. It outlines specific reduction targets and strategies, such as improving energy efficiency in buildings, promoting renewable energy (e.g., solar), upgrading transportation systems (including electric vehicle infrastructure), and waste reduction (Executive Summary, Section 3 Energy Systems, Section 5 Waste Systems). Additionally, the plan mentions buying into renewable energy programs and participating in initiatives like the Legacy 2030 Comprehensive Plan to further explore other mitigation options (Section 3 Energy Systems).
 
 **Adaptation:**
 
-The plan addresses adaptation indirectly by promoting practices that allow the city to better cope with the anticipated effects of climate change. It includes plans for green spaces that enhance carbon sequestration and promote pollinator habitats:
+Adaptation is addressed through objectives like assessing urban forest conditions and expanding green spaces for carbon sequestration, displaying a focus on ecological measures (Section 4 Green Space). The plan also promotes local partnerships to further adaptation efforts involving pollinator-friendly habitats (Section 4 Green Space).
 
-- **Green Space:** "Continue to plant trees throughout the jurisdiction" and develop pollinator gardens in city parks (SECTION 4 GREEN SPACE).
+**Plan Classification:**
 
-**Classification:**
-
-Based on the emphasis on reducing emissions through improved energy practices and transportation while also addressing adaptation through green space initiatives, the plan should be classified as an **equal mitigation and adaptation climate action plan**. The plan incorporates significant elements of both mitigation and adaptation strategies to address climate change impacts comprehensively.
+Overall, the plan can be classified as an **equal mitigation and adaptation climate action plan**. It thoroughly addresses both mitigation and adaptation through specific goals and actions targeted at reducing emissions and adapting urban systems to expected climate conditions, while also encompassing elements of resilience planning.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes potential scenarios related to climate change that the City of Winston-Salem may face and for which it is planning climate policies for resilience, mitigation, and adaptation. 
+Yes, the plan describes a scenario of climate change that Winston-Salem is planning for, detailing climate threats and potential impacts of climate change. 
 
-- **Climate Threats:** The plan mentions that climate change presents global threats including more instances of extreme weather events and progressively warmer years, as well as specific challenges for Winston-Salem. "Various hazard and vulnerability assessments of the city show the major threats to Winston-Salem are extreme temperatures, drought, and flooding." These events present threats to local systems and resources (*Executive Summary*).
+### **Climate Change Scenario**
 
-- **Projected Climate Impacts:** The plan indicates that projected weather patterns in Forsyth County could produce anywhere from 17 to 53 more extremely hot days per year, reflecting an increase in temperature throughout the century (*Climate Threats*).
+1. **Climate Threats**: 
+    - "Climate change is presenting threats that are becoming pressing matters to communities around the world. There have been more instances of extreme weather events and consistently warmer years over the past decade than ever before." (*Executive Summary*)
+    - "The biggest threats to the City of Winston-Salem are extreme temperatures, drought, and flood." (*WHERE WE STAND*)
 
-- **Local Climate Vulnerabilities and Risks:** The plan provides data from the University of Notre Dame Urban Adaptation Assessment, identifying vulnerabilities and risks such as flood, heat, cold, and drought. While no casualties are reported for heat and cold, flood and drought have associated costs and varying probability and readiness scores (*Climate Threats*).
+2. **Effects of Climate Change**:
+    - The city is expected to experience "record-breaking, climate-related weather extremes," with predictions of "anywhere from 17 to 53 more extremely hot days per year." (*WHERE WE STAND*)
+    - Historical average costs and probabilities of events such as floods, heat, cold, and drought have been outlined to show anticipated increased climate impacts. (*Climate Threats*)
 
-- **Emission Scenarios:** The plan refers to an increase in greenhouse gas emissions as an underlying issue for extreme temperatures, drought, and flood threats. It underscores the urgency for local-level actions to curb these emissions to avoid worst-case climate scenarios (*Introduction*).
+3. **Climate Vulnerability and Risks**:
+    - "Table 2 shows the most relevant climate vulnerability and risks in the city. This information is provided by the University of Notre Dame Urban Adaptation Assessment from 2018. A lower risk score and a higher readiness score is an ideal assessment." (*Climate Threats*)
 
-This information indicates that the City of Winston-Salem is planning for climate policies addressing resilience, mitigation, and adaptation in response to projected climate threats and scenarios specific to their region.
+4. **Mitigation and Resilience Efforts**:
+    - The city is setting "emissions reduction targets as mitigation and adaptation techniques" to plan for climate-based threats. (*Executive Summary*)
+    - Plans to increase the number of zero-emission vehicles and explore renewable energy options are specific strategies for addressing climate change. (*STATE LEVEL EFFORT IN NORTH CAROLINA*)
+
+These details collectively describe a scenario where Winston-Salem is anticipating and preparing for more frequent and severe climate events such as extreme temperatures, floods, and drought, while implementing policies aimed at mitigation and adaptation to address these changes.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-1. **Extreme Temperatures**
+**1. Extreme Temperatures**
 
-   - **The Climate Hazard:** The plan identifies extreme temperatures, specifically highlighting projected increases in extremely hot days per year. These could range from 17 to 53 more extremely hot days, effectively adding another month of heat per year.
-     _"For example, projected weather patterns in Forsyth County could produce anywhere from 17 to 53 more extremely hot days per year, representing roughly another month of heat per year."_
+- **Climate Hazard:** The plan identifies extreme temperatures as a major climate threat presenting risks to the City of Winston-Salem. It states, "The biggest threats to the City of Winston-Salem are extreme temperatures, drought, and flood." (*Executive Summary*)
    
-   - **The Climate Risks:** Extreme temperatures pose threats to local systems and resources, including human health and infrastructure.
-     _"The biggest threats to the City of Winston-Salem are extreme temperatures, drought, and flood."_
-   
-   - **Areas or Populations with Most Vulnerability:** The plan does not specify particular areas or populations within the planning jurisdiction for extreme temperatures, but it implies that infrastructure and human health are vulnerable to this hazard.
-     _"These potential events present threats to many of our local systems and resources, especially those identified in the gap analysis."_
+- **Climate Risks:** Extreme temperatures pose risks to human health and safety as well as infrastructure. The plan mentions that "projected weather patterns in Forsyth County could produce anywhere from 17 to 53 more extremely hot days per year." (*Climate Threats*)
 
-2. **Drought**
+- **Climate Vulnerability:** Although specific areas or populations with the most vulnerability to extreme temperatures are not detailed in the provided excerpts, the general acknowledgment of vulnerability suggests an overarching concern for health and infrastructure impacts.
 
-   - **The Climate Hazard:** Drought conditions that threaten the availability of resources necessary for daily living.
-   - **The Climate Risks:** The risks associated with drought include impacts on water supply for the city and other natural resources.
-     _"Various hazard and vulnerability assessments of the city show the major threats to Winston-Salem are extreme temperatures, drought, and flooding."_
-   
-   - **Areas or Populations with Most Vulnerability:** While specific areas or populations are not mentioned, it is implied that natural systems and water-dependent infrastructure are most vulnerable to drought.
-     _"These potential events present threats s to many of our local systems and resources."_
+**2. Drought**
 
-3. **Flooding**
+- **Climate Hazard:** Drought is identified as one of the major climate threats to Winston-Salem. The plan states, "The biggest threats to the City of Winston-Salem are extreme temperatures, drought, and flood." (*Executive Summary*)
 
-   - **The Climate Hazard:** Flood events are projected to increase, posing risks to both human and natural environments.
-   - **The Climate Risks:** Flooding can lead to significant economic costs and damage to infrastructure, as indicated by projected costs rising to $548,792.00.
-     _"Flood $3,000.00 Low $548,792.00 29.5% 58.1%"_
-   
-   - **Areas or Populations with Most Vulnerability:** The southwestern area of Forsyth County is identified as having the highest risk for environmental hazards, including flooding.
-     _"Image 1 show the southwestern area of Forsyth County as the highest risk for man-made environmental hazards."_
+- **Climate Risks:** Drought can lead to water scarcity impacting both community living and economic activities dependent on water supply. The plan quantifies a historical average cost associated with droughts, stating "$29,629.00" with projected future costs within the chart of climate vulnerabilities and risks. (*Climate Threats*)
 
-The planning document highlights these climate hazards as significant risks to the City of Winston-Salem, stressing the need for effective mitigation and adaptation strategies.
+- **Climate Vulnerability:** There is no direct mention of specific vulnerable areas or populations in the brief text, but the risk to local systems and resources is implied.
+
+**3. Flood**
+
+- **Climate Hazard:** Flooding is listed alongside extreme temperatures and drought as one of the major climate threats to the area. The plan discusses flooding in the context of historical and future risk assessments. (*Executive Summary*)
+
+- **Climate Risks:** Flooding poses risks to infrastructure, public safety, and leads to significant economic costs. It is noted with a "historical average cost (2011-2015): $3,000.00" projecting costs escalating to "$548,792.00" for future events. (*Climate Threats*)
+
+- **Climate Vulnerability:** The plan identifies that six ZIP codes in Forsyth County are at high risk for man-made environmental hazards, with the southwestern area being the highest risk for such hazards, indicating an overlap with flood vulnerability. (*Climate Threats*)
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-Based strictly on the document provided, specific resilience options are not explicitly identified in detail regarding cost, timeframe, or location. However, certain strategies and objectives related to resilience can be inferred in the areas of transportation, energy systems, green space, and waste systems. Below are the inferred resilience options and a summary of their aspects:
+The plan identifies the following resilience options:
 
-### **1. Transportation Systems:**
-- **Specific Climate Threat Addressed:** Reduction of greenhouse gas emissions.
-- **Details on Cost, Timeframe, and Location:** The plan highlights the enhancement of transportation options, including the installation of electric vehicle charging stations and initiation of a Transportation Demand Management program, but does not specify cost, timeframe, or location.
-- **Other Important Attributes:** Aim to reduce vehicle miles traveled and promote alternative modes of transportation, thus potentially decreasing emissions and improving air quality. (*Section 2 Transportation Systems*)
+### **1. Green Space Initiatives (Carbon Sequestration)**
 
-### **2. Energy Systems:**
-- **Specific Climate Threat Addressed:** Inefficient energy use leading to higher GHG emissions.
-- **Details on Cost, Timeframe, and Location:** Objectives include replacing lights with LEDs, establishing energy efficiency standards, and exploring renewable energy options, but costs, timeframes, and specific locations are not specified.
-- **Other Important Attributes:** Increased building energy efficiency could reduce municipal annual emissions, as city-owned buildings account for 15% of CO₂ emissions. Opportunities exist in partnering with other municipalities and local utility providers. (*Section 3 Energy Systems*)
+#### **Climate Threat Addressed:**
+- This option addresses the threat of greenhouse gas emissions by capturing and storing carbon dioxide from the atmosphere. It also aims to mitigate extreme temperatures by increasing vegetation cover.
 
-### **3. Green Space:**
-- **Specific Climate Threat Addressed:** Carbon emissions and urban heat islands.
-- **Details on Cost, Timeframe, and Location:** Strategies include tree planting and urban forest assessment, but specifics on cost, timeframe, and location are not provided.
-- **Other Important Attributes:** Carbon sequestration through increased vegetation improves quality of life and environmental health. Participation in programs like Bee City USA enhances biodiversity and supports pollinators. (*Section 4 Green Space*)
+#### **Details on Cost, Timeframe, and Location:**
+- **Cost and Timeframe:** Specific cost and timeframe details are not provided in the document.
+- **Location:** Implemented throughout the planning jurisdiction with a focus on areas identified through an urban forest assessment.
 
-### **4. Waste Systems:**
-- **Specific Climate Threat Addressed:** Waste-related emissions.
-- **Details on Cost, Timeframe, and Location:** Focuses on waste reduction, sustainability education, and recycling, but lacks details on cost, timeframe, and specific location initiatives.
-- **Other Important Attributes:** Encouraging recycling and minimizing waste can reduce methane emissions from landfills. Emphasis on local community engagement through educational efforts. (*Section 5 Waste Systems*)
+#### **Other Important Attributes:**
+- **Environmental Considerations:** Enhances green infrastructure by developing a street tree system, green roofs, and an interconnected park system.
+- **Infrastructural Considerations:** Utilizes an urban forest assessment to identify spaces for planting and community events such as Community Roots Day (Section titled "Green Space" and strategy for "Carbon Sequestration").
 
-### **Additional Considerations:**
-- The document mentions the significant environmental issue of climate change and stresses local leadership given the lack of federal support, highlighting the importance of local strategies to manage risk and enhance climate resilience across different sectors (*Background; Executive Summary*).
+### **2. Bee City USA Program**
 
-The document outlines several strategies and actions, yet lacks comprehensive details on costs and specific implementation timelines or locations.
+#### **Climate Threat Addressed:**
+- Addresses threats to biodiversity and ecosystem services due to climate change impacts on pollinators.
+
+#### **Details on Cost, Timeframe, and Location:**
+- **Cost and Timeframe:** No specific cost or timeframe is mentioned.
+- **Location:** Expansion and upgrade of vegetative surfaces in city parks; implementation across various parks and urban areas within Winston-Salem.
+
+#### **Other Important Attributes:**
+- **Environmental Considerations:** Focus on expanding and upgrading vegetative surfaces to support pollinator habitats.
+- **Economic Considerations:** Collaborative efforts with local partnerships to promote and expand pollinator-friendly habitats can enhance community engagement and local biodiversity ("Bee City USA" strategy in the section on Green Space).
+
+### **3. Flood Mitigation Strategies**
+
+#### **Climate Threat Addressed:**
+- Directly addresses the threat of flooding, identified as one of the major threats to Winston-Salem.
+
+#### **Details on Cost, Timeframe, and Location:**
+- **Cost and Timeframe:** Expected projected cost of $548,792 for the 2040 event, with a low historical average cost of $3,000 from 2011-2015.
+- **Location:** Implemented in high-risk flood areas throughout the jurisdiction as identified in local climate vulnerability assessments.
+
+#### **Other Important Attributes:**
+- **Infrastructural Considerations:** Development plans to reinforce infrastructure may be required to manage potential flooding events.
+- **Readiness Considerations:** The risk readiness score is 58.1%, indicating preparedness to some extent ("Local Climate Vulnerabilities and Risks" table).
+
+The document does not include comprehensive details on cost, timeframe, or location for each resilience option but provides a strategic framework for addressing climate threats through various initiatives in the jurisdiction of Winston-Salem.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, specifically focusing on energy systems and green space. Below are the mitigation options along with the summarized information:
+The plan identifies several mitigation options with specific details regarding their implementation:
 
-### **Energy Systems**
+1. **Transportation Systems:**
+   - **Objective:** Encourage employees to use more diverse transportation options and reduce vehicle miles traveled.
+   - **Details:**
+     - *Timing:* Initiate a Transportation Demand Management program for city employees.
+     - *Attributes:* The plan includes educating employees on other transportation options and collecting data to track employee travel behavior. It also involves surveying employees to understand regular travel behaviors.
+     - *Location:* Relevant to city operations.
 
-- **Energy Use Conservation**
-  - **Description:** The plan encourages participation in energy conservation efforts.
-  - **Cost:** Not specified in the provided sections.
-  - **Timing:** Strive to reach 100% of city office participation in campaigns like Daylight Hour.
-  - **Location:** Applicable to city offices, specifically those with non-essential lighting.
-  - **Attributes:** Participation in initiatives like Daylight Hour to promote turning off non-essential lights to conserve energy.
+2. **Energy Systems:**
+   - **Objective:** Increase Energy Efficiency.
+   - **Details:**
+     - *Strategy:* Replace lights in city facilities with LEDs.
+     - *Action:* Create a multi-phase implementation plan for LED replacement.
+     - *Location:* City-owned buildings which account for 15% of the city’s annual CO₂ emissions are targeted for increased efficiency.
+     - *Attributes:* Establish standards for new or renovated government buildings to meet LEED and/or Energy STAR energy efficiency standards.
 
-- **Increase Energy Efficiency**
-  - **Description:** Focus on reducing energy use in buildings through behaviors and technology.
-  - **Cost:** Not specified, but mentions replacing lights in city facilities with LEDs.
-  - **Timing:** Implemented through a multi-phase plan for LED replacement.
-  - **Location:** City-owned buildings.
-  - **Attributes:** Establish standards for new or renovated government buildings to meet energy efficiency standards such as LEED and Energy STAR. City buildings account for 15% of internal carbon dioxide emissions, indicating a significant area for emission reduction.
+3. **Renewable Energy Generation:**
+   - **Strategy:** Work with the local utility and Planning Department to identify locations for solar panels on city facilities.
+   - **Actions:** 
+     - Partner with other North Carolina municipalities to support Duke Energy’s renewable energy efforts.
+     - Research options for acquiring solar PV systems as a local government entity.
+     - Invest in the installation of solar panels on solar-ready city facilities.
+   - *Other Attributes:* The Legacy 2030 plan identified renewables as a policy issue to be examined locally.
 
-- **Explore Renewable Energy Generation Options**
-  - **Description:** Invest in alternative energy sources such as solar, wind, and hydro.
-  - **Cost:** Investment in solar panels on solar-ready city facilities; specific costs not detailed.
-  - **Timing:** Implement strategies to identify potential solar panel locations and partnerships.
-  - **Location:** City facilities and coordination with Duke Energy's renewable efforts.
-  - **Attributes:** Collaborative support with other municipalities to expand renewable energy. Research options for acquiring solar PV systems as a local government entity and invest in installations.
+4. **Green Space and Carbon Sequestration:**
+   - **Objective:** Carbon Sequestration.
+   - **Strategy:** 
+     - Assess the state of the jurisdiction's urban forest.
+     - Continue planting trees throughout the jurisdiction.
+   - *Attributes:* Utilize an urban forest assessment to identify opportunities for Community Roots Day events.
+   - *Location:* Within the jurisdiction’s urban areas.
 
-### **Green Space**
+5. **Bee City USA Program:**
+   - **Objective:** Enhance pollinator habitats.
+   - **Strategies:**
+     - Expand and upgrade vegetative surfaces in city parks.
+     - Implement pollinator-friendly practices in field operations.
+     - Identify local partnerships to promote pollinator-friendly habitats.
+   - *Attributes:* Develop pollinator gardens and increase the number of native pollinator plants utilized in landscape maintenance.
 
-- **Carbon Sequestration**
-  - **Description:** Planting and maintaining trees to capture and store carbon dioxide.
-  - **Cost:** Not specified.
-  - **Timing:** Ongoing tree planting activities such as Community Roots Day events.
-  - **Location:** Throughout the jurisdiction, utilizing urban forests and planting trees.
-  - **Attributes:** Focus on urban forest assessments to identify planting locations and promote green infrastructure as a method to improve air quality.
-
-These mitigation options prioritize energy conservation, efficiency, and renewable energy investments, as well as enhancing green spaces for carbon sequestration, contributing to an overall strategy for reducing emissions and improving air quality. Specific costs and timings for full deployment are not detailed in the provided sections.
+The plan does not provide specific cost details or exact timing for each mitigation option but highlights actions to be executed within the city’s jurisdiction.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Mitigation Options Identified in the Plan**
+The plan identifies several mitigation options. Here is a summary of the information provided regarding each option:
 
-1. **Transportation Systems**
-   - **Mitigation Option:** Encourage employees to use more diverse transportation options
-     - **Key Attributes:**
-       - Initiate a Transportation Demand Management program for city employees.
-       - Educate employees on other transportation options.
-       - Collect and analyze data to track employee travel behavior.
-       - Continue to install electric vehicle charging stations.
-     - **Cost/Timeframe/Location:** Not specified in the plan.
+### **1. Energy Systems - Energy Use Conservation**
 
-2. **Energy Systems**
-   - **Mitigation Option:** Increase Energy Efficiency
-     - **Key Attributes:**
-       - Replace lights in city facilities with LEDs.
-       - Establish standards for new or renovated government buildings to meet energy efficiency standards from LEED and/or Energy STAR.
-     - **Cost/Timeframe/Location:** Not specified in the plan.
+- **Description:** Participation in energy conservation efforts, such as Daylight Hour.
+- **Cost:** Not specified.
+- **Timeframe:** The plan includes an ongoing campaign to reach 100% city office participation for non-essential lighting.
+- **Location:** City offices are targeted for this initiative.
+- **Important Attributes:** The plan aims to reduce energy use in buildings, as city-owned buildings contribute to 15% of annual emissions.
 
-   - **Mitigation Option:** Explore renewable energy generation options
-     - **Key Attributes:**
-       - Work with the local utility and City/County Planning Department to identify potential locations for solar panels on city facilities.
-       - Partner with other North Carolina municipalities to support growth in Duke Energy’s renewable energy efforts.
-       - Research options for acquiring solar PV systems as a local government entity.
-       - Invest in the installation of solar panels on solar-ready city facilities.
-     - **Cost/Timeframe/Location:** Not specified in the plan.
+### **2. Energy Systems - Increase Energy Efficiency**
 
-3. **Green Space**
-   - **Mitigation Option:** Carbon Sequestration
-     - **Key Attributes:**
-       - Assess the state's jurisdiction’s urban forest.
-       - Continue to plant trees throughout the jurisdiction.
-     - **Cost/Timeframe/Location:** Not specified in the plan.
+- **Description:** Replace lights in city facilities with LEDs and establish standards for new or renovated government buildings to meet LEED or Energy STAR efficiency standards.
+- **Cost:** Not specified.
+- **Timeframe:** Creation of a multi-phase implementation plan, but no specific timeframe is mentioned.
+- **Location:** City facilities.
+- **Important Attributes:** Aims to decrease emissions from city-owned buildings through increased energy efficiency.
 
-Additional specific information about **cost**, **timeframe**, and **locations** is not provided in the available plan content.
+### **3. Energy Systems - Explore Renewable Energy Generation Options**
+
+- **Description:** Work with local utility and planning department to identify potential locations for solar panels and invest in solar energy.
+- **Cost:** Not specified for solar investments; however, mentions examining options for acquiring solar PV systems.
+- **Timeframe:** Not specified.
+- **Location:** City facilities.
+- **Important Attributes:** Emphasis on collaborating with other municipalities to support Duke Energy's renewable efforts.
+
+### **4. Transportation Systems**
+
+- **Description:** Encourage diverse transportation modes, reduce vehicle miles traveled, and prepare electric vehicle infrastructure.
+- **Cost:** Not specified.
+- **Timeframe:** Ongoing educational programs and data collection; timeframe for infrastructure changes not provided.
+- **Location:** Citywide, targeting city employees and infrastructure.
+- **Important Attributes:** Includes initiating a Transportation Demand Management program, promoting electric vehicle usage, and installing charging stations.
+
+### **5. Green Space - Carbon Sequestration**
+
+- **Description:** Enhancing green infrastructure such as street tree systems, green roofs, and park systems for carbon sequestration.
+- **Cost:** Not specified.
+- **Timeframe:** Planning and development stages; ongoing actions like Community Roots Day events.
+- **Location:** Throughout the jurisdiction.
+- **Important Attributes:** Aims to use green infrastructure to improve air quality and provide ecosystem services.
+
+### **6. Green Space - Bee City USA Initiatives**
+
+- **Description:** Implement pollinator-friendly practices, expand vegetative surfaces, and enhance pollinator habitats.
+- **Cost:** Not specified.
+- **Timeframe:** Ongoing initiatives, including the development of pollinator gardens.
+- **Location:** City parks and designated pollinator habitats.
+- **Important Attributes:** Focus on education and habitat enhancement as a component of being the 75th Bee City USA.
+
+The plan focuses on a mix of energy efficiency, renewable energy adoption, transportation improvements, and green infrastructure to mitigate climate impacts in Winston-Salem.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several adaptation options to address specific climate threats in the City of Winston-Salem. These adaptation options are summarized below:
+The plan identifies the following adaptation options:
 
-### 1. Green Space Initiatives
-- **Adaptation Option:** Carbon Sequestration
-  - **Climate Threat Addressed:** This option addresses climate threats related to greenhouse gas emissions and their impact on extreme temperatures and environmental hazards.
-  - **Information Provided:**
-    - **Attributes:** The process involves capturing and storing carbon dioxide from the atmosphere through green infrastructure features like street trees, green roofs, and interconnected park systems.
-    - **Strategies:**
-      - *Assess the state of the jurisdiction’s urban forest.*
-      - *Continue to plant trees throughout the jurisdiction, utilizing urban forest assessments to identify available spaces for future Community Roots Day events.* 
-    - **Timeframe, Cost, and Location:** The specific cost, timeframe, and location details are not provided in the plan.
+### 1. **Carbon Sequestration**
 
-- **Adaptation Option:** Bee City USA Program
-  - **Climate Threat Addressed:** This initiative is aimed at enhancing ecosystems, focusing on threats to biodiversity and pollinators that can be affected by climate change.
-  - **Information Provided:**
-    - **Attributes:** Protects pollinators by raising awareness, enhancing habitats, and promoting vegetation that supports pollinator-friendly environments.
-    - **Strategies:**
-      - *Expand and upgrade vegetative surfaces within city parks, further developing pollinator gardens.*
-      - *Implement pollinator-friendly practices in field operations by planting native pollinator plants.*
-      - *Identify local partnerships to promote and expand pollinator-friendly habitats.* 
-    - **Timeframe, Cost, and Location:** The specific cost, timeframe, and location details are not provided in the plan.
+- **Climate Threat Addressed:** The process of carbon sequestration addresses the climate threat of increased greenhouse gas emissions by capturing and storing carbon dioxide from the atmosphere. The biggest threats to the City of Winston-Salem identified in the plan are extreme temperatures, drought, and flood, which are linked to increased GHG emissions (Executive Summary).
 
-### Additional Notes
-- **Overall Threats Addressed by Adaptation Options:** The primary climate threats these initiatives address include extreme temperatures, drought, and flooding, as mentioned in the broader context of the plan's focus on reducing emissions and enhancing natural systems.
-- **Cost and Timeframe:** While the plan provides strategic directions and goals, detailed cost estimates, specific implementation timelines, and precise locations for the adaptation measures are not explicitly outlined in the document.
+- **Cost, Timeframe, Location, and Other Attributes:**
+  - **Strategy:** Assess the state of the jurisdiction’s urban forest and continue to plant trees throughout the jurisdiction.
+  - **Action 1:** Utilize an urban forest assessment to identify the most available spaces for future Community Roots Day events (Objectives).
 
-These adaptation options aim to increase the resilience of the city's natural systems against the impacts of climate change, contributing to the city's sustainability and reduction of emissions.
+### 2. **Bee City USA Program**
+
+- **Climate Threat Addressed:** The Bee City USA program aims to protect pollinators, which are vital for the resilience of food systems and biodiversity. Climate change threatens these systems through extreme weather and altered habitats (Objectives).
+
+- **Cost, Timeframe, Location, and Other Attributes:**
+  - **Strategy 1:** Expand and upgrade vegetative surfaces within city parks. 
+    - **Action 1:** Continue to further develop new and existing pollinator gardens in city parks.
+    - **Action 2:** Identify other parks where pollinator gardens could be planted.
+  - **Strategy 2:** Implement pollinator-friendly practices in field operations.
+    - **Action 1:** Increase the number of native pollinator plants utilized in landscape maintenance and flower beds annually.
+  - **Strategy 3:** Identify potential local partnerships to further promote and expand pollinator-friendly habitats throughout the community (Objectives).
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan does not directly identify specific climate policies explicitly aimed at advancing climate justice. However, it references broader strategies and activities that could be associated with justice by improving overall community resilience and reducing emissions. Below is a summary of potential policies:
+Based on the content provided, the plan does not explicitly identify specific climate policies to directly advance climate justice. However, it emphasizes the importance of equitable implementations within broader climate actions and goals. Here is an inferred summary based on the objectives and strategies mentioned:
 
-1. **Policy: Transportation Systems Improvements**
-   - **Climate Threat:** The threat of increased greenhouse gas emissions and pollution from transportation contributes to overall climate change impacts, including extreme temperatures, droughts, and flooding.
-   - **Vulnerable Areas/Populations:** No specific areas or populations are directly mentioned in the context of climate justice. However, improvements in transportation systems, by offering diverse modes and reducing emissions, could benefit lower-income communities who might depend more on public transit.
+1. **Climate Mayors Agreement**
+   - **Climate Threat Addressed:** General threat of climate change and the need for global mitigation strategies as outlined by the Paris Agreement.
+   - **Vulnerable Areas/Populations:** The plan does not specify exact populations or areas, but it implies that urban areas within Winston-Salem, subject to climate impacts like extreme temperatures, drought, and flooding, could be prioritized.
 
-2. **Policy: Energy Systems Enhancements**
-   - **Climate Threat:** Inefficiency in energy use contributes to higher GHG emissions, exacerbating global warming and associated weather extremes.
-   - **Vulnerable Areas/Populations:** The plan notes that city-owned buildings contribute significantly to emissions, but it doesn’t detail specific vulnerable populations. However, energy efficiency efforts may indirectly support climate justice by reducing public energy costs, which could benefit economically disadvantaged residents.
+2. **City Transport and Energy Initiatives**
+   - **Climate Threat Addressed:** The initiatives indirectly address threats such as extreme temperatures and pollution by encouraging reduced vehicle miles traveled and increased energy efficiency.
+   - **Vulnerable Areas/Populations:** While the plan does not explicitly mention vulnerable populations, it can be deduced that areas with high pedestrian congestion or populations reliant on public transportation might benefit, thus supporting those potentially more exposed to pollution and heat.
 
-3. **Policy: Green Space Development**
-   - **Climate Threat:** Loss of green spaces reduces carbon sequestration potential, impacting urban heat levels and local air quality.
-   - **Vulnerable Areas/Populations:** While specific areas or populations aren’t identified, increased green spaces may help urban neighborhoods suffering from heat island effects, often home to marginalized communities.
+3. **Renewable Energy Exploration**
+   - **Climate Threat Addressed:** Non-renewable energy sources contribute to GHG emissions and related climate change impacts.
+   - **Vulnerable Areas/Populations:** No specific areas are mentioned for energy concerns, but generally, low-income areas could benefit from reduced energy costs associated with renewable implementations.
 
-4. **Policy: Waste Systems Optimization**
-   - **Climate Threat:** Waste management issues, such as landfill emissions, contribute to GHG levels and climate change.
-   - **Vulnerable Areas/Populations:** The plan doesn’t specify vulnerable groups, but reducing waste often lessens the environmental burden on communities located near waste processing facilities, which are frequently low-income areas.
-
-The plan highlights the overall importance of reducing emissions and enhancing sustainability but does not elaborate specifically on climate justice in terms of targeted policies for vulnerable populations.
+The plan details overarching strategies which imply inclusion, yet it lacks specific policies targeted explicitly toward ensuring climate justice.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based solely on the document provided, there are no explicit mentions of potential unforeseen maladaptive climate policies or warnings against them. The document focuses on strategies and objectives related to climate resilience, mitigation, and adaptation. However, I will provide analysis on possible maladaptive outcomes based on the strategies mentioned:
+Based on the content provided in the plan, here is an analysis of potential unforeseen maladaptive climate policies:
 
-1. **Policy**: Encourage employees to use more diverse modes of transportation.
-   - **Climate Threat**: Greenhouse gas emissions from transportation.
-   - **Option**: Resilience and mitigation through promoting diverse and sustainable transportation modes to reduce vehicle miles traveled.
-   - **Potential Maladaptation**: Without adequate infrastructure or resources to support alternative transportation options such as walking paths, bike lanes, or public transportation, this policy could inadvertently increase traffic congestion or contribute to inconvenience and inefficiency, potentially discouraging the use of these diverse modes.
+**1. Transportation Systems**
 
-2. **Policy**: Establish standards for new or renovated government buildings to meet energy efficiency standards from LEED and/or Energy STAR.
-   - **Climate Threat**: Energy inefficiency leading to higher carbon emissions.
-   - **Option**: Mitigation via increased energy efficiency in government buildings.
-   - **Potential Maladaptation**: If not properly implemented or if financial resources are stretched without adequate investment in maintaining these standards, this could lead to higher upfront costs and financial strain on public funds, potentially detracting from other areas of need in climate adaptation and resilience.
+- **Climate Threat Addressed:** The policy addresses the climate threat of greenhouse gas emissions and their contribution to climate change.
+- **Resilience, Mitigation, or Adaptation Option:** The option proposed includes encouraging employees to use more diverse modes of transportation and reducing vehicle miles traveled, as well as installing electric vehicle charging stations ("Objectives," "Transportation Systems").
+- **Potential Maladaptation Issues:** Encouraging more diverse transportation options and electric vehicle adoption could inadvertently increase vulnerability if the public transportation infrastructure is inadequate. If the infrastructure does not support safe and efficient transportation alternatives, this policy might discourage commuting or displace emissions rather than reduce them. Additionally, if not paired with corresponding renewable energy generation, an increase in electric vehicle usage could lead to higher demands on fossil fuel-generated electricity, negating emission reductions.
 
-3. **Policy**: Work with local utilities to identify potential locations for solar panels on city facilities.
-   - **Climate Threat**: Dependency on non-renewable energy sources.
-   - **Option**: Mitigation and adaptation through investment in renewable energy, specifically solar power.
-   - **Potential Maladaptation**: Poorly planned solar panel installations might displace existing natural spaces that contribute to urban cooling or biodiversity, or could lead to financial investments in locations where solar energy production is less efficient, leading to a potential loss in investment return. 
+**2. Energy Systems**
 
-It is essential for each of these strategies to be carefully planned and context-specific to ensure that they do not inadvertently increase vulnerabilities or strain resources further, which can lead to maladaptation.
+- **Climate Threat Addressed:** The focus here is on energy-related greenhouse gas emissions contributing to climate change.
+- **Resilience, Mitigation, or Adaptation Option:** Options include increasing energy efficiency in city-owned buildings and exploring renewable energy generation options ("Objectives," "Energy Systems").
+- **Potential Maladaptation Issues:** The retrofitting of buildings for energy efficiency could lead to maladaptation if the adaptations are not resilient to future climate conditions (e.g., if efficiency measures reduce indoor air quality or increase vulnerability to heatwaves). Similarly, investment in renewable energy could cause maladaptation if not coupled with a holistic energy management strategy; for example, deploying solar panels without ensuring they are operational during storm events that could disrupt their functionality.
+
+These summarizations indicate areas where policies could unintentionally increase climate vulnerability if they are not implemented with comprehensive and context-sensitive strategies.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-### **Measuring Success - Adaptation, Resilience, and Mitigation Options**
+### **Measuring Success in the Plan**
 
-#### **Transportation Systems**
-- **Metrics Used:**
-  - **Vehicle Fuel Use:** Accounts for about 15% of total emissions from local government operations, with marginal changes since 2008.
-  - **Vehicle Miles Traveled (VMT):** Average daily VMT per employee is 20.1 miles, resulting in about 4,700 pounds of greenhouse gas emissions per year.
+#### **General Emissions:**
 
-- **Specific Targets and Actions:**
-  - **Install Electric Vehicle Charging Stations:** 
-    - Three public electric vehicle charging stations since 2012.
-    - Actions to apply for Zero Emissions Vehicle DC Fast Charging stations through Volkswagen settlement funds.
-  - **Hybrid Buses:** Goals to replace 21 diesel buses with 21 hybrid buses.
-  - **Bicycle Infrastructure:** A bicycle master plan and community bike share program to promote non-motorized transportation.
-  - **Clean Fuel Technologies:** Implementation of propane as a fuel source for 31 city vehicles through the Clean Fuel Advanced Technology grant.
+- **Metrics for Tracking Success:**
+  - *CDP reporting*
+  - *Annual greenhouse gas reports for municipal operations*
+  - *STAR Communities rating system*
+  - *Community Sustainability Program Committee* 
+  - **Specific Goal:** Establish a local government emissions target reduction goal of a **15% decrease by 2025 from baseline levels in 2008.** (Section 1, Reduction Targets)
 
-#### **Energy Systems**
-- **Metrics Used:**
-  - **Electricity and Natural Gas Use:** Emission levels monitored since 2008 with a noted 1.08% decrease by 2019 but with inconsistent annual trends.
-  - **Contribution to Overall Emissions:** Electricity use from municipal operations contributes 83% of total emissions.
+#### **Transportation Systems:**
 
-- **Specific Targets and Actions:**
-  - **Emissions Reduction Target:** Establish a local government emissions target goal of a 15% decrease by 2025 from 2008 baseline levels.
-  - **Energy Efficiency:** Aim to replace lights in city facilities with LEDs and to establish energy efficiency standards for new or renovated government buildings to meet LEED and Energy STAR criteria.
+- **Metrics for Tracking Success:**
+  - Public electric vehicle charging stations installed since 2012.
+  - Applications for Zero Emissions Vehicle DC Fast Charging stations.
+  - Number of hybrid buses in operation replacing diesel buses.
+  - Bicycle master plan and bike share program implementations.
+  - Clean Fuel Advanced Technology (CFAT) grant secured for propane as a fuel source.
 
-#### **Green Space**
-- **Metrics Used:**
-  - **Pollinator and Wildlife Support:** Inventory of pollinator assets and installation of Bee City USA signs. Annual events like Community Roots Day measure success by tree planting activities.
+#### **Energy Systems:**
 
-- **Specific Targets and Actions:**
-  - **Bee City USA:** Designation as a Bee City USA and Tree City USA, promoting pollinator and tree-friendly initiatives as markers of success.
-  - **Carbon Sequestration:** Includes goals for tree planting and preservation to support air quality improvement.
+- **Concrete Goals and Targets:**
+  - **Increase Energy Efficiency:** 
+    - Replace lights in city facilities with LEDs.
+    - Establish standards for new or renovated government buildings to meet LEED and/or Energy STAR standards.
+  - **Specific Action:** Participate in Daylight Hour campaign aiming for **100% participation of city offices in those offices that have non-essential lighting.**
 
-#### **Waste Systems**
-- **Metrics Used:**
-  - No specific numerical metrics or deadlines specified in the provided content.
+- **Explore Renewable Energy Generation Options:**
+  - **Strategies and Actions:**
+    - Identify potential locations for solar panels on city facilities.
+    - Partner with North Carolina municipalities in support of renewable energy growth.
+    - Research options for acquiring solar PV systems.
+    - Invest in the installation of solar panels on solar ready city facilities. (Section 3, Energy Systems)
 
-- **Goals:**
-  - **Waste Reduction:** Promoting waste minimization practices and sustainability education. Awareness strategies for recycling market conditions are included but lack specific quantitative targets.
+#### **Green Space:**
 
-#### **General Goals**
-- **GHG Emissions Measurement:** Continual measurement since 2008; participation in CDP reporting; and regular publication of annual greenhouse gas reports for municipal operations.
-- **Policy Suggestions:** Inclination to define measurable reduction goals to meet a 15% decrease in emissions by 2025 from the 2008 baseline level.
+- **Metrics for Carbon Sequestration:**
+  - *Community Roots Day tree planting event* by Keep Winston-Salem Beautiful.
+  - Designation as a *Tree City USA* since 2001.
 
-### **Summary of Success Measures**
+- **Bee City USA:**
+  - *Pollinator week recognition and celebrations*
+  - Installation of *Bee City USA* signs.
+  - Inventory of pollinator assets like city flower beds.
+  - Enhancement of pollinator habitats in city parks. 
 
-The plan sets several specific goals and actions across different sectors to enhance adaptation, resilience, and mitigation efforts, using a combination of qualitative and quantitative metrics. These include commitments like expanding electric vehicle infrastructure, increasing energy efficiency, and supporting green space initiatives, alongside setting tangible emissions reduction targets.
+- **Objective:** Focus on enhancing ecosystem services such as carbon sequestration and air quality improvement through increased tree canopy and green infrastructure.
+
+#### **Waste Systems:**
+
+- **Specific Objectives:**
+  - *Waste reduction*
+  - *Sustainability education and awareness*
+  - *Recycling market awareness* 
+  - **Goal:** Establish an emissions reduction target reflecting a commitment to sustainability and emissions management.
+
+### **Specific Targets for North Carolina Cities:**
+
+- Apex: **100% renewable energy by 2050.**
+- Asheville: **80% below 2001-2002 ASAP.**
+- Chapel Hill: **60% below 2005 by 2050.**
+- Charlotte: **100% zero carbon for buildings/fleet by 2030.** (Executive Summary and Section 1, Reduction Targets)
+
+The plan provides detailed strategies, objectives, and measurable metrics for each sector to achieve their emissions reduction and sustainability goals while also laying out clear targets and objectives in line with broader regional commitments.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| Feature              | Details                                                                                                                                                          |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | City of Winston-Salem                                                                                                                                              |
-| **Population**       | *Not specified in the document*                                                                                                                                     |
-| **Threats Identified** | - Extreme temperatures  <br> - Drought <br> - Flooding <br> - Man-made environmental hazards (in southwestern Forsyth County)                                          |
-| **Measures Identified** | **Reduction Targets** <br> - No specific objectives, general policy focus <br> **Transportation Systems** <br> - Encourage diverse transportation options for employees <br> - Install electric vehicle charging stations <br> **Energy Systems** <br> - Energy use conservation <br> - Increase efficiency and explore renewable energy <br> **Green Space** <br> - Carbon sequestration via tree planting and urban forestry <br> - Initiatives under Bee City USA to protect pollinators <br> **Waste Systems** <br> - Waste reduction <br> - Sustainability education and awareness <br> - Recycling market awareness |
+| **Feature**          | **Details**                                                                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | City of Winston-Salem                                                                                                                              |
+| **Population**         | Not specified in the document                                                                                                                      |
+| **Threats Identified** | - Extreme temperatures                                                                                                                             |
+|                      | - Drought                                                                                                                                          |
+|                      | - Flooding                                                                                                                                         |
+| **Measures Identified** | - Reduction Targets for emissions and air quality ([Executive Summary](#executive-summary))                                                       |
+|                      | - Encourage diverse transportation options ([Section 1 Reduction Targets](#section-1-reduction-targets))                                          |
+|                      | - Energy conservation and increase in efficiency ([Section 3 Energy Systems](#section-3-energy-systems))                                           |
+|                      | - Carbon sequestration through green spaces and tree planting ([Section 4 Green Space](#section-4-green-space))                                     |
+|                      | - Bee City USA initiatives to protect pollinators ([Section 4 Green Space](#section-4-green-space))                                                 |
+|                      | - Waste reduction and sustainability education ([Section 5 Waste Systems](#section-5-waste-systems))                                               |
 ```
-

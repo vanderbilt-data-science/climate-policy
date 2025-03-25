@@ -1,403 +1,464 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-**Planning Jurisdiction: City of Charleston, South Carolina**
+**Planning Jurisdiction:** City of Charleston, South Carolina
 
-### **Location and Physical Landscape:**
-- **Geographic Features:**
-  - Located at the confluence of two rivers emptying into the Atlantic Ocean.
+**Location:** Charleston is located at the confluence of two rivers that empty into the Atlantic Ocean. 
+
+**Population:** The document does not specify the exact current population; however, it mentions an anticipated population increase to 232,419 people by 2050, according to the City of Charleston Planning Department. 
+
+**Demographics and Average Income:** The document does not provide specific details on demographics and average income.
+
+**Major Geographic Features:** 
+- **Rivers and Coastline:** Charleston is defined by its location at the confluence of two rivers and its proximity to the Atlantic Ocean, indicating a significant coastline.
   
-### **Population and Demographics:**
-- The plan does not specify the current population or detailed demographic data.
+**Local Climate and Challenges:**
+- The plan highlights issues such as increased flooding, extreme storms, and sea level rise affecting the climate, largely due to overuse of fossil fuels and resulting GHG emissions.
+- There is concern about future challenges related to spiking heat waves, droughts, and other climate impacts. 
 
-### **Economic Landscape:**
-- The plan does not include specific information regarding average income or detailed economic statistics for Charleston.
+**Energy Production and Natural Resources:**
+- The document details reliance on fossil fuels (coal and natural gas) for energy, with utilities’ plans projecting a reduction from 44% to 22% in the fossil fuel mix by 2050 while maintaining an increase in natural gas use.
+- Focus on transitioning to renewable energy is mentioned, but specific sources and contributions of renewables are not detailed.
 
-### **Key Infrastructure:**
-- The plan does not specify key infrastructure details like airports or seaports.
+**Infrastructure:**
+- The document does not specify key infrastructure like airports or seaports, although the proximity to the ocean might imply the existence of associated facilities.
 
-### **Climate and Environment:**
-- **Local Climate:**
-  - The city experiences challenges associated with climate change, notable in flooding, sea level rise, and extreme storms. 
-  - It highlights "an array of flooding, rain bombs, wildfires, landslides, spiking heat waves, droughts" as consequences of climate change.
-  
-### **Energy Production and Natural Resources:**
-- **Energy Production:**
-  - Emphasizes a shift away from fossil fuels to reduce CO₂ and CH₄ emissions, primarily resulting from fossil fuel overuse.
-  - Encourages renewable energy opportunities but does not provide specifics on current energy production practices or statistics.
-  
-### **Industries and Economic Drivers:**
-- The plan suggests that energy and transportation sectors are primary sources of carbon emissions.
-- The strategies within the plan aim to reduce emissions while fostering a “vibrant and prosperous place to live and work.”
-
-### **Additional Information:**
-- There’s a focus on preserving "our local landscape and history" and addressing "climate-related risk to people and property."
-- There is no specific mention of aridity or water challenges beyond the general impacts of climate change on local resources.
-
+**Industries and Economic Drivers:**
+- There is an emphasis on shifting towards energy efficiency, adoption of renewable energy, and other sustainable practices as crucial actions for local economic development.
+- Renewable energy is highlighted as a growing sector that will spur business and job growth, indicating an economic shift toward sustainability and sustainable construction as part of the economic drive.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
+### Summary of How the Plan Addresses Each Component
+
 **Resilience:**
-
-The plan addresses resilience by emphasizing the importance of enhancing community resilience to the impacts of climate change. It notes that many climate mitigation actions also contribute to climate resilience, such as planting trees and installing rooftop solar energy. The plan also highlights the significance of protecting carbon sinks and maintaining healthy wetlands and marshes as crucial flood protection measures. The existing climate adaptation plan and the Vulnerability Assessment completed in 2020 support efforts to increase community resilience. 
-
-*“Many climate mitigation actions also help enhance climate resilience to the impacts of climate change, such as flooding.” (Climate Adaptation & Resilience)*
+The plan integrates resilience strategies that emphasize enhancing the community's ability to withstand and adapt to climate impacts. It highlights the importance of "ongoing, equitable community engagement" and mentions that "both climate adaptation and mitigation solutions are important to achieve community resilience." The document explains that resilience is intertwined with other strategies, such as using natural carbon sinks to manage flooding and promoting urban designs that contribute to both resilience and reduced emissions (Executive Summary).
 
 **Mitigation:**
-
-The plan has a strong focus on climate mitigation efforts, aiming to reduce GHG emissions significantly. It sets ambitious carbon reduction goals, including reducing emissions by 56% below 2018 levels by 2030 and achieving net-zero emissions by 2050. The action plan is built on the existing base of adaptation measures focused on flood and sea level rise strategies and primarily targets reducing emissions to address the root cause of climate change. 
-
-*“Since adaptation measures are the primary initiatives in the City’s Flooding and Sea Level Rise Strategy, the Climate Action Plan builds on that base by focusing on climate mitigation measures to reduce emissions and ultimately address the root cause of climate change.” (Introduction)*
+The plan focuses heavily on mitigation efforts by setting ambitious GHG reduction targets, aiming to "reduce emissions 56% below 2018 levels by 2030" and "reduce emissions to net zero by 2050" (Executive Summary). It outlines promising strategies to reduce the city's carbon footprint through improvements in transportation, energy efficiency in buildings, waste management, and the use of renewable energy sources. These efforts are concentrated on addressing the root causes of climate change by cutting emissions.
 
 **Adaptation:**
+Adaptation measures are also detailed, particularly those that enhance flood protection and manage sea-level rise. For instance, the plan describes "planting trees increases carbon sequestration while also protecting against flooding by absorbing stormwater" (Ecosystem Protection). While these are mostly framed as co-benefits of mitigation projects, the document acknowledges prior achievements in adaptation, such as the completion of a "Vulnerability Assessment in 2020" to "help identify measures to increase community resilience" (Climate Adaptation & Resilience).
 
-While the plan's primary emphasis is on mitigation, it integrates some adaptation measures by supporting ongoing efforts and identifying actions that double as adaptation strategies to prepare for climate change impacts. The existing adaptation plan and Vulnerability Assessment provide a backdrop against which this plan operates.
-
-*“While the City already has a climate adaptation plan focused on addressing the impacts of climate change and has completed a Vulnerability Assessment in 2020 to help identify measures to increase community resilience, it is important to note many actions in this plan also support adaptation.” (Climate Adaptation & Resilience)*
-
-**Classification:**
-
-The plan is best classified as a **mitigation primary climate action plan**. Its focus is on reducing emissions to address the root cause of climate change, while also recognizing the connections and co-benefits of mitigation actions that enhance resilience and support adaptation strategies.
+### Classification of the Plan
+The plan can be classified as a **"mitigation primary climate action plan"**. This categorization stems from its strong emphasis on mitigation strategies to achieve substantial reductions in GHG emissions, while still addressing resilience and adaptation to an appreciable extent, mainly through strategies with dual benefits.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that Charleston is planning for. The planning jurisdiction acknowledges the impacts of climate change which include risks to health, economy, and the natural world. The plan highlights that the "overuse of fossil fuels has already given rise to an array of flooding, rain bombs, wildfires, landslides, spiking heat waves, droughts, and the threat of global food shortages." Specifically in Charleston, there is an increasing occurrence of "more flooding, more extreme storms, more sea level rise" (Introduction).
+Yes, the plan describes a scenario of climate change that the planning jurisdiction, Charleston, will face. The document outlines various climate impacts already affecting Charleston and what may come in the future:
 
-Additionally, the plan outlines the potential outcome if actions are not taken, specifying that "emissions could double by 2050" if current trends such as "population growth, reliance on personal vehicles, and urbanization" continue (Introduction). This statement serves as a projection for the future scenario Charleston is working to mitigate through climate policies aimed at resilience, adaptation, and emission reduction goals.
+- **Increased flooding and sea level rise:** "In Charleston, we see more flooding, more extreme storms, more sea level rise." These are direct consequences of climate change that are already evident in the area.
+
+- **Extreme weather events and environmental changes:** The plan states, "Overuse of fossil fuels has already given rise to an array of flooding, rain bombs, wildfires, landslides, spiking heat waves, droughts, and the threat of global food shortages."
+
+These scenarios outline the need for climate policies that focus on resilience, mitigation, and adaptation to address these projected impacts effectively. 
+
+Additional information on climate adaptation and resilience measures, such as planting trees for carbon sequestration and flood protection and the use of rooftop solar energy for increased power resilience during hurricanes, reinforces the response to these scenarios. As stated in the plan: "Many climate mitigation actions also help enhance climate resilience to the impacts of climate change, such as flooding."
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-1. **Flooding and Sea Level Rise**  
-   - **Description of the Climate Hazard:** The plan indicates that overuse of fossil fuels has resulted in climate change impacts like more severe and frequent flooding, and increasing sea level rise in Charleston.   
-   - **Climate Risks:** It poses risks to health, economy, and the natural world, increasing climate-related risks to people and property. It threatens Charleston with more extreme storms and rising sea levels.  
-   - **Vulnerable Areas or Populations:** Though specific areas or populations are not directly mentioned for this hazard in the segments provided, flooding and sea level rise typically affect coastal and low-lying areas, which may include vulnerable communities less equipped to cope with these challenges.
+1. **Flooding and Sea Level Rise**
+   - **Description of Climate Hazard:** Flooding is an identified climate hazard exacerbated by sea level rise, which impacts the city's infrastructure and environment.
+   - **Climate Risks Posed:** "Overuse of fossil fuels has already given rise to an array of flooding" and "more flooding, more extreme storms, more sea level rise" events which poses significant risks to lives, properties, and the economy.
+   - **Vulnerable Areas or Populations:** Vulnerable communities to flooding risks include areas with significant low-lying geography that are prone to king high tides and storm surges. 
 
-2. **Extreme Heat**  
-   - **Description of the Climate Hazard:** The report references heat waves intensified by climate change.  
-   - **Climate Risks:** Extreme heat increases the risk of heat-related illnesses, particularly as the climate warms.  
-   - **Vulnerable Areas or Populations:** The most vulnerable are identified as children, pregnant women, low-income individuals, the elderly, people with disabilities and chronic illnesses, and marginalized races and ethnicities, often due to exacerbated inequities by climate change.
+2. **Extreme Heat**
+   - **Description of Climate Hazard:** Rising temperatures and heatwaves as the climate continues to warm.
+   - **Climate Risks Posed:** It is noted that "heat-related illnesses" are a concern, suggesting an increase in frequency and intensity of heat events impacting public health.
+   - **Vulnerable Areas or Populations:** The most vulnerable among the population to extreme heat include "children and pregnant women, people with low income, the elderly, people with disabilities and chronic illnesses, and marginalized people of all races and ethnicities."
 
-3. **Storms**  
-   - **Description of the Climate Hazard:** There is mention of increasingly intense storms.  
-   - **Climate Risks:** Intense natural hazards, such as more frequent and severe storms, present various risks including potential damage to property and disruption of community activities.   
-   - **Vulnerable Areas or Populations:** Although explicit areas or populations are not detailed, it is known that marginalized communities might face higher risks due to less robust infrastructure and fewer resources to recover.
+3. **Extreme Weather Events**
+   - **Description of Climate Hazard:** This includes more "extreme storms."
+   - **Climate Risks Posed:** Extreme weather events can lead to natural hazards like "flooding, rain bombs, wildfires, landslides, spiking heat waves, and droughts" and they contribute to the threat of "global food shortages."
+   - **Vulnerable Areas or Populations:** Populations in areas exposed to such hazards, especially those prone to flooding and storm surges, like low-lying coastal regions.
 
-4. **Infectious Diseases and Aeroallergens**  
-   - **Description of the Climate Hazard:** The plan lists increased exposure to infectious diseases and aeroallergens as climate-related challenges.  
-   - **Climate Risks:** These lead to potential health threats, including increased prevalence of asthma and other respiratory diseases.  
-   - **Vulnerable Areas or Populations:** Vulnerable groups include the elderly, children, and those with preexisting health conditions, who are disproportionately affected by poorer air quality and health threats.
+4. **Drought**
+   - **Description of Climate Hazard:** Increased likelihood and severity of drought conditions.
+   - **Climate Risks Posed:** "Overuse of fossil fuels has... given rise to... droughts" impacting water resources and agricultural productivity.
+   - **Vulnerable Areas or Populations:** Areas dependent on reliable water sources, which could include agricultural sectors in and around Charleston.
 
-5. **Population Displacement and Conflict**  
-   - **Description of the Climate Hazard:** Risks of displacement and conflict as climate hazards are highlighted.  
-   - **Climate Risks:** Increasing risks of displacement and conflict due to worsening climatic conditions can affect social stability and community welfare.  
-   - **Vulnerable Areas or Populations:** Marginalized people may face heightened risks due to unevenly shared economic and health benefits from climate mitigation efforts.
+5. **Sea Level Rise**
+   - **Description of Climate Hazard:** Rising sea levels affecting coastal areas.
+   - **Climate Risks Posed:** Increased "sea level rise" leads to more severe and frequent flooding and potential displacement.
+   - **Vulnerable Areas or Populations:** Coastal and low-lying communities are particularly vulnerable to the impacts of sea level rise.
+   
+Each of these hazards poses specific risks to Charleston's infrastructure, public health, ecosystems, and socio-economic systems, necessitating coordinated adaptation and resilience strategies.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options Identified in the Plan:**
+**Resilience Options Identified in the Plan**
 
-1. **Collaborate with regional and state partners to increase preservation and restoration of saltwater ecosystems (such as marshes and wetlands):**
-   - **Climate Threat Addressed:** This option addresses the threat of flooding and storm surges by preserving ecosystems that absorb carbon and floodwaters.
-   - **Cost, Timeframe, and Location:** 
-     - **Cost:** High
-     - **Priority:** High
-   - **Other Attributes:** These ecosystems are key carbon sequestering assets that enhance resilience and contribute to protecting water quality and biodiversity. (Chapter 4: Carbon Sinks, Strategy: Protect and promote natural ecosystems)
+1. **Tree Planting and Canopy Protection**
+    - **Climate Threat Addressed:** This option addresses flooding by absorbing stormwater and heat-related illnesses by cooling streets.
+    - **Details:**
+        - **Cost:** Varied prioritization based on specific actions, from low to high. Examples include: 
+          - **C6:** Medium cost for prioritizing tree plantings in underserved communities.
+          - **C7:** High cost for strengthening tree protection regulations.
+        - **Timeframe and Location:** Ongoing expansion in areas with less canopy coverage.
+        - **References:** Table 4: Carbon Sinks Action Plan.
+    - **Other Attributes:**
+        - **Environmental:** Expands urban tree canopy, which reduces air pollution and promotes biodiversity.
+        - **Economic:** Increases community property values and appeal.
+        - **Infrastructural:** Supports healthier and more resilient ecosystems.
 
-2. **Convert flood-damaged properties to natural flood protection measures:**
-   - **Climate Threat Addressed:** This option addresses flooding by creating natural conditions that can capture carbon and water.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** $$$$
-     - **Priority:** High
-   - **Other Attributes:** This conversion helps in managing flood risks while contributing to carbon capture. (Chapter 4: Carbon Sinks, Strategy: Protect and promote natural ecosystems)
+2. **Rooftop Solar Energy Installations Paired with Battery Backup**
+    - **Climate Threat Addressed:** Provides backup power in the aftermath of a hurricane.
+    - **Details:**
+        - **Cost, Timeframe, and Location:** Not explicitly detailed; involves upfront installation costs with potential long-term savings on energy.
+    - **Other Attributes:**
+        - **Economic:** Could spur job growth in the energy sector and reduce long-term utility costs.
+        - **Environmental:** Reduces reliance on fossil fuels, lowering GHG emissions.
 
-3. **Expand Charleston Rainproof and Adopt a Drain programs:**
-   - **Climate Threat Addressed:** Addresses the threat to water quality and urban flooding.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** $$
-     - **Priority:** Medium
-   - **Other Attributes:** These programs protect water quality and contribute to the health of blue carbon ecosystems. (Chapter 4: Carbon Sinks, Strategy: Protect and promote natural ecosystems)
+3. **Protection of Wetlands and Marshes**
+    - **Climate Threat Addressed:** Flood protection during king high tides and storm surges.
+    - **Details:**
+        - **Cost:** Actions have high cost potential, such as acquiring flood-damaged properties.
+        - **Timeframe and Location:** Ongoing preservation and restoration efforts. 
+        - **References:** Table 4: Carbon Sinks Action Plan.
+    - **Other Attributes:**
+        - **Environmental:** Preserves vital carbon sinks, maintaining biodiversity and water quality.
+        - **Economic:** Prevents flooding-related damages that can incur significant repair costs.
 
-4. **Pilot the application of super sink plants in public spaces:**
-   - **Climate Threat Addressed:** Contributes to carbon sequestration and soil stabilization, indirectly addressing climate threats like heat and stormwater management.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** Low
-     - **Priority:** Low
-   - **Other Attributes:** Utilizes non-invasive native bamboo and practices adaptably friendly to pollinators, enhancing biodiversity. (Chapter 4: Carbon Sinks, Strategy: Protect and promote natural ecosystems)
+4. **Implementation of Charleston Rainproof and Adopt a Drain Programs**
+    - **Climate Threat Addressed:** Enhances water management to prevent flooding.
+    - **Details:**
+        - **Cost:** Medium cost for continued program expansion.
+        - **Timeframe and Location:** Expanding program participation throughout Charleston.
+        - **References:** Table 4: Carbon Sinks Action Plan.
+    - **Other Attributes:**
+        - **Environmental:** Improves urban water quality.
+        - **Community Engagement:** Involves residents directly in climate resilience efforts.
 
-5. **Plant and prioritize tree plantings, especially in underserved communities:**
-   - **Climate Threat Addressed:** Addresses urban heat and air quality, also providing flood protection.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** $$
-     - **Location:** Underserved communities with less canopy and aging tree inventories.
-     - **Priority:** High
-   - **Other Attributes:** Increasing the tree canopy helps cool city streets, reduces heat-related illnesses, and improves air quality. (Chapter 4: Carbon Sinks, Table 4: Carbon Sinks Action Plan)
-
-6. **Strengthen tree protection regulations in zoning:**
-   - **Climate Threat Addressed:** Supports the combat against urban heat and flood risks.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** $
-     - **Priority:** High
-   - **Other Attributes:** These regulations help maintain and enhance the existing tree canopy, providing ecological and infrastructural resilience benefits. (Chapter 4: Carbon Sinks, Table 4: Carbon Sinks Action Plan)
-
-7. **Encourage tree plantings on private property:**
-   - **Climate Threat Addressed:** Mitigates urban heat and contributes to flood management.
-   - **Cost, Timeframe, and Location:**
-     - **Cost:** Medium
-     - **Priority:** Medium
-   - **Other Attributes:** Increases residential property values, contributing to neighborhood vibrancy and providing economic incentives for private participation. (Chapter 4: Carbon Sinks, Table 4: Carbon Sinks Action Plan)
-
-These resilience options are strategically designed to address various climate threats, particularly focusing on flood management, urban heat, and ecological stability, while also offering substantial co-benefits, including economic savings and environmental protection.
-
+This summary highlights the critical resilience options, specifying the climate threats they address, the economic and environmental impact, as well as logistical considerations sourced from provided tables and actions listed within the plan.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-### Mitigation Options Identified
+The plan identifies several mitigation options, each with varying costs, timing, and other attributes. Below is a summary of the identified mitigation options as outlined in the plan:
 
-1. **Plant and Protect Tree Canopy**
-   - **Cost:** Low to High ($ to $$$$)
-   - **Timing:** No specific timeframe provided
-   - **Location:** Areas that need it most, such as underserved communities
-   - **Attributes:** Increase in canopy in underserved communities; protect existing canopy
-   - **Citations:** Carbon Sinks Strategy: Plant and Protect Tree Canopy
+### **Energy Efficiency and Buildings**
 
-2. **Increase Use of Public Transit Systems**
-   - **Cost:** Low ($)
-   - **Timing:** No specific timeframe provided
-   - **Location:** Existing or planned transit corridors
-   - **Attributes:** Installation of bus stop shelters and transportation infrastructure
-   - **Citations:** Transportation Strategy: Increase Use of Public Transit Systems
+- **Strengthening the Energy Code**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: State level advocacy
+  - **Attributes**: The plan supports efforts to strengthen the energy code at the state level, aligning with carbon neutrality by 2050 and other initiatives in the SC Energy Efficiency Roadmap.
 
-3. **Expand Publicly-accessible Electric Vehicle Charging Infrastructure**
-   - **Cost:** Medium ($$)
-   - **Timing:** No specific timeframe provided
-   - **Location:** Ride share, mobility hubs, on-street peninsula access, and City parking facilities
-   - **Attributes:** Expansion of electric vehicle charging infrastructure
-   - **Citations:** Transportation Strategy: Embrace Electric and Other Low or No Emission Motors
+- **Energy Efficiency in Construction and Upgrades**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: State level and local opportunities
+  - **Attributes**: Identifies exploring local equitable gap funding opportunities for energy efficiency in new construction and upgrades to existing construction.
 
-4. **Transition City Fleet and Other Small Engines to Alternative Fuel Vehicles**
-   - **Cost:** Medium ($$)
-   - **Timing:** No specific timeframe provided
-   - **Location:** City fleet
-   - **Attributes:** Includes vehicle replacement standards and charging infrastructure
-   - **Citations:** Transportation Strategy: Embrace Electric and Other Low or No Emission Motors
+- **Incentives for Sustainable Construction and Renewable Energy**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: Local zoning code adjustments
+  - **Attributes**: The plan considers expanding incentives via building certification programs like Charleston RISES.
 
-5. **Implement Sustainable Construction and Renewable Energy Incentives**
-   - **Cost:** Medium to High ($ to $$$$)
-   - **Timing:** No specific timeframe provided
-   - **Location:** City facilities and new constructions
-   - **Attributes:** Mechanical, electrical, and plumbing standards; guidelines for sustainable construction
-   - **Citations:** Buildings Strategy: Increase Energy Efficiency and Conservation
+- **Funding for Energy Efficiency in City Buildings**:
+  - **Cost**: $$$$ (High)
+  - **Timing**: Not specified
+  - **Location**: City facilities
+  - **Attributes**: Increase staff capacity and funding for facilities assessment to improve energy efficiency of existing and new City buildings.
 
-6. **Concentrate Development in Compact, Walkable Centers**
-   - **Cost:** Low ($)
-   - **Timing:** No specific timeframe provided
-   - **Location:** Compact, walkable centers well connected to public transit
-   - **Attributes:** Reduces vehicle miles travelled and supports mixed-use development
-   - **Citations:** Transportation Strategy: Improve Land Use Policy to Reduce Vehicle Miles Travelled
+- **Energy Efficiency Standards for City Facilities**:
+  - **Cost**: $ (Low) to $$$$ (Medium)
+  - **Timing**: Not specified
+  - **Location**: City facilities
+  - **Attributes**: Create mechanical, electrical, and plumbing standards including total cost of ownership standards and tailored certification above minimum code.
 
-7. **Support Efforts to Strengthen Energy Code**
-   - **Cost:** Low ($)
-   - **Timing:** No specific timeframe provided
-   - **Location:** State level
-   - **Attributes:** Align building policies with carbon neutrality by 2050
-   - **Citations:** Buildings Strategy: Increase Energy Efficiency and Conservation
+- **Disclosure of Utility Data**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: State level
+  - **Attributes**: Support state efforts for the disclosure of utility data by property sellers.
 
-8. **Create Urban Forestry Workforce Training Program**
-   - **Cost:** Medium ($)
-   - **Timing:** No specific timeframe provided
-   - **Location:** In partnership with local school programs
-   - **Attributes:** A program for training in urban forestry to support tree planting efforts
-   - **Citations:** Carbon Sinks Strategy: Plant and Protect Tree Canopy
+### **Transportation**
 
-### Key Attributes and Considerations
+- **Public Transit Infrastructure**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: Along transit corridors
+  - **Attributes**: Requires new large development projects to include bus stop shelters and transportation infrastructure.
 
-- **GHG Emissions Reduction Potential:** Actions are evaluated for their emissions reduction potential categorized as low, medium, or high.
-- **Priority and Implementation:** Actions are prioritized as low, medium, or high based on assessment criteria, community support, feasibility, and co-benefits.
-- **Co-benefits:** Actions often provide co-benefits such as cost savings, public health improvements, economic development, and increased safety and mobility.
-- **Citation Format:** The information is directly summarized from sections like Carbon Sinks Strategy, Transportation Strategy, and Buildings Strategy.
+- **Electric Vehicle Charging Infrastructure**:
+  - **Cost**: $$ (Medium)
+  - **Timing**: Not specified
+  - **Location**: Publicly accessible areas
+  - **Attributes**: Expansion of EV charging infrastructure, with a focus on mobility hubs and City parking facilities.
+
+- **Policy for EV Charging Stations in New Construction**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: New large commercial construction
+  - **Attributes**: Includes EV-ready requirements and transitioning City fleet to alternative fuels.
+
+- **Transit Programs and Compact Development**:
+  - **Cost**: Varied: $$$$ (Medium) to $ (Low)
+  - **Timing**: Not specified
+  - **Location**: Citywide
+  - **Attributes**: Explore employer transit programs, concentrate development in compact centers, phase in alternatives to gas powered engines, and transition the City fleet.
+
+### **Carbon Sinks**
+
+- **Preservation and Restoration of Saltwater Ecosystems**:
+  - **Cost**: $ (Low)
+  - **Timing**: Not specified
+  - **Location**: Local saltwater ecosystems
+  - **Attributes**: Collaboration with regional and state partners to increase preservation and restoration.
+
+- **Acquiring Flood-Damaged Properties**:
+  - **Cost**: $$$$ (High)
+  - **Timing**: Not specified
+  - **Location**: Local flood-damaged areas
+  - **Attributes**: Convert land use to natural conditions that capture carbon and water.
+
+- **Tree Planting and Canopy Expansion**:
+  - **Cost**: $$ (Medium) to $ (Low)
+  - **Timing**: Ongoing
+  - **Location**: Underserved communities and City areas
+  - **Attributes**: Prioritize tree plantings, strengthen tree protection regulations, and use data to guide canopy growth and diversify species.
+
+### **Assessment and Co-Benefits**
+
+- **Assessment Criteria**:
+  - **Attributes**: The plan evaluates actions based on GHG reduction potential, cost, feasibility, co-benefits, equity, community benefits, and priority based on community interest.
+
+- **Co-Benefits**:
+  - **Attributes**: Actions include cost savings, economic development, public health improvements, ecosystem protection, increased mobility, safety enhancements, beautification, historic preservation, and increased awareness.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options across different strategies and sectors. Below is a summary of the information provided, including cost, priority, and other important attributes for each option:
+The plan identifies several **mitigation options** with associated costs, priority levels, and attributes. Here's a summary based on the content provided:
 
-### Mitigation Options
+### Buildings
 
-1. **Increase use of public transit systems**
-   - **Action T1**: Require new large development projects along transit corridors to install bus stop shelters and transportation infrastructure.
-     - **Cost**: $
-     - **Priority**: High
-     - **Attributes**: Focused on infrastructure development along existing or planned transit corridors.
-   
-2. **Increase employee commuter options**
-   - **Action T3**: Review existing temporary City telecommuting policy and adopt a permanent policy.
-     - **Cost**: $
-     - **Priority**: High
-     - **Attributes**: Involves policy adoption to increase telecommuting.
+- **Increase energy efficiency and conservation**:
+  - **Support efforts to strengthen the energy code at the state level**:
+    - **Cost:** Low ($)
+    - **Priority:** High
+  - **Support state efforts and explore local equitable gap funding opportunities for energy efficiency**:
+    - **Cost:** Low ($)
+    - **Priority:** High
+  - **Consider expanding incentives via the zoning code**:
+    - **Cost:** Low ($)
+    - **Priority:** High
+  - **Increase staff capacity and funding for facility assessments and energy efficiency improvements**:
+    - **Cost:** Very high ($$$$)
+    - **Priority:** High
 
-3. **Embrace electric and other low or no emission motors**
-   - **Action T4**: Expand publicly accessible electric vehicle charging infrastructure.
-     - **Cost**: $$
-     - **Priority**: High
-     - **Location**: Mobility hubs, on-street peninsula access, and City parking facilities.
-     - **Attributes**: Includes expanding charging infrastructure to support electric vehicles.
+### Carbon Sinks
 
-4. **Improve land use policy to reduce vehicle miles traveled**
-   - **Action T8**: Concentrate development in compact, walkable centers well connected to public transit.
-     - **Cost**: $
-     - **Priority**: High
-     - **Attributes**: Encourages mixed-use development that supports public transit and reduces commuting distance.
+- **Protect and promote natural ecosystems**:
+  - **Collaborate with partners to increase preservation and restoration of saltwater ecosystems**:
+    - **Cost:** Low ($)
+    - **Priority:** High
+  - **Convert flood-damaged properties to natural conditions**:
+    - **Cost:** Very high ($$$$)
+    - **Priority:** High
+  - **Examine land use policies to support marsh migration**:
+    - **Cost:** Low ($)
+    - **Priority:** High
 
-5. **Increase energy efficiency and conservation in buildings**
-   - **Action B1**: Support efforts to strengthen the energy code at the state level.
-     - **Cost**: $
-     - **Priority**: High
-     - **Attributes**: Advocacy and policy support at the state level to align with carbon neutrality by 2050.
+### Transportation
 
-6. **Support state efforts for disclosure of utility data by property sellers**
-   - **Action B10**: Support state efforts.
-     - **Cost**: Low priority
-     - **Attributes**: Involves advocacy for utility data transparency.
+- **Increase use of public transit systems**:
+  - **Require new developments to include transit infrastructure**:
+    - **Cost:** Low ($)
+    - **Priority:** High
+  - **Explore employer transit programs with CARTA**:
+    - **Cost:** Very high ($$$$)
+    - **Priority:** Medium
+
+- **Electrical and low-emission alternatives**:
+  - **Expand electric vehicle charging infrastructure**:
+    - **Cost:** Medium ($$)
+    - **Priority:** High
 
 ### General Attributes
+- The plan indicates that many actions "play an important role towards achieving our goals" and each action is not merely a "line-item list" but should be considered within the broader context of aggregated impact ("Introduction").
 
-- **Cost and Priority Assessment**: Each action is assessed based on estimated cost and priority, using a weighted scale and a stoplight approach (indicating high, medium, or low priority).
-- **GHG Reduction Potential**: Each action is evaluated for its potential to reduce greenhouse gas emissions, contributing to the overall mitigation goals of reducing emissions 56% below 2018 levels by 2030 and achieving net zero by 2050.
-
-**Note**: The plan integrates cost considerations and GHG reduction potential to determine the implementation priorities of each mitigation option as part of a comprehensive strategy to address climate change.
+The plan contains integrated strategies and initiatives aimed at reducing emissions significantly by 2030 and ultimately achieving net-zero emissions by 2050 ("Introduction").
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Adaptation Options in the Plan**
+Based on the content provided in the Climate Action Plan, the following adaptation options addressing climate threats have been identified:
 
-The plan identifies several adaptation options. Below is a summary of each adaptation option, including the climate threat it is addressing and the details provided regarding cost, timeframe, location, and other important attributes:
+### **Adaptation Options:**
 
-1. **Tree Planting and Protection** 
-   - **Climate Threat Addressed:** Flooding and stormwater management.
-   - **Location:** Underserved communities with less overall canopy.
-   - **Cost:** $$ (High Priority)
-   - **Attributes:** Plant and prioritize tree plantings to absorb stormwater and reduce flooding. Consider strengthening tree protection regulations to enhance resilience to climate impacts like storm surges.
+1. **Planting Trees and Preserving Tree Canopy**
 
-2. **Acquisition and Conversion of Flood-damaged Properties**
-   - **Climate Threat Addressed:** Flooding.
-   - **Location:** Flood-prone areas.
-   - **Cost:** $$$$ (High Priority)
-   - **Attributes:** Convert flood-damaged properties to natural conditions that capture carbon and water, enhancing resilience to future floods.
+   - **Climate Threat:** This option addresses the climate threat of flooding, as trees can absorb stormwater and provide protection against floods.
+   - **Information Provided:**
+     - **Cost:** Different tree planting initiatives have varied costs, with some specified as high priority with a cost of `$$` (indicating $10,001 - $50,000) (Chapter 4: Carbon Sinks).
+     - **Location:** Prioritizes tree plantings in areas that need it most, such as underserved communities with less canopy cover (Chapter 4: Carbon Sinks).
+     - **Other Attributes:** The planting and protection of trees have multiple co-benefits, such as carbon sequestration and enhancing resilience by cooling city streets and reducing heat-related illnesses (Benefits of Climate Measures).
 
-3. **Rainproof and Adopt a Drain Programs**
-   - **Climate Threat Addressed:** Stormwater management.
-   - **Cost:** $ (Medium Priority)
-   - **Attributes:** Expand programs to protect water quality and manage stormwater effectively, helping reduce flood risks.
+2. **Rooftop Solar Energy Installations with Battery Backup**
 
-4. **Adjusting Land Use Policies for Marsh Migration**
-   - **Climate Threat Addressed:** Sea level rise and marshland protection.
-   - **Cost:** $ (High Priority)
-   - **Attributes:** Examine land use policy to allow for existing marshes to migrate and maintain their ecological function as protective buffers.
+   - **Climate Threat:** Particularly hurricane aftermaths where power outages are common.
+   - **Information Provided:**
+     - **Cost:** Specific costs are not provided, but investments in renewable energy can yield cost savings (Benefits of Climate Measures).
+     - **Other Attributes:** Increases resilience by providing backup power during emergencies, alongside reducing greenhouse gas emissions (Climate Adaptation & Resilience).
 
-5. **Super Sink Plants Pilot Program**
-   - **Climate Threat Addressed:** Carbon capture and ecological resilience.
-   - **Cost:** $ (Low Priority)
-   - **Attributes:** Pilot application of super sink plants like non-invasive native bamboo to absorb carbon and enhance ecological resilience.
+3. **Protecting Wetlands and Marshes**
 
-These adaptation options collectively work towards enhancing resilience against climate threats such as flooding, storm surges, and sea level rise, while also contributing to additional co-benefits like carbon sequestration and improved water quality.
+   - **Climate Threat:** Protects against flooding and storm surges.
+   - **Information Provided:**
+     - **Cost:** Identified with high priority in action items, but specific monetary estimates are not provided; reference to natural vs. constructed costs may imply lower cost for natural solutions (Chapter 4: Carbon Sinks).
+     - **Location:** Protect unique lowcountry marshes and wetlands; conversion of flood-damaged properties to natural conditions (Chapter 4: Carbon Sinks).
+     - **Other Attributes:** These ecosystems are major assets for carbon sequestration and floodwater absorption (Ecosystem Protection).
+
+4. **Upgrading Traffic Signal Infrastructure and Improving Traffic Light Timing**
+
+   - **Climate Threat:** Not directly specified for adaptation against a climate threat, but indirectly reduces climate risks by improving mobility and reducing emissions.
+   - **Information Provided:**
+     - **Other Attributes:** Helps increase mobility and reduce vehicle wait times, thereby lowering emissions (Mobility).
+
+5. **Expanding Pedestrian and Bicycle Infrastructure**
+
+   - **Climate Threat:** While primarily a mitigation option, it can help adapt by providing alternative transportation routes during extreme weather affecting vehicle mobility.
+   - **Information Provided:**
+     - **Location:** Encourages development in compact centers to reduce vehicular traffic (Mobility).
+     - **Other Attributes:** Co-benefits include public health improvement and safety enhancement (Public Health, Safety).
+
+These options reflect an integrated approach, often serving dual purposes in both adaptation and mitigation, and are aligned to address specific climate threats such as flooding, hurricanes, and urban heat.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan identifies several climate policies aimed at advancing climate justice, integrating equity considerations, and addressing the vulnerabilities of specific populations. Below are the summarized policies and relevant details:
+The plan identifies several climate policies that advance climate justice. Below are summaries of these policies, including the climate threats they address and the areas or populations with the most climate vulnerability:
 
-### Climate Policy 1: Community Engagement and Taskforce Involvement
+1. **Community Engagement and Equity Inclusion:**
+   - **Climate Threat Addressed:** This policy does not address a specific climate threat directly but focuses on equitable community engagement in creating and implementing climate action plans.
+   - **Vulnerable Populations:** The policy specifically mentions children, pregnant women, people with low income, the elderly, people with disabilities and chronic illnesses, and marginalized people of all races and ethnicities as populations that are considered vulnerable due to existing inequities. The plan states, "*Social equity can also be a co-benefit and it should be a major consideration when creating a climate action plan.*" (Introduction)
 
-- **Climate Threat Addressed:** General climate change impacts including extreme heat, natural hazards, infectious diseases, and mental health effects.
-- **Vulnerable Populations:** _"Children and pregnant women, people with low income, the elderly, people with disabilities and chronic illnesses, and marginalized people of all races and ethnicities"_ are identified as vulnerable to these threats. (Introduction)
+2. **Equitable Distribution of Climate Benefits:**
+   - **Climate Threat Addressed:** The plan mentions overall climate change impacts, including increased exposure to extreme heat, natural hazards, and reduced air quality.
+   - **Vulnerable Populations:** It highlights that "*vulnerable populations such as the elderly, chronically ill, people with lower incomes, and people of color are more at risk when it comes to experiencing impacts of climate change.*" (Introduction)
 
-- **Policy Statement:** A community working group, the Climate Action Plan Taskforce, was developed with diverse stakeholders to vet all action items, ensuring they consider equity and climate justice. (Introduction)
+3. **Healthcare Access and Environmental Justice:**
+   - **Climate Threat Addressed:** Increased exposure to infectious diseases and aeroallergens, and effects on mental health.
+   - **Vulnerable Populations:** It identifies populations already experiencing health disparities exacerbated by climate change impacts. It notes that climate change "*disproportionately harms the most vulnerable among us*" and the need for policies that address institutional oppression. (Introduction)
 
-### Climate Policy 2: Climate Equity Integration
+4. **Inclusive Climate Action Taskforce:**
+   - **Climate Threat Addressed:** Similar to the community engagement policy, this doesn’t directly address a specific threat but ensures all climate policies take equity into consideration.
+   - **Vulnerable Populations:** The plan mentions that "*vulnerable populations have historically been underserved by programs and investments*" and stresses the importance of representing these communities in decision-making. (Introduction)
 
-- **Climate Threat Addressed:** Climate change exacerbates _"health threats of climate change include increased exposure to extreme heat, reduced air quality, more frequent and intense natural hazards, and increased risk of population displacement."_ (Introduction)
+5. **Climate Equity in Mitigation and Adaptation Measures:**
+   - **Climate Threat Addressed:** General climate changes and their resultant risks such as flooding and sea level rise.
+   - **Vulnerable Populations:** The plan incorporates equity assessment in each action, focusing on "uplifting climate equity and reducing disparities." Disadvantaged communities that face systemic barriers are highlighted. (Introduction)
 
-- **Vulnerable Populations:** _"Vulnerable populations such as the elderly or chronically ill, people with lower incomes, and people of color"_ are identified as more at risk due to existing systemic inequalities. (Introduction)
-
-- **Policy Statement:** Each action item in the plan is evaluated on its ability to uplift climate equity and reduce disparities. The plan aims for equitable distribution of climate protection benefits and addresses systems perpetuating climate change and inequity. (Introduction)
-
-### Climate Policy 3: Targeted Programs for Vulnerable Communities
-
-- **Climate Threat Addressed:** Climate change _"amplifies existing inequities and disparities."_ (Introduction)
-
-- **Vulnerable Populations:** Communities of color and low-income populations who experience _"institutional and systematic oppression."_ (Introduction)
-
-- **Policy Statement:** The plan emphasizes targeting programs to make changes to services and infrastructure before extreme events happen to mitigate impacts on already vulnerable populations. (Introduction)
-
-These policies underscore the importance of collaborative planning and the equitable distribution of resources and opportunities to alleviate climate-related vulnerabilities in Charleston, acknowledging the compounded risks faced by marginalized communities.
+These policies are structured to address inequalities in the impact of climate change and provide equitable access to the benefits of climate action initiatives.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, there is no explicit mention of climate policies that may result in unforeseen maladaptation. The plan primarily outlines mitigation and adaptation strategies that aim to address climate threats associated with climate change, such as flooding and greenhouse gas emissions.
+The plan does not explicitly mention any unforeseen maladaptive climate policies. However, there are several proposed policies and actions, and some potential maladaptive outcomes could be inferred based on general knowledge of climate policy intricacies. Here's an analysis based on some of the measures detailed in the plan:
 
-For a comprehensive analysis of potential maladaptive climate policies, it would be necessary to examine the implementation details and potential side effects of the policies, which are not explicitly detailed in the excerpt provided. 
+### 1. **Tree Planting and Canopy Expansion**
 
-If other sections of the plan suggest particular strategies or policies that may inadvertently lead to maladaptation, such information isn't captured in the excerpts supplied. Therefore, specific instances of maladaptive policies cannot be drawn from this content.
+1. **Climate Threat Addressed:**
+   - Addresses flooding and heat-related illnesses as the climate warms. It also targets carbon sequestration to mitigate GHG emissions.
+   - *"Planting trees increases carbon sequestration while also protecting against flooding by absorbing stormwater."* (CLIMATE ADAPTATION & RESILIENCE)
+
+2. **Resilience, Mitigation, or Adaptation Option:**
+   - Plant trees in underserved communities to increase canopy cover and sequester carbon.
+   - *"Plant and prioritize tree plantings in areas that need it most, such as underserved communities with less overall canopy and communities with aging inventory."* (Carbon Sinks Action Plan)
+
+3. **Potential for Inadvertent Maladaptation:**
+   - If the wrong species are planted (such as non-native or invasive species), this could lead to biodiversity issues or unforeseen ecological impacts. 
+   - The *Carbon Sinks Action Plan* briefly mentions super sink plants, which could potentially be maladaptive if species selected are not ecologically compatible: 
+     - *"Pilot the application of super sink plants in appropriate public spaces, such as non-invasive native bamboo, and adapt practices to be pollinator-friendly."*
+
+### 2. **Flood Property Acquisition and Conversion**
+
+1. **Climate Threat Addressed:**
+   - Addresses climate threats such as flooding by converting flood-damaged properties into natural areas that capture carbon and water.
+   - *"Continue with opportunities to acquire flood damaged properties and convert the land use to natural conditions that capture carbon and water."* (Carbon Sinks Strategy)
+
+2. **Resilience, Mitigation, or Adaptation Option:**
+   - Flood plain restoration and land acquisition to restore natural ecosystem functions.
+
+3. **Potential for Inadvertent Maladaptation:**
+   - Diversion of focus from necessary short-term structural flood defenses by investing predominantly in land acquisition and conversion, which might not provide immediate protection against catastrophic flood events. 
+   - Over-reliance on ecosystem services without parallel development of engineered solutions could result in communities being under-prepared.
+
+These inferred maladaptive consequences hinge on the specifics of implementation, which aren't presented in the document. Therefore, it's important to conduct further detailed ecological and social assessments when implementing these policies to avoid such maladaptive outcomes.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-### Metrics for Measuring Success or Failure
+**Metrics and Units for Measuring Success:**
 
-**Greenhouse Gas Emissions Reduction:**
-- The plan sets specific targets for emissions reductions:
-  - **"Reduce emissions 56% below 2018 levels by 2030."**
-    - *Unit: Percentage*
-  - **"Reduce emissions to net zero by 2050."**
-    - *Unit: Net Zero (no more emissions added than removed)*
+- **Greenhouse Gas Emissions Reduction Goals:**
+  - *Reduce emissions 56% below 2018 levels by 2030.*
+  - *Reduce emissions to net zero by 2050.*  
+  (Source: Introduction, Executive Summary)
 
-- Emissions from buildings specifically:
-  - **"Reduce 117,080 MtCO2e from buildings by 2025."**
-    - *Unit: Metric Tons of CO2 equivalent (MtCO2e)*
+- **Emission Forecasting:**
+  - Projected emissions reduction by 2030 and achieving net zero by 2050.
+  - "Business as usual" emissions forecast accounts for population increase and utility plans for reducing fossil fuels.
+  (Source: Introduction, Reaching Our Emissions Reduction Goals)
 
-**Tools and Programs:**
-- **PriorityStat and FloodStat Programs:**
-  - Tools used for tracking and reporting on emissions reduction goals.
-  - **"FloodStat has the goal of protecting our City and citizens from the impact of flooding and sea level rise and has five different key performance indicators and many metrics."**
-    - *Units: Not specifically mentioned for each metric.*
+- **Building-Specific Targets:**
+  - *Reduce 117,080 MtCO2e from buildings by 2025.*
+  - Certification program status to increase square footage of buildings.
+  (Source: Buildings, Overview)
 
-### Goals and Targets
+**Concrete Goals or Targets:**
 
-**Short and Long-term Goals:**
-- **Short Term Reduction Goal:**
-  - **"Reduce emissions 56% below 2018 levels by 2030."**
-    - *Deadline: 2030*
+- **Short Term Reduction Goal:** *Achieve a 56% reduction in emissions.*  
+  (Source: Introduction, Reaching Our Emissions Reduction Goals)
 
-- **Long Term Reduction Goal:**
-  - **"Reduce emissions to net zero by 2050."**
-    - *Deadline: 2050*
+- **Long Term Reduction Goal:** *Achieve 100% reduction by achieving net zero.*  
+  (Source: Introduction, Reaching Our Emissions Reduction Goals)
 
-**Other Specific Targets:**
-- **Building Certification:**
-  - **"Increase square footage of buildings achieving certification program status, such as Charleston RISES."**
+**Reporting and Progress Indicators:**
 
-- **Renewable Energy on City Buildings:**
-  - **"Identify feasibility and funding opportunities for renewable energy on City buildings."**
+- **FloodStat Program:**
+  - Tracks progress on emission reduction goals and protects against flooding and sea level rise.
+  - Involves regular public meetings to ensure accountability and data-driven decision-making.
+  (Source: Introduction, Progress Spotlight: PriorityStat)
 
-Overall, the plan emphasizes a collective goal of reducing emissions through various community and city-level strategies. No specific units or metrics are detailed for measuring improvements in air quality or specific resilience outcomes, apart from the GHG reduction targets.
+- **PriorityStat Tool:**
+  - Created to help city staff track and report on goals, including emissions metrics.
+  (Source: Introduction, Progress Spotlight: PriorityStat)
+
+- **Data Reporting:**
+  - Updating of the FloodStat dashboard post-emissions inventory.
+  - Online implementation plan status updates and annual progress reporting to City Council.
+  (Source: Introduction, Reporting on Implementation Progress)
+
+**Expected Benefits Beyond Carbon Reduction:**
+
+- **Public Health and Air Quality Protection:**
+  - Emission reductions linked to improved air quality by reducing pollutants such as particulate matter, SO₂, NOx, and ozone.
+  (Source: Benefits of Climate Measures, Public Health)
+
+- **Beautification, Cost Savings, Economic Development:** 
+  - Recognized as co-benefits contributing positively to community vibrancy, property values, and public health.
+  (Source: Benefits of Climate Measures, Economic Development & Retention and Public Health)
+
+**Assessment Criteria:**
+
+- Criteria involve evaluating measures based on GHG emissions reduction potential, cost, feasibility, and co-benefits, not specifying exact units but focusing on high, medium, or low potential.
+  (Source: Assessment Criteria)
+
+These sections collectively provide insight into the metrics, targets, and evaluation processes established in the plan for adaptation, resilience, and mitigation strategies.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**          | **Details**                                                                                                                                     |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name** | Charleston                                                                                                                                     |
-| **Population**       | Estimated to be 232,419 by 2050                                                                                                                |
-| **Threats Identified** | - Flooding                                                                                                                                     |
-|                      | - Sea level rise                                                                                                                                |
-|                      | - Extreme storms                                                                                                                                |
-|                      | - Heat waves                                                                                                                                    |
-|                      | - Droughts                                                                                                                                      |
-|                      | - Global food shortages                                                                                                                         |
-| **Measures Identified** | - Climate Action Plan focusing on mitigation and adaptation                                                                                   |
-|                      | - Community engagement through surveys, working groups, and task forces                                                                        |
-|                      | - Emission reduction goals to reduce emissions 56% by 2030 and reach net zero by 2050                                                          |
-|                      | - Incentives for local businesses, promoting renewable energy, energy efficiency, and sustainable construction                                 |
-|                      | - Expansion of urban tree canopy and greenspaces                                                                                                |
-|                      | - Programs for waste reduction, particularly single-use plastics                                                                               |
-|                      | - Climate mitigation actions like tree planting for carbon sequestration and flood protection                                                   |
-|                      | - Rooftop solar energy with battery backup for resilience                                                                                       |
-|                      | - Preservation and restoration of saltwater ecosystems like marshes and wetlands                                                                |
+| **Feature**          | **Details**                                                                                                       |
+|----------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | City of Charleston, South Carolina                                                                            |
+| **Population**       | Estimated population increase to 232,419 by 2050 (City of Charleston Planning Dept.)                             |
+| **Threats Identified** | *Flooding*, *rain bombs*, *wildfires*, *landslides*, *spiking heat waves*, *droughts*, *threat of global food shortages*  |
+|                      | More *extreme storms*, *sea level rise*, increase in atmospheric *GHG emissions* (specifically CO2 and CH4)       |
+| **Measures Identified** | • Implementing energy efficiency and adoption of renewable energy                                               |
+|                      | • Promotion of alternative transportation (bicycling, walking, public transit, etc.)                               |
+|                      | • Economic development initiatives to support locally held businesses                                             |
+|                      | • Expanding the City's tree canopy and greenspace                                                                 |
+|                      | • Protecting and promoting natural ecosystems, increasing preservation and restoration of saltwater ecosystems    |
+|                      | • Strategies to include community and social equity                                                               |
+|                      | • Planting trees and promoting urban canopy to increase resilience and carbon sequestration                        |
+|                      | • Encouraging waste reduction activities, particularly those focused on single-use plastic products               |
+|                      | • Utilizing rooftop solar energy installations paired with battery backups for resilience                          |
 ```
-

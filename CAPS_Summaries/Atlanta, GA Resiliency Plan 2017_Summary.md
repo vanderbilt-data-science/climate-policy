@@ -1,382 +1,404 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-### **Planning Jurisdiction**: Atlanta, Georgia
+### Physical and Economic Landscape of Atlanta
 
-#### **Location and Population**
-- **Metro Atlanta** comprises 29 counties.
-- **Current Population**: 5.6 million people.
-- **Projected Population by 2040**: 8 million people.
+#### Planning Jurisdiction:
+- **Name:** Atlanta
+- **Location:** Atlanta, Georgia, within a wider Metro region that includes 29 counties.
 
-#### **Demographics**
-- Atlanta is known for being one of the most ethnically integrated cities in the U.S.
-- Recent growth has seen shifts in the demographics with more millennials and middle-income Americans moving to Atlanta.
-- The city's population increased by 12% from 2010 to 2016.
+#### Population and Demographics:
+- **Population:** As of 2016, Atlanta's population reached approximately 473,000 within the city, with projections for the wider 20-county Atlanta region to grow from 5.6 million to 8.0 million by 2040.
+- **Demographics:** Atlanta is noted as one of the most ethnically integrated cities in the U.S. "78 counties nationwide experienced a switch in majority-minority population since 2000 and four of these counties are located in the Atlanta region" *(INTRODUCTION ATLANTA’S RESILIENCE CHALLENGES)*.
 
-#### **Economic Landscape**
-- The City of Atlanta accounts for 59% of the state's economic output though it only comprises 4.8% of the state’s population.
-- The city hosts major corporations, including 15 Fortune 500 companies, which are key contributors to the economic health of the region.
-
-#### **Infrastructure**
-- **Hartsfield-Jackson Atlanta International Airport**: The most traveled airport in the world for daily passenger flights, contributing significantly to Atlanta’s identity as a transportation hub.
-- The city's position as a transportation nexus is crucial for regional and international accessibility.
-
-#### **Key Industries and Economic Drivers**
-- Atlanta’s economy benefits significantly from its role as a business center with major institutional employers.
-- The region looks to improve economic mobility and inter-generational wealth building through early childhood education and workforce development opportunities.
-
-#### **Local Climate and Water Challenges**
-- The document does not specifically describe the climate or water challenges, but implies the importance of resilience in the context of potential natural disasters and resource management.
+#### Key Infrastructure:
+- **Airports:** Atlanta is a major transportation hub, with Hartsfield-Jackson Atlanta International Airport being "the most traveled airport in the world for daily passenger flights" *(EXECUTIVE SUMMARY)*.
   
-#### **Energy Production and Natural Resources**
-- There is a goal aimed at achieving 100% clean energy citywide by 2035, indicating a focus on renewable energy sources.
-- The city has initiatives like property assessed clean energy (PACE) financing for energy efficiency and renewable energy upgrades.
+#### Geographic and Natural Features:
+- **Geographic Features:** While specific mountains, rivers, or other geographic landmarks are not detailed, the document notes the presence of natural environments that need preservation.
+- **Water Challenges:** The development of the "City of Atlanta Green Infrastructure Strategic Action Plan" aims to incorporate sound engineering best practices into stormwater management, aiming to reduce city water runoff by 225 million gallons annually *(City of Atlanta Green Infrastructure Strategic Action Plan (2016))*. 
 
-#### **Natural Features**
-- The document does not provide specific details about natural geographic features like mountains, rivers, or coastline within the planning jurisdiction.
+#### Climate and Environment:
+- **Local Climate:** Although specific details about the climate are not included, there are implications of environmental challenges such as stormwater management and infrastructure issues.
+- **Environmental Strategies:** Efforts to reduce city water runoff testify to challenges regarding precipitation management and urban water infrastructure.
+
+#### Economic Landscape:
+- **Average Income and Economic Inequality:** Although precise average income figures are not provided, Atlanta ranks among the top 10 cities nationally for income inequality *(Vision 2: EXECUTIVE SUMMARY)*.
+- **Industries and Economic Drivers:** Atlanta's economic strengths are bolstered by its status as a "transportation hub," its ability to attract "major corporations, including 15 Fortune 500 companies," and "robust and diverse local economy" *(EXECUTIVE SUMMARY & ATLANTA’S RESILIENCE CHALLENGES)*.
   
-#### **Challenges**
-- The city faces challenges related to housing insecurity, limited transportation networks, socioeconomic inequity, and an increasing gentrification risk that impacts its demographics.
+#### Industries:
+- **Key Economic Sectors:** Major corporations and "Hartsfield-Jackson Atlanta International Airport" play significant roles as economic drivers. The airport "provides over 60,000 jobs and contributes over $34.8 billion in economic impact" *(TARGET 4.3)*.
 
-#### **Vision for Economic Prosperity**
-- A central vision is to foster economic prosperity by reducing barriers to economic stability and security, ensuring access to opportunities, and moving Atlanta out of the top cities for income inequality. 
-
-*Source: Introduction, Executive Summary, and Resilience Challenges sections.*
+#### Energy Production:
+- **Energy Strategy:** The city has committed to transitioning to 100 percent "clean energy citywide by the year 2035" including municipal operations by 2025, with efforts involving "energy savings performance contract to retrofit approximately 100 municipal facilities for energy and water efficiency" and other initiatives *(TARGET 4.3)*.
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-### Summary:
+### **Resilience**
 
-**Resilience:**  
-The plan places a strong emphasis on resilience, aiming "to build capacity among residents and city systems alike to better withstand future shocks" (Introduction, Executive Summary). The plan articulates a comprehensive and actionable set of Visions, Targets, and Actions to foster resilience and address the city's most pressing stresses (Introduction, Developing Resilient Atlanta). Specific actions include enhancing community outreach processes, engaging stakeholders, and improving infrastructure to handle emergencies effectively.
+The plan places a significant focus on resilience, aiming to "build a resilient Atlanta" through a collaborative effort that addresses "social equity, culture and identity, and climate" (INTRODUCTION ORGANIZING VISION). Various actions are described throughout the document to enhance the resilience of the city, such as **Target 4.1: Adapt and expand City systems to promote resilience planning by 2022** and actions like **Improving responsiveness to Stormwater Flooding** (4.1.4) and establishing a system for joint-infrastructure investments (4.1.2). The plan leverages data, collaboration, and community engagement to address chronic stresses and sudden shocks, aiming at more cohesive and engaged communities (INTRODUCTION EXECUTIVE SUMMARY).
 
-**Mitigation:**  
-The plan includes several mitigation strategies, such as the target to "achieve 100 percent use of clean energy citywide by 2035," which includes transitioning municipal operations to clean energy by 2025 (Existing Plans, Target 4.3). Additionally, the plan promotes the installation of energy- and water-efficient infrastructure improvements in homes and businesses and supports solar energy initiatives (Summary of Actions, Target 3.5).
+### **Mitigation**
 
-**Adaptation:**  
-The plan addresses adaptation through initiatives like improving responsiveness to stormwater flooding and expanding the tree canopy to maintain protective natural and manmade assets (Summary of Actions, 4.1.4 and 3.4.3). It also emphasizes the development of participatory processes and systems to enhance engagement and adaptability within the community (Introduction, Developing Resilient Atlanta).
+Mitigation efforts are primarily focused on the goal of achieving 100% clean energy citywide by 2035, as stated under **TARGET 4.3: Achieve 100 percent use of clean energy citywide by 2035**. The plan outlines efforts such as retrofitting municipal facilities for energy efficiency and solar installations (INTRODUCTION EXISTING PLANS). Other mitigation actions include promoting water efficiency and increasing access to solar energy (3.5.3).
 
-### Classification:
-The plan can be classified as **adaptation/resilience dedicated**, given its strong focus on building resilience in the face of climatic and socio-economic challenges. While it does incorporate mitigation strategies, the primary emphasis is on adaptive and resilient practices to prepare and strengthen the community and city systems.
+### **Adaptation**
+
+Adaptation is addressed through actions to modify and expand city systems to enhance resilience. For instance, actions such as launching a restaurant water efficiency pilot program (3.5.1) and creating a stormwater utility fee to develop a comprehensive stormwater management program (3.5.2) reflect adaptation efforts embedded within the resilience focus. These measures aim to adjust systems and improve capabilities to handle climate impacts.
+
+### **Classification of the Plan**
+
+The plan can be classified as an **"Adaptation/Resilience Dedicated"** action plan. Although there is mention of mitigation efforts, the primary focus is directed towards resilience and adaptation as reflected in the strategic actions and visions that aim to build community strength and cohesion while preparing the city's infrastructure and systems to withstand future shocks and stresses.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-The plan does not explicitly describe a specific scenario of climate change that the planning jurisdiction will face. However, it does emphasize the need for resilience, mentioning that Atlanta must strengthen its resilience in the face of historical and ongoing challenges such as economic inequality, housing insecurity, and environmental stresses. The strategy reflects on Atlanta's history, including de-urbanization and economic decline, and its current growth trajectory to become a resilient "Beloved Community." It highlights the importance of addressing issues like socio-economic inequity, transportation networks, and stormwater management as key resilience priorities based on residents' expressed concerns. Furthermore, the plan includes several visions and targets for building a resilient Atlanta, emphasizing economic mobility, environmental preservation, and civic engagement (**Introduction Executive Summary**; **Developing Resilient Atlanta**).
+The plan does not explicitly describe a scenario of climate change the planning jurisdiction will face in detail. However, it does highlight the challenges and contexts under which climate policies for resilience, mitigation, and adaptation have been planned. It mentions that Atlanta aims to not only reduce greenhouse gas emissions but also address various economic, social, and environmental stresses that affect resilience. The plan is part of a broad strategy to handle issues like poverty, racial inequity, housing insecurity, and economic decline, many of which intersect with climate risk. The ultimate aim is to create an equitable and inclusive city while preserving and expanding the natural environment, enhancing economic stability, and promoting resilience through diversified urban systems and infrastructure improvements.
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Drought**
+1. **High Temperatures**
+   - **Climate Hazard:** "Assuming greenhouse gas emission trends continue through 2100, within the next century Atlanta will be above 95 degrees Fahrenheit for more than three months per year."
+   - **Climate Risks:** High temperatures pose a risk to Atlanta’s residents and the environment, particularly affecting those who lack access to air conditioning.
+   - **Climate Vulnerability:** Infants, the elderly, and those living without air conditioning are most vulnerable to high temperatures.
 
-- **The climate hazard:** "Exceptionally low amounts of rainfall in the region since 2007 have put increasing pressure on the city’s water supply" and may necessitate actions such as Georgia's Environmental Protection Division declaring a Level 2 drought.
-  
-- **The climate risks it poses to the planning jurisdiction:** Drought increases the risk of water scarcity, straining the water supply and potentially limiting water availability for residents.
+2. **Drought**
+   - **Climate Hazard:** "As one of the few U.S. metropolitan areas not built around a major local body of water, the city is particularly vulnerable to drought."
+   - **Climate Risks:** Low amounts of rainfall have put increasing pressure on the city’s water supply, with potential issues for water reliability and access.
+   - **Climate Vulnerability:** The areas most vulnerable are those dependent on the city’s water supply, particularly during periods of reduced rainfall.
 
-- **Areas or populations with the most climate vulnerability:** Areas reliant on the city’s water supply, which is under stress due to lack of a major local body of water, are particularly vulnerable.
-
-**2. Flooding**
-
-- **The climate hazard:** "Substantial risk from rainfall flooding" and historic events like "flash flooding" have caused significant damage in the past.
-
-- **The climate risks it poses to the planning jurisdiction:** Flooding can result in widespread damage, including "hundreds of millions of dollars in damages" and loss of life, as happened in 2009.
-
-- **Areas or populations with the most climate vulnerability:** Areas particularly vulnerable include those near "concrete surfaces, overfilled sewers, and blocked storm drains."
-
-**3. High Temperatures**
-
-- **The climate hazard:** Increasing incidence of days with "high temperatures," with projections that suggest "Atlanta will be above 95 degrees Fahrenheit for more than three months per year" by the end of the century if trends continue.
-
-- **The climate risks it poses to the planning jurisdiction:** High temperatures pose health risks, especially to infants, the elderly, and other vulnerable groups who lack access to air conditioning.
-
-- **Areas or populations with the most climate vulnerability:** Populations "living without access to air conditioning" are disproportionately impacted by heat. 
-
-**4. Infrastructure Deficiencies**
-
-- **The climate hazard:** Infrastructural weaknesses exacerbate environmental stresses, with Georgia receiving low grades for infrastructure, such as "C- for bridges and a D- for transit."
-
-- **The climate risks it poses to the planning jurisdiction:** Limited investment in infrastructure since the 1996 Olympics increases risk from climate impacts like flooding and extreme heat.
-
-- **Areas or populations with the most climate vulnerability:** Communities dependent on aging infrastructure face increased risks during climate events due to this lack of robust infrastructure.
+3. **Flooding**
+   - **Climate Hazard:** "The city faces substantial risk from rainfall flooding...conditions so rare that there is only a 0.01 percent chance."
+   - **Climate Risks:** The risk of flash flooding results in significant damage to property and loss of life, as evidenced by historic flooding events in the city.
+   - **Climate Vulnerability:** Populations living in low-lying areas and counties in the region are most at risk during flooding events.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-Based on the document provided, the following resilience options are identified:
+**Resilience Options Identified in the Plan**
 
-### **1. Establish a System and Evaluation Process for Joint-Infrastructure Investments**
-- **Climate Threat Addressed:** This resilience option is aimed at long-term and integrated planning to enhance the management of city systems.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Long-term; with a 2018 Q4 target for initiation.
-  - **Funding:** Unfunded, but potential sources include local, state, and federal grant funding agencies.
-  - **Location:** City of Atlanta ("CoA").
-- **Other Important Attributes:** This initiative fosters leadership and effective management across city departments through cross-departmental programs and modifications to budgets and repair costs.
+1. **Establish a System and Evaluation Process for Joint-Infrastructure Investments**
 
-### **2. Improve the City’s Community Outreach Processes**
-- **Climate Threat Addressed:** Empowers a broad range of stakeholders to address issues such as transparency and efficacy in communication.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Long-term; 2018 Q2 launch.
-  - **Funding:** Unfunded.
-  - **Location:** City of Atlanta.
-- **Other Important Attributes:** The initiative enhances leadership and effective management with an emphasis on training staff and addressing complaints.
+   - **Climate Threat Addressed:** This option addresses the need for "Long-Term and Integrated Planning" by fostering leadership and effective management across departments (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Long-term; 2018 Q4 launch.
+     - **Funding:** Unfunded. 
+     - **Location:** Managed by City of Atlanta (Atlanta City Council and other partners). 
+   
+   - **Other Attributes:** Promotes cross-departmental programs and changes in both capital and operating budgets, addressing economic and management considerations.
 
-### **3. Improve Responsiveness to Stormwater Flooding**
-- **Climate Threat Addressed:** Manages increasing risks from stormwater flooding.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Short-term; 2017 Q4 launch.
-  - **Funding:** Partially funded by the CoA "SWIT."
-  - **Location:** City of Atlanta.
-- **Other Important Attributes:** Focuses on protective natural and man-made assets, ensuring continuity of critical services through projects identified for annual budgets and FEMA pre-disaster mitigation funding.
+2. **Improve Responsiveness to Stormwater Flooding**
 
-### **4. Protect and Expand Atlanta’s Tree Canopy**
-- **Climate Threat Addressed:** Enhances protective natural and man-made assets to counteract environmental impacts and improve public health.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Long-term; 2018 Q2 launch.
-  - **Funding:** Fully funded by the CoA Tree Recompense Fund.
-  - **Location:** City of Atlanta.
-- **Other Important Attributes:** Promotes environmental sustainability by acquiring and planting trees to improve public health and aesthetics.
+   - **Climate Threat Addressed:** Addresses risks associated with stormwater flooding and ensures continuity of critical services (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Short-term; 2017 Q4 launch.
+     - **Funding:** Partially funded by CoA "SWIT".
+     - **Location:** Managed by the CoA Department of Watershed Management and partners.
+     
+   - **Other Attributes:** Environmental and infrastructural improvements focus on identifying projects that reduce legacy stormwater issues and FEMA's pre-disaster funding involvement.
 
-### **5. Create a Stormwater Utility Fee**
-- **Climate Threat Addressed:** Addresses stormwater management and reduces flood incidents.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Medium-term; 2017 Q4 Phase 1 launch.
-  - **Funding:** Fully funded by CoA Department of Watershed Management.
-  - **Location:** City of Atlanta.
-- **Other Important Attributes:** Ensures continuity of services while capturing pollutants and installing green infrastructure.
+3. **Protect and Expand Atlanta's Tree Canopy**
 
-### **6. Increase Use and Access to Solar Energy**
-- **Climate Threat Addressed:** Mitigates effects of climate change through alternative energy sources to fulfill basic needs.
-- **Details on Cost, Timeframe, and Location:**
-  - **Timeframe:** Short-term; 2017 Q4.
-  - **Funding:** Partially funded by program participants.
-  - **Location:** City of Atlanta.
-- **Other Important Attributes:** Aims to ensure continuity of services by increasing solar energy installations that enhance infrastructure reliability and sustainability.
+   - **Climate Threat Addressed:** Enhances protective natural and man-made assets and ensures public health services (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Long-term; 2018 Q2 launch.
+     - **Funding:** Fully Funded by CoA Tree Recompense Fund.
+     - **Location:** Managed by the CoA Department of City Planning and Parks.
+   
+   - **Other Attributes:** Focus on acquiring forested properties and extensive tree planting, thus providing environmental benefits and preservation efforts.
 
-Each of these options is supported by metrics for success and organized under various city offices with lead partners, indicating a structured approach to resilience in diverse arenas like infrastructure, environmental management, and stakeholder engagement.
+4. **Develop a Parks and Greenspace Master Plan by 2019**
+
+   - **Climate Threat Addressed:** Enhances protective natural and man-made assets and provides continuity of critical services by increasing park space (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Short-term; 2017 Q4 launch.
+     - **Funding:** Partially funded by CoA Department of City Planning.
+     - **Location:** Managed by CoA Departments including Parks & Recreation.
+   
+   - **Other Attributes:** Economic and social benefits are expected through increased access to parks within urban areas, boosting community cohesion.
+
+5. **Create a Stormwater Utility Fee**
+
+   - **Climate Threat Addressed:** Ensures continuity of critical services and improves stormwater management (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Medium-term; 2017 Q4 Phase 1 launch.
+     - **Funding:** Fully funded by CoA Department of Watershed Management.
+     - **Location:** Managed by CoA and partners like The Conservation Fund.
+   
+   - **Other Attributes:** Aims to fund green infrastructure initiatives, offering environmental improvements and infrastructural resilience.
+
+6. **Leverage Crowdsourced Data to Improve City Systems**
+
+   - **Climate Threat Addressed:** Empowers stakeholders and addresses long-term planning needs (Section "SUMMARY OF ACTIONS"). 
+   
+   - **Cost, Timeframe, and Location:** 
+     - **Timeframe:** Short-term; 2018 Q1 launch.
+     - **Funding:** Unfunded.
+     - **Location:** Managed by CoA's offices.
+   
+   - **Other Attributes:** Integrates technological advancements to improve service responsiveness and foster infrastructural decision-making based on community input.
+
+These resilience options reflect the strategic approach taken in the plan to integrate sustainability and manage climate-related threats comprehensively, addressing economic, environmental, and infrastructural concerns in various facets.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options to address climate change. Here are the key options along with summarized details regarding cost, timing, location, and other important attributes:
+Based on the content provided, the plan identifies the following mitigation options:
 
-1. **Alternative Fuel Vehicle Adoption**:
-   - **Description**: Transitioning the City fleet to 20% electric vehicles and 12% other alternative fuel vehicles by 2020 while enacting policies to encourage public adoption of alternative fuel vehicles.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience, Vision Ridge, The Electrification Coalition.
+1. **Clean Energy Atlanta – PACE Financing**
+   - **Description:** A $500 million Property Assessed Clean Energy (PACE) financing program for energy efficiency, on-site renewable energy, and water efficiency improvements.
+   - **Cost:** $500 million
+   - **Timing:** Not specified
+   - **Location:** City of Atlanta
+   - **Lead Partner:** Invest Atlanta, CoA Mayor's Office of Resilience
+   - **Attributes:** Funding available to constituents for energy and water efficiency improvements. It aims to encourage energy-efficient practices across the city.
 
-2. **Sustainable Building Ordinance**:
-   - **Description**: City-owned properties are required to obtain LEED Silver certification for new construction and major renovation in properties greater than 5,000 square feet; properties greater than 25,000 square feet must obtain LEED Certification for Existing Buildings.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience.
+2. **Alternative Fuel Vehicle Adoption**
+   - **Description:** Transition the City fleet to include 20% electric vehicles and 12% other alternative fuel vehicles by 2020.
+   - **Cost:** Not specified
+   - **Timing:** Targeted completion by 2020
+   - **Location:** City government fleet
+   - **Lead Partner:** CoA Mayor’s Office of Resilience, Vision Ridge, The Electrification Coalition
+   - **Attributes:** Supports public adoption of alternative fuel vehicles to reduce GHG emissions.
 
-3. **Atlanta Better Buildings Challenge**:
-   - **Description**: This initiative aims to improve energy and water efficiency by 20% by 2020, involving over 114 million square feet of commercial building space.
-   - **Lead Partners**: CoA Mayor’s Office of Resilience, Central Atlanta Progress, Midtown Alliance, Livable Buckhead, and Southface Energy Institute.
+3. **Sustainable Building Ordinance**
+   - **Description:** Requires City-owned properties to obtain LEED Silver certification for new constructions and major renovations larger than 5,000 square feet, and LEED Certification for Existing Buildings for properties greater than 25,000 square feet.
+   - **Cost:** Not specified
+   - **Timing:** Not specified
+   - **Location:** City-owned properties
+   - **Lead Partner:** CoA Mayor’s Office of Resilience
+   - **Attributes:** Aims to enhance building sustainability and reduce environmental impact through construction standards.
 
-4. **Commercial Buildings Energy & Water Efficiency Ordinance**:
-   - **Description**: This ordinance requires annual energy and water benchmarking, as well as audits in commercial buildings larger than 25,000 square feet to promote efficiency.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience.
+4. **Atlanta Better Buildings Challenge**
+   - **Description:** Improve energy and water efficiency by 20% by 2020 in over 114 million square feet of commercial building space.
+   - **Cost:** Not specified
+   - **Timing:** Completion by 2020
+   - **Location:** Commercial building spaces in Atlanta
+   - **Lead Partners:** CoA Mayor’s Office of Resilience, Central Atlanta Progress, Midtown Alliance, Livable Buckhead, Southface Energy Institute
+   - **Attributes:** Part of a national program enhancing building efficiency to reduce consumption and emissions.
 
-5. **Solar Atlanta**:
-   - **Description**: The City aims to lead by example by installing 1.5 MW of solar capacity on 24 municipal properties.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience.
+5. **Commercial Buildings Energy & Water Efficiency Ordinance**
+   - **Description:** Requires annual energy and water benchmarking, and energy and water audits in commercial buildings greater than 25,000 square feet.
+   - **Cost:** Not specified
+   - **Timing:** Not specified
+   - **Location:** Commercial buildings in Atlanta
+   - **Lead Partner:** CoA Mayor’s Office of Resilience
+   - **Attributes:** Encourages energy and water efficiency improvements to reduce commercial building consumption.
 
-6. **Energy Savings Performance Contract**:
-   - **Description**: Upgrades to 100 municipal properties with energy efficiency, water efficiency, and operational improvements, reducing carbon emissions and saving taxpayer dollars.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience, Office of Enterprise Assets Management, Department of Watershed Management, Hartsfield-Jackson Atlanta International Airport.
+6. **Solar Atlanta**
+   - **Description:** Installation of 1.5 MW of solar capacity on 24 municipal properties.
+   - **Cost:** Not specified
+   - **Timing:** Not specified
+   - **Location:** Municipal properties
+   - **Lead Partner:** CoA Mayor’s Office of Resilience
+   - **Attributes:** Leading by example, the City aims to increase renewable energy use on municipal properties.
 
-7. **Clean Energy & Equity**:
-   - **Description**: Supports a long-term stakeholder engagement process to develop strategies for accelerating clean energy access and development in Atlanta with emphasis on racial equity.
-   - **Lead Partner**: CoA Mayor’s Office of Resilience.
+7. **Energy Savings Performance Contract**
+   - **Description:** Upgrading 100 municipal properties with energy and water efficiency, and operational improvements.
+   - **Cost:** Not specified
+   - **Timing:** Not specified
+   - **Location:** Municipal properties in Atlanta
+   - **Lead Partners:** CoA Mayor’s Office of Resilience, Office of Enterprise Assets Management, Department of Watershed Management, Hartsfield-Jackson Atlanta International Airport
+   - **Attributes:** Aim to reduce carbon emissions while saving taxpayer dollars through efficiency upgrades.
 
-8. **PACE Financing**:
-   - **Description**: A $500 million commercial Property Assessed Clean Energy (PACE) financing program to fund energy efficiency, on-site renewable energy, and water efficiency improvements.
-   - **Lead Partner**: Invest Atlanta, CoA Mayor’s Office of Resilience.
-   
-The timing for these initiatives varies from short-term to long-term, with funding statuses including unfunded, partially funded, or fully funded depending on the initiative's progress and available resources as outlined in various sections of the plan.
+These mitigation options are oriented towards reducing greenhouse gas emissions and enhancing energy and water efficiency, demonstrating the City of Atlanta's commitment to mitigating climate change through a variety of strategic initiatives.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options, incorporating strategies focused on energy efficiency, renewable energy, and clean transportation. Here is a summary of each option, including cost, timeframe, location, and other important attributes as mentioned in the plan:
+The plan identifies several mitigation options with varying attributes. Here's a summary:
 
-1. **Clean Energy Atlanta – PACE Financing**
-   - **Description**: A $500 million commercial Property Assessed Clean Energy (PACE) financing program is available for energy efficiency, on-site renewable energy, and water efficiency improvements.
-   - **Location**: City of Atlanta
-   - **Timeframe**: Not specified in provided content
-   - **Lead Partner**: Invest Atlanta, CoA Mayor’s Office of Resilience
-   - **Funding**: Partially Funded
+1. **Commercial Property Assessed Clean Energy (PACE) Financing**
+   - **Description:** A $500 million program providing funding for energy efficiency, on-site renewable energy, and water efficiency improvements.
+   - **Cost:** $500 million
+   - **Timeframe:** Not explicitly stated
+   - **Location:** Applies to commercial properties
+   - **Important Attributes:** Encourages energy and water efficiency (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
 2. **Alternative Fuel Vehicle Adoption**
-   - **Description**: Transitioning the city fleet to 20% electric vehicles and 12% other alternative fuel vehicles by 2020 with policies to encourage public adoption.
-   - **Location**: City of Atlanta
-   - **Timeframe**: By 2020
-   - **Lead Partner**: CoA Mayor’s Office of Resilience, Vision Ridge, The Electrification Coalition
-   - **Funding**: Not specified
+   - **Description:** Transitioning the City fleet to 20% electric vehicles and 12% other alternative fuel vehicles by 2020.
+   - **Cost:** Not specified
+   - **Timeframe:** By 2020
+   - **Location:** City fleet vehicles
+   - **Important Attributes:** Encourages public adoption of alternative fuel vehicles (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
 3. **Sustainable Building Ordinance**
-   - **Description**: New city-owned properties larger than 5,000 square feet must achieve LEED Silver certification or higher, while existing buildings over 25,000 square feet must maintain LEED certification.
-   - **Location**: City-owned properties
-   - **Lead Partner**: CoA Mayor’s Office of Resilience
-   - **Funding**: Not specified
+   - **Description:** Requires City-owned properties to obtain LEED Silver certification for new construction and major renovation.
+   - **Cost:** Not specified
+   - **Timeframe:** Not specified
+   - **Location:** City-owned properties greater than 5,000 square feet
+   - **Important Attributes:** Green building certifications (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
 4. **Atlanta Better Buildings Challenge**
-   - **Description**: Targets improving energy and water efficiency of more than 114 million square feet of commercial building space by 20% by 2020.
-   - **Location**: City of Atlanta
-   - **Lead Partners**: CoA Mayor’s Office of Resilience, Central Atlanta Progress, Midtown Alliance, Livable Buckhead, Southface Energy Institute
-   - **Funding**: Not specified
+   - **Description:** Improving energy and water efficiency by 20% by 2020 in commercial buildings.
+   - **Cost:** Not specified
+   - **Timeframe:** By 2020
+   - **Location:** Commercial building spaces
+   - **Important Attributes:** Over 114 million square feet of committed space (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
 5. **Commercial Buildings Energy & Water Efficiency Ordinance**
-   - **Description**: Introduces annual energy and water benchmarking, and energy and water audits, in commercial buildings greater than 25,000 square feet.
-   - **Location**: City of Atlanta commercial buildings
-   - **Funding**: Not specified
+   - **Description:** Requires annual energy and water benchmarking, audits in buildings greater than 25,000 square feet.
+   - **Cost:** Not specified
+   - **Timeframe:** Not specified
+   - **Location:** Commercial buildings
+   - **Important Attributes:** Enforces efficiency standards (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
-6. **Clean Energy & Equity**
-   - **Description**: Supports a stakeholder engagement process to expedite clean energy access and development with an emphasis on racial equity.
-   - **Location**: Atlanta community
-   - **Lead Partner**: CoA Mayor’s Office of Resilience
-   - **Funding**: Not specified
+6. **Solar Atlanta**
+   - **Description:** Installation of 1.5 MW of solar capacity on 24 municipal properties.
+   - **Cost:** Not specified
+   - **Timeframe:** Not specified
+   - **Location:** Municipal properties
+   - **Important Attributes:** Deploys solar energy (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
-7. **Solar Atlanta**
-   - **Description**: Installing 1.5 MW of solar capacity on 24 municipal properties.
-   - **Location**: City-owned properties
-   - **Lead Partner**: CoA Mayor’s Office of Resilience
-   - **Funding**: Not specified
-
-8. **Energy Savings Performance Contract**
-   - **Description**: Upgrades energy efficiency, water efficiency, and operational improvements in 100 municipal properties, aimed at reducing carbon emissions.
-   - **Location**: Municipal properties
-   - **Lead Partner**: CoA Mayor’s Office of Resilience, Office of Enterprise Assets Management, Department of Watershed Management, Hartsfield-Jackson Atlanta International Airport
-   - **Funding**: Not specified
-
-These mitigation options collectively aim to enhance energy efficiency and promote renewable energy, contributing to the city's climate resilience and mitigation objectives.
+7. **Energy Savings Performance Contract**
+   - **Description:** Upgrades 100 municipal properties with energy efficiency, water efficiency, and operational improvements.
+   - **Cost:** Not specified
+   - **Timeframe:** Not specified
+   - **Location:** Municipal properties
+   - **Important Attributes:** Reduces carbon emissions, saves taxpayer dollars (EXISTING ACTIONS FEEDING INTO TARGET 4.3).
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-Based strictly on the content provided, the plan identifies the following adaptation options:
+The plan identifies several adaptation options, each addressing various climate threats. Below are the summarized details:
 
-### **1. Improve Responsiveness to Stormwater Flooding**
+### Adaptation Options in the Plan
 
-- **Climate Threat Addressed:** Stormwater flooding.
-- **Cost, Timeframe, and Other Attributes:**
-  - **Timeframe:** Short-term; 2017 Q4 launch.
-  - **Funding:** Partially funded through CoA "SWIT".
-  - **Metrics:** Number of potential projects identified resulting in a reduction of legacy stormwater projects, number of projects identified and included in the annual budgeting cycle, number of projects identified for FEMA pre-disaster mitigation funding.
-  - **Lead Implementing Partners:** CoA Department of Watershed Management, CoA Mayor’s Office of Emergency Preparedness, Atlanta-Fulton County Emergency Management Agency.
-  - **Resilience Value:** Enhances and provides protective natural and manmade assets; ensures continuity of critical services. *(Section: SUMMARY OF ACTIONS 4.1)*
+1. **Improve responsiveness to Stormwater Flooding**
+   - **Climate Threat Addressed:** Stormwater flooding.
+   - **Attributes:**
+     - **Timeframe:** Short-term; 2017 Q4 launch.
+     - **Funding:** Partially Funded; CoA “SWIT”.
+     - **Lead Implementing Partners:** CoA Department of Watershed Management, CoA Mayor’s Office of Emergency Preparedness, Atlanta-Fulton County Emergency Management Agency.
+     - **Metrics:** Number of potential projects identified resulting in reduction of legacy stormwater projects, number of identified projects included in annual budgeting cycle, number of projects identified for FEMA pre-disaster mitigation funding. 
+   - **Resilience Value:** Enhances and Provides Protective Natural and Manmade Assets; Ensures Continuity of Critical Services.  
+   - **Citation:** *Vision 4, Target 4.1*.
 
-### **2. Protect and Expand Atlanta’s Tree Canopy**
+2. **Create a stormwater utility fee**
+   - **Climate Threat Addressed:** Flooding and stormwater management.
+   - **Attributes:**
+     - **Timeframe:** Medium-term; 2017 Q4 Phase 1 launch.
+     - **Funding:** Fully Funded; CoA Department of Watershed Management.
+     - **Location:** Citywide as part of stormwater management program.
+     - **Metrics:** Volume of pollutants captured by installed Green Infrastructure Best Management Practices (BMPs), number of BMPs installed, number of flooding incidents citywide and at U.S. federal Emergency Management Agency recognized flood-prone areas, amount collected through stormwater utility fee.
+   - **Resilience Value:** Ensure Continuity of Critical Services; Enhances and Provides Protective Natural and Man-Made Assets.
+   - **Citation:** *Vision 3, Target 3.5*.
 
-- **Climate Threat Addressed:** Urban heat and air quality issues.
-- **Cost, Timeframe, and Other Attributes:**
-  - **Timeframe:** Long-term; 2018 Q2 launch.
-  - **Funding:** Fully funded through CoA Tree Recompense Fund.
-  - **Metrics:** Number of acres of forested property purchased and managed by the City, number of trees planted on City-owned properties.
-  - **Lead Implementing Partners:** CoA Department of City Planning, CoA Department of Parks & Recreation, CoA Department of Watershed Management.
-  - **Resilience Value:** Enhances and provides protective natural and man-made assets; ensures public health services. *(Section: SUMMARY OF ACTIONS 3.4.3)*
+3. **Protect and expand Atlanta’s tree canopy**
+   - **Climate Threat Addressed:** Urban heat and public health concerns.
+   - **Attributes:**
+     - **Timeframe:** Long-term; 2018 Q2 launch.
+     - **Funding:** Fully Funded; CoA Tree Recompense Fund.
+     - **Location:** City of Atlanta, focusing on City-owned properties.
+     - **Metrics:** Number of acres of forested property purchased and under City management, number of trees planted on City-owned properties.
+   - **Resilience Value:** Enhances and Provides Protective Natural and Man-made Assets; Ensures Public Health Services.
+   - **Citation:** *Vision 3, Target 3.4*.
 
-### **3. Create a Stormwater Utility Fee**
+4. **Install sustainable energy- and water-efficient infrastructure improvements**
+   - **Climate Threat Addressed:** Rising energy costs, drought, and stormwater flooding.
+   - **Attributes:**
+     - **Timeframe:** Ongoing, aiming for installation in 500 homes and businesses each year.
+     - **Funding:** Not specifically stated, but implies a combination of grants and city funds.
+     - **Location:** In and around homes and businesses within Atlanta.
+   - **Resilience Value:** Fosters efficiency and sustainability in infrastructure.
+   - **Citation:** *Vision 3, Target 3.5*.
 
-- **Climate Threat Addressed:** Stormwater management and pollution.
-- **Cost, Timeframe, and Other Attributes:**
-  - **Timeframe:** Medium-term; 2017 Q4 Phase 1 launch.
-  - **Funding:** Fully funded by CoA Department of Watershed Management.
-  - **Metrics:** Volume of pollutants captured by installed Green Infrastructure Best Management Practices (BMPs), number of BMPs installed, number of flooding incidents citywide, $ collected through the stormwater utility fee.
-  - **Lead Implementing Partners:** CoA Department of Watershed Management, CoA Mayor’s Office of Resilience, The Conservation Fund, American Rivers, West Atlanta Watershed Alliance.
-  - **Resilience Value:** Ensures continuity of critical services; enhances and provides protective natural and man-made assets. *(Section: SUMMARY OF ACTIONS 3.5.2)*
-
-These adaptation options highlight the city's efforts in addressing specific climate-induced threats by improving infrastructure, leveraging financial mechanisms, and enhancing natural solutions to build resilience.
+These adaptation options reflect a comprehensive approach to addressing climate threats related to stormwater, flooding, energy use, and urban heat, with specified targets and implementation metrics to measure success. The funding and timeframes vary by project, emphasizing a mix of short-term and long-term investments and activities.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan highlights several climate policies that focus on advancing climate justice. These policies are designed to address specific climate threats and consider the areas or populations with the most climate vulnerability. Here are the identified climate policies from the plan:
+The plan does not explicitly mention specific climate policies that directly advance climate justice. However, it does include actions and targets under broader visions that consider equity and resilience, which could inherently be related to climate justice. Below is a summary of relevant policies and their context:
 
-1. **100% Clean Energy Commitment**
-   - **Climate Threat Addressed:** The commitment to transition to 100% clean energy by 2035 is aimed at addressing both climate change and associated air pollution from fossil fuel consumption.
-   - **Vulnerable Areas/Populations:** Although not explicitly stated in terms of direct vulnerability to a hazard, the transition includes programs like PACE financing and energy savings performance contracts which may benefit economically disadvantaged communities by lowering utility costs and providing access to clean energy.
+1. **Community Cohesion and Preparedness Initiatives:**
+   - **Climate Threat Addressed:** These actions aim to strengthen community preparedness for disasters, potentially including climate-induced disasters.
+   - **Areas or Populations with the Most Vulnerability:** The plan highlights a focus on underserved neighborhoods and minority communities, such as Black youth who face high incarceration rates ("Action 4.4.2 establishes community centers to support LGBTQ+ youth in underserved neighborhoods." - Vision 4).
 
-2. **Expansion of Public Transportation and Workforce Development**
-   - **Climate Threat Addressed:** The policy addresses both emissions from transportation and economic inequity as a socio-economic climate vulnerability.
-   - **Vulnerable Areas/Populations:** This policy addresses low-income workers by ensuring that workforce development opportunities at the Atlanta airport are accessible, potentially supporting those vulnerable to economic and social inequities related to both climate and access to transportation.
+2. **Affordable Housing and Gentrification Mitigation:**
+   - **Climate Threat Addressed:** This aligns with protecting vulnerable populations from displacement issues that may be exacerbated by climate impacts such as increased housing demand following disasters.
+   - **Areas or Populations with the Most Vulnerability:** Those at risk include residents in gentrifying areas who may be susceptible to displacement, particularly low-income and minority communities ("Many Atlantans identified housing and housing insecurity as a primary concern, especially in the context of increasing gentrification and risk of displacement." - Developing Resilient Atlanta).
 
-3. **Creation of Community Engagement Centers**
-   - **Climate Threat Addressed:** The centers are aimed at building community resilience against climate impacts through enhanced preparedness and cohesion.
-   - **Vulnerable Areas/Populations:** The establishment of centers to support LGBTQ+ youth and mentorship opportunities aim to support marginalized communities that are typically more vulnerable to social and economic effects exacerbated by climate change.
+3. **Equitable Access and Opportunity:**
+   - **Climate Threat Addressed:** Addresses socio-economic inequities that could be intensified by climate impacts, impacting livelihoods and access to resources.
+   - **Areas or Populations with the Most Vulnerability:** Targeted towards low-income workers and minority populations facing barriers to economic stability ("The Targets and Actions under this Vision support improving economic mobility and inter-generational wealth building by focusing on early childhood education and workforce development opportunities for all." - Vision 2).
 
-4. **Strengthening Disaster Preparedness**
-   - **Climate Threat Addressed:** This action addresses the growing frequency and intensity of natural disasters, potentially linked to climate change.
-   - **Vulnerable Areas/Populations:** The focus on community-level disaster trainings seeks to bolster areas with high vulnerability due to socioeconomic factors, where disaster preparedness might otherwise be lacking.
-
-5. **Equity and Resilience Scorecard**
-   - **Climate Threat Addressed:** The scorecard aims to ensure that equity is integrated into resilience and climate response efforts, addressing systemic vulnerabilities.
-   - **Vulnerable Areas/Populations:** It is designed to track policy impacts on various communities, likely focusing on those historically underserved or overburdened by inequitable systems.
-
-These policies together aim to enhance resilience and equity, addressing multiple climate threats while paying particular attention to vulnerable populations.
+While not explicitly labeled as climate policies, these initiatives within the plan indicate a systemic approach to equity and resilience, addressing underlying socio-economic vulnerabilities that could exacerbate climate injustice.
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the provided document, potential unforeseen maladaptive climate policies are not clearly identified. There are several climate policies listed, each with potential benefits and goals; however, the document does not explicitly detail how these might lead to maladaptation. 
+Based on the provided document, potential unforeseen maladaptive climate policies are not explicitly outlined. However, one can infer from the context specific areas where maladaptation might inadvertently occur. Below are synthesized insights from the plan:
 
-If there were potential maladaptive practices, they would generally arise from:
+### 1. **Policy:** Improve responsiveness to Stormwater Flooding  
+   - **Climate Threat:** Addressing the issue of stormwater flooding within the city.
+   - **Option:** Resilience option involving enhancements and the provision of protective natural and man-made assets as well as ensuring the continuity of critical services, led by the CoA Department of Watershed Management and other agencies ("Improve responsiveness to Stormwater Flooding").
+   - **Potential Maladaptation:** The policy primarily focuses on short-term improvements that could potentially redirect resources away from long-term sustainable approaches if not carefully managed. The reliance on immediate fixes might lead to further infrastructure dependency that doesn’t accommodate longer-term ecological shifts and could amplify future climate risk if broader systems are not integrated (e.g., addressing root causes like increased urban runoff due to impervious surfaces).
 
-1. **Not considering long-term implications:** Some policies like creating a stormwater utility fee focus on immediate outcomes (e.g., funding infrastructure improvements), but if they inadvertently prioritize projects that lead to greater environmental degradation or socioeconomic disparities, they could lead to maladaptation.
+### 2. **Policy:** Create a stormwater utility fee to develop and fund a comprehensive stormwater management program  
+   - **Climate Threat:** Flooding incidents citywide, particularly in U.S. federally recognized flood-prone areas.
+   - **Option:** Resilience and adaptation option that emphasizes ensuring continuity of critical services and enhancing natural and man-made assets ("Create a stormwater utility fee").
+   - **Potential Maladaptation:** While intended to fund long-term management improvements, if the implementation does not carefully balance equitable pricing and provide for socially vulnerable populations, there may be inadvertent financial burdens imposed on lower-income residents, exacerbating existing socio-economic disparities. A heavy financial burden could drive resistance to sustainable initiatives and potentially lead to neglect in stormwater management compliance among financially constrained entities.
 
-2. **Overemphasis on short-term funding:** A few policies are listed as "unfunded" or "partially funded," which might lead to temporary measures rather than sustainable long-term resilience.
+### 3. **Policy:** Protect and expand Atlanta’s tree canopy  
+   - **Climate Threat:** Loss of natural protective assets and urban heat island effect.
+   - **Option:** Resilience and mitigation option through enhancing and providing protective natural assets, supported by the CoA Department of City Planning and others ("Protect and expand Atlanta’s tree canopy").
+   - **Potential Maladaptation:** While expanding tree coverage can mitigate urban heat and provide ecosystem services, if poorly planned, it might lead to the selection of non-native species or monocultures that are not resilient to local pest pressures or future climate conditions, leading to ecosystem imbalance or the need for increased resource inputs and management. Additionally, policy driven expansion might prioritize certain areas over communities more overtly impacted by climate change, leading to unequal distribution of benefits.
 
-3. **Possible exclusion in participatory design:** Initiatives like launching a participatory budgeting pilot are intended to engage communities. However, if not all stakeholders are equitably included or engaged, it might result in projects that do not comprehensively address all vulnerabilities, impacting less vocal or marginalized communities adversely.
-
-Without specific examples cited in the document as causing maladaptation, these insights are speculative and based on general challenges seen in resilience planning rather than on text evidence from the provided document.
+The plan underscores the importance of integrating equity considerations and long-term planning to avoid adverse effects associated with these policies.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
-**Metrics and Measurements of Success:**
+**Metrics for Measuring Success**
 
-- **Reduction in CO₂ Emissions:**
-  - *Potential Metrics/Measures of Success:*
-    - "Reduction in # metric tons of carbon dioxide emissions." 
+1. **Carbon Emissions Reduction:**
+   - *Metric:* Reduction in metric tons of carbon dioxide emissions.
+   - *Goal:* Achieving 100% clean energy citywide by 2035, with municipal operations transitioning by 2025. (_ACTION 4.3.1: Create and implement a strategy for the City to use 100 percent clean energy._)
 
-- **Solar Capacity Installation:**
-  - *Potential Metrics/Measures of Success:*
-    - "# of MW of solar capacity installed on municipal buildings."
-  - *Concrete Goals/Targets:*
-    - "The City is leading by example by installing 1.5 MW of solar capacity on 24 municipal properties."
+2. **Solar Energy Capacity:**
+   - *Metric:* Number of megawatts (MW) of solar capacity installed on municipal buildings.
+   - *Example:* The City is installing 1.5 MW of solar capacity on 24 municipal properties. (_SUMMARY OF ACTIONS: Solar Atlanta_)
 
-- **Water Audits:**
-  - *Potential Metrics/Measures of Success:*
-    - "# of water audits conducted in commercial buildings >25,000 square ft."
+3. **Water Audits:**
+   - *Metric:* Number of water audits conducted in commercial buildings greater than 25,000 square feet. (_SUMMARY OF ACTIONS: Commercial Buildings Energy & Water Efficiency Ordinance_)
 
-- **Energy Efficiency Improvements:**
-  - *Potential Metrics/Measures of Success:*
-    - "$ available for energy-efficiency improvements."
+4. **Energy Efficiency Funding:**
+   - *Metric:* Amount of money available for energy-efficiency improvements. (_Clean Energy Atlanta – PACE Financing_)
 
-- **Targets for 100% Clean Energy Transition:**
-  - *Concrete Goals/Targets:*
-    - "Achieve 100 percent use of clean energy citywide by 2035."
-    - "Commitment to transition to 100 percent clean energy for municipal operations by 2025."
-    - "Atlanta committed to transition to 100 percent clean energy by the year 2035."
+5. **Alternative Fuel Vehicles:**
+   - *Goal:* Transitioning the City fleet to 20% electric vehicles and 12% other alternative fuel vehicles by 2020. (_Alternative Fuel Vehicle Adoption_)
 
-- **PACE Financing:**
-  - *Concrete Goals/Targets:*
-    - "A $500 million commercial Property Assessed Clean Energy (PACE) financing program..."
+6. **LEED Certification:**
+   - *Goal:* City-owned properties greater than 25,000 square feet required to obtain LEED Certification for Existing Buildings. (_Sustainable Building Ordinance_)
 
-- **Alternative Fuel Vehicle Adoption:**
-  - *Concrete Goals/Targets:*
-    - "Transitioning the City fleet to 20% electric vehicles and 12% other alternative fuel vehicles by 2020."
+7. **Energy and Water Efficiency:**
+   - *Goal:* Improving energy and water efficiency by 20% by 2020 across 114+ million square feet of commercial building space. (_Atlanta Better Buildings Challenge_)
 
-- **Waste Reduction and Water Efficiency:**
-  - *Specific Actions:*
-    - "Energy efficiency, on-site renewable energy, and water efficiency improvements."
+8. **Tree Canopy Expansion:**
+   - *Metric:* Number of acres of forested property purchased and under City management, number of trees planted on City-owned properties. (_Target 3.4: Protect and expand Atlanta’s tree canopy_)
 
-- **Atlanta Better Buildings Challenge:**
-  - *Concrete Goals/Targets:*
-    - "114+ million square feet of commercial building space committed to improving their energy and water efficiency by 20% by 2020."
+9. **Stormwater Management:**
+   - *Metric:* Volume of pollutants captured by installed Green Infrastructure Best Management Practices (BMPs). (_Create a stormwater utility fee to develop and fund a comprehensive stormwater management program_)
 
-- **Sustainable Building Ordinance:**
-  - *Concrete Goals/Targets:*
-    - "City-owned properties required to obtain LEED Silver certification for new construction and major renovation in properties greater than 5,000 square feet."
-    - "City-owned properties greater than 25,000 square feet required to obtain LEED Certification for Existing Buildings."
+10. **Solar Energy Access:**
+    - *Goal:* Increase use and access to solar energy by 2020 through the creation of Solarize Atlanta. (_ACTION 3.5.3_)
 
+**Concrete Goals and Targets:**
 
+- **100% Clean Energy Transition:**
+  - *Goal:* 100% clean energy citywide by 2035, with municipal operations goal by 2025. (_TARGET 4.3_)
+
+- **Greenspace Creation:**
+  - *Goal:* Create 500 new acres of publicly accessible greenspace by 2022. (_Target 3.4: Create 500 new acres of publicly accessible greenspace by 2022_)
+
+- **Restaurant Water Efficiency:**
+  - *Goal:* Launch a restaurant water efficiency pilot program with specific conservation goals for water usage reduction. (_ACTION 3.5.1_)
+
+These metrics and goals are utilized to measure the success of the adaptation, resilience, and mitigation efforts detailed in the plan.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**         | **Details**                                                                                                                                                                                                                                                                                                          |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Location/City Name**  | Atlanta, Metro Atlanta region                                                                                                                                                                                                                                                                                       |
-| **Population**      | *"Metro Atlanta is comprised of 29 vibrant counties, home to 5.6 million people today, and projected to grow to 8 million people by 2040."* (Executive Summary)                                                                                                                       |
-| **Threats Identified**  | *"A history of growth, intertwined with periods of suburban sprawl, segregation, and lack of investment in infrastructure and affordable housing, has left some residents behind."* (Atlanta’s Resilience Challenges) <br> *"Residents are not confident in the ability of the region’s stakeholders to improve critical services, such as public transportation and stormwater management."* (Developing Resilient Atlanta)              |
-| **Measures Identified** | *"Ensure every Atlantan lives within one-half mile of fresh food by 2025"* (Vision 3: Target 3.3) <br> *"Achieve 100 percent use of clean energy citywide by 2035"* (Vision 4: Target 4.3) <br> *"Strengthen community disaster preparedness and response by 2021"* (Summary of Actions) <br> *"Create a stormwater utility fee to develop and fund a comprehensive stormwater management program"* (Summary of Actions)|
+| **Feature**           | **Details**                                                                                                                                             |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | Atlanta, Georgia                                                                                                                                       |
+| **Population**        | 473,000 (in 2016, within city); Metro Atlanta region: 5.6 million in 2016 projected to grow to 8 million by 2040 (29 counties)                         |
+| **Threats Identified** | - Economic inequality  <br> - Racial, economic, and social inequity <br> - Lack of affordable housing <br> - Limited transportation networks <br> - Infrastructure deficiencies <br> "Residents are not confident in the ability of the region’s stakeholders to improve critical services, such as public transportation and stormwater management." (Developing Resilient Atlanta)                    |
+| **Measures Identified** | - Become a leader in addressing structural racism and promoting racial equity by 2022 <br> - Connect Metro Atlantans to new livable wage jobs <br> - Improve affordable housing access <br> - Improve access to transportation <br> - Create publicly accessible greenspaces <br> - Use clean energy citywide by 2035 <br> - Protect and expand tree canopy <br> - Install sustainable infrastructure improvements in homes and businesses <br> - Develop interfaith coalition and resilience baseline (Target 4.1, 4.2, 3.1, 3.2, 3.4) |
 ```

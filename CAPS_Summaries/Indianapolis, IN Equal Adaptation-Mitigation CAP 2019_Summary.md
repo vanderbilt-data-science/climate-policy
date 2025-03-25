@@ -1,397 +1,399 @@
 ### Question: Describe the physical and economic landscape of the jurisdiction as outlined in the plan. Include the name of the planning jurisdiction, its location, population, demographics, and average income. Include major geographic features such as mountains, rivers, deserts, and coastline, as well as any key infrastructure like airports or seaports. Highlight details about the local climate, including any mentions of aridity or water challenges. Additionally, summarize the city’s energy production (oil, gas, renewables) and natural resources, and provide information about industries and economic drivers that are crucial to the region.
 **Answer:**
-The plan does not provide detailed information regarding the physical and economic landscape of the planning jurisdiction, including specifics such as location, population, demographics, average income, geographic features, key infrastructure, or local climate. However, it outlines objectives related to energy and economy for the City of Indianapolis, which suggests that Indianapolis, Indiana, is the jurisdiction in question. 
+**Planning Jurisdiction Overview:**
 
-### Energy Production and Natural Resources
-- **Energy Goals:** The plan mentions efforts to transition energy consumption to renewable sources in Indianapolis. Specifically, it details that "20% of energy consumed in Indianapolis comes from renewable sources by 2025" and aims for "100% renewable energy use by 2028" for municipal energy usage. It also mentions creating a "roadmap to source 100% of the community's energy with renewables by 2050" through partnerships with local stakeholders ("ENERGYEC:1EN:1").
-- **Renewable Energy Initiatives:** The plan details initiatives such as overcoming hurdles to solar energy installations and piloting a community solar program by 2025 ("EN:1C"). Deployment of an energy resource center acting as a resilience hub and pilot initiatives for microgrids are also included ("EN:2A, EN:2B").
+- **Name of Planning Jurisdiction:** Indianapolis
+- **Location:** Indianapolis, Indiana, United States
+
+**Population and Demographics:**
+
+- *The plan does not provide specific data on population size, demographics, or average income.*
+
+**Geographic Features:**
+
+- *The plan does not discuss specific geographic features such as mountains, rivers, deserts, or coastlines. Detailed information on key infrastructure like airports or seaports is also not provided.*
+
+**Local Climate:**
+
+- *The climate-related challenges, such as aridity or water challenges, are not detailed. However, the plan does refer to the city's efforts to manage stormwater infiltration and address the urban heat island effect through increased greenery (NR:1C, NR:1D).*
+
+**Energy Production and Natural Resources:**
+
+- **Energy Production:**
+  - The city aims for a significant portion of its energy to come from renewable sources, with a target of "20% of energy consumed in Indianapolis comes from renewable sources by 2025" (EN:1). 
+  - "By 2020, the City of Indianapolis will transition 25% of municipal energy usage to renewable sources" with aspirations towards "100% renewable energy use by 2028" (EN:1A).
   
-### Economy
-- **Workforce Development:** The plan outlines efforts to expand green job opportunities and training programs. These include "offering green job opportunities to Indianapolis youth," pilots for "green jobs training program[s]," and development of "green business / energy efficiency training programs for the re-entry population" ("EC:1, EC:2").
-- **Economic Resilience:** It also discusses fostering local economic opportunities by working with businesses to develop local hiring policies and supporting economic opportunities accessible to nearby communities ("EC:2").
+- **Natural Resources:**
+  - The plan mentions efforts to sustain and expand green spaces and tree canopies (NR:1D) and emphasizes native planting and the removal of invasive species (NR:1A).
+  
+**Industries and Economic Drivers:**
 
-### Industries and Economic Drivers
-While the document does not specifically list the industries present or economic drivers of the region, it does emphasize the development of green jobs and sustainability initiatives as crucial economic aspects. There's attention to "collaborate with anchor institutions and businesses to target local investments and provide family-sustaining wages" ("ECONOMY OBJECTIVE 2").
-
-### Natural Resources
-The plan mentions no specific geographic features, but emphasizes expanding and maintaining green spaces and increasing the urban tree canopy to manage stormwater and mitigate the urban heat island effect ("NR:1, NR:2").
-
-No specific details about the location’s natural resources in terms of oil, gas, or traditional energy production methods are provided. The focus remains predominantly on the transition toward sustainable energy sources and improving energy efficiency across the city.
+- The economy objective highlights initiatives to support job opportunities, particularly in green jobs and re-entry training programs, indicating an economic focus on workforce development and sustainability (EC:1B, EC:2B).
+- Efforts include developing and piloting a green business/energy efficiency training program for the re-entry population (EC:2B) and the creation of green job opportunities for youth through partnerships with sustainability-related businesses (EC:1A).
+  
+*The plan largely focuses on initiatives for sustainability and resilience rather than providing comprehensive details about the physical and economic landscape.*
 
 ### Question: To what extent does the plan address resilience, mitigation, and adaptation? After providing a brief summary of how it addresses each component, classify the plan as a whole as one of the following: mitigation dedicated, adaptation/resilience dedicated, mitigation only climate action plan, mitigation primary climate action plan, equal mitigation and adaptation climate action plan, or sustainable/green plan.
 **Answer:**
-### Summary of How the Plan Addresses Resilience, Mitigation, and Adaptation:
+**Resilience:**
 
-#### Resilience:
-- The plan emphasizes community resilience by integrating **equity in policy, planning, and project implementation**, thus increasing resilience for socially vulnerable populations. This is highlighted in the overarching goal to "increase community resilience by prioritizing equity in policy, planning and project implementation" (**Introduction**).
-- Specific actions include improving onsite stormwater retention and increasing emergency preparedness in vulnerable neighborhoods based on assessments like the 2018 Vulnerability Assessment (**Built Environment**; **Public Health & Safety**).
+The plan places a strong emphasis on building community resilience by integrating resilience measures into infrastructure and public health. For example, "All new infrastructure is designed, built and maintained to be resilient to the anticipated impacts of climate change" and initiatives such as "increase the number of residents with emergency preparedness resources and training in our most vulnerable neighborhoods based on the 2018 Vulnerability Assessment before 2022" demonstrate the focus on resilience (*Built Environment Objective 2* and *Public Health & Safety Objective 2*).
 
-#### Mitigation:
-- The plan sets a goal to "achieve net zero GHG emissions by 2050" and outlines various actions to reduce emissions, such as requiring new commercial buildings to meet electric vehicle readiness and increasing energy efficiency through low-interest loans for energy improvements (**Built Environment**; **Overarching Goals**).
-- Other mitigation strategies include increasing transportation alternatives to reduce gasoline and diesel consumption and implementing policies to increase green spaces for stormwater infiltration and urban heat island reduction (**Transportation & Land Use**; **Natural Resources**).
+**Mitigation:**
 
-#### Adaptation:
-- Adaptation strategies include integrating climate change projections into all future capital projects to ensure infrastructure can withstand current and projected impacts, incentivizing green infrastructure, and increasing tree canopy to mitigate urban heat islands (**Built Environment**; **Natural Resources**).
+Mitigation efforts are prominently featured in the plan with objectives aimed at achieving carbon neutrality and reducing greenhouse gas emissions. The plan includes actions such as "Achieve net zero GHG emissions by 2050," and initiatives like developing energy benchmarking and disclosure policies highlight the commitment towards mitigation (*Overarching Goals* and *Built Environment Objective 1*).
 
-### Classification:
-- Given the plan's balanced focus on both reducing greenhouse gas emissions and increasing community resilience through equitable adaptation measures, the **Thrive Indianapolis plan can be classified as an "equal mitigation and adaptation climate action plan."**
+**Adaptation:**
+
+Adaptation strategies in the plan focus on preparing systems for anticipated climate changes, such as the action to "systematically integrate climate change projections into all future capital projects by 2020" (*Built Environment Objective 2*). Further actions like improving stormwater retention programs and expanding the use of green infrastructure support adaptation aims.
+
+**Classification:**
+
+Based on the emphasis across resilience, mitigation, and adaptation as outlined in the document, the plan can be classified as an **equal mitigation and adaptation climate action plan**. The plan balances strategies for reducing greenhouse gas emissions with initiatives that aim to adapt to and prepare for the impacts of climate change while enhancing community resilience.
 
 ### Question: Does the plan describe a scenario of climate change the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation? If so, please summarize any such scenario.
 **Answer:**
-Yes, the plan describes a scenario of climate change that the planning jurisdiction will face and for which it is planning climate policies for resilience, mitigation, and adaptation. It acknowledges an increase in "average temperatures and extreme weather events" which are impacting the people and infrastructure of Indianapolis. These climatic changes are causing "shocks from extreme weather events" and impacting air quality, which negatively affects public health in Indianapolis, specifically targeting groups like "the young, older adults and those with existing asthma or other respiratory issues."
+Yes, the plan describes potential impacts of climate change the planning jurisdiction, Indianapolis, will face. It notes that:
 
-The plan is a response to these challenges, aiming to achieve "net zero greenhouse gas (GHG) emissions by 2050" and to "increase community resilience by prioritizing equity in policy, planning, and project implementation" (_Thrive Indianapolis_). The plan underscores the need to understand and reduce GHG emissions as part of its climate change preparation strategy, while also emphasizing the importance of taking action to address both direct impacts of climate change and existing chronic stressors in the community (_Thrive Indianapolis_).
-
-Indianapolis acknowledges that even if all GHG emissions were stopped immediately, some climate changes are already underway due to the existing atmospheric conditions, hence the need for actions that reduce emissions and enhance community resilience (_Preparing for a Changing Climate_).
+- "As GHGs rise so do the number and the intensity of extreme weather events, such as torrential rains that contribute to flooding and destroy homes and infrastructure" (*Thrive Indianapolis*).
+- It mentions temperature increases that can "contribute to poor air quality and negatively impact the health of the people of Indianapolis, specifically the young, older adults, and those with existing asthma or other respiratory issues" (*GHG Emissions*).
+- The plan acknowledges the need for the community to "act to both understand and reduce our contribution to GHG emissions in the air" to build a safer, cleaner, and healthier Indianapolis (*Thrive Indianapolis*).
 
 ### Question: What climate hazards does the plan identify as presenting climate risks for the planning jurisdiction? For each identified climate hazard, summarize the plan’s description of: 1. The climate hazard. 2. The climate risks it poses to the planning jurisdiction. 3. Areas or populations with the most climate vulnerability to the identified climate hazard.Generate a numbered list of every hazard identified in the plan. Make the list as long as necessary to accomodate every single hazard.
 **Answer:**
-**1. Extreme Heat**
+1. **Extreme Weather Events**
+   - **Climate Hazard:** "As GHGs rise so do the number and the intensity of extreme weather events, such as torrential rains that contribute to flooding and destroy homes and infrastructure."
+   - **Climate Risks:** These events lead to flooding, which can "destroy homes and infrastructure," creating significant dangers to both built and natural environments.
+   - **Vulnerable Areas/Populations:** Vulnerable populations with a "reduced ability to respond" to these impacts are highlighted, but specific areas aren't distinctly mentioned in the context of extreme weather beyond flooding.
 
-- **Climate Hazard Description:** The plan identifies extreme heat as a significant climate hazard. It mentions the importance of tree canopies in mitigating extreme heat and emphasizes that "heat is the number one weather-related killer" (Climate Impacts and Social Vulnerability).
-  
-- **Climate Risks:** Increased temperatures can lead to various issues, including poorer air quality and negative health impacts, particularly for vulnerable groups such as young people, older adults, and those with respiratory problems like asthma (GHG Emissions section).
+2. **High Temperatures**
+   - **Climate Hazard:** "Temperature increases can contribute to poor air quality and negatively impact the health of the people of Indianapolis, specifically the young, older adults and those with existing asthma or other respiratory issues."
+   - **Climate Risks:** Heat is identified as "the number one weather-related killer." Rising temperatures exacerbate health issues and air quality problems.
+   - **Vulnerable Areas/Populations:** Those residing in areas with high temperatures and limited tree cover, as these are "where our most vulnerable populations reside."
 
-- **Vulnerable Areas/Populations:** The areas outlined in purple with a reddish orange background on the map are identified as priority areas for enhancing community resilience due to high vulnerability to heat. Vulnerable populations are those with high social vulnerability including those living below the federal poverty level, minorities, and the unsheltered homeless (Climate Impacts and Social Vulnerability, Social Vulnerability: High Temperatures section).
+3. **Poor Air Quality**
+   - **Climate Hazard:** Associated with rising temperatures, the document emphasizes that "poor air quality negatively impact[s] the health of the people of Indianapolis."
+   - **Climate Risks:** Air quality issues specifically harm "the young, older adults and those with existing asthma or other respiratory issues."
+   - **Vulnerable Areas/Populations:** While not explicitly detailing areas, the vulnerable are those with pre-existing health conditions that make them susceptible to air pollution exacerbated by climate change.
 
-**2. Flooding**
+4. **Flooding**
+   - **Climate Hazard:** Resulting from "torrential rains that contribute to flooding."
+   - **Climate Risks:** Flooding causes destruction of homes and infrastructure, directly impacting those living in susceptible areas.
+   - **Vulnerable Areas/Populations:** Flood-prone zones, likely overlapping with socioeconomically vulnerable neighborhoods identified in related assessments like the Social Vulnerability Index.
 
-- **Climate Hazard Description:** The plan acknowledges that torrential rains contribute to flooding, which is becoming more frequent and destructive due to climate change (GHG Emissions section).
-  
-- **Climate Risks:** Flooding can lead to the destruction of homes and infrastructure, which in turn causes significant economic and social disruptions (GHG Emissions section).
-  
-- **Vulnerable Areas/Populations:** Vulnerable areas are identified using the Social Vulnerability Index alongside projected climate impacts like flooding. The greatest areas of concern are where social vulnerability is high and the response capacity is low (Climate Impacts and Social Vulnerability section).
-
-These identified hazards emphasize the need for targeted efforts to bolster community resilience, focusing particularly on the most vulnerable areas and populations.
 
 ### Question: What resilience options are identified in the plan? For each option, summarize: 1. The specific climate threat it addresses; 2. Details on cost, timeframe, and location, including any references found in tables, charts, or images that might contain this data; 3. Other important attributes, such as economic, environmental, or infrastructural considerations.
 **Answer:**
-**Resilience Options in the Plan**
+**Resilience Options Identified in the Plan:**
 
-1. **Resilience Option: Improve Onsite Stormwater Retention Programs**
-   - **Climate Threat Addressed:** Flooding from inadequate stormwater management.
-   - **Cost, Timeframe, and Location:**
-     - Cost: Implementation costs between $1-5 million indicated by ($$).
-     - Timeframe: Register 500 properties in the stormwater credit program by 2022.
-     - Location: Applicable throughout Indianapolis, specifically at residential and nonresidential properties.
-   - **Other Important Attributes:**
-     - Economic: Provides potential financial incentives through a stormwater credit program.
-     - Environmental: Enhances green infrastructure with rain barrels, rain gardens, and green roofs, thus reducing runoff and improving water management. (_Built Environment, BE:2B_)
+1. **Develop an energy benchmarking and disclosure policy for municipal and commercial buildings:**
+   - **Climate Threat Addressed:** Reducing GHG emissions contributes to resilience by lessening the impacts of climate change exacerbated by these emissions.
+   - **Cost, Timeframe, Location:** First-year disclosure completed by the end of 2020; capital cost (<$1m) / program implementation (<$100k).  
+   - **Attributes:** Implementation benefits include increased resilience for socially vulnerable areas/populations and GHG reduction potential. (*Built Environment Objective 1, BE:1A*)
 
-2. **Resilience Option: Increase Street Sweeping Operations**
-   - **Climate Threat Addressed:** Enhanced stormwater drainage and prevention of water pollution.
-   - **Cost, Timeframe, and Location:**
-     - Cost: Implementation costs between $100-500k indicated by ($$).
-     - Location: Throughout the county.
-   - **Other Important Attributes:**
-     - Environmental: Improves water quality and stormwater management by reducing debris in water systems. (_Built Environment, BE:2D_)
+2. **Require all new commercial construction to meet electric vehicle (EV) readiness requirements:**
+   - **Climate Threat Addressed:** Reducing reliance on fossil fuels minimizes air pollution and supports systemic resilience to energy shocks.
+   - **Cost, Timeframe, Location:** By 2020, with the goal to increase charging infrastructure at workplaces.  
+   - **Attributes:** Initial costs not specified, identified high GHG reduction potential. (*Built Environment Objective 1, BE:1B*)
 
-3. **Resilience Option: Pilot the City’s First Energy Resource Center**
-   - **Climate Threat Addressed:** Vulnerability to natural disasters and increased energy demands.
-   - **Cost, Timeframe, and Location:**
-     - Cost: Implementation cost less than $1 million indicated by ($).
-     - Timeframe: To act as a resilience hub for the neighborhood before 2021.
-   - **Other Important Attributes:**
-     - Economic: Provides access to information about energy efficiency incentives and acts as a neighborhood resilience hub.
-     - Social: Improves preparedness for natural disasters in vulnerable neighborhoods. (_Public Health & Safety, PH:2C_)
+3. **Systematically integrate climate change projections into all future capital projects:**
+   - **Climate Threat Addressed:** Anticipates and mitigates infrastructure vulnerabilities to climate impacts.
+   - **Cost, Timeframe, Location:** By 2020; capital cost not specified.  
+   - **Attributes:** Enhances resilience against projected climate impacts. (*Built Environment Objective 2, BE:2A*)
 
-4. **Resilience Option: Expand Workforce Preparedness Training Opportunities**
-   - **Climate Threat Addressed:** Rapid restoration of city services post-crisis.
-   - **Cost, Timeframe, and Location:**
-     - Cost: Implementation costs between $1-5 million indicated by ($$).
-     - Timeframe: Expand training before 2022.
-   - **Other Important Attributes:**
-     - Economic: Enhances workforce skills including climate change information, thus aiding in quick restoration of city services.
-     - Social: Improves resilience by training service providers in vulnerable communities. (_Public Health & Safety, PH:2D_)
+4. **Pilot the city’s first energy resource center:**
+   - **Climate Threat Addressed:** Facilitates community preparedness and resilience against natural disasters.
+   - **Cost, Timeframe, Location:** Before 2021; capital cost (<$1m) / program implementation (<$100k).  
+   - **Attributes:** Acts as a resilience hub offering disaster preparedness information. (*Public Health & Safety Objective 2, PH:2C*)
 
-5. **Resilience Option: Pilot a Microgrid or Self-Contained Power System**
-   - **Climate Threat Addressed:** Energy disruptions and infrastructure strain.
-   - **Cost, Timeframe, and Location:**
-     - Cost: Implementation costs higher than $5 million indicated by ($$$).
-     - Timeframe: In partnership with IPL.
-     - Location: Area of greatest need within the city.
-   - **Other Important Attributes:**
-     - Economic & Environmental: Enhances grid resilience while improving energy efficiency.
-     - Infrastructural: Advances in decentralized energy provision and increased protection against power outages. (_Energy, EN:2A_)
+5. **Expand workforce preparedness training including climate change information:**
+   - **Climate Threat Addressed:** Prepares workforce and public health providers for climate-induced service disruptions.
+   - **Cost, Timeframe, Location:** Before 2022; capital cost ($1-5m) / program implementation ($100-500k).  
+   - **Attributes:** Focuses on rapidly restoring essential services after crises. (*Public Health & Safety Objective 2, PH:2D*)
 
-**Note:** The above-listed options and their characteristics were gathered based on the "Thrive Indianapolis" plan focusing on improving infrastructure and community resilience to climate change impacts through cost-effective and strategic interventions.
+6. **Improve onsite stormwater retention programs:**
+   - **Climate Threat Addressed:** Mitigates flooding risks exacerbated by increased rainfall and storm events.
+   - **Cost, Timeframe, Location:** Register 500 properties by 2022; implementation cost <$1m.  
+   - **Attributes:** Incentives for rain barrels, rain gardens, and green roofs improve local stormwater management. (*Built Environment Objective 2, BE:2B*)
+
+7. **Increase street sweeping operations:**
+   - **Climate Threat Addressed:** Enhances stormwater drainage capacity, reducing flood risk.
+   - **Cost, Timeframe, Location:** Countywide; implementation cost <$1m.  
+   - **Attributes:** Improves overall urban water management. (*Built Environment Objective 2, BE:2D*)
+
+8. **Expand multimodal transportation options:**
+   - **Climate Threat Addressed:** Enhances community mobility resilience by reducing reliance on single-mode transport affected by climate impacts.
+   - **Cost, Timeframe, Location:** Target to increase by 2025 over 2016 levels.  
+   - **Attributes:** Includes increasing transit services and safety improvements. (*Transportation & Land Use, TL:1*)
+
+For each option, the plan emphasizes equity and resilience benefits by considering socially vulnerable populations, implementing sustainable practices, and enhancing preparedness to climate-related threats.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timing, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options aimed at reducing greenhouse gas emissions and enhancing energy efficiency. Below is a summary of the identified mitigation options, including cost, timing, location, and other important attributes:
+The plan identifies several mitigation options as follows:
 
----
+### **1. Develop an Energy Benchmarking and Disclosure Policy**
 
-### **Built Environment Mitigation Options**
+- **Objective/Action**: "Develop an energy benchmarking and disclosure policy for municipal and commercial buildings with the first-year disclosure completed by the end of 2020." (BUILT ENVIRONMENT OBJECTIVE 1, BE:1A)
+- **Cost**: Capital cost < $1m / Program implementation < $100k
+- **Timing**: Complete first-year disclosure by the end of 2020.
+- **Location/Attributes**: Municipal and commercial buildings.
 
-- **Energy Benchmarking and Disclosure Policy**
-  - **Cost:** $ (Program implementation cost less than $100k)
-  - **Timing:** Completion by the end of 2020
-  - **Location:** Municipal and commercial buildings
-  - **Attributes:** Develop a policy for energy benchmarking and disclosure for municipal and commercial buildings; This involves the first-year disclosure completed by the end of 2020. (*BUILT ENVIRONMENT OBJECTIVE 1, BE:1A*)
+### **2. Require Electric Vehicle (EV) Readiness in New Construction**
 
-- **EV Readiness for Parking Spaces**
-  - **Cost:** $ (Capital cost less than $1m)
-  - **Timing:** By 2020
-  - **Location:** New commercial construction
-  - **Attributes:** Require new commercial construction to meet electric vehicle readiness requirements for 20% of parking spaces, with a goal of increasing charging infrastructure at businesses and workplaces. (*BUILT ENVIRONMENT OBJECTIVE 1, BE:1B*)
+- **Objective/Action**: "Require all new commercial construction to meet electric vehicle (EV) readiness requirements for 20% of parking spaces by 2020, with the goal of significantly increasing charging infrastructure at businesses and workplaces." (BUILT ENVIRONMENT OBJECTIVE 1, BE:1B)
+- **Cost**: Capital cost < $1m / Program implementation < $100k
+- **Timing**: By the end of 2020.
+- **Location/Attributes**: New commercial constructions.
 
-- **Low-Interest Loans for Energy Efficiency and Renewable Energy**
-  - **Cost:** $$$ (Program cost more than $500k)
-  - **Attributes:** Establish low-interest loans for energy efficiency and renewable energy improvements in new and existing buildings, sustained by a revolving loan fund. (*BUILT ENVIRONMENT OBJECTIVE 1, BE:1C*)
+### **3. Establish Low-Interest Loans for Energy Efficiency and Renewable Energy**
 
----
+- **Objective/Action**: "Establish low-interest loans for energy efficiency and renewable energy improvements in new and existing buildings, sustained by a revolving loan fund from a combination of financing sources." (BUILT ENVIRONMENT OBJECTIVE 1, BE:1C)
+- **Cost**: Capital cost > $5m / Program implementation > $500k
+- **Location/Attributes**: New and existing buildings.
 
-### **Transportation & Land Use Mitigation Options**
+### **4. Increase Electric Vehicle (EV) Ownership**
 
-- **Increase in Transit Service**
-  - **Cost:** $$ (Capital cost between $1-5m)
-  - **Timing:** By 2025
-  - **Location:** Citywide
-  - **Attributes:** Through redesign, extended hours, and construction completion on bus rapid transit lines, increase transit service by 70% and ridership by 15%. (*TRANSPORTATION & LAND USE OBJECTIVE 1, TL:1A*)
+- **Objective/Action**: "Increase electric vehicle (EV) ownership 300% by 2025 from the 2017 baseline of 760 vehicles." (TRANSPORTATION & LAND USE OBJECTIVE 2, TL:2)
+- **Cost**: Capital cost > $5m
+- **Timing**: By 2025.
+- **Location/Attributes**: Countywide, focusing on increasing ownership and infrastructure for EVs.
 
-- **Increase Miles of Sidewalks, Bikeways, Trails, and Complete Streets**
-  - **Cost:** $$$ (Capital cost more than $5m)
-  - **Attributes:** Implement transportation plans to increase miles of sidewalks, bikeways, trails, and complete streets, and improve intersections. (*TRANSPORTATION & LAND USE OBJECTIVE 1, TL:1B*)
+### **5. Promote Water Conservation**
 
-- **Promote Transit-Oriented Development**
-  - **Cost:** $$$ (Program cost more than $500k)
-  - **Attributes:** Promote transit-oriented development through high-density housing, access to employment, and energy consumption reduction. (*TRANSPORTATION & LAND USE OBJECTIVE 1, TL:1C*)
+- **Objective/Action**: "Through the Energy Benchmarking program, promote initiatives that improve water conservation with 1,000 participating businesses by 2022." (NATURAL RESOURCES OBJECTIVE 2, NR:2D)
+- **Cost**: Not explicitly stated for this specific initiative.
+- **Timing**: By 2022.
+- **Location/Attributes**: 1,000 participating businesses.
 
----
+### **6. Convert IndyGo Fleet to Electric**
 
-### **Energy Sector Mitigation Options**
+- **Objective/Action**: "Convert remaining IndyGo fleet to electric by 2031." (TRANSPORTATION & LAND USE OBJECTIVE 2, TL:2C)
+- **Cost**: Not specified.
+- **Timing**: Fully converted by 2031.
+- **Location/Attributes**: IndyGo public transit fleet.
 
-- **Resilience through Microgrids**
-  - **Cost:** $$$$$ (Program cost more than $5m)
-  - **Attributes:** Increase energy grid resilience using microgrids and increased efficiency. (*ENERGY OBJECTIVE 2, EN:2A*)
+### **7. Reduce the Burning of Gasoline and Diesel**
 
-- **Energy Resource Center Pilot**
-  - **Cost:** $$$$$ (Program cost more than $5m)
-  - **Timing:** By 2020
-  - **Attributes:** Act as a resilience hub offering information on energy efficiency incentives and rebates. (*ENERGY OBJECTIVE 2, EN:2B*)
+- **Objective/Action**: "Reduce the burning of gasoline and diesel by increasing the use of transportation alternatives through the Indy Moves Plan and promoting idling reduction programs." (NATURAL RESOURCES OBJECTIVE 2, NR:2C)
+- **Cost**: Not explicitly stated in the respective objective.
+- **Location/Attributes**: Countywide with a focus on transportation alternatives.
 
----
-
-The plan systematically addresses climate change through multiple sectors, focusing on building design, transportation infrastructure, and energy systems. Each option outlines timing, cost implications, and intended locations or sectors for implementation, reflecting a structured approach to mitigation.
+These mitigation options are designed to reduce greenhouse gas emissions by promoting energy efficiency, increasing the use of renewable energy, and encouraging sustainable transportation practices.
 
 ### Question: What mitigation options does the plan identify? For each identified mitigation option, summarize the information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-The plan identifies several mitigation options:
+The plan identifies several mitigation options, each with specific cost, timeframe, and other attributes:
 
-1. **Energy Benchmarking and Disclosure Policy**
-   - **Cost:** Initial cost involves program implementation (<$100k) (BE:1A)
-   - **Timeframe:** First-year disclosure to be completed by the end of 2020 (BE:1A)
-   - **Attributes:** Applies to municipal and commercial buildings (BE:1A)
+1. **Develop an energy benchmarking and disclosure policy for municipal and commercial buildings (BE:1A)**
+   - **Cost:** Capital cost is less than $1 million, and program implementation cost is less than $100,000. 
+   - **Timeframe:** First-year disclosure to be completed by the end of 2020.
+   - **Location:** Municipal and commercial buildings.
+   - **Attributes:** Aims to increase energy efficiency and reduce GHG emissions.
 
-2. **EV Readiness for New Commercial Construction**
-   - **Cost:** Cost associated with implementing readiness requirements (<$1m for capital cost) (BE:1B)
-   - **Timeframe:** By 2020, with a goal of increasing infrastructure (BE:1B)
-   - **Attributes:** Requirement for 20% of parking spaces to meet EV readiness (BE:1B)
+2. **Require all new commercial construction to meet electric vehicle (EV) readiness (BE:1B)**
+   - **Cost:** Capital cost is not explicitly stated, may fall under cheaper investments.
+   - **Timeframe:** By 2020. 
+   - **Location:** New commercial constructions.
+   - **Attributes:** EV readiness requirements for 20% of parking spaces to increase EV infrastructure.
 
-3. **Low-interest Loans for Energy Efficiency and Renewable Energy**
-   - **Cost:** Capitalized through state bond proceeds, treasury investments, or ratepayer funds; initial cost >$5m (BE:1C)
-   - **Attributes:** Establishes a revolving loan fund for improvements in new and existing buildings (BE:1C)
+3. **Establish low-interest loans for energy efficiency and renewable energy improvements (BE:1C)**
+   - **Cost:** Capital cost is greater than $5 million, and program implementation cost is greater than $500,000.
+   - **Timeframe:** Not explicitly mentioned.
+   - **Location:** New and existing buildings.
+   - **Attributes:** Sustained by a revolving loan fund from a combination of financing sources to promote energy improvements.
 
-4. **Increase Electric Vehicle (EV) Ownership by 300% by 2025**
-   - **Cost:** Funded by UA DOE EERE Grants and IPL; various levels of investment (TL:2)
-   - **Timeframe:** Increase from a 2017 baseline of 760 vehicles to be completed by 2025 (TL:2)
-   - **Attributes:** Includes creating educational resources, EV corporate fleet challenge, and charging infrastructure (TL:2A, TL:2B, TL:2C, TL:2D)
+4. **Convert remaining IndyGo fleet to electric by 2031 (TL:2C)**
+   - **Cost:** Part of broader financial strategies, specific costs not outlined.
+   - **Timeframe:** By 2031.
+   - **Location:** IndyGo transit system.
+   - **Attributes:** Intended to reduce GHG emissions by using electric vehicles in public transportation.
 
-5. **Transit Service and Ridership Increase**
-   - **Cost:** Includes capital investment annual maintenance with costs ranging from <$1m to >$5m; potentially funded by DOT BUILD Grants (TL:1)
-   - **Timeframe:** 70% transit service increase and 15% ridership increase compared to current levels, no specific target year given (TL:1A)
-   - **Location:** Transit lines in IndyGo system (TL:1A)
-   - **Attributes:** Involves completing construction on bus rapid transit lines and redesign efforts (TL:1A, TL:1B, TL:1C, TL:1D)
+5. **Reduce gasoline and diesel burning through transportation alternatives (NR:2C)**
+   - **Cost:** Costs associated with transportation plans and promoting idling reduction programs.
+   - **Timeframe:** Not explicitly mentioned, aligned with broader Indy Moves Plan.
+   - **Location:** Throughout Indianapolis’ transportation systems.
+   - **Attributes:** Promotes use of transportation alternatives and idling reduction programs to reduce emissions.
 
-6. **Idling Reduction Programs**
-   - **Cost:** Involves program implementation with funding sources like DOT BUILD Grants and voter-approved transit referendums; costs range from < $1m to > $5m (NR:2)
-   - **Timeframe:** Alignment with the Indy Moves Plan by 2022 (NR:2C)
-   - **Attributes:** Part of broader efforts to increase the usage of transportation alternatives (NR:2C)
-
-Each option includes potential funding sources and implementation benefits such as reducing disparities, public health impacts, job creation prospects, GHG reduction potential, and increased resilience for socially vulnerable areas/populations. These benefits form an essential part of assessing the overall impact of the mitigation strategies outlined in the plan.
+Each of these mitigation options contributes to reducing GHG emissions and includes various measures related to energy efficiency, electric vehicle infrastructure, and alternative transportation systems.
 
 ### Question: What adaptation options does the plan identify? For each identified adaptation option, summarize: 1. The climate threat it is addressing. 2. Information provided in the plan regarding cost, timeframe, location, and other important attributes.
 **Answer:**
-**Adaptation Options in the Plan**
+The plan identifies several adaptation options within different objectives and actions. Here is a summary of the adaptation options, the climate threats they address, and the relevant information related to cost, timeframe, location, and other attributes:
 
-1. **Systematically Integrate Climate Change Projections into Future Capital Projects**
-   - **Climate Threat Addressed:** The adaptation option addresses resilience to climate change impacts by ensuring new infrastructure can withstand current and projected climate impacts.
-   - **Attributes:**
-     - **Cost:** Capital cost ($1-5m) as indicated by $$.
-     - **Timeframe:** To be implemented by 2020.
+### **Adaptation Options**
+
+1. **Systematically Integrate Climate Change Projections**
+   - **Objective/Action:** BE:2A
+   - **Climate Threat Addressed:** Anticipated impacts of climate change on infrastructure.
+   - **Details:**
+     - **Cost:** Not specified, but aligns with overall investment priorities based on the 2018 Vulnerability Assessment.
+     - **Timeframe:** By 2020
      - **Location:** Applicable to all future capital projects.
-     - **Other Attributes:** This ensures resilience in infrastructure based on climate change projections (BUILT ENVIRONMENT OBJECTIVE 2, BE:2A).
+     - **Attributes:** Ensures new infrastructure can withstand current and projected impacts.
 
-2. **Improve Onsite Stormwater Retention Programs**
-   - **Climate Threat Addressed:** Addresses issues related to stormwater management which could be exacerbated by increased precipitation and flooding.
-   - **Attributes:**
-     - **Cost:** Capital cost ($1-5m) as indicated by $$.
-     - **Timeframe:** Aim to register 500 properties by 2022.
-     - **Location:** Applies to residential and nonresidential properties.
-     - **Other Attributes:** Focus on incentivizing rain barrels, rain gardens, and green roofs (BUILT ENVIRONMENT OBJECTIVE 2, BE:2B).
+2. **Improving Onsite Stormwater Retention Programs**
+   - **Objective/Action:** BE:2B
+   - **Climate Threat Addressed:** Stormwater management challenges due to increased precipitation and extreme weather.
+   - **Details:**
+     - **Cost:** Costs are indicated with "$$, " suggesting a moderate-range expense ($1-5m).
+     - **Timeframe:** Register 500 properties by 2022.
+     - **Location:** Applicable to residential and non-residential properties.
+     - **Attributes:** Includes incentivizing rain barrels, rain gardens, and green roofs.
 
-3. **Increase Street Sweeping Operations**
-   - **Climate Threat Addressed:** This option addresses stormwater drainage issues, which may be aggravated by climate changes such as increased rainfall intensity.
-   - **Attributes:**
-     - **Cost:** Capital cost (<$1m) as indicated by $.
-     - **Other Attributes:** Helps improve stormwater drainage efficiency throughout the county (BUILT ENVIRONMENT OBJECTIVE 2, BE:2D).
+3. **Pilot Energy Resource Center**
+   - **Objective/Action:** PH:2C
+   - **Climate Threat Addressed:** Natural disasters and hazards impacting neighborhoods.
+   - **Details:**
+     - **Cost:** Not specifically outlined; it's implied under varying program options between $ and $$.
+     - **Timeframe:** Before 2021
+     - **Location:** Acts as a resilience hub for a neighborhood.
+     - **Attributes:** Provides physical, web, and mobile resources to prepare residents for natural disasters and hazards.
 
-4. **Increase Resident Emergency Preparedness Resources**
-   - **Climate Threat Addressed:** Enhances community readiness for extreme weather events and other crises exacerbated by climate change.
-   - **Attributes:**
-     - **Cost:** Implementation cost is categorized as $$.
-     - **Timeframe:** To be implemented by 2022.
-     - **Location:** Focus on the most vulnerable neighborhoods.
-     - **Other Attributes:** Based on the 2018 Vulnerability Assessment (PUBLIC HEALTH & SAFETY OBJECTIVE 2, PH:2A).
+4. **Increase Green Spaces**
+   - **Objective/Action:** NR:1B
+   - **Climate Threat Addressed:** Urban heat island effect and insufficient stormwater infiltration.
+   - **Details:**
+     - **Cost:** Not explicitly detailed; ranges from $ to $$, indicating moderate capital/program costs.
+     - **Timeframe:** Ensure implementation by 2022.
+     - **Location:** City parks and greenways.
+     - **Attributes:** Aimed at improving stormwater infiltration and ongoing maintenance.
 
-5. **Pilot Energy Resource Center as a Resilience Hub**
-   - **Climate Threat Addressed:** Provides a centralized location for resources to manage and prepare for natural disasters and other hazards linked to climate change.
-   - **Attributes:**
-     - **Cost:** Implementation cost is indicated as $.
-     - **Timeframe:** To be operational before 2021.
-     - **Location:** Specific neighborhood designated as a pilot project.
-     - **Other Attributes:** Provides physical, web, and mobile resources (PUBLIC HEALTH & SAFETY OBJECTIVE 2, PH:2C).
+5. **Plant Additional Native Trees**
+   - **Objective/Action:** NR:1D
+   - **Climate Threat Addressed:** Urban heat island and stormwater management.
+   - **Details:**
+     - **Cost:** Not explicitly provided, implying it involves moderate to significant capital and program investments.
+     - **Timeframe:** Plant 30,000 additional trees by 2025.
+     - **Location:** Specifically targets neighborhoods in most need.
+     - **Attributes:** Increases canopy, reduces runoff, and mitigates urban heat.
 
-6. **Pilot a Microgrid to Increase Resilience of the Energy Grid**
-   - **Climate Threat Addressed:** Enhances the energy grid’s resilience to shocks and stressors related to climate change, such as extreme weather events.
-   - **Attributes:**
-     - **Cost:** Pilot project cost not specified.
-     - **Location:** Area of greatest need as determined by local assessments.
-     - **Other Attributes:** Part of increasing grid resilience through microgrids and efficiency (ENERGY, EN:2A).
+Each adaptation option aims to address specific climate threats through strategic planning, engaging multiple locations, and leveraging financial investments with varying cost implications indicated in the document. The enhancements target infrastructure resilience, community preparedness, stormwater management, and the urban environment to better cope with the anticipated impacts of climate change.
 
 ### Question: What climate policies does the plan identify to advance climate justice? For each climate policy, summarize: 1. The climate threat it is addressing. 2. Areas or populations with the most climate vulnerability to the identified climate hazard.
 **Answer:**
-The plan, Thrive Indianapolis, identifies several climate policies aimed at advancing climate justice by addressing specific climate threats and focusing on vulnerable populations:
+The plan identifies various climate policies aimed at advancing climate justice. Here are the summarized details for each:
 
-1. **Achieving Net Zero GHG Emissions by 2050**
-   - **Climate Threat:** Increased GHG emissions and their contribution to climate hazards, such as extreme weather.
-   - **Vulnerability Focus:** The plan recognizes that achieving net zero GHG emissions will help reduce climate hazards that disproportionately affect vulnerable populations. It emphasizes "increasing community resilience by prioritizing equity in policy, planning, and project implementation" (OVERARCHING GOALS).
+1. **Equitable Engagement Process**  
+   - **Climate Threat Addressed:** The plan recognizes that existing chronic stressors such as *"living at or below the federal poverty level, experiencing homelessness, living in high crime neighborhoods, being exposed to poor air quality, and having limited transportation options,"* are exacerbated by extreme weather events due to climate change.
+   - **Vulnerable Areas/Populations:** *"Those struggling with these chronic stressors are also going to be the ones most vulnerable to the impacts of climate change."* The focus is on ensuring that all community members, particularly those *"historically underrepresented,"* are engaged in the plan development.
 
-2. **Increasing Community Resilience**
-   - **Climate Threat:** Vulnerability to climate-induced extreme weather events.
-   - **Vulnerability Focus:** The plan highlights "increased resilience for socially vulnerable area populations" by using a Social Vulnerability Index. This identifies neighborhoods most at risk, ensuring equitable deployment of resources (PREPARING FOR A CHANGING CLIMATE; SOCIAL VULNERABILITY).
+2. **Social Vulnerability Index**  
+   - **Climate Threat Addressed:** The vulnerability to shocks, stressors, and the impacts of a changing climate, which includes factors like high temperatures and flooding.
+   - **Vulnerable Areas/Populations:** Identified through a Social Vulnerability Index, which combines *"12 socioeconomic factors"* and highlights areas and neighborhoods of greatest need for capital improvements. *"People living below 200% of the federal poverty level, adults aged 65 and over, youth under 18, no-vehicle households,"* among others, are identified as vulnerable.
 
-3. **Strengthening Public Health and Safety**
-   - **Climate Threat:** Extreme weather events and their impact on health.
-   - **Vulnerability Focus:** The plan aims to "increase community resilience through public health and safety measures that are equitably deployed," especially in neighborhoods identified as most vulnerable (PUBLIC HEALTH & SAFETY).
+3. **Tree Canopy Expansion**  
+   - **Climate Threat Addressed:** The urban heat island effect and extreme heat events.
+   - **Vulnerable Areas/Populations:** Areas outlined in a map with *"very high social vulnerability"* and those recorded as having maximum summertime temperatures. These areas are prioritized for enhancing the community's resilience through increased tree canopy.
 
-4. **Transportation and Land Use**
-   - **Climate Threat:** Poor air quality and transportation access during extreme climate events.
-   - **Vulnerability Focus:** Increasing affordable, multimodal transportation options specifically targets communities identified as most vulnerable via the Transportation Equity Index (TRANSPORTATION & LAND USE).
+4. **Increase Community Resilience by Prioritizing Equity**  
+   - **Climate Threat Addressed:** The overall threat of climate change impacting vulnerable communities.
+   - **Vulnerable Areas/Populations:** Focuses on *"socially vulnerable area populations,"* highlighting the importance of integrating equity in policy, planning, and project implementation to increase resilience.
 
-5. **Built Environment Resilience**
-   - **Climate Threat:** Infrastructure vulnerability to climate impacts.
-   - **Vulnerability Focus:** The plan ensures all new infrastructure is designed to be "resilient to anticipated impacts of climate change," prioritizing investments based on Vulnerability Assessment outcomes (BUILT ENVIRONMENT).
+These policies collectively aim to integrate climate justice by prioritizing those most vulnerable to the impacts of climate change, ensuring an equitable approach to resilience, adaptation, and mitigation strategies.
 
-6. **Social Vulnerability Assessments**
-   - **Climate Threat:** Broader impacts of climate change on socially vulnerable groups.
-   - **Vulnerability Focus:** The Social Vulnerability Index is applied to identify areas most in need of improvements, addressing how socio-economic factors increase vulnerability to climate shocks and stressors (CLIMATE IMPACTS AND SOCIAL VULNERABILITY).
-
-7. **Green Infrastructure**
-   - **Climate Threat:** Urban heat and poor air quality.
-   - **Vulnerability Focus:** Focuses on enhancing the tree canopy and increasing green spaces, particularly in neighborhoods with high social vulnerability to improve air quality and reduce the urban heat island effect (SOCIAL VULNERABILITY: HIGH TEMPERATURES).
-
-Each of these policies is anchored in the equitable engagement of communities, aiming to prioritize historically underrepresented populations by acknowledging the "inequities, disparities, and environmental injustices" faced by many Indianapolis residents (Thrive Indianapolis, Introduction).
 
 ### Question: Identify any potential unforeseen maladaptive climate policies. For each identified climate policy, summarize: 1. The climate threat it is addressing. 2. The resilience, mitigation, or adaptation option that the climate policy proposes. 3. Why it may cause inadvertent maladaption.
 **Answer:**
-Based on the content of the document provided (Thrive Indianapolis), the following potential unforeseen maladaptive climate policies can be identified:
+Based on the provided content from the "Thrive Indianapolis" plan, no explicit potential maladaptive climate policies are mentioned. However, there are a few areas where potential for maladaptation might be considered, although they are speculative:
 
-### **1. Green Spaces and Tree Planting**
+1. **Energy Efficiency in New Buildings**
 
-**Climate Threat Addressed:**
-- The increasing temperature contributing to urban heat islands and excessive stormwater runoff. 
+   - **Addressed Climate Threat:** The threat is the emission of greenhouse gases (GHGs) related to energy use in buildings, contributing to climate change.
+   - **Option Proposed:** "Require all new commercial construction to meet electric vehicle (EV) readiness requirements for 20% of parking spaces by 2020, with the goal of significantly increasing charging infrastructure at businesses and workplaces." (BE:1B)
+   - **Potential Maladaptation:** While the aim is to increase energy efficiency and promote electric vehicles (EVs), if the transition isn't paired with a corresponding increase in the clean energy supply for those vehicles, it could inadvertently lead to increased demand on current non-renewable energy sources, thus not effectively reducing overall GHG emissions.
 
-**Policy Proposed:**
-- **Resilience/Adaptation Option:** "Plant 30,000 additional native trees by 2025 to increase canopy, reduce runoff and mitigate against the urban heat island, particularly in those neighborhoods in most need." (NATURAL RESOURCES NR:1D)
+2. **Infrastructure Resilience**
 
-**Potential for Maladaptation:**
-- **Reason:** While the intent is to mitigate the urban heat island effect and manage runoff, there could be unintended consequences if the selected tree species or planting techniques do not account for future changes in climate conditions. Rapid changes in climate could render certain native species inappropriate or unable to withstand new temperature norms or pest pressures, leading to increased maintenance costs or even failure to thrive, thus failing to meet the intended outcomes.
+   - **Addressed Climate Threat:** Infrastructure vulnerability to climate change impacts like flooding and extreme weather events.
+   - **Option Proposed:** "Systematically integrate climate change projections into all future capital projects by 2020, ensuring new infrastructure can withstand current and projected impacts." (BE:2A)
+   - **Potential Maladaptation:** Prioritizing climate projections in infrastructure may lead to overspending on resilience for climate scenarios that may not fully materialize, thus diverting resources from pressing current social and environmental needs. Additionally, it may result in rigid infrastructure solutions that are less adaptable to changing conditions.
 
-### **2. Electric Vehicle (EV) Infrastructure**
+3. **Transportation Upgrades**
 
-**Climate Threat Addressed:**
-- Transportation sector emissions contributing to GHGs. 
+   - **Addressed Climate Threat:** Transportation-related GHG emissions and congestion.
+   - **Option Proposed:** "Continue to identify opportunities to create temporary pedestrian-only zones in our cultural and entertainment districts by 2020." (TL:1E)
+   - **Potential Maladaptation:** If these pedestrian zones reduce accessibility for individuals with limited mobility or do not consider equitable access to these areas, they could inadvertently increase social disparities or economic challenges for affected businesses.
 
-**Policy Proposed:**
-- **Mitigation Option:** "Require all new commercial construction to meet electric vehicle (EV) readiness requirements for 20% of parking spaces by 2020, with the goal of significantly increasing charging infrastructure at businesses and workplaces." (BUILT ENVIRONMENT BE:1B)
-
-**Potential for Maladaptation:**
-- **Reason:** Encouraging EV infrastructure could become maladaptive if the electricity used to charge the vehicles predominantly comes from non-renewable sources, thereby shifting the emissions from vehicle tailpipes to power plants without reducing overall GHG emissions. Furthermore, heavy investment in EV infrastructure could detract from necessary investments in public transportation or other sustainable transportation solutions, especially in socially vulnerable areas.
-
-### **3. Energy Resource Centers**
-
-**Climate Threat Addressed:**
-- General energy resilience to shocks and stressors.
-
-**Policy Proposed:**
-- **Resilience Option:** "Pilot the city’s first energy resource center by 2020, acting as a resilience hub for the neighborhood. In partnership with local utilities, this center would offer information about available energy efficiency incentives and rebates." (ENERGY EN:2B)
-
-**Potential for Maladaptation:**
-- **Reason:** There is a risk that the energy resource centers, if not designed inclusively, may fail to serve all community members, particularly in vulnerable populations. If the centers inadvertently exacerbate inequity by only benefiting those already positioned to capitalize on rebates and incentives, socioeconomic disparities could widen, undermining community resilience.
-
-By carefully considering the implementation of these policies with an eye toward inclusivity, equity, and flexibility in adapting to future climate conditions, potential maladaptation can be minimized.
+It is important to note that these points are speculative and based on potential critiques of the policies outlined. The actual impact would depend on their implementation and contextual factors within Indianapolis.
 
 ### Question: In what ways does the plan measure the success or failure of each adaptation, resilience, and mitigation option? List any specific metrics used, such as reductions in CO2 emissions, improvements in air quality, or other quantifiable impacts. Identify the exact units (e.g., tons, percentages, index values) mentioned in the plan for tracking these outcomes. Additionally, outline any concrete goals or targets set for each option, including deadlines or specific numerical objectives.
 **Answer:**
+### **Adaptation, Resilience, and Mitigation Metrics**
+
 **Built Environment:**
-
-- **Metrics for GHG Emissions:**
-  - GHG emissions from buildings: Reduction from baseline year 2016. 2016 data at 9,638,165 mtCO2e with a target of 7,710,532 mtCO2e by 2025. (*Tracking our Progress: Built Environment plan element*)
-
-- **Metrics for Energy Use:**
-  - Total building energy use: Measured in MMBTU with 2016 baseline of 88,509,707 MMBTU. (*Tracking our Progress: Built Environment plan element*)
-
-- **Metrics for Green and Energy Efficient Buildings:**
-  - Number of green buildings: Examples include LEED certified or Energy Star Rated buildings with targets provided for the baseline year 2013 - 170 and target year 2018 - 300. (*Output Metrics*)
-
-**Waste & Recycling:**
-
-- **Metrics for GHG Emissions from Waste:**
-  - Total GHG emissions from the waste sector: 2016 baseline of 44,794 MTCO2e and target data of 35,835 MTCO2e by 2025. (*Waste & Recycling plan element*)
-
-**Natural Resources:**
-
-- **Metrics for Air and Water Quality:**
-  - Number of days not meeting National Air Quality Standards: 2017 baseline of 7 days and 2025 target of 5 days.
-  - % of water quality samples that exceed Indiana Water Quality Standards for E.coli: 2018 baseline of 86% and 2025 target of 40%. (*Tracking our Progress: Natural Resources plan element*)
+- **Baseline and Targets for GHG Emissions from Buildings:**
+  - Baseline: 9,638,165 mtCO2e (2016)
+  - 2025 Target: Reduction in emissions (exact amount not specified)
+- **Energy Use Metrics:**
+  - Baseline: 88,509,707 MMBTU (2016)
+  - 2025 Target: Reduction to 70,807,766 MMBTU
+- **Green Building Metrics:**
+  - # of green buildings (LEED certified or Energy Star Rated)
+  - # of buildings disclosing energy use annually
 
 **Energy:**
-
-- **Metrics for Renewable Energy:**
-  - Percentage of municipal energy use from renewable sources: 8% in 2016 with a target of 25% by 2025.
-  - Percentage of renewable energy generation: 7% in 2017 with a target of 75% by 2025. (*Tracking our Progress: Energy plan element*)
+- **Renewable Energy Use:**
+  - Baseline: 8% of municipal energy use from renewable sources (2016)
+  - 2025 Target: 75%
+- **GHG Emissions from Energy Generation:**
+  - Baseline: 1,291,888 mtCO2e (2016)
+  
+**Waste & Recycling:**
+- **GHG Emissions from Waste Sector:**
+  - Baseline: 44,794 MTCO2e (2016)
+  - Target: Reduction to 35,835 MTCO2e
 
 **Transportation & Land Use:**
-
-- **Metrics for GHG Emissions from Transportation:**
-  - Total GHG emissions from the transportation sector: 2016 baseline of 4,947,294 MTCO2e and target of 3,957,835 MTCO2e by 2025. (*Transportation & Land Use plan element*)
-
-- **Metrics for Commuting:**
-  - % of commuters who drive alone: 2018 baseline of 85%. (*Transportation & Land Use plan element*)
-
-- **Metrics for Electric Vehicles:**
-  - Number of EVs registered in Indianapolis: Baseline year 2017 - 760 and target year 2025 - 3,040. (*Transportation & Land Use plan element*)
+- **GHG Emissions from Transportation Sector:**
+  - Baseline: 4,947,294 MTCO2e (2016)
+  - 2025 Target: Reduction to 3,957,835 MTCO2e
+- **Commuters Metrics:**
+  - % of commuters who drive alone
+  - Miles of bike lanes
+  - # of EVs registered
 
 **Public Health & Safety:**
+- **Air Quality Metrics:**
+  - # of annual days air quality impacts vulnerable populations
+  - % of adults who are overweight or obese
+  - % of children who are active at least 60 minutes per day
 
-- **Metrics for Air Quality and Vulnerable Populations:**
-  - Annual days air quality impacts vulnerable populations: 2016 baseline of 12 days reduced to a goal of 6 days by target years. (*Public Health & Safety plan element*)
+**Natural Resources:**
+- **Environmental Quality:**
+  - # of days not meeting National Air Quality Standards
+  - % of samples that exceed Indiana Water Quality Standards for E.coli
 
-- **Metrics for Physical Health:**
-  - % of adults who are overweight or obese: 67% in 2012 and target of 62% by 2025.
-  - % of children who are active at least 60 minutes per day: Baseline in 2018 - 78.3% with the target being consistent to the current rate or higher. (*Public Health & Safety plan element*)
-
-Each of these targets and metrics are aligned with deadlines primarily set for the year 2025 with many metrics being reported either annually or every three years to assess progress. These provide a comprehensive overview of the adaptation, resilience, and mitigation strategies outlined in Indianapolis' climate plan.
+**Concrete Goals and Targets:**
+- **ALL New Infrastructure:**
+  - Designed for resilience and to withstand climate impacts with priority on equity.
+  
+- **Energy Benchmarking:**
+  - Develop energy disclosure policy for buildings by 2020.
+  
+- **Renewable Energy Infrastructure:**
+  - Increase EV readiness in commercial construction for 20% of parking spaces by 2020.
+  
+- **Participation Goals:**
+  - 1,000 businesses in water conservation initiatives by 2022.
+  
+Each of these metrics and targets are intended to be tracked at specified intervals, with performance metrics reported every three years and output metrics reported annually. These measurements are critical for evaluating the effectiveness of the climate adaptation, resilience, and mitigation strategies outlined in the plan.
 
 ### Question: Generate a table that summarizes the following features from the document: Location/City Name, Population, Threats Identified, Measures Identified
 **Answer:**
 ```markdown
-| **Feature**              | **Details**                                                                                                                                               |
-|------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Location/City Name**   | Indianapolis                                                                                                                                             |
-| **Population**           | Details about the population are not explicitly provided in the excerpts.                                                                                |
-| **Threats Identified**   | - Extreme weather events such as torrential rains contributing to flooding. <br> - Temperature increases leading to poor air quality.                     |
-| **Measures Identified**  | - Increase community resilience through public health & safety measures. <br> - Launching a coordinated preparedness campaign. <br> - Achieve net zero GHG emissions by 2050. <br> - Require new commercial construction to meet EV readiness for 20% of parking by 2020. <br> - Achieve net zero greenhouse gas (GHG) emissions by 2050.                                                             |
+| Feature             | Details                                                                                                            |
+|---------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Location/City Name** | **Indianapolis**                                                                                                 |
+| **Population**          | "despite the total population growing approximately 4% from 2010 to 2016" (Introduction)                       |
+| **Threats Identified**  | - Extreme weather events (e.g., torrential rains, flooding) (Introduction)                                       |
+|                         | - Poor air quality and health impacts (e.g., impact on young, older adults, asthmatics) (Climate Change & Indianapolis) |
+|                         | - Heat, ozone, and mosquito-related illnesses (Public Health & Safety)                                          |
+| **Measures Identified** | - Increase multimodal transportation options (Transportation & Land Use)                                        |
+|                         | - Launch a coordinated preparedness campaign (Public Health & Safety)                                           |
+|                         | - Pilot energy resource centers (Public Health & Safety)                                                        |
+|                         | - Transition to energy efficiency and natural gas from coal power (Energy)                                      |
+|                         | - Develop and deploy stormwater and water quality education programs (Natural Resources)                        |
+|                         | - Plant 30,000 native trees by 2025 (Natural Resources)                                                         |
+|                         | - Develop a Community Health Improvement Plan (Public Health & Safety)                                         |
 ```
