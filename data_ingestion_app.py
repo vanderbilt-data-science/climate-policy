@@ -164,5 +164,8 @@ if uploaded_files:
                 
                 subprocess.run(["python", "maps_helpers/maps_data.py"])
                 st.write("Maps data re-created.")
+
+                subprocess.run(["python", "region_vectorstores.py"])
+                st.write("Region vectorstores created.")
             
             st.success("All files processed successfully!")
