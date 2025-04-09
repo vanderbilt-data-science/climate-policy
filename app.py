@@ -23,6 +23,10 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 
+# Set the page config immediately after importing streamlit
+st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
+st.title("Climate Policy Tracker")
+
 # ------------------------------------------------------------------------------
 # LOAD DATA FILES
 # ------------------------------------------------------------------------------
@@ -48,11 +52,6 @@ REGION_COLORS = {
     9: "#999999",
     10: "#66c2a5"
 }
-
-# Set the page config immediately after importing streamlit
-st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
-st.title("Climate Policy Tracker")
-
 # ------------------------------------------------------------------------------
 # HELPER FUNCTIONS FOR PDF VIEWER
 # ------------------------------------------------------------------------------
