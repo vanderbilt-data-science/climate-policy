@@ -1,12 +1,9 @@
 import os
 import re
+import base64
 from tempfile import NamedTemporaryFile
 
 import streamlit as st
-
-# Set the page config immediately after importing streamlit
-st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
-
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
@@ -52,7 +49,52 @@ REGION_COLORS = {
     10: "#66c2a5"
 }
 
+# Set the page config immediately after importing streamlit
+st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
 st.title("Climate Policy Tracker")
+
+# ------------------------------------------------------------------------------
+# HELPER FUNCTIONS FOR PDF VIEWER
+# ------------------------------------------------------------------------------
+def show_pdf(file_path):
+    """
+    Reads a PDF file and displays it in an embedded iframe.
+    """
+    try:
+        with open(file_path, "rb") as f:
+            base64_pdf = base64.b64encode(f.read()).decode("utf-8")
+        pdf_display = (
+            f'<iframe src="data:application/pdf;base64,{base64_pdf}" '
+            f'width="700" height="1000" type="application/pdf"></iframe>'
+        )
+        st.markdown(pdf_display, unsafe_allow_html=True)
+    except Exception as e:
+        st.error(f"Could not load PDF: {e}")
+
+def set_viewing_pdf(pdf_path):
+    st.session_state["viewing_pdf"] = pdf_path
+
+def display_pdf_links(plan_list, state_abbr="CA", folder="CAPS"):
+    """
+    For each plan in plan_list, display a button. When clicked, the PDF file name is constructed
+    and its full filepath (from `folder`) is saved into session state using an on_click callback.
+    """
+    if plan_list:
+        for idx, plan in enumerate(plan_list):
+            file_name = plan
+            if not file_name.lower().endswith(".pdf"):
+                parts = [part.strip() for part in plan.split(",")]
+                if len(parts) == 3:
+                    # Expected format: City, Year, Plan Type.
+                    file_name = f"{parts[0]}, {state_abbr} {parts[2]} {parts[1]}.pdf"
+                else:
+                    # Fallback: simply append the .pdf extension.
+                    file_name = plan + ".pdf"
+            pdf_path = os.path.join(folder, file_name)
+            # Append the index to the key to ensure uniqueness
+            st.button(plan, key=f"pdf_{plan}_{idx}", on_click=set_viewing_pdf, args=(pdf_path,))
+    else:
+        st.write("None")
 
 # ------------------------------------------------------------------------------
 # API KEYS INPUT
@@ -61,24 +103,27 @@ openai_api_key = st.text_input("OpenAI API Key", type="password")
 anthropic_api_key = st.text_input("Anthropic API Key", type="password")
 
 # ------------------------------------------------------------------------------
-# TABS SETUP
+# TABS SETUP (Added a new tab for Plan Insights)
 # ------------------------------------------------------------------------------
 (maps_tab, summary_tab, multi_plan_qa_tab, 
- document_qa_tab, plan_comparison_tab) = st.tabs([
+ document_qa_tab, plan_comparison_tab, plan_insights_tab) = st.tabs([
     "Maps",
     "Summary Generation",
     "Multi-Plan Q&A",
     "Document Q&A Tool",
-    "Plan Comparison Tool"
+    "Plan Comparison Tool",
+    "Plan Insights"
 ])
 
+# ------------------------------------------------------------------------------
+# TAB 1: MAPS
+# ------------------------------------------------------------------------------
 with maps_tab:
+    # --------------------------------------------------------------------------
+    # STATE-LEVEL POLICY TRACKER
+    # --------------------------------------------------------------------------
     state_tab, county_tab = st.tabs(["State-Level Policy Tracker", "County-Level Policy Tracker"])
 
-
-    # ------------------------------------------------------------------------------
-    # TAB 1: STATE-LEVEL POLICY TRACKER
-    # ------------------------------------------------------------------------------
     with state_tab:
         st.subheader("State Map")
         # Initialize state map with no default tiles; add an OpenStreetMap layer.
@@ -118,10 +163,15 @@ with maps_tab:
         add_city_markers(m_state)
         folium.LayerControl(collapsed=False).add_to(m_state)
 
-        # Define a three-column layout for additional info, the map, and the legend.
+        # Define a three-column layout for additional info, the map, and the right column.
         cols_state = st.columns([3, 6, 1])
         with cols_state[1]:
             st_data_state = st_folium(m_state, width=900, height=650)
+            if st.session_state.get("viewing_pdf"):
+                with st.expander("PDF Viewer", expanded=True):
+                    pdf_file = st.session_state["viewing_pdf"]
+                    st.write("Viewing:", os.path.basename(pdf_file))
+                    show_pdf(pdf_file)
         
         with cols_state[0]:
             st.markdown("### Additional Information")
@@ -130,11 +180,11 @@ with maps_tab:
                 state_name = props.get("NAME", "N/A")
                 population = props.get("POP_TT", "N/A")
                 fips = props.get("STATE_FIPS", "N/A")
-                state_abbr = props.get("STATE_ABBR", "N/A")
+                state_abbr = props.get("STATE_ABBR", "CA")
                 n_caps = props.get("n_caps", 0)
                 epa_region = props.get("EPA_REGION", "N/A")
                 plan_list = props.get("plan_list", [])
-                
+
                 st.write("**State:**", state_name)
                 st.write("**Population:**", population)
                 st.write("**FIPS:**", fips)
@@ -142,11 +192,7 @@ with maps_tab:
                 st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
                 
                 with st.expander("Cities with Climate Action Plans:"):
-                    if plan_list:
-                        for plan in plan_list:
-                            st.write(plan)
-                    else:
-                        st.write("None")
+                    display_pdf_links(plan_list, state_abbr=state_abbr)
                 
                 # (Additional risk index and FEMA risk info displayed in expanders)
                 with st.expander("NRI Future Risk Index (Higher Warming Pathway):"):
@@ -234,14 +280,6 @@ with maps_tab:
                     f"Late-Century Drought Risk (Percentile): {props.get('DRGT_LATE_HIGHER_PRISKS', 'N/A')}\n"
                     f"Mid-Century Drought Hazard Multiplier: {props.get('DRGT_MID_HIGHER_HM', 'N/A')}\n"
                     f"Late-Century Drought Hazard Multiplier: {props.get('DRGT_LATE_HIGHER_HM', 'N/A')}\n"
-                    f"Mid-Century Hurricane Risk (Percentile): {props.get('HRCN_MID_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Late-Century Hurricane Risk (Percentile): {props.get('HRCN_LATE_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Mid-Century Hurricane Hazard Multiplier: {props.get('HRCN_MID_HIGHER_HM', 'N/A')}\n"
-                    f"Late-Century Hurricane Hazard Multiplier: {props.get('HRCN_LATE_HIGHER_HM', 'N/A')}\n"
-                    f"Mid-Century Extreme Heat Risk (Percentile): {props.get('EXHT_L95_MID_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Late-Century Extreme Heat Risk (Percentile): {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Mid-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
-                    f"Late-Century Extreme Heat Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
                     f"FEMA Risk Profile:\n"
                     f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
                     f"Disaster Loss ($/year): {props.get('EAL_VALT', 'N/A')}\n"
@@ -266,7 +304,7 @@ with maps_tab:
                     f"Annual Landslide Loss ($/year): {props.get('LNDS_EALT', 'N/A')}\n"
                     f"Annual Landslide Loss (Percentile): {props.get('LNDS_EALS', 'N/A')}\n"
                     f"Annual River Flooding Loss ($/year): {props.get('RFLD_EALT', 'N/A')}\n"
-                    f"Annual River Flooding Loss (Percentile): {props.get('RFLD_EALS', 'N/A')}\n"
+                    f"Annual River Flooding Loss (Percentile): {props.get('RFLD_EALS', 'N/A')}\n"   
                     f"Annual Wind Loss ($/year): {props.get('SWND_EALT', 'N/A')}\n"
                     f"Annual Wind Loss (Percentile): {props.get('SWND_EALS', 'N/A')}\n"
                     f"Annual Tornado Loss ($/year): {props.get('TRND_EALT', 'N/A')}\n"
@@ -300,9 +338,9 @@ with maps_tab:
             legend_html = generate_legend_html(REGION_COLORS)
             st.markdown(legend_html, unsafe_allow_html=True)
 
-    # ------------------------------------------------------------------------------
-    # TAB 2: COUNTY-LEVEL POLICY TRACKER
-    # ------------------------------------------------------------------------------
+    # --------------------------------------------------------------------------
+    # COUNTY-LEVEL POLICY TRACKER
+    # --------------------------------------------------------------------------
     with county_tab:
         st.subheader("County Map")
         # Initialize county map with no default tiles; add an OpenStreetMap layer.
@@ -342,10 +380,15 @@ with maps_tab:
         add_city_markers(m_county)
         folium.LayerControl(collapsed=False).add_to(m_county)
 
-        # Define a three-column layout for county info, map, and legend.
+        # Define a three-column layout for county info, map, and the right column.
         cols_county = st.columns([3, 6, 1])
         with cols_county[1]:
             st_data_county = st_folium(m_county, width=900, height=650)
+            if st.session_state.get("viewing_pdf"):
+                with st.expander("PDF Viewer", expanded=True):
+                    pdf_file = st.session_state["viewing_pdf"]
+                    st.write("Viewing:", os.path.basename(pdf_file))
+                    show_pdf(pdf_file)
         
         with cols_county[0]:
             st.markdown("### Additional Information")
@@ -355,7 +398,7 @@ with maps_tab:
                 population = props.get("POP_TT", "N/A")
                 fips = props.get("FIPS_TT", "N/A")
                 n_caps = props.get("n_caps", 0)
-                state_abbr = props.get("STATE_ABBR", "N/A")
+                state_abbr = props.get("STATE_ABBR", "CA")
                 plan_list = props.get("plan_list", [])
                 
                 st.write("**County:**", county_name)
@@ -364,11 +407,7 @@ with maps_tab:
                 st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
                 
                 with st.expander("Cities with Climate Action Plans:"):
-                    if plan_list:
-                        for plan in plan_list:
-                            st.write(plan)
-                    else:
-                        st.write("None")
+                    display_pdf_links(plan_list, state_abbr=state_abbr)
                 
                 with st.expander("#### NRI Future Risk Index (Higher Warming Pathway):"):
                     st.write("**Coastal Flooding Mid-Century Projected Risk:**", props.get("CFLD_MID_HIGHER_PRISKS", "N/A"))
@@ -455,14 +494,6 @@ with maps_tab:
                     f"Drought Late-Century Projected Risk: {props.get('DRGT_LATE_HIGHER_PRISKS', 'N/A')}\n"
                     f"Drought Mid-Century Hazard Multiplier: {props.get('DRGT_MID_HIGHER_HM', 'N/A')}\n"
                     f"Drought Late-Century Hazard Multiplier: {props.get('DRGT_LATE_HIGHER_HM', 'N/A')}\n"
-                    f"Hurricane Mid-Century Projected Risk: {props.get('HRCN_MID_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Hurricane Late-Century Projected Risk: {props.get('HRCN_LATE_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Hurricane Mid-Century Hazard Multiplier: {props.get('HRCN_MID_HIGHER_HM', 'N/A')}\n"
-                    f"Hurricane Late-Century Hazard Multiplier: {props.get('HRCN_LATE_HIGHER_HM', 'N/A')}\n"
-                    f"Extreme Heat Mid-Century Projected Risk: {props.get('EXHT_L95_MID_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Extreme Heat Late-Century Projected Risk: {props.get('EXHT_L95_LATE_HIGHER_PRISKS', 'N/A')}\n"
-                    f"Extreme Heat Mid-Century Hazard Multiplier: {props.get('EXHT_L95_MID_HIGHER_HM', 'N/A')}\n"
-                    f"Extreme Heat Late-Century Hazard Multiplier: {props.get('EXHT_L95_LATE_HIGHER_HM', 'N/A')}\n"
                     f"FEMA Risk Profile:\n"
                     f"Disaster Risk (Percentile): {props.get('RISK_SCORE', 'N/A')}\n"
                     f"Disaster Risk (Percentile, relative to state): {props.get('RISK_SPCTL', 'N/A')}\n"
@@ -523,7 +554,7 @@ with maps_tab:
             st.markdown(legend_html, unsafe_allow_html=True)
 
 # ------------------------------------------------------------------------------
-# TAB 3: SUMMARY GENERATION
+# TAB 2: SUMMARY GENERATION
 # ------------------------------------------------------------------------------
 with summary_tab:
     st.header("Summary Generation")
@@ -571,7 +602,7 @@ with summary_tab:
                     st.error(f"An error occurred: {e}")
 
 # ------------------------------------------------------------------------------
-# TAB 4: MULTI-PLAN Q&A
+# TAB 3: MULTI-PLAN Q&A
 # ------------------------------------------------------------------------------
 with multi_plan_qa_tab:
     st.header("Multi-Plan Q&A")
@@ -614,7 +645,7 @@ with multi_plan_qa_tab:
                     st.error(f"An error occurred: {e}")
 
 # ------------------------------------------------------------------------------
-# TAB 5: DOCUMENT Q&A TOOL
+# TAB 4: DOCUMENT Q&A TOOL
 # ------------------------------------------------------------------------------
 with document_qa_tab:
     st.header("Document Q&A Tool")
@@ -669,7 +700,7 @@ with document_qa_tab:
             st.warning("Please provide your OpenAI API key and select a focus plan.")
 
 # ------------------------------------------------------------------------------
-# TAB 6: PLAN COMPARISON TOOL
+# TAB 5: PLAN COMPARISON TOOL
 # ------------------------------------------------------------------------------
 with plan_comparison_tab:
     st.header("Plan Comparison Tool")
@@ -771,3 +802,20 @@ with plan_comparison_tab:
                         )
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
+
+# ------------------------------------------------------------------------------
+# TAB 6: PLAN INSIGHTS
+# ------------------------------------------------------------------------------
+with plan_insights_tab:
+    st.header("Plan Insights")
+    try:
+        # Load the CSV file without headers
+        df_plans = pd.read_csv("climate_action_plans_dataset.csv")
+        # Assign the desired column names
+        df_plans.columns = [
+            "City Name", "State Name", "Year", "Plan Type", 
+            "Top Threats Identified", "Adaptation Measures", "Mitigation Measures", "Resilience Measures"
+        ]
+        st.dataframe(df_plans)
+    except Exception as e:
+        st.error(f"Error loading CSV: {e}")
