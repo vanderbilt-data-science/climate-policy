@@ -1,6 +1,4 @@
 City,State,County,Latitude,Longitude
-Alameda,CA,Alameda County,37.6090291,-121.899142
-Albany,CA,Alameda County,37.8871621,-122.298351
 Albany,NY,Albany County,42.6511674,-73.754968
 Albuquerque,NM,Bernalillo County,35.0841034,-106.650985
 Alexandria,VA,Alexandria city,38.8051095,-77.0470229
@@ -112,10 +110,11 @@ St. Louis,MO,St. Louis city,38.6280278,-90.1910154
 St. Petersburg,FL,Pinellas County,27.7700475,-82.6359078
 Tallahassee,FL,Leon County,30.4380832,-84.2809332
 Tampa,FL,Hillsborough County,27.9477595,-82.458444
-Washington,DC,District of Columbia,38.8950368,-77.0365427
 Winston-Salem,NC,Forsyth County,36.0998131,-80.2440518
 New York,NY,New York County,40.7127281,-74.0060152
 New York,NY,Kings County,40.7127281,-74.0060152
 New York,NY,Queens County,40.7127281,-74.0060152
 New York,NY,Bronx County,40.7127281,-74.0060152
 New York,NY,Oneida County,40.7127281,-74.0060152
+Washington,DC,District of Columbia,38.8950368,-77.0365427
+Alameda,CA,Alameda County,37.6090291,-121.899142

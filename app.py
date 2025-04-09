@@ -132,11 +132,13 @@ with maps_tab:
                 fips = props.get("STATE_FIPS", "N/A")
                 state_abbr = props.get("STATE_ABBR", "N/A")
                 n_caps = props.get("n_caps", 0)
+                epa_region = props.get("EPA_REGION", "N/A")
                 plan_list = props.get("plan_list", [])
                 
                 st.write("**State:**", state_name)
                 st.write("**Population:**", population)
                 st.write("**FIPS:**", fips)
+                st.write("**EPA Region:**", f"{int(epa_region)}")
                 st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
                 
                 with st.expander("Cities with Climate Action Plans:"):
@@ -217,6 +219,7 @@ with maps_tab:
                     f"State: {state_name}\n"
                     f"Population: {population}\n"
                     f"FIPS: {fips}\n"
+                    f"EPA Region: {epa_region}\n"
                     f"Climate Action Plans: {', '.join(plan_list) if plan_list else 'No climate action plans'}\n"
                     f"NRI Future Risk Index (Higher Warming Pathway):\n"
                     f"Mid-Century Coastal Flooding Risk (Percentile): {props.get('CFLD_MID_HIGHER_PRISKS', 'N/A')}\n"
@@ -286,7 +289,7 @@ with maps_tab:
                 if st.button("Submit State Query", key="state_submit"):
                     if openai_api_key and user_question:
                         # Call the new maps_qa function (formerly answer_question)
-                        result = maps_qa(openai_api_key, user_question, extra_context, plan_list, state_abbr)
+                        result = maps_qa(openai_api_key, user_question, extra_context, plan_list, state_abbr, epa_region)
                         st.write(result)
                     else:
                         st.error("Please provide both an API key and a question.")
