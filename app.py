@@ -1,8 +1,8 @@
 import streamlit as st
 
 # Set the page config immediately after importing streamlit
-st.set_page_config(page_title="Climate Policy Tracker", layout="wide")
-st.title("Climate Policy Tracker")
+st.set_page_config(page_title="Climate Adaptation & Resilience Analyzer", layout="wide")
+st.title("Climate Adaptation & Resilience Analyzer")
 
 import os
 import re
@@ -96,24 +96,44 @@ def display_pdf_links(plan_list, state_abbr="CA", folder="CAPS"):
         st.write("None")
 
 # ------------------------------------------------------------------------------
+# INTRO TEXT
+# ------------------------------------------------------------------------------
+st.markdown("""
+### Welcome to the Climate Adaptation & Resilience Analyzer
+
+This platform is a collection of integrated tools designed to support evidence-based climate planning, policy evaluation, and strategy development across the United States. It leverages artificial intelligence (AI), geospatial analysis, and document understanding to help users navigate and interpret a large corpus of local climate action and adaptation plans.
+
+The Climate Adaptation & Resilience Analyzer enables users to:
+
+- Explore national, state, and county-level **climate risk data and policy coverage** through interactive geospatial maps
+- **Generate structured reports** from uploaded or existing climate action plans
+- **Query** individual plans or entire document collections using natural language
+- **Compare plans** across jurisdictions to evaluate strategic differences and shared approaches
+- Access a **structured dataset** summarizing responses to standardized analytical questions
+
+This suite of tools is intended for climate researchers, urban planners, policymakers, and practitioners seeking to understand and advance local climate resilience efforts. It supports both retrospective review of existing plans and the design of forward-looking strategies grounded in real-world policy examples.
+
+To enable AI-powered features such as document querying and report generation, an **OpenAI API key** is required. You can obtain one [here](https://platform.openai.com/api-keys).
+""")
+
+# ------------------------------------------------------------------------------
 # API KEYS INPUT
 # ------------------------------------------------------------------------------
 openai_api_key = st.text_input("OpenAI API Key", type="password")
-anthropic_api_key = st.text_input("Anthropic API Key", type="password")
+anthropic_api_key = st.text_input("Anthropic API Key (Optional, required if using Long Context Models for Plan Comparison)", type="password")
 
 # ------------------------------------------------------------------------------
 # TABS SETUP (Added a new tab for Plan Insights)
 # ------------------------------------------------------------------------------
 (maps_tab, summary_tab, multi_plan_qa_tab, 
  document_qa_tab, plan_comparison_tab, plan_insights_tab) = st.tabs([
-    "Maps",
-    "Summary Generation",
-    "Multi-Plan Q&A",
-    "Document Q&A Tool",
-    "Plan Comparison Tool",
-    "Plan Insights"
+    "Geospatial Policy Explorer",           # State & county-level maps with risk + plan querying
+    "Climate Plan Report Generator",        # Generate or view structured reports
+    "Cross-Plan Knowledge Query",           # Ask questions across the full corpus
+    "Single-Plan Query Assistant",          # Ask detailed questions about one specific plan
+    "Comparative Policy Analysis",          # Compare focus plan vs. others
+    "Dataset Overview & Insights"           # Tabular view of plan content and metadata
 ])
-
 # ------------------------------------------------------------------------------
 # TAB 1: MAPS
 # ------------------------------------------------------------------------------
@@ -121,10 +141,35 @@ with maps_tab:
     # --------------------------------------------------------------------------
     # STATE-LEVEL POLICY TRACKER
     # --------------------------------------------------------------------------
+    st.markdown("""
+        # State and County Level Policy Trackers
+        
+        These two interactive tools allow users to explore the geographic distribution of climate action plans across the United States and gain deep insights into both plan content and place-based climate data.
+
+        Using the built-in maps, you can:
+
+        - Identify which states and counties have climate action plans.
+        - Access and view those plans directly in the platform.
+        - Query plans and locations using natural language powered by GPT-4o.
+        - Compare local risks (e.g., wildfire, flooding, heat, drought), FEMA risk profiles, and environmental justice indicators.
+        - Analyze areas even if they do not yet have a formal climate plan, using external data integrated into the map layers.
+        - The QA tool is powered by GPT-4o. It has access to detailed information about each plan in the selected locale, high level information about climate action plans in the EPA region, external data, higher-level information about climate action plans acrouss the United States
+
+        How to Use
+
+        - Click on any state or county on the map to bring up its associated data.
+        - View available Climate Action Plans (CAPs) for that region and open them in the built-in PDF viewer.
+        - View the distribution of climate action plans across the United States using the City Markers.
+        - Enter your OpenAI API key to enable the query engine.
+        - Type in a question — the more specific and detailed, the better.
+        - Example: “What climate hazards is this county most at risk for in the mid-century under a high emissions scenario?”
+        - Submit your query to receive an AI-generated response grounded in both the policy documents and the location’s climate data.""")
+
+
     state_tab, county_tab = st.tabs(["State-Level Policy Tracker", "County-Level Policy Tracker"])
 
     with state_tab:
-        st.subheader("State Map")
+
         # Initialize state map with no default tiles; add an OpenStreetMap layer.
         m_state = folium.Map(location=[35.3, -97.6], zoom_start=4, tiles=None)
         folium.TileLayer("OpenStreetMap", control=False).add_to(m_state)
@@ -165,6 +210,7 @@ with maps_tab:
         # Define a three-column layout for additional info, the map, and the right column.
         cols_state = st.columns([3, 6, 1])
         with cols_state[1]:
+            st.subheader("US State Map")
             st_data_state = st_folium(m_state, width=900, height=650)
             if st.session_state.get("viewing_pdf"):
                 with st.expander("PDF Viewer", expanded=True):
@@ -341,7 +387,7 @@ with maps_tab:
     # COUNTY-LEVEL POLICY TRACKER
     # --------------------------------------------------------------------------
     with county_tab:
-        st.subheader("County Map")
+        
         # Initialize county map with no default tiles; add an OpenStreetMap layer.
         m_county = folium.Map(location=[35.3, -97.6], zoom_start=4, tiles=None)
         folium.TileLayer("OpenStreetMap", control=False).add_to(m_county)
@@ -382,6 +428,7 @@ with maps_tab:
         # Define a three-column layout for county info, map, and the right column.
         cols_county = st.columns([3, 6, 1])
         with cols_county[1]:
+            st.subheader("United States County Map")
             st_data_county = st_folium(m_county, width=900, height=650)
             if st.session_state.get("viewing_pdf"):
                 with st.expander("PDF Viewer", expanded=True):
@@ -552,70 +599,142 @@ with maps_tab:
             legend_html = generate_legend_html(REGION_COLORS)
             st.markdown(legend_html, unsafe_allow_html=True)
 
+import glob
+
 # ------------------------------------------------------------------------------
-# TAB 2: SUMMARY GENERATION
+# TAB 2: CLIMATE PLAN REPORT GENERATOR
 # ------------------------------------------------------------------------------
 with summary_tab:
-    st.header("Summary Generation")
-    uploaded_file = st.file_uploader(
-        "Upload a Climate Action Plan in PDF format",
-        type="pdf",
-        key="upload_file"
+    st.markdown("""
+    # Climate Plan Report Generator
+
+    This tool enables users to generate structured, high-level reports from local Climate Action Plans. Using a set of predefined analytical questions, the system extracts key insights related to climate adaptation, mitigation, and resilience strategies.
+
+    Users can either:
+    - **Upload a new PDF document** to generate a report using AI
+    - **Select an existing report** generated from a previous upload
+
+    These reports are designed to support planning, policy development, and comparative research by offering a concise overview of local climate strategies.
+
+    To use this tool:
+    1. Enter your **OpenAI API key**
+    2. Upload a **PDF climate action plan** or select from existing reports
+    3. Click **Generate** to create a structured report
+
+    The more complete and detailed the source document, the more comprehensive the resulting report will be.
+    """)
+
+
+    # Two options: Load from existing reports or upload a new plan
+    report_mode = st.radio(
+        "Select how you'd like to generate or view a report:",
+        ("Load from existing reports", "Upload a new plan"),
+        key="report_mode_selector"
     )
 
-    # Set file paths for prompt and questions
-    prompt_file_path = "Prompts/summary_tool_system_prompt.md"
-    questions_file_path = "Prompts/summary_tool_questions.md"
+    import re
 
-    if st.button("Generate", key="generate_button"):
-        if not openai_api_key:
-            st.warning("Please provide your OpenAI API key.")
-        elif not uploaded_file:
-            st.warning("Please upload a PDF file.")
-        else:
-            display_placeholder = st.empty()
-            with st.spinner("Processing..."):
+    if report_mode == "Load from existing reports":
+        # List available markdown summaries
+        summary_files = sorted(glob.glob("CAPS_Summaries/*_Summary.md"))
+
+        if summary_files:
+            # Create a display-friendly name and map it to the real filename
+            display_name_to_file = {
+                re.sub(r"_Summary\.md$", "", os.path.basename(f)).replace("_", " "): f
+                for f in summary_files
+            }
+
+            selected_display_name = st.selectbox("Select a report to view:", list(display_name_to_file.keys()))
+
+            if selected_display_name:
+                file_path = display_name_to_file[selected_display_name]
                 try:
-                    # Call the new summary_generation function
-                    results = summary_generation(
-                        openai_api_key,
-                        uploaded_file,
-                        questions_file_path,
-                        prompt_file_path,
-                        display_placeholder
-                    )
-                    markdown_text = "\n".join(results)
+                    with open(file_path, "r") as f:
+                        summary_md = f.read()
+                    with st.expander("Report", expanded=True):
+                        st.markdown(summary_md, unsafe_allow_html=False)
 
-                    # Use the uploaded file's base name for the download file
-                    base_name = os.path.splitext(uploaded_file.name)[0]
-                    download_file_name = f"{base_name}_Summary.md"
-
-                    st.download_button(
-                        label="Download Results as Markdown",
-                        data=markdown_text,
-                        file_name=download_file_name,
-                        mime="text/markdown",
-                        key="download_button"
-                    )
                 except Exception as e:
-                    st.error(f"An error occurred: {e}")
+                    st.error(f"Could not load the summary: {e}")
+        else:
+            st.info("No reports found in the CAPS_Summaries folder.")
+
+    elif report_mode == "Upload a new plan":
+        uploaded_file = st.file_uploader(
+            "Upload a Climate Action Plan in PDF format",
+            type="pdf",
+            key="upload_file"
+        )
+
+        # Set file paths for prompt and questions
+        prompt_file_path = "Prompts/summary_tool_system_prompt.md"
+        questions_file_path = "Prompts/summary_tool_questions.md"
+
+        if st.button("Generate", key="generate_button"):
+            if not openai_api_key:
+                st.warning("Please provide your OpenAI API key.")
+            elif not uploaded_file:
+                st.warning("Please upload a PDF file.")
+            else:
+                display_placeholder = st.empty()
+                with st.spinner("Processing..."):
+                    try:
+                        # Call the new summary_generation function
+                        results = summary_generation(
+                            openai_api_key,
+                            uploaded_file,
+                            questions_file_path,
+                            prompt_file_path,
+                            display_placeholder
+                        )
+                        markdown_text = "\n".join(results)
+
+                        # Use the uploaded file's base name for the download file
+                        base_name = os.path.splitext(uploaded_file.name)[0]
+                        download_file_name = f"{base_name}_Report.md"
+
+                        st.download_button(
+                            label="Download Results as Markdown",
+                            data=markdown_text,
+                            file_name=download_file_name,
+                            mime="text/markdown",
+                            key="download_button"
+                        )
+                    except Exception as e:
+                        st.error(f"An error occurred: {e}")
 
 # ------------------------------------------------------------------------------
 # TAB 3: MULTI-PLAN Q&A
 # ------------------------------------------------------------------------------
 with multi_plan_qa_tab:
-    st.header("Multi-Plan Q&A")
-    st.markdown(
-        "This tool answers questions using information from all plans in the database. "
-        "Use it to answer general questions about the plans and their strategies. "
-        "For questions about a specific plan, use the Document Q&A Tool."
-    )
+    st.markdown("""
+    # Cross-Plan Knowledge Query
+
+    This tool enables users to ask natural language questions across a curated corpus of over 100 local Climate Action and Adaptation Plans from across the United States.
+
+    By leveraging Retrieval-Augmented Generation (RAG), it identifies relevant content from multiple plans and synthesizes a coherent, evidence-based response. This supports comparative research, pattern identification, and discovery of best practices in local climate policy.
+
+    #### Retrieval Methods
+    The tool offers two retrieval strategies for generating responses:
+
+    - **Single-Index Retrieval (Efficient Search):**  
+    A unified vector store is created from all plans. Relevant content is retrieved globally from this pooled index, offering faster response times and high-relevance results.  
+    *Recommended for broad, general questions.*
+
+    - **Per-Document Retrieval (Greedy Search):**  
+    Top-matching text segments are retrieved individually from each document before generating a response. This ensures balanced representation across plans but may increase processing time.  
+    *Recommended for detailed or comparative queries.*
+
+    #### How to Use:
+    1. Enter your **OpenAI API key**
+    2. Enter a question (e.g., *"How are communities addressing wildfire risk?"*)
+    3. Select a retrieval method
+    4. Click **Ask** to generate a synthesized response
+    """)
+
     input_text = st.text_input("Ask a question:", key="multi_plan_input")
     st.markdown("### Search Method")
-    st.markdown(
-        "The **Efficient** method uses a single shared vector store across all plans. "
-        "The **Greedy** method uses multiple vector stores to retrieve the most relevant chunks for each plan."
-    )
     search_method = st.radio("Select a search method: ", ["Efficient", "Greedy"])
     if st.button("Ask", key="multi_plan_qa_button"):
         if not openai_api_key:
@@ -647,7 +766,30 @@ with multi_plan_qa_tab:
 # TAB 4: DOCUMENT Q&A TOOL
 # ------------------------------------------------------------------------------
 with document_qa_tab:
-    st.header("Document Q&A Tool")
+    st.markdown("""
+    # Single-Plan Query Assistant
+
+    This tool enables users to interact directly with a single Climate Action or Adaptation Plan using natural language queries. Responses are grounded exclusively in the selected document, allowing for precise and document-specific analysis.
+
+    Users can either:
+    - **Select an existing processed plan** from the document library  
+    - **Upload a new PDF document**, which is temporarily processed for querying
+
+    The assistant leverages Retrieval-Augmented Generation (RAG), combining semantic search with large language models to extract relevant information from the plan in response to user queries.
+
+    This tool is particularly useful for:
+    - Reviewing the contents of individual plans in depth
+    - Extracting information on specific themes, strategies, or metrics
+    - Supporting local planning processes or academic analysis
+
+    #### How to Use:
+    1. Enter your **OpenAI API key**
+    2. Select a plan from the library or upload a new document
+    3. Ask questions in natural language (e.g., *“What are the key adaptation strategies?”*)
+    4. The assistant will return grounded answers based only on the selected plan
+
+    Previous interactions are shown in a conversational thread to support iterative exploration.
+    """)
 
     # Get list of existing vector store documents
     vectorstore_documents = list_vector_store_documents()
@@ -702,7 +844,35 @@ with document_qa_tab:
 # TAB 5: PLAN COMPARISON TOOL
 # ------------------------------------------------------------------------------
 with plan_comparison_tab:
-    st.header("Plan Comparison Tool")
+    st.markdown("""
+    # Comparative Policy Analysis
+
+    This tool supports the side-by-side comparison of climate action and adaptation plans. By enabling users to ask structured natural language questions across a **focus plan** and one or more **comparison plans**, it provides insight into differences in strategy, scope, priorities, and language.
+
+    Users can:
+    - **Select or upload a focus plan** for detailed analysis
+    - **Compare it against other selected or uploaded plans**
+    - **Ask targeted comparison questions** to surface similarities and divergences
+
+    Two analysis modes are available:
+    - **Standard (OpenAI):** Uses Retrieval-Augmented Generation (RAG) to ground responses in the most relevant sections of each plan
+    - **Long-Context (Anthropic):** Uses a long-context model to ingest full plan summaries without retrieval, enabling holistic, document-wide comparison
+
+    This tool is well-suited for:
+    - Benchmarking policy approaches across jurisdictions
+    - Evaluating alignment with regional or national goals
+    - Identifying gaps or innovations in specific plans
+
+    #### How to Use:
+    1. Enter your **OpenAI API key** (and **Anthropic key**, if using long-context mode)
+    2. Select or upload a **focus plan**
+    3. Select or upload one or more **comparison plans**
+    4. Enter a comparison question (e.g., *“How do these cities address social vulnerability?”*)
+    5. Select an analysis method and click **Compare**
+
+    The system will generate a structured comparative response using the selected documents.
+    """)
+
 
     # Get list of existing vector store documents for plans
     vectorstore_documents = list_vector_store_documents()
@@ -759,10 +929,7 @@ with plan_comparison_tab:
         ]
     
     st.markdown("### Model")
-    st.markdown(
-        "The **Standard (OpenAI)** model uses GPT-4o with RAG to answer questions. "
-        "The **Long Context Model (Anthropic)** uses Claude for answering questions without RAG."
-    )
+    
     search_method = st.radio("Select an approach: ", ["Standard (OpenAI)", "Long Context Model (Anthropic)"])
 
     input_text = st.text_input("Ask a comparison question:", key="comparison_input")
@@ -806,15 +973,52 @@ with plan_comparison_tab:
 # TAB 6: PLAN INSIGHTS
 # ------------------------------------------------------------------------------
 with plan_insights_tab:
-    st.header("Plan Insights")
+    st.markdown("""
+    # Dataset Overview & Insights
+
+    This table presents structured insights extracted from individual Climate Action and Adaptation Plans included in the corpus. Each row represents a unique plan, with columns corresponding to answers generated in response to a standardized set of analytical questions.
+
+    The dataset provides a high-level view of how different cities and counties address climate risks, adaptation strategies, mitigation efforts, and resilience planning. It enables researchers, planners, and policymakers to explore trends, compare responses, and identify areas of innovation or inconsistency across jurisdictions.
+
+    #### Features:
+    - Each row is linked to a single plan (city, state, year, and plan type)
+    - Columns include AI-generated answers to predefined thematic questions
+    - Filter, sort, and search to explore patterns across plans
+
+    This view supports rapid exploration of the corpus and can serve as a foundation for deeper analysis using the querying, comparison, or mapping tools in this platform.
+    """)
+
     try:
-        # Load the CSV file without headers
+        # Load the CSV file
         df_plans = pd.read_csv("climate_action_plans_dataset.csv")
-        # Assign the desired column names
         df_plans.columns = [
             "City Name", "State Name", "Year", "Plan Type", 
             "Top Threats Identified", "Adaptation Measures", "Mitigation Measures", "Resilience Measures"
         ]
+
+        # Prevent "2025" from being displayed as "2,025"
+        df_plans["Year"] = df_plans["Year"].astype(str)
+
         st.dataframe(df_plans)
     except Exception as e:
         st.error(f"Error loading CSV: {e}")
+
+st.markdown("""
+<hr style="margin-top: 4rem; margin-bottom: 1rem;">
+
+<div style='font-size: 0.85rem; color: var(--text-color);'>
+
+**Disclaimer**
+              
+This platform uses artificial intelligence (AI) to support the exploration and analysis of local climate action and adaptation plans. While the system can surface useful insights, responses may occasionally be incomplete or inaccurate. Users are encouraged to verify outputs independently, particularly when using this tool for planning, decision-making, or academic research.  
+
+Please **do not share any personal, proprietary, sensitive, or protected information** when interacting with this tool. Queries and uploaded content are processed by third-party AI services (such as OpenAI), and may be stored or used to improve their models. This tool is intended solely for public, non-confidential climate policy documents. 
+
+The underlying corpus does not represent a complete set of climate action plans in the United States. Some localities with existing plans may not be included. This tool is intended for exploratory purposes and should not be interpreted as providing legal or scientific advice.
+
+**Acknowledgments**  
+This project was developed as a collaboration between **Professor J.B. Ruhl's lab** and the **Vanderbilt Data Science Institute (DSI)**.  
+We also acknowledge valuable contributions from **Ethan Thorpe** and **Mariah Caballero**.  
+Development was led by **Umang Chaudhry**, *Senior Data Scientist at the DSI*, with support from student collaborators **Harmony Wang**, **Isabella Urquia**, and **Xuanxuan Chen**.  
+</div>
+""", unsafe_allow_html=True)
