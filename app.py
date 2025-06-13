@@ -441,6 +441,7 @@ with maps_tab:
             if st_data_county.get("last_active_drawing"):
                 props = st_data_county["last_active_drawing"].get("properties", {})
                 county_name = props.get("NAME", "N/A")
+                epa_region = props.get("EPA_REGION", "N/A")
                 population = props.get("POP_TT", "N/A")
                 fips = props.get("FIPS_TT", "N/A")
                 n_caps = props.get("n_caps", 0)
@@ -450,6 +451,7 @@ with maps_tab:
                 st.write("**County:**", county_name)
                 st.write("**Population:**", population)
                 st.write("**FIPS:**", fips)
+                st.write("**EPA Region:**", epa_region)
                 st.write("**Number of Climate Action Plans:**", f"{int(n_caps):,}")
                 
                 with st.expander("Cities with Climate Action Plans:"):
@@ -588,7 +590,7 @@ with maps_tab:
                 if st.button("Submit County Query", key="county_submit"):
                     if openai_api_key and user_question:
                         # Call the new maps_qa function for counties
-                        result = maps_qa(openai_api_key, user_question, extra_context, plan_list, state_abbr)
+                        result = maps_qa(openai_api_key, user_question, extra_context, plan_list, state_abbr, epa_region)
                         st.write(result)
                     else:
                         st.error("Please provide both an API key and a question.")
