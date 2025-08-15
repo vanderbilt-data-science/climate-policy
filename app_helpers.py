@@ -406,7 +406,7 @@ def document_qa(api_key, focus_input, user_input):
     return response["answer"]
 
 
-def comparison_qa_long_context(api_key, anthropic_api_key, input_text, focus_plan_path, selected_summaries, display_placeholder):
+def comparison_qa_long_context(api_key, anthropic_api_key, input_text, focus_input, comparison_inputs, display_placeholder):
     """
     Compare plans using a long-context language model (e.g., Anthropic Claude).
 
@@ -414,42 +414,89 @@ def comparison_qa_long_context(api_key, anthropic_api_key, input_text, focus_pla
         api_key (str): OpenAI API key.
         anthropic_api_key (str): Anthropic API key.
         input_text (str): The comparison question to ask.
-        focus_plan_path: Path to the focus plan (PDF file or file path).
-        selected_summaries (list): List of selected summary filenames.
+        focus_input: Focus document (uploaded PDF or vector store path).
+        comparison_inputs: List of comparison documents (uploaded PDFs or vector store paths).
         display_placeholder: Streamlit placeholder for displaying results.
     """
     os.environ["OPENAI_API_KEY"] = api_key
     os.environ["ANTHROPIC_API_KEY"] = anthropic_api_key
 
     # Load focus document from PDF or file path
-    if isinstance(focus_plan_path, st.runtime.uploaded_file_manager.UploadedFile):
-        focus_docs = load_documents_from_pdf(focus_plan_path)
-    elif isinstance(focus_plan_path, str):
-        loader = PyPDFLoader(focus_plan_path)
-        focus_docs = loader.load()
+    if isinstance(focus_input, st.runtime.uploaded_file_manager.UploadedFile):
+        focus_docs = load_documents_from_pdf(focus_input)
+        focus_context = "\n\n".join([doc.page_content for doc in focus_docs])
+    elif isinstance(focus_input, str) and os.path.isdir(focus_input):
+        # Extract plan name from vector store path and find corresponding PDF
+        plan_name = os.path.basename(focus_input).replace("_vectorstore", "")
+        # Remove "_Summary" suffix if present to get the base plan name
+        if plan_name.endswith("_Summary"):
+            plan_name = plan_name[:-8]  # Remove "_Summary"
+        
+        pdf_path = os.path.join("CAPS", f"{plan_name}.pdf")
+        if os.path.exists(pdf_path):
+            loader = PyPDFLoader(pdf_path)
+            focus_docs = loader.load()
+            focus_context = "\n\n".join([doc.page_content for doc in focus_docs])
+        else:
+            # Fallback to summary file if PDF not found
+            summary_path = os.path.join("CAPS_Summaries", f"{plan_name}_Summary.md")
+            if os.path.exists(summary_path):
+                with open(summary_path, 'r') as file:
+                    focus_context = file.read()
+            else:
+                raise FileNotFoundError(f"Neither PDF nor summary found for plan: {plan_name}")
     else:
-        raise ValueError("Invalid focus plan input type. Must be an uploaded file or a file path.")
+        raise ValueError("Invalid focus input type. Must be an uploaded file or a path to a vector store.")
 
-    # Concatenate summaries from selected summary files
-    summaries_directory = "CAPS_Summaries"
-    summaries_content = ""
-    for filename in selected_summaries:
-        summary_filename = f"{filename.replace(' Summary', '_Summary')}.md"
-        with open(os.path.join(summaries_directory, summary_filename), 'r') as file:
-            summaries_content += file.read() + "\n\n"
+    # Load comparison documents
+    comparison_contexts = []
+    for comparison_input in comparison_inputs:
+        if isinstance(comparison_input, st.runtime.uploaded_file_manager.UploadedFile):
+            comparison_docs = load_documents_from_pdf(comparison_input)
+            comparison_context = "\n\n".join([doc.page_content for doc in comparison_docs])
+            comparison_contexts.append(comparison_context)
+        elif isinstance(comparison_input, str) and os.path.isdir(comparison_input):
+            # Extract plan name from vector store path and find corresponding PDF
+            plan_name = os.path.basename(comparison_input).replace("_vectorstore", "")
+            # Remove "_Summary" suffix if present to get the base plan name
+            if plan_name.endswith("_Summary"):
+                plan_name = plan_name[:-8]  # Remove "_Summary"
+            
+            pdf_path = os.path.join("CAPS", f"{plan_name}.pdf")
+            if os.path.exists(pdf_path):
+                loader = PyPDFLoader(pdf_path)
+                comparison_docs = loader.load()
+                comparison_context = "\n\n".join([doc.page_content for doc in comparison_docs])
+                comparison_contexts.append(comparison_context)
+            else:
+                # Fallback to summary file if PDF not found
+                summary_path = os.path.join("CAPS_Summaries", f"{plan_name}_Summary.md")
+                if os.path.exists(summary_path):
+                    with open(summary_path, 'r') as file:
+                        comparison_context = file.read()
+                    comparison_contexts.append(comparison_context)
+                else:
+                    st.warning(f"Neither PDF nor summary found for comparison plan: {plan_name}")
+        else:
+            raise ValueError("Invalid comparison input type. Must be an uploaded file or a path to a vector store.")
 
-    # Prepare focus context from the loaded documents
-    focus_context = "\n\n".join([doc.page_content for doc in focus_docs])
+    # Combine all comparison contexts
+    all_comparison_content = "\n\n---\n\n".join(comparison_contexts)
 
     # Create Anthropic client and send the prompt for comparison
     client = anthropic.Anthropic(api_key=anthropic_api_key)
-    response = client.completions.create(
-        model="claude-2",
-        max_tokens_to_sample=1024,
-        prompt=f"{input_text}\n\nFocus Document:\n{focus_context}\n\nSummaries:\n{summaries_content}"
+    response = client.messages.create(
+        model="claude-sonnet-4-20250514",
+        max_tokens=1024,
+        messages=[
+            {
+                "role": "user", 
+                "content": f"{input_text}\n\nFocus Document:\n{focus_context}\n\nComparison Documents:\n{all_comparison_content}"
+            }
+        ]
     )
 
-    answer = response.completion
+    answer = response.content[0].text
     display_placeholder.markdown(f"**Answer:**\n{answer}", unsafe_allow_html=True)
 
 

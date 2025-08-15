@@ -959,7 +959,7 @@ with plan_comparison_tab:
                             display_placeholder3
                         )
                     elif search_method == "Long Context Model (Anthropic)":
-                        # For long-context, pass the focus plan and comparison inputs as selected summaries
+                        # For long-context, pass the focus plan and comparison inputs directly
                         comparison_qa_long_context(
                             openai_api_key,
                             anthropic_api_key,
